@@ -19,6 +19,9 @@ jobs:
       - name: Install dependencies
         run: yarn
       - name: Pull from Notion
+        env: 
+           SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
+           SIL_BLOOM_DOCS_NOTION_ROOT_PAGE: ${{ secrets.SIL_BLOOM_DOCS_NOTION_ROOT_PAGE }}           
         run: yarn notion-pull
       - name: Build Docusaurus instance
         run: yarn build
