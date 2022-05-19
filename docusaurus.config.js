@@ -17,8 +17,6 @@ const config = {
   organizationName: "BloomBooks",
   projectName: "bloom-docs",
 
-  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
-
   presets: [
     [
       "classic",
@@ -53,7 +51,20 @@ const config = {
       },
     },
   },
-
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // language: ["en", "fr"],
+        indexBlog: false,
+        indexPages: false,
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
