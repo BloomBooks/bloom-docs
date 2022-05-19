@@ -17,6 +17,8 @@ const config = {
   organizationName: "BloomBooks",
   projectName: "bloom-docs",
 
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+
   presets: [
     [
       "classic",

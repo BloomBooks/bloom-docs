@@ -15,6 +15,7 @@
     "notion-pull": "cross-var npx notion-pull -n $SIL_BLOOM_DOCS_NOTION_TOKEN -r $SIL_BLOOM_DOCS_NOTION_ROOT_PAGE -m \"./docs\" -i \"./static/notion_imgs\" -p /notion_imgs/"
   },
   "dependencies": {
+    "@cmfcmf/docusaurus-search-local": "^0.10.0",
     "@docusaurus/core": "2.0.0-beta.20",
     "@docusaurus/preset-classic": "2.0.0-beta.20",
     "@mdx-js/react": "^1.6.22",
