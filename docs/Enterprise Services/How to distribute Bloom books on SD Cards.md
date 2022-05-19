@@ -1,5 +1,6 @@
 ---
 title: How to distribute Bloom books on SD Cards
+sidebar_position: 7
 ---
 
 
