@@ -62,6 +62,7 @@ const config = {
         // language: ["en", "fr"],
         indexBlog: false,
         indexPages: false,
+        docsRouteBasePath: "/",
       },
     ],
   ],
