@@ -31,8 +31,8 @@ jobs:
       #   run: yarn notion-pull
       # - name: Build Docusaurus instance
       #   run: yarn build
-      - uses: shallwefootball/s3-upload-action@master
-        name: Upload S3
+      #- uses: shallwefootball/s3-upload-action@master
+      - name: Upload S3
         # id: S3
         # with:
         #   aws_key_id: ${{ secrets.AWS_KEY_ID }}
