@@ -2,7 +2,7 @@
 title: HTML5 Widgets
 sidebar_position: 2
 slug: html5-widgets
-keywords: HTML5, widgets, activities, games
+keywords: [HTML5, widgets, activities, games]
 ---
 
 
