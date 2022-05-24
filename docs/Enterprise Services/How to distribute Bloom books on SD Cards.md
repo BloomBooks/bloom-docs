@@ -11,8 +11,6 @@ When **Bloom Reader** starts, it automatically looks for an SD card and certain 
 
 If it finds .[bloomshelf](https://docs.google.com/document/u/0/d/1UUvwxJ32W2X5CRgq-TS-1HmPj7gCKH9Y9bxZKbmpdAI/edit) files, Bloom Reader also organizes the books according to those _shelves_.
 
-![](/notion_imgs/703508124.png)
-
 # **Instructions**
 
 - **Gather your bloomPUBs**
