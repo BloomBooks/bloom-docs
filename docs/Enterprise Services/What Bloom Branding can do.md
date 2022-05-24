@@ -1,5 +1,7 @@
 ---
 title: What Bloom Branding can do
+sidebar_position: 3
+slug: e487c121-d0d2-4abd-9dd1-3dfb4b46391c
 ---
 
 
