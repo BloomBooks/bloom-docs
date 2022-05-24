@@ -1,13 +1,9 @@
 ---
 title: Measuring Your Reach with Bloom Analytics
-sidebar_position: 1
+sidebar_position: 3
 slug: measuring-your-reach-with-bloom-analytics
 ---
 
-
-See also: [Collecting Bloom Reader Analytics by Device](https://docs.google.com/document/d/16AP6YtriX1l-AakCTirJLbwbQH8hBi3W3PQaluTE_1o/)
-
-See also: [Bloom Reader Distribution Tags](https://docs.google.com/document/d/1Hm7apUH1KV3I_GCCOVkh-aiCtq5O_1ILcne074r_w-g)
 
 > In a “customer interview”, Richard said
 
