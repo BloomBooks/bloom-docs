@@ -36,7 +36,7 @@ jobs:
       - name: Build Docusaurus instance
         run: yarn build
       - name: Upload S3
-        run: aws s3 sync ./build  s3://${{ secrets.AWS_BUCKET }} --delete --exclude "*/index.html"
+        run: aws s3 sync ./build  s3://${{ secrets.AWS_BUCKET }} --delete --exclude "sil-corporate-guidelines/index.html" --exclude "bloomPUB-bundles/index.html" --exclude "bloom-reader-distribution-tags/index.html" --exclude "bloom-reader-shelves/index.html" --exclude "team-collections-sharing-services/index.html" --exclude "team-collections/index.html" --exclude "widgets/index.html"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
