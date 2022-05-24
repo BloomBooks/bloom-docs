@@ -1,7 +1,7 @@
 ---
 title: Intro
 sidebar_position: 7
-slug: 0983493d-b0b1-4be5-9d85-162cd1273dba
+slug: /
 ---
 
 
