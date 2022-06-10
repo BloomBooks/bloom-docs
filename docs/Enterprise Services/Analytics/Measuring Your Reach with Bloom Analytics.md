@@ -1,8 +1,9 @@
 ---
 title: Measuring Your Reach with Bloom Analytics
-sidebar_position: 3
+sidebar_position: 5
 slug: measuring-your-reach-with-bloom-analytics
 ---
+
 
 
 > In a “customer interview”, Richard said

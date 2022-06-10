@@ -1,8 +1,9 @@
 ---
 title: How to distribute Bloom books on SD Cards
-sidebar_position: 8
+sidebar_position: 10
 slug: how-to-distribute-bloom-books-on-sd-cards
 ---
+
 
 
 Distributing SD cards _pre-loaded_ with bloomPUBs is a fast and convenient way for an organisation to grant users access to an _entire library_ of Bloom books to a desired target audience _off-line_. And since **Bloom Reader** does not permit the deletion of books loaded on SD cards, these books are safeguarded from accidental deletion from _within_ the app. (They can, of course, be deleted through other means.)
@@ -83,10 +84,18 @@ If you wish, and you have enough space, you can place the same collection in all
 
 ## **Support for older Bloom Reader versions**
 
-**Bloom Reader** will also notice the existence of the older system using a \BloomExternal folder at the root of the SD card.
+**Bloom Reader** will also notice the existence of the older system using a \BloomExternal folder at the root of the SD card, if it does not find \Android\data\org.sil.bloom.reader\files\Books.
 
-N.B. : you can use _either_ the \BloomExternal folder, _or_ the private Books folder, not both at the same time.
+N.B. : you can use _either_ the \BloomExternal folder, _or_ the private Books folder, not both at the same time. (Both can be present, as explained below, to support both old and new versions of BloomReader, but the newer versions will ignore \BloomExternal if they find the private Books folder, expecting it to be a duplicate.)
 
 This is more complicated and is _not_ recommended. The following are technical notes for those who need to know:
 
-If Bloom Reader finds a \BloomExternal folder and does not find the private books folder described above, it will show a button the user can click, which will show instructions and guide the user through the process of giving BloomReader permission to access the folder. Once this permission is granted, books in \BloomExternal work just like those in the private books folder.If you have a need to support both newer (3.0+) and older (pre-3.0) versions of Bloom Reader, you can place the same collection of books in both places. However, we don’t expect this to be necessary for long, since devices will typically upgrade automatically to the latest version. It does mean, though, that SD cards made for older versions of Bloom will go on working, albeit less conveniently.
+If Bloom Reader finds a \BloomExternal folder and does not find the private books folder described above, it will show a button the user can click, which will show instructions and guide the user through the process of giving BloomReader permission to access the folder. Once this permission is granted, books in \BloomExternal work just like those in the private books folder (except it will be somewhat slower, especially for larger books). If you have a need to support both newer (3.0+) and older (pre-3.0) versions of Bloom Reader, you can place the same collection of books in both places. However, we don’t expect this to be necessary for long, since devices will typically upgrade automatically to the latest version. It does mean, though, that SD cards made for older versions of Bloom will go on working, albeit less conveniently.
+
+So, you can
+
+- Make SD cards with just books in \Android\data\org.sil.bloom.reader\files\Books. They will be ideal for current BloomReader
+
+- Keep using or making SD cards with just books in \BloomExternal. They will work with all versions of BloomReader, but will be slower with newer versions and require the user to give special permission
+
+- Make SD cards with the same books in both \Android\data\org.sil.bloom.reader\files\Books and \BloomExternal. They will work well with both new and old versions of BloomReader. 

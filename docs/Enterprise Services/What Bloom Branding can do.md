@@ -1,8 +1,9 @@
 ---
 title: What Bloom Branding can do
-sidebar_position: 5
+sidebar_position: 7
 slug: what-bloom-branding-can-do
 ---
+
 
 
 A branding pack can fill various slots that are already in a Front/Back Matter pack. It can fill them with an html (text / graphics).

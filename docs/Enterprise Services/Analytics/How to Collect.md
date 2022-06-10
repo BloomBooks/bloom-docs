@@ -1,8 +1,9 @@
 ---
 title: How to Collect
-sidebar_position: 4
+sidebar_position: 6
 slug: how-to-collect
 ---
+
 
 
 When a project owns and distributes hardware to use with Bloom Reader, it is possible to get analytics that are specific to each device. To make this work:
