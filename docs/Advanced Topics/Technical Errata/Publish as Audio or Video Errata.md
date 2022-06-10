@@ -1,7 +1,7 @@
 ---
-title: Publish as Audio/Video Errata
+title: Publish as Audio or Video Errata
 sidebar_position: 1
-slug: publish-as-audio%2Fvideo-errata
+slug: publish-as-audio-or-video-errata
 ---
 
 
