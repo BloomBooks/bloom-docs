@@ -10,7 +10,7 @@ slug: bloom-5.3-beta-release-notes
 
 You can now turn your book into a video that can be shared on Facebook or YouTube. You can also make a version that will work on inexpensive “feature phones” or mp3 players. Here is the original [Feature Request](https://community.software.sil.org/t/produce-a-video-of-the-story-being-read-postable-on-youtube-facebook-etc/2267).
 
-![](/notion_imgs/251655960.png)
+![](/notion_imgs/828771189.png)
 
 ## Text Color
 
@@ -22,7 +22,7 @@ To highlight a word or some characters, you can now select some text and set its
 
 We’ve re-worked the copyright / license dialog in order to help you better understand your choices.
 
-![](/notion_imgs/634189371.png)
+![](/notion_imgs/1609889616.png)
 
 ![](/notion_imgs/650834425.png)
 
@@ -36,7 +36,7 @@ When you’re just making paper or PDF copies of your book, you can use whatever
 
 # Team Collection: Single Book History
 
-(TODO insert image)
+![](/notion_imgs/237292769.png)
 
 # Startup Time
 
