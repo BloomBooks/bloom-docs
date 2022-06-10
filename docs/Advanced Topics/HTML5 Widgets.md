@@ -7,9 +7,7 @@ keywords: [HTML5, widgets, activities, games]
 
 
 
-Bloom  pages can embed little custom HTML5 activities called “widgets”. When published as a bloompub, these widgets will work on the web, Bloom Reader, and RAB Apps. You can see examples of widgets in <iframe width="100%" height="500px" allow="fullscreen"    allowFullScreen={true}
-      src="https://embed.bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://bloomlibrary.org/activities/books-with-widgets_url_encoded&initiallyShowAppBar=false&allowToggleAppBar=false"
-  ></iframe> in the Bloom Library.
+Bloom  pages can embed little custom HTML5 activities called “widgets”. When published as a bloompub, these widgets will work on the web, Bloom Reader, and RAB Apps. You can see examples of widgets in [these interactive books](https://bloomlibrary.org/activities/books-with-widgets) in the Bloom Library.
 
 Many of these widgets already exist on the web, because they work with Apple's IBooks and other software. You can also make your own using programs like [Active Presenter](https://atomisystems.com/activepresenter/). Most widgets don’t have any custom programming, but if software like Active Presenter is not sufficient for what you need, you can hire a web developer to do something even more advanced.
 

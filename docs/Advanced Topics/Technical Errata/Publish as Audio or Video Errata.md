@@ -25,8 +25,6 @@ But if you select a portion of the book, _and_ if there is a SL video on the s
 
 [https://issues.bloomlibrary.org/youtrack/issue/BL-11249](https://issues.bloomlibrary.org/youtrack/issue/BL-11249)
 
-Some SL videos contain dubbed audio narration, e.g. <iframe width="100%" height="500px" allow="fullscreen"    allowFullScreen={true}
-      src="https://embed.bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://bloomlibrary.org/sign-language/book/XkmlHhNZ7T_url_encoded&initiallyShowAppBar=false&allowToggleAppBar=false"
-  ></iframe>
+Some SL videos contain dubbed audio narration, e.g. [this book](https://bloomlibrary.org/sign-language/book/XkmlHhNZ7T).
 
 When recording such books in Publish to Video, the audio is lost.
