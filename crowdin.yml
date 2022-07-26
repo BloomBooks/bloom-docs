@@ -1,5 +1,5 @@
 project_id: '515854'
-api_token_env: SIL-BLOOM-DOCS_CROWDIN_PERSONAL_TOKEN
+api_token_env: SIL_BLOOM_DOCS_CROWDIN_TOKEN
 preserve_hierarchy: true
 files:
   # JSON translation files
