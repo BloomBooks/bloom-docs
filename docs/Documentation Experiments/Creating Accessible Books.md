@@ -48,7 +48,7 @@ The Image Description Tool will now appear indicating that you now have access t
 
 <div class='notion-column'>
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0e335bd-e45d-4a20-a684-eb6578cd7d0e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220726%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220726T222307Z&X-Amz-Expires=3600&X-Amz-Signature=c376b1982f34b852cb252ae2b4a4dba77d448502eb2ed863771d583ced1789bc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0e335bd-e45d-4a20-a684-eb6578cd7d0e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220726%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220726T234924Z&X-Amz-Expires=3600&X-Amz-Signature=461cef80fd811912fa48b920e78b85d3327e8b5e7d51350ebc21e0b2d2055688&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 

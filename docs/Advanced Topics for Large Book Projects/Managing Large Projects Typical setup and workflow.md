@@ -1,7 +1,7 @@
 ---
 title: Managing Large Projects&#58; Typical setup and workflow
 sidebar_position: 5
-slug: managing-large-projects%3A-typical-setup-and-workflow
+slug: managing-large-projects-typical-setup-and-workflow
 ---
 
 
