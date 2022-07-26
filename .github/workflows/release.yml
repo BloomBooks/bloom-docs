@@ -28,7 +28,7 @@ jobs:
         env: 
            SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
            SIL_BLOOM_DOCS_NOTION_ROOT_PAGE: ${{ secrets.SIL_BLOOM_DOCS_NOTION_ROOT_PAGE }}           
-        run: yarn pull-from-notion
+        run: yarn pull
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

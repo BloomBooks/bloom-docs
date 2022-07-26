@@ -7324,9 +7324,9 @@ normalize-url@^6.0.1:
   integrity sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A==
 
 notion-pull-mdx@*:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/notion-pull-mdx/-/notion-pull-mdx-0.3.0.tgz#ca94e5c37dda27e7e5a7fc522312ff59978d11c9"
-  integrity sha512-7tQw/yLiomSu3tDulCT4ZGGOCKu/MZ81gDvwP/dvQEhGUS+6NrQPIVqXRWFfgOgiOWmgNHP+Y1Lyhpl1tTtfSw==
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/notion-pull-mdx/-/notion-pull-mdx-0.3.1.tgz#46e08c1479b6247c82275973f50638b80858b54f"
+  integrity sha512-meUkXcvyNKw6oVknuZZNOw8PLFSL5T2KEw1WV30rZ+2Ca3YYJwyiHJszyGpxf1h0StHoM/E8kOejG5Q4eBf70g==
   dependencies:
     "@notionhq/client" "^1.0.4"
     chalk "^4.1.2"
