@@ -4,6 +4,9 @@
 # Production
 /build
 
+# Localizations from Crowdin
+/i18n
+
 # Generated files
 .docusaurus
 .cache-loader
