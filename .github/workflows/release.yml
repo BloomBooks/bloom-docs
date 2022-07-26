@@ -28,11 +28,11 @@ jobs:
         env: 
            SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
            SIL_BLOOM_DOCS_NOTION_ROOT_PAGE: ${{ secrets.SIL_BLOOM_DOCS_NOTION_ROOT_PAGE }}           
-        run: yarn notion-pull
+        run: yarn pull-from-notion
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Apply changes from notion-pull
+          commit_message: GHAction - Commit content changes pulled from notion
       - name: Build Docusaurus instance
         run: yarn build
       - name: Upload S3
