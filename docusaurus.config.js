@@ -11,7 +11,7 @@ const config = {
   tagline: "Let's grow a library",
   url: "https://docs.bloomlibrary.com",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "BloomBooks",

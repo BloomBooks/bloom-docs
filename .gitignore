@@ -7,6 +7,9 @@
 # Localizations from Crowdin
 /i18n
 
+# we get these by running `pull:test`
+/testdocs
+
 # Generated files
 .docusaurus
 .cache-loader
