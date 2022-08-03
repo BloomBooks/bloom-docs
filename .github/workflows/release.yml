@@ -33,6 +33,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: GHAction - Commit content changes pulled from notion
+      - name: Crowding
+        run:  yarn crowdin:sync
       - name: Build Docusaurus instance
         run: yarn build
       - name: Upload S3
