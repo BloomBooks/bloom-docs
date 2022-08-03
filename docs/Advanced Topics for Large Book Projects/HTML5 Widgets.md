@@ -25,13 +25,13 @@ Bloom requires that the widget be a zipped set of files ending in ".wdgt". The f
 To add a widget, Click “Add Page” and then select one of the template pages. These have an image of a puzzle piece:
 
 
-![](/notion_imgs/407199131.png)
+![](./407199131.png)
 
 
 Then click on the button in the corner of the widget:
 
 
-![](/notion_imgs/431553782.png)
+![](./431553782.png)
 
 
 In the file chooser dialog, you can either choose a .wdgt file, an .htm file, or an .html file. A “.wdgt” file is just a zip file containing all the files of the widget. If you instead choose an HTML file, Bloom will gather up and import all of the files in that same folder.
@@ -43,7 +43,7 @@ In the file chooser dialog, you can either choose a .wdgt file, an .htm file, or
 Normally, when Bloom Player shows a widget, it also shows page navigation buttons:
 
 
-![](/notion_imgs/346919601.png)
+![](./346919601.png)
 
 
 If you want to hide these navigation buttons, follow these steps:
@@ -55,7 +55,7 @@ If you want to hide these navigation buttons, follow these steps:
 In Bloom (version 5.1 or later)  when you choose “Add Page”, you should see a “Captive Widget” page:
 
 
-![](/notion_imgs/729849789.png)
+![](./729849789.png)
 
 
 Bloom Player will not give the user any way to navigate away from this page except by leaving the book entirely. It will be up to your widget to tell Bloom Player when you want the user to leave this page and go forward or backward in the book.

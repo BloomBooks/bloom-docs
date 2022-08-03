@@ -1,14 +1,14 @@
 ---
-title: Managing Large Projects&#58; Typical setup and workflow
+title: Managing Large Projects&#58; new books and adaptations
 sidebar_position: 5
-slug: managing-large-projects-typical-setup-and-workflow
+slug: managing-large-projects-new-books-and-adaptations
 ---
 
 
 
-Throughout the years, a number of organizations have used Bloom to produce a large number of books. Most commonly, these organizations employ the following simple workflow:
+Throughout the years, a number of organizations have used Bloom to make a set of self-authored books and oversee the translation of these books into other languages. Most commonly, these organizations employ the following simple workflow:
 
-- _New_ books are authored in a particular chosen majority language such as English, French, Russian, Hindi etc.. This “SOURCE” collection of _original_ books constitutes a type of “parent” collection.
+- _New_ books are authored in a particular chosen majority language such as English, French, Russian, Hindi, etc. This “SOURCE” collection of _original_ books constitutes a type of “parent” collection.
 - The books in the parent collection are translated into a variety of other local languages in various “daughter” collections.
 
 Chetana, for example, is an avid user of Bloom and they chose to write their original titles in English, and the various translations they have published (currently in 9 other languages) are _derived from_ that collection of original editions. 
@@ -17,7 +17,7 @@ Chetana, for example, is an avid user of Bloom and they chose to write their ori
 Here is a sampling of [Chetana’s home page ](https://bloomlibrary.org/chetana)on Bloom:
 
 
-![](/notion_imgs/1271721441.png)
+![](./1271721441.png)
 
 
 In the following, we will present the steps for setting up the Bloom Collections for the Chetana project.
@@ -29,13 +29,13 @@ In the following, we will present the steps for setting up the Bloom Collections
 The project leader and administrator will first set up the parent collection. This collection of original titles — your organization’s “original editions” — should be set up as Bloom “Source Collection”:
 
 
-![](/notion_imgs/1469300749.png)
+![](./1469300749.png)
 
 
 All of the other Bloom Collections — the “daughter” collections — should be set up as “Local Language Collections”.
 
 
-![](/notion_imgs/693532564.png)
+![](./693532564.png)
 
 
 After setting up your Bloom collections, your workflow will differ depending on whether or not you have reliable internet; it will also depend on whether your organization holds a Bloom Enterprise Subscription. 
@@ -47,7 +47,7 @@ Since Chetana has good internet and has an Enterprise subscription, we’ll begi
 # Workflow 1: Organizations with reliable Internet _and_ an Enterprise subscription
 
 
-Organizations with reliable internet will want to take advantage of Bloom’s powerful collaborative tool: Team Collections. 
+Organizations with reliable internet and an Enterprise subscription will want to take advantage of Bloom’s powerful collaborative tool: Team Collections. 
 
 
 Team Collections enables multiple people to collaborate together on Bloom books in a convenient, disciplined and safe way using Dropbox’s cloud services. In a Team Collection, team members can “sign out” books. When they do so, they indicate to the rest of the team that they are working on the book, and while the book is signed out, other team members are prevented from accidentally editing that book, thus erasing their work. In this way, the Team Collection system allows books to be edited in a safe and disciplined way.
@@ -62,7 +62,7 @@ After creating all of the Team Collections, the administrator will share the res
 For the daughter collections — say the Hindi collection — there will be translators skilled in English to Hindi translation, as well as Hindi reviewers or proof-checkers, and perhaps others.
 
 
-![](/notion_imgs/29814677.png)
+![](./29814677.png)
 
 
 As soon as a new original title has been added to your parent/source collection, and this title has been _thoroughly_ reviewed and checked and double-checked and triple-checked… it is ready to be translated into other languages! 
@@ -74,7 +74,7 @@ So, open up any of your daughter collections. Now, because your main parent coll
 (1) Choose and book, and then click on (2) MAKE A BOOK USING THIS SOURCE:
 
 
-![](/notion_imgs/2012128549.png)
+![](./2012128549.png)
 
 
 Doing this will create a **Bloom-approved** copy of the original book and add it to the daughter collection. 
@@ -91,7 +91,7 @@ Warning: If you use Windows file explorer to create a copy of a Bloom book, that
 At this point, the book will be “checked out” to the administrator. Typically, the administrator might then immediately check the book _back in_ so that the translation team can begin its translation.
 
 
-![](/notion_imgs/775949931.png)
+![](./775949931.png)
 
 
 The new book will be uploaded to the cloud using the Dropbox service, and then downloaded/synced to the computer of other team members. 
@@ -100,19 +100,19 @@ The new book will be uploaded to the cloud using the Dropbox service, and then d
 Once the synchronization is completed, the team members will be noticed that there are updates available. After restarting Bloom, the book will become available for editing:
 
 
-![](/notion_imgs/2115815511.png)
+![](./2115815511.png)
 
 
 The newly added book to the Tamil collection is now available for editing and can be Checked Out. Using the original English text as a guide (1), the translator can type in the Tamil translation (2) into the book.
 
 
-![](/notion_imgs/1872549399.png)
+![](./1872549399.png)
 
 
 After the translation is complete, the translator can add their change comments, and check the book back in. 
 
 
-![](/notion_imgs/2078882203.png)
+![](./2078882203.png)
 
 
 The above is the _typical_ workflow for organizations with reliable internet and an Enterprise subscription. 
@@ -133,20 +133,23 @@ Once a collection of original titles are ready to be translated, Bloom does offe
 Click the arrow beside your collection name:
 
 
-![](/notion_imgs/1662008181.png)
+![](./1662008181.png)
 
 
 And then choose “Make Bloom Pack of Shell Books…”
 
 
-![](/notion_imgs/1575640529.png)
+![](./1575640529.png)
 
 
 Distribute the .BloomPack file to your colleagues to copy to their computer. They should then click on that file. Bloom will then install that Source collection on their computer.
 
 
-![](/notion_imgs/877570578.png)
+![](./877570578.png)
 
 
-Once installed, that collection will appear in the Source For New Shells section, and they can being the translation process.
+Once installed, that collection will appear in the Source For New Shells section, and they can begin the translation process.
+
+
+??
 

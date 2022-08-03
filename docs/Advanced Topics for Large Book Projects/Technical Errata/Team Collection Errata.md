@@ -1,6 +1,6 @@
 ---
 title: Team Collection Errata
-sidebar_position: 2
+sidebar_position: 3
 slug: team-collection-errata
 ---
 
@@ -32,7 +32,7 @@ Only one person can have a book checked out at once. When you try to check out a
 If you have a book selected when a change comes in from a teammate, Bloom will incorrectly say that you made a change:
 
 
-![](/notion_imgs/94431216.png)
+![](./94431216.png)
 
 
 Issue: [https://issues.bloomlibrary.org/youtrack/issue/BL-11307](https://issues.bloomlibrary.org/youtrack/issue/BL-11307)

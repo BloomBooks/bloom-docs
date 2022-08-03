@@ -31,7 +31,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 - Decide on a project ID and device IDs for each device.
 - Create a file called deviceId.json.{ project: 'projectID' , device: 'deviceID' } 2. Example: \ { project: 'RISE2' , device: 'STUDENT NORTH FLY 001' }
 
-	```plain text
+	```text
 	1. The file content must be  \
 	
 	```

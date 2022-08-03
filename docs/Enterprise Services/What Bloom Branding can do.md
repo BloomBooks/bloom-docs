@@ -43,13 +43,13 @@ Here’s are some examples:
 # Cover Page
 
 
-![](/notion_imgs/1391013552.png)
+![](./1391013552.png)
 
 
 # Title Page
 
 
-![](/notion_imgs/1388812775.png)
+![](./1388812775.png)
 
 
 # Credits Page Top
@@ -60,7 +60,7 @@ Here’s are some examples:
 </div>
 
 
-![](/notion_imgs/1685747876.png)
+![](./1685747876.png)
 
 
 Credit Page default license & license notes
@@ -74,19 +74,19 @@ Credit Page default license & license notes
 (from Suluh-INOVASI)
 
 
-![](/notion_imgs/1126047446.png)
+![](./1126047446.png)
 
 
 (from GRN-REACH)
 
 
-![](/notion_imgs/796665851.png)
+![](./796665851.png)
 
 
 # Credits Page Bottom
 
 
-![](/notion_imgs/1221891027.png)
+![](./1221891027.png)
 
 
 # Back Cover Top
@@ -95,17 +95,17 @@ Credit Page default license & license notes
 # 
 
 
-![](/notion_imgs/841236590.png)
+![](./841236590.png)
 
 
 # Back Cover Bottom
 
 
-![](/notion_imgs/1092284197.png)
+![](./1092284197.png)
 
 
 (Suluh-INOVAS)I
 
 
-![](/notion_imgs/1498537535.png)
+![](./1498537535.png)
 

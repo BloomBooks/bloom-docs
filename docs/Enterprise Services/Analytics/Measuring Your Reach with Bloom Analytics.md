@@ -15,7 +15,7 @@ slug: measuring-your-reach-with-bloom-analytics
 Summary
 
 
-![](/notion_imgs/112076373.png)
+![](./112076373.png)
 
 
 Events that we measure
@@ -226,11 +226,11 @@ If the user is not connected to the internet, Bloom Reader will cache their even
 To prompt Bloom Reader to send all of its events _right now_, open the menu:
 
 
-![](/notion_imgs/672205938.png)
+![](./672205938.png)
 
 
 At the bottom of this screen, you will see Bloom Reader’s progress in sending the events:
 
 
-![](/notion_imgs/736622608.png)
+![](./736622608.png)
 

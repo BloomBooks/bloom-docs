@@ -1,6 +1,6 @@
 ---
 title: Overview of the Bloom Platform for Large Book Projects
-sidebar_position: 3
+sidebar_position: 4
 slug: overview-of-the-bloom-platform-for-large-book-projects
 ---
 
@@ -18,7 +18,7 @@ The Bloom Platform is an integrated approach to book-making which provides a rob
 ## Bloom Editor
 
 
-![](/notion_imgs/749601441.png)
+![](./749601441.png)
 
 
 [Bloom Editor](https://bloomlibrary.org/page/create/downloads) is a software program for authoring, translating, and publishing books and sharing those books with your community through Bloom Library. Bloom Editor runs on the Windows and Linux operating systems. 
@@ -49,7 +49,7 @@ Uploaded books are displayed using a “book card”. The book card shows a thum
 - First paragraphs
 - Longer paragraphs
 
-![](/notion_imgs/55130788.png)
+![](./55130788.png)
 
 
 Special book features and the list of languages represented in the book are also indicated on the book card.

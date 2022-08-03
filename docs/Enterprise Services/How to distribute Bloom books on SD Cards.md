@@ -1,6 +1,6 @@
 ---
 title: How to distribute Bloom books on SD Cards
-sidebar_position: 16
+sidebar_position: 15
 slug: how-to-distribute-bloom-books-on-sd-cards
 ---
 
@@ -31,13 +31,13 @@ The main sources for Bloom books will come from either Bloom Library, or from th
 From [Bloom Library](https://bloomlibrary.org/read), click on the book you desire and look for the Download section and click on the BloomPUB icon. For example:
 
 
-![](/notion_imgs/452718725.png)
+![](./452718725.png)
 
 
 Or, from the Bloom Editor, you can make a BloomPUB file of any book in your collection by choosing the Publishing tab, selecting the Bloom Reader button, selecting Save Bloom Reader File, then the Save… button:
 
 
-![](/notion_imgs/1079617681.png)
+![](./1079617681.png)
 
 - **Create the folder on your SD card**
 
