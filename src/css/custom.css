@@ -82,3 +82,13 @@
     display: none;
   }
 }
+
+@media print {
+  a {
+    text-decoration: underline;
+    color: unset;
+  }
+  h1 {
+    page-break-before: always;
+  }
+}

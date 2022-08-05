@@ -105,6 +105,12 @@ const config = {
 
         items: [
           {
+            type: "doc",
+            label: "PDF Downloads",
+            position: "right",
+            docId: "downloads",
+          },
+          {
             type: "localeDropdown",
             position: "right",
           },
