@@ -5,12 +5,15 @@
 
 today=$(date +"%Y-%m-%d")
 
-npx mr-pdf --initialDocURLs="https://docs.bloomlibrary.org/" \
---contentSelector="article" \
---paginationSelector="a.pagination-nav__link--next" \
---excludeSelectors=".theme-doc-breadcrumbs,a.theme-edit-this-page" \
---coverTitle="Bloom Docs" \
---coverSub="Created from docs.bloomlibrary.org on ${today}" \
---pdfFormat="A4" \
---outputPDFFilename="static/downloads/docs-bloomlibrary-english-a4.pdf"
+npx docu-pdf https://docs.bloomlibrary.org \
+--coverTitle "Bloom Docs" \
+--coverSub "Created from docs.bloomlibrary.org on ${today}" \
+--pageSize "A4" \
+--outputPath "static/downloads/docs-bloomlibrary-english-a4.pdf" \
+
+# npx docu-pdf https://docs.bloomlibrary.org/fr \
+# --coverTitle "Docs Bloom" \
+# --coverSub="Créé à partir de docs.bloomlibrary.org le ${today}" \
+# --pageSize "A4" \
+# --outputPath "static/downloads/docs-bloomlibrary-french-a4.pdf" \
 
