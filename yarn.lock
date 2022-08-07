@@ -5598,7 +5598,7 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-docu-pdf@1:
+docu-pdf@^1.0.0-alpha.3:
   version "1.0.0-alpha.3"
   resolved "https://registry.yarnpkg.com/docu-pdf/-/docu-pdf-1.0.0-alpha.3.tgz#5d4380bca9e7638df1b28fb9cd8e1e1423552157"
   integrity sha512-6umcyRZ5ilqqV61thjWD100g6TucSE+SiHfE5m0ydIAaUupT5nTUmeWwHEHIvSzR585Xgb4RcB2Z21IyPrCFHA==
