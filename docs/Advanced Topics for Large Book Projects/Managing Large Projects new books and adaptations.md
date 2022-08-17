@@ -23,7 +23,7 @@ Here is a sampling of [Chetana’s home page ](https://bloomlibrary.org/chetana)
 In the following, we will present the steps for setting up the Bloom Collections for the Chetana project.
 
 
-# Setting Up your “parent” collection
+## Setting Up your “parent” collection
 
 
 The project leader and administrator will first set up the parent collection. This collection of original titles — your organization’s “original editions” — should be set up as Bloom “Source Collection”:
@@ -44,7 +44,7 @@ After setting up your Bloom collections, your workflow will differ depending on 
 Since Chetana has good internet and has an Enterprise subscription, we’ll begin with that scenario.
 
 
-# Workflow 1: Organizations with reliable Internet _and_ an Enterprise subscription
+## Workflow 1: Organizations with reliable Internet _and_ an Enterprise subscription
 
 
 Organizations with reliable internet and an Enterprise subscription will want to take advantage of Bloom’s powerful collaborative tool: Team Collections. 
@@ -121,7 +121,7 @@ The above is the _typical_ workflow for organizations with reliable internet and
 Additional guidance would be needed if your books are going to be subdivided according to reading level.
 
 
-# Workflow 2: Organizations with unreliable internet, or organizations with no Enterprise status
+## Workflow 2: Organizations with unreliable internet, or organizations with no Enterprise status
 
 
 If the internet is not reliable for your team, then Bloom’s Team Collections will not be a viable option. In this case, the project coordinator will need to carefully manage by various other means (USB keys, external hard drives, zip files, etc.) the creation, checking, revision, and publishing of new book titles.

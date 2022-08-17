@@ -96,7 +96,7 @@ If you need a new Style for a text box, Bloom provides a simple way to create on
 ![](./409758586.gif)
 
 
-# Accurate Language Tagging
+## Accurate Language Tagging
 
 
 :::tip
@@ -155,7 +155,7 @@ To achieve this specialized layout like the above, you will (1) slide the Change
 ![](./2092903332.png)
 
 
-# Image Credits
+## Image Credits
 
 
 Please ensure that you have accurately filled out the copyright and licensing information for all images in your book.  
