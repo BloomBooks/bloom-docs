@@ -6,6 +6,9 @@ slug: creating-accessible-books
 
 
 
+![](./1760295598.png)
+
+
 # Creating Accessible Books in Bloom
 
 
@@ -38,7 +41,7 @@ The toolbar will open. If the Image Description Tool is not listed at the top, c
 Then activate the **Image Description Tool** by clicking in the check box.
 
 ![fr https://i.imgur.com/tTYHC9C.png
-es https://i.imgur.com/n4NlCLz.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a16d2c31-cdfa-4826-ad44-130479591996/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204032Z&X-Amz-Expires=3600&X-Amz-Signature=347393899610c2dc115b2e9c3d5fe5d5a772cd5d549213140b528bbc36e5c17e&X-Amz-SignedHeaders=host&x-id=GetObject)
+es https://i.imgur.com/n4NlCLz.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a16d2c31-cdfa-4826-ad44-130479591996/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204739Z&X-Amz-Expires=3600&X-Amz-Signature=762d407d433e446e8401d568e0b0c88c026fd125b279bb8a96ce7b0e29392c67&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 
@@ -53,7 +56,7 @@ es https://i.imgur.com/n4NlCLz.png](https://s3.us-west-2.amazonaws.com/secure.no
 <div class='notion-column'>
 
 ![fr https://i.imgur.com/UU43qX3.png
-es https://i.imgur.com/eW17AR9.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4b04bb0d-3bf8-4b1a-a65d-0bd79d901929/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204032Z&X-Amz-Expires=3600&X-Amz-Signature=8d5c40a8d3122bbe62bcd474ee1a05835b738ae8b40b84c51d4d1a0051369ded&X-Amz-SignedHeaders=host&x-id=GetObject)
+es https://i.imgur.com/eW17AR9.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4b04bb0d-3bf8-4b1a-a65d-0bd79d901929/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204739Z&X-Amz-Expires=3600&X-Amz-Signature=553d2ad8ef47c25d3290405c39d00c3c4e846223b0b4fc2c48beefbd699f5c60&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 </div>
 </div>
@@ -105,7 +108,7 @@ Some Bloom users like to record themselves using other audio equipment than the 
 <div class='notion-column'>
 
 ![fr https://i.imgur.com/rJn7yO2.png
-es ttps://i.imgur.com/fGQYIBi.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c39e6c57-0033-4d0b-bb31-042f8b4d27ab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204032Z&X-Amz-Expires=3600&X-Amz-Signature=24ffd086493ae24c40032f12785395009bc65fe67e2bf82055eb5442ec683721&X-Amz-SignedHeaders=host&x-id=GetObject)
+es ttps://i.imgur.com/fGQYIBi.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c39e6c57-0033-4d0b-bb31-042f8b4d27ab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204739Z&X-Amz-Expires=3600&X-Amz-Signature=d09a8fe64292ab65ceab1b0de31f71d44a4ee2baeaba6175eac83623b0d21b96&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 </div>
 </div>
@@ -134,7 +137,7 @@ When you are ready to record, click on and hold down the **Speak** button and st
 <div class='notion-column'>
 
 ![fr https://i.imgur.com/qbbMB9y.png
-es https://i.imgur.com/xp9RUcC.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ce3a6bc-fbd4-41db-8369-9e1ea3027505/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204033Z&X-Amz-Expires=3600&X-Amz-Signature=e4a7413068d15da3b15bcbf055c76b0a20c7fca18c6fbd8ca4e48585ee39a2ca&X-Amz-SignedHeaders=host&x-id=GetObject)
+es https://i.imgur.com/xp9RUcC.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ce3a6bc-fbd4-41db-8369-9e1ea3027505/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204739Z&X-Amz-Expires=3600&X-Amz-Signature=206d101eb0bf57f45703d150605a8cb54ade8ab221a9b0c9c27f53ac24526d8f&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 </div>
 </div>
@@ -159,7 +162,7 @@ Bloom does not have a tool for editing images. If an image needs to be edited, y
 <div class='notion-column'>
 
 ![fr https://i.imgur.com/nzMq2fC.png
-es https://i.imgur.com/zBiVbrQ.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0f2b8a4d-e040-40dc-aa49-ceb9651b8454/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204033Z&X-Amz-Expires=3600&X-Amz-Signature=e70ab43260f0b52b60539707b4796d75d3b517d6155f66a47b346e8977eb11cd&X-Amz-SignedHeaders=host&x-id=GetObject)
+es https://i.imgur.com/zBiVbrQ.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0f2b8a4d-e040-40dc-aa49-ceb9651b8454/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220817T204739Z&X-Amz-Expires=3600&X-Amz-Signature=197044bb1114966ed4cff9976917aef4a9327424b5ecbb667e64f83dfc8ce504&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 </div>
 </div>
