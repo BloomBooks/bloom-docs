@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Bloom Docs",
+    "description": "The title in the navbar"
+  },
+  "item.label.PDF Downloads": {
+    "message": "PDF Downloads",
+    "description": "Navbar item with label PDF Downloads"
+  }
+}
