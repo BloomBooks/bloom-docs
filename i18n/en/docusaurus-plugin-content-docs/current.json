@@ -26,5 +26,9 @@
   "sidebar.defaultSidebar.category.Release-Notes": {
     "message": "Release-Notes",
     "description": "The label for category Release-Notes in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Intermediate-Topics": {
+    "message": "Intermediate-Topics",
+    "description": "The label for category Intermediate-Topics in sidebar defaultSidebar"
   }
 }
