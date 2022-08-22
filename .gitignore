@@ -4,9 +4,6 @@
 # Production
 /build
 
-# Localizations from Crowdin
-/i18n
-
 # we get these by running `pull:test`
 /testdocs
 
