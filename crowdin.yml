@@ -1,23 +1,21 @@
-project_id: '515854'
+project_id: "515854"
 api_token_env: SIL_BLOOM_DOCS_CROWDIN_TOKEN
 preserve_hierarchy: true
-files:
-  # JSON site files
-  # - source: /i18n/en/**/*
-  #   translation: /i18n/%two_letters_code%/**/%original_file_name%
-  #   ignore:
-  #     - "/**/*.png"
-  #     - "/**/*.jpg"
-  #     - "/**/*.gif"
-  # Docs files
-  - source: /docs/**/*.*
-    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
-    # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
-    ignore:
-      - "/**/*.png"
-      - "/**/*.jpg"
-      - "/**/*.gif"
-
-
-
-  
+files: [
+    # JSON site files
+    # - source: /i18n/en/**/*
+    #   translation: /i18n/%two_letters_code%/**/%original_file_name%
+    #   ignore:
+    #     - "/**/*.png"
+    #     - "/**/*.jpg"
+    #     - "/**/*.gif"
+    # Docs files
+    {
+      "source": /docs/**/*.*,
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%,
+      # doesn't skip untranslated parts of our MD files like we would expect: "skip_untranslated_strings": true,
+      "skip_untranslated_files": true,
+      # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
+      "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif"],
+    },
+  ]
