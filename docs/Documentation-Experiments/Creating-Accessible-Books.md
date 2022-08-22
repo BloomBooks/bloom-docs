@@ -99,7 +99,9 @@ Some Bloom users like to record themselves using other audio equipment than the 
 
 <div class='notion-column'>
 
-![es ttps://i.imgur.com/fGQYIBi.png](./1701967193.png)
+![](./1701967193.png)
+
+
 
 </div>
 </div>
