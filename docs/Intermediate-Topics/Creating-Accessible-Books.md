@@ -1,6 +1,6 @@
 ---
 title: Creating Accessible Books
-sidebar_position: 16
+sidebar_position: 2
 slug: Creating-Accessible-Books
 ---
 

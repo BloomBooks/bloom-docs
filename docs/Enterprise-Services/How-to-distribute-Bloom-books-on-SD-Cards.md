@@ -1,6 +1,6 @@
 ---
 title: How to distribute Bloom books on SD Cards
-sidebar_position: 15
+sidebar_position: 16
 slug: How-to-distribute-Bloom-books-on-SD-Cards
 ---
 

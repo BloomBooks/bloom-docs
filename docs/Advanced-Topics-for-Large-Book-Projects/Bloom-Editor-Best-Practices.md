@@ -1,6 +1,6 @@
 ---
 title: Bloom Editor Best Practices
-sidebar_position: 7
+sidebar_position: 8
 slug: Bloom-Editor-Best-Practices
 ---
 

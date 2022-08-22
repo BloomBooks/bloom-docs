@@ -1,6 +1,6 @@
 ---
 title: Team Collection Errata
-sidebar_position: 3
+sidebar_position: 4
 slug: Team-Collection-Errata
 ---
 
