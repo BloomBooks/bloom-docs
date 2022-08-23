@@ -9,13 +9,13 @@ slug: Creating-Accessible-Books
 ![](./1760295598.png)
 
 
-# Creating Accessible Books in Bloom
+## Creating Accessible Books in Bloom
 
 
 Accessible books are electronic books that have features to make their content more readily accessible or available to people with visual disabilities. Such features include audio recording of the text, descriptions of images, and text size that can be changed by the person reading the book. Bloom can help you create books with these features and that meet technical accessibility standards.
 
 
-# What to expect in this module
+## What to expect in this module
 
 
 In this training module, you will learn how to:
@@ -28,7 +28,7 @@ In this training module, you will learn how to:
 ---
 
 
-# Activating the Image Description Tool
+## Activating the Image Description Tool
 
 
 <div class='notion-row'>
@@ -54,7 +54,7 @@ Then activate the **Image Description Tool** by clicking in the check box.
 </div>
 
 
-# Create Image Descriptions
+## Create Image Descriptions
 
 
 Now that the Image Description Tool is open, a space will be created next to the image for adding a text description. You may now type in the text which describes the image. If you are not familiar with how to write image descriptions, you may want to visit:
@@ -67,7 +67,7 @@ Now that the Image Description Tool is open, a space will be created next to the
 Once you are satisfied with the image description, you can close the Image Description Tool by clicking on the X above the Image Description Tool window. 
 
 
-# Recording Audio of Text and Image Descriptions
+## Recording Audio of Text and Image Descriptions
 
 
 _Learning to Use Bloom_ tells how to record audio of the text in a book. Those instructions start on page 149. The process is the same for recording the audio of image description text. To make a book accessible, you need to record all of the text as well as all of the image descriptions. Here we will show you how to record the image descriptions.
@@ -83,7 +83,7 @@ If needed, use the Next and Back button to change from one text box to another. 
 ---
 
 
-# Recording by Sentence or by Text Box
+## Recording by Sentence or by Text Box
 
 
 <div class='notion-row'>
@@ -107,7 +107,7 @@ Some Bloom users like to record themselves using other audio equipment than the 
 </div>
 
 
-# Recording Image Descriptions by Text Box
+## Recording Image Descriptions by Text Box
 
 
 :::tip
@@ -138,7 +138,7 @@ When you are ready to record, click on and hold down the **Speak** button and st
 When you are finished reading, release the **Speak** button and Bloom will stop recording. Now, click the Check button to review your recording. 
 
 
-# Activating the Impairment Visualizer
+## Activating the Impairment Visualizer
 
 
 <div class='notion-row'>
@@ -162,7 +162,7 @@ Bloom does not have a tool for editing images. If an image needs to be edited, y
 ![](./2083622234.png)
 
 
-# Using the Image Visualizer
+## Using the Image Visualizer
 
 
 The first choice shows what the image might look like to someone with cataracts.
@@ -189,7 +189,7 @@ The third option shows what the image might look like to someone with complete c
 ![](./1799625050.png)
 
 
-# General considerations for choosing images
+## General considerations for choosing images
 
 
 Choosing images that are appropriate for readers with low vision is a complex subject, but we can consider some general principles.
@@ -205,7 +205,7 @@ Choosing images that are appropriate for readers with low vision is a complex su
 Now we will compare some images to provide some examples of these principles.
 
 
-# Considerations for choosing images: Amount of detail
+## Considerations for choosing images: Amount of detail
 
 
 Here are some examples of images with more detail compared with images with less detail. All of these images are from the Art of Reading. It will be better to use the images with less detail.
@@ -223,7 +223,7 @@ Additional examples of images with less detail on the left and more detail on th
 ![](./367766188.png)
 
 
-# Considerations for choosing images: Thick black lines
+## Considerations for choosing images: Thick black lines
 
 
 These images from the Art of Reading illustrate images that have thick, solid black lines compared to images with thinner, less distinct lines. It will be better to use images with thick, solid lines.
@@ -239,7 +239,7 @@ Additional images with thicker, solid lines on the left and thinner, less distin
 ![](./418679652.png)
 
 
-# Considerations for choosing images: Color and photos
+## Considerations for choosing images: Color and photos
 
 
 We all like photos and color illustrations, but they are visually more complex. Below you can compare line drawings to a photo or a color illustration or a simpler color illustration to a more complex one. It will generally be better to use simpler images.
@@ -257,7 +257,7 @@ Additional images that are simpler on the left and more complex on the right:
 ![](./2115603098.png)
 
 
-# Summary
+## Summary
 
 
 In this training module, you learned how to:
