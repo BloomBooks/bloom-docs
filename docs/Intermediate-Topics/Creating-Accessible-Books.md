@@ -38,9 +38,20 @@ In order to access the Image Description Tool, click on the menu icon at the top
 
 The toolbar will open. If the Image Description Tool is not listed at the top, click on the “More…” button at the bottom of the toolbar. 
 
-Then activate the **Image Description Tool** by clicking in the check box.
+</div>
 
-![](./1869683335.png)
+<div class='notion-column'>
+
+![](./2039978613.png)
+
+</div>
+</div>
+
+
+<div class='notion-row'>
+<div class='notion-column'>
+
+Then activate the **Image Description Tool** by clicking in the check box.
 
 
 
@@ -48,7 +59,7 @@ Then activate the **Image Description Tool** by clicking in the check box.
 
 <div class='notion-column'>
 
-![](./2039978613.png)
+![](./1869683335.png)
 
 </div>
 </div>
@@ -91,20 +102,20 @@ If needed, use the Next and Back button to change from one text box to another. 
 
 Bloom allows you to record one sentence at a time, or to record the whole text box at one time. Some speakers find that recording the entire text box all at once will give a better recording. Others find it better to record one sentence at a time. 
 
-You can experiment with both approaches to determine which is best for your needs.
-
-Some Bloom users like to record themselves using other audio equipment than the microphone in their computer. They then transfer these audio files to their computer and Import them into Bloom. This imported audio must correspond to an entire text box. 
-
 </div>
 
 <div class='notion-column'>
 
 ![](./1701967193.png)
 
-
-
 </div>
 </div>
+
+
+You can experiment with both approaches to determine which is best for your needs.
+
+
+Some Bloom users like to record themselves using other audio equipment than the microphone in their computer. They then transfer these audio files to their computer and Import them into Bloom. This imported audio must correspond to an entire text box. 
 
 
 ## Recording Image Descriptions by Text Box
