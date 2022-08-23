@@ -32,6 +32,13 @@
 .markdown img {
   box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2),
     0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+
+  /* this is to deal with a problem that box-shadow isn't in included in the element sizing and so shows up 
+    at the bottom of the previous page when a page starts with an image.*/
+  margin-top: 5px;
+
+  /* If we eventually drop the shadow, the problem still happens, and then this is fixes it
+     border-top: solid white thin; */
 }
 
 /* some things copied from https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934 */
@@ -84,11 +91,22 @@
 }
 
 @media print {
+  nav {
+    display: none;
+  }
   a {
     text-decoration: underline;
     color: unset;
   }
+  hr {
+    page-break-before: always;
+    /* display: none; page break doesn't work if display is none*/
+    visibility: hidden;
+  }
   h1 {
     page-break-before: always;
+  }
+  h1:first-child {
+    page-break-before: unset;
   }
 }
