@@ -38,9 +38,20 @@ Pour accéder à l'outil de description de l'image, cliquez sur l'icône du menu
 
 La barre d'outils s'ouvrira. Si l’outil de description de l’image n’est pas listé en haut, cliquez sur le bouton « Plus…» en bas de la barre d’outils. 
 
-Ensuite, activez le **Outil de Description de l'Image** en cliquant dans la case à cocher.
+</div>
 
-![](./1869683335.png)
+<div class='notion-column'>
+
+![](./2039978613.png)
+
+</div>
+</div>
+
+
+<div class='notion-row'>
+<div class='notion-column'>
+
+Ensuite, activez le **Outil de Description de l'Image** en cliquant dans la case à cocher.
 
 
 
@@ -48,7 +59,7 @@ Ensuite, activez le **Outil de Description de l'Image** en cliquant dans la case
 
 <div class='notion-column'>
 
-![](./2039978613.png)
+![](./1869683335.png)
 
 </div>
 </div>
@@ -88,20 +99,20 @@ Si nécessaire, utilisez le bouton Suivant et Retour pour passer d'une zone de t
 
 Bloom vous permet d'enregistrer une phrase à la fois ou d'enregistrer l'ensemble de la zone de texte à la fois. Certains interlocuteurs trouvent que l'enregistrement entier de la zone de texte tout à la fois donnera un meilleur enregistrement. Pour d'autres, il vaut mieux enregistrer une phrase à la fois. 
 
-Vous pouvez expérimenter les deux approches pour déterminer lequel est le mieux adapté à vos besoins.
-
-Certains utilisateurs de Bloom aiment s'enregistrer à l'aide d'autres équipements audio que le microphone de leur ordinateur. Ils transfèrent ensuite ces fichiers audio sur leur ordinateur et les importent dans Bloom. Cet audio importé doit correspondre à une zone de texte entière. 
-
 </div>
 
 <div class='notion-column'>
 
 ![](./1701967193.png)
 
-
-
 </div>
 </div>
+
+Vous pouvez expérimenter les deux approches pour déterminer lequel est le mieux adapté à vos besoins.
+
+
+Certains utilisateurs de Bloom aiment s'enregistrer à l'aide d'autres équipements audio que le microphone de leur ordinateur. Ils transfèrent ensuite ces fichiers audio sur leur ordinateur et les importent dans Bloom. Cet audio importé doit correspondre à une zone de texte entière.
+
 
 ## Enregistrement des descriptions des images par zone de texte
 
