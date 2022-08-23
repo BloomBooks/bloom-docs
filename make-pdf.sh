@@ -6,10 +6,10 @@
 today=$(date +"%Y-%m-%d")
 
 npx docu-pdf https://docs.bloomlibrary.org \
---coverTitle "Bloom Docs" \
---coverSub "Created from docs.bloomlibrary.org on ${today}" \
+--coverPath "./pdf-cover.htm" \
 --pageSize "A4" \
 --outputPath "static/downloads/docs-bloomlibrary-english-a4.pdf" \
+--tocLevel 1
 
 # npx docu-pdf https://docs.bloomlibrary.org/fr \
 # --coverTitle "Docs Bloom" \
