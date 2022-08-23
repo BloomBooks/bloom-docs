@@ -9,13 +9,13 @@ slug: Création-de-livres-accessibles
 ![](./1760295598.png)
 
 
-# Création de livres accessibles
+## Création de livres accessibles
 
 
 Les livres accessibles sont des livres électroniques qui ont des caractéristiques pour rendre leur contenu plus facilement aux personnes ayant une déficience visuelle. Ces caractéristiques comprennent l'enregistrement audio du texte, la description des images et la taille du texte qui peuvent être modifiées par la personne qui lit le livre. Bloom peut vous aider à créer des livres avec ces fonctionnalités et qui répondent aux normes techniques d'accessibilité.
 
 
-# À quoi s'attendre dans ce module
+## À quoi s'attendre dans ce module
 
 
 Dans ce tutoriel, vous apprendrez comment :
@@ -28,7 +28,7 @@ Dans ce tutoriel, vous apprendrez comment :
 ---
 
 
-# Activation de l'outil de description de l'image
+## Activation de l'outil de description de l'image
 
 
 <div class='notion-row'>
@@ -53,7 +53,7 @@ Ensuite, activez le **Outil de Description de l'Image** en cliquant dans la case
 </div>
 </div>
 
-# Créer des descriptions d'image
+## Créer des descriptions d'image
 
 
 Maintenant que l'outil de description de l'image est ouvert, un espace sera ouvert à côté de l'image pour ajouter une description de texte. Vous pouvez maintenant taper le texte qui décrit l'image. Si vous n'êtes pas familier avec la façon d'écrire des descriptions d'image, vous pouvez visiter : [poet.diagramcenter.org](http://poet.diagramcenter.org/).
@@ -65,7 +65,7 @@ Maintenant que l'outil de description de l'image est ouvert, un espace sera ouve
 Une fois que vous êtes satisfait de la description de l'image, vous pouvez fermer l'outil de description d'image en cliquant sur X au-dessus de la fenêtre de l'outil de description d'images.
 
 
-# Enregistrement audio des descriptions de texte et d'image
+## Enregistrement audio des descriptions de texte et d'image
 
 
 _Apprendre à utiliser Bloom_ indique comment enregistrer le texte dans un livre. Ces instructions commencent à la page 149. Le processus est le même pour l'enregistrement de l'audio du texte de description de l'image. Pour rendre un livre accessible, vous devez enregistrer tout le texte ainsi que toutes les descriptions d'image. Ici, nous allons vous montrer comment enregistrer les descriptions d'image. Commencez par basculer l'outil actif de l'outil de description d'image vers l'outil de livre parlant.
@@ -80,7 +80,7 @@ Si nécessaire, utilisez le bouton Suivant et Retour pour passer d'une zone de t
 ---
 
 
-# Enregistrement par phrase ou par zone de texte
+## Enregistrement par phrase ou par zone de texte
 
 
 <div class='notion-row'>
@@ -103,7 +103,7 @@ Certains utilisateurs de Bloom aiment s'enregistrer à l'aide d'autres équipeme
 </div>
 </div>
 
-# Enregistrement des descriptions des images par zone de texte
+## Enregistrement des descriptions des images par zone de texte
 
 
 :::tip
@@ -133,7 +133,7 @@ Lorsque vous êtes prêt à enregistrer, cliquez et maintenez enfoncé le bouton
 Lorsque vous avez fini de lire, relâchez le bouton **Parlez** et Bloom arrêtera l'enregistrement. Maintenant, cliquez sur le bouton Vérifier pour vérifier votre enregistrement.
 
 
-# Activation du Visualiseur selon Affaiblissement
+## Activation du Visualiseur selon Affaiblissement
 
 
 <div class='notion-row'>
@@ -156,7 +156,7 @@ Bloom n'a pas d'outil pour éditer des images. Si une image doit être modifiée
 ![](./2083622234.png)
 
 
-# Activation du Visualiseur selon Affaiblissement
+## Activation du Visualiseur selon Affaiblissement
 
 
 Le premier choix montre à quoi ressemble l'image à quelqu'un avec des cataractes.
@@ -183,7 +183,7 @@ La troisième option montre à quoi peut ressembler l'image à quelqu'un qui a u
 ![](./1799625050.png)
 
 
-# Considérations générales pour le choix des images
+## Considérations générales pour le choix des images
 
 
 Choisir des images qui sont appropriées pour les lecteurs à faible vision est un sujet complexe, mais nous pouvons considérer certains principes généraux.
@@ -199,7 +199,7 @@ Choisir des images qui sont appropriées pour les lecteurs à faible vision est 
 Maintenant, nous allons comparer certaines images pour fournir quelques exemples de ces principes.
 
 
-# Considérations pour le choix des images : Quantité de détails
+## Considérations pour le choix des images : Quantité de détails
 
 
 Voici quelques exemples d'images avec plus de détails par rapport aux images moins détaillées. Toutes les ces images proviennent de "Art of Reading". Il vaudrait mieux utiliser les images avec moins de détails.
@@ -217,7 +217,7 @@ Exemples supplémentaires d'images avec moins de détails à gauche et plus de d
 ![](./367766188.png)
 
 
-# Considérations pour le choix des images : Épaisses lignes noires
+## Considérations pour le choix des images : Épaisses lignes noires
 
 
 Ces images de "Art of Reading" illustrent des images qui ont des lignes noires épaisses et solides comparées aux images avec des lignes plus fines et moins distinctes. Il vaudrait mieux utiliser des images avec des lignes épaisses, solides. Images avec des lignes plus épaisses et solides à gauche et plus minces lignes moins distinctes à droite :
@@ -232,7 +232,7 @@ Images supplémentaires avec des lignes plus épaisses et solides à gauche et d
 ![](./418679652.png)
 
 
-# Considérations pour le choix des images : Couleur et photos
+## Considérations pour le choix des images : Couleur et photos
 
 
 Nous aimons tous les photos et les illustrations en couleur, mais elles sont visuellement plus complexes. Ci-dessous vous pouvez comparer les plans de ligne à une photo ou une illustration de couleur ou une illustration de couleur plus simple à une plus complexe. Il est généralement préférable d'utiliser des images plus simples.
@@ -250,7 +250,7 @@ Images supplémentaires plus simples à gauche et plus complexes à droite:
 ![](./2115603098.png)
 
 
-# Résumé
+## Résumé
 
 
 Dans ce module d'entraînement, vous avez appris à :
