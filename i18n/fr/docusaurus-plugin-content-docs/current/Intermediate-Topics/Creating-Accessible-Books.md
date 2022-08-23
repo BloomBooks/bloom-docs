@@ -1,7 +1,7 @@
 ---
 title: Création de livres accessibles
 sidebar_position: 2
-slug: Création-de-livres-accessibles
+slug: Creating-Accessible-Books
 ---
 
 
