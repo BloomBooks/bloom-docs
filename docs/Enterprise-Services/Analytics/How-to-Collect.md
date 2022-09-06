@@ -1,6 +1,6 @@
 ---
 title: How to Collect
-sidebar_position: 13
+sidebar_position: 14
 slug: How-to-Collect
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Publishing Draft Versions of Books
-sidebar_position: 10
+sidebar_position: 11
 slug: Publishing-Draft-Versions-of-Books
 ---
 

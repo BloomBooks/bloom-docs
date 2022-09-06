@@ -1,6 +1,6 @@
 ---
 title: Two Different Approaches to Publishing Books in Multiple Languages
-sidebar_position: 7
+sidebar_position: 8
 slug: Two-Different-Approaches-to-Publishing-Books-in-Multiple-Languages
 ---
 

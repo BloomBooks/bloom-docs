@@ -1,6 +1,6 @@
 ---
 title: Localized Image Test
-sidebar_position: 17
+sidebar_position: 18
 slug: Localized-Image-Test
 ---
 

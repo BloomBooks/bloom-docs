@@ -115,7 +115,7 @@ Bloom allows you to record one sentence at a time, or to record the whole text b
 You can experiment with both approaches to determine which is best for your needs.
 
 
-Some Bloom users like to record themselves using other audio equipment than the microphone in their computer. They then transfer these audio files to their computer and Import them into Bloom. This imported audio must correspond to an entire text box. 
+Some Bloom users like to record themselves using other audio equipment than the microphone in their computer. They then transfer these audio files to their computer and import them into Bloom. This imported audio must correspond to an entire text box. 
 
 
 ## Recording Image Descriptions by Text Box
@@ -155,8 +155,7 @@ When you are finished reading, release the **Speak** button and Bloom will stop 
 <div class='notion-row'>
 <div class='notion-column'>
 
-The Impairment Visualizer is another tool for creating accessible books. Activate this tool by clicking on More... in the Tool Panel and selecting Impairment Visualizer. 
-This tool allows you to select several filters that will show you what the image might look like to someone with several different kinds of visual impairment.
+The Impairment Visualizer is another tool for creating accessible books. This tool allows you to select several filters that will show you what the image might look like to someone with several different kinds of visual impairment. Activate this tool by clicking on More... in the Tool Panel and selecting Impairment Visualizer. 
 Using this tool, you can evaluate whether an image should be modified so that it is easier to interpret for people with these sorts of visual impairments.
 Bloom does not have a tool for editing images. If an image needs to be edited, you will have to use another program to do that.
 

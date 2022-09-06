@@ -1,23 +1,25 @@
 ---
 title: HTML5 Widgets
-sidebar_position: 11
+sidebar_position: 12
 slug: HTML5-Widgets
 keywords: [HTML5, widgets, activities, games]
 ---
 
 
 
-Bloom  pages can embed little custom HTML5 activities called “widgets”. When published as a bloompub, these widgets will work on the web, Bloom Reader, and RAB Apps. You can see examples of widgets in [these interactive books](https://bloomlibrary.org/activities/books-with-widgets) in the Bloom Library.
+Bloom pages can embed little custom HTML5 activities called “widgets”. When published as a bloompub, these widgets will work on the web, Bloom Reader, and RAB Apps. You can see examples of widgets in [these interactive books](https://bloomlibrary.org/activities/books-with-widgets) in the Bloom Library.
 
 
-Many of these widgets already exist on the web, because they work with Apple's IBooks and other software. You can also make your own using programs like [Active Presenter](https://atomisystems.com/activepresenter/). Most widgets don’t have any custom programming, but if software like Active Presenter is not sufficient for what you need, you can hire a web developer to do something even more advanced.
+Many of these widgets already exist on the web, because they work with Apple's iBooks and other software. You can also make your own using programs like [Active Presenter](https://atomisystems.com/activepresenter/). Most widgets don’t have any custom programming, but if software like Active Presenter is not sufficient for what you need, you can hire a web developer to do something even more advanced.
 
 
 # Format
 
 
-Bloom requires that the widget be a zipped set of files ending in ".wdgt". The files must include a file named "index.html".
+Bloom can import any of the following widget formats
 
+- a zipped set of files ending in ".wdgt". which contains a file named "index.html", or, if the .wdgt file is not zipped, you can import the index.html file.
+- the main .html file from a saved Active Presenter output.
 
 # Adding to Bloom
 

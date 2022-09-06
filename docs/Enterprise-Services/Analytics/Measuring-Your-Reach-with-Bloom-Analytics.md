@@ -1,6 +1,6 @@
 ---
 title: Measuring Your Reach with Bloom Analytics
-sidebar_position: 12
+sidebar_position: 13
 slug: Measuring-Your-Reach-with-Bloom-Analytics
 ---
 

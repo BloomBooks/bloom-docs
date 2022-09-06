@@ -1,6 +1,6 @@
 ---
 title: Managing Large Projects&#58; new books and adaptations
-sidebar_position: 6
+sidebar_position: 7
 slug: Managing-Large-Projects-new-books-and-adaptations
 ---
 
@@ -149,7 +149,4 @@ Distribute the .BloomPack file to your colleagues to copy to their computer. The
 
 
 Once installed, that collection will appear in the Source For New Shells section, and they can begin the translation process.
-
-
-??
 
