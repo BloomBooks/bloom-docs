@@ -111,7 +111,7 @@ Bloom vous permet d'enregistrer une phrase à la fois ou d'enregistrer l'ensembl
 Vous pouvez expérimenter les deux approches pour déterminer lequel est le mieux adapté à vos besoins.
 
 
-Certains utilisateurs de Bloom aiment s'enregistrer à l'aide d'autres équipements audio que le microphone de leur ordinateur. Ils transfèrent ensuite ces fichiers audio sur leur ordinateur et les importent dans Bloom. Cet audio importé doit correspondre à une zone de texte entière.
+Certains utilisateurs de Bloom aiment s'enregistrer à l'aide d'autres équipements audio que le microphone de leur ordinateur. On transfère ensuite ces fichiers audio sur son ordinateur et on les importe dans Bloom. Cet audio importé doit correspondre à une zone de texte entière.
 
 
 ## Enregistrement des descriptions des images par zone de texte
@@ -150,8 +150,7 @@ Lorsque vous avez fini de lire, relâchez le bouton **Parlez** et Bloom arrêter
 <div class='notion-row'>
 <div class='notion-column'>
 
-Le Visualiseur selon Affaiblissement est un autre outil pour créer des livres accessibles. Activez cet outil en cliquant sur Plus... dans le Panneau d'outils et en sélectionnant Visualiseur selon Affaiblissement. 
-Cet outil vous permet de sélectionner plusieurs filtres qui vous montreront à quoi ressemble l'image à une personne ayant plusieurs types différents de déficience visuelle.
+Le Visualiseur selon Affaiblissement est un autre outil pour créer des livres accessibles. Cet outil vous permet de sélectionner plusieurs filtres qui vous montreront à quoi ressemble l'image à une personne ayant plusieurs types différents de déficience visuelle. Activez cet outil en cliquant sur Plus... dans le Panneau d'outils et en sélectionnant Visualiseur selon Affaiblissement. 
 Utiliser cet outil, vous pouvez évaluer si une image doit être modifiée de manière à ce qu'il soit plus facile d'interpréter pour les personnes ayant ce genre de déficiences visuelles.
 Bloom n'a pas d'outil pour éditer des images. Si une image doit être modifiée, vous devrez utiliser un autre programme pour faire cela.
 
