@@ -14,22 +14,25 @@ slug: ePUB-errata
 
 ::: 
 
->Starting with Bloom 5.4, you have the option of publishing ePUBs in either **Fixed** **layout** mode or **Flowable** mode.   
+
 
 :::
 
+> Starting with Bloom 5.4, you have the option of publishing ePUBs in either **Fixed** **layout** mode or **Flowable** mode.   
 ::: 
 
->**Fixed Layout** ePUBs work with fully compatible e-readers (ePUB 3 standard) to display the book exactly like it is shown in Bloom. Fixed mode ePUBs are an attractive option for landscape books and it is the only option for Bloom books containing image overlays like speech bubbles and captions. Unfortunately, many e-readers do a very poor job of presenting landscape books. In addition, Fixed mode ePUB do not handle scrolling text boxes, so all you text must fit on the page.  
+
 
 :::
 
+> **Fixed Layout** ePUBs work with fully compatible e-readers (ePUB 3 standard) to display the book exactly like it is shown in Bloom. Fixed mode ePUBs are an attractive option for landscape books and it is the only option for Bloom books containing image overlays like speech bubbles and captions. Unfortunately, many e-readers do a very poor job of presenting landscape books. In addition, Fixed mode ePUB do not handle scrolling text boxes, so all you text must fit on the page.  
 ::: 
 
->**Flowable** ePUBs allow e-readers to lay out images and text however they want. This mode also enables users to adjust the size of the text in the app or user system font settings. 
+
 
 :::
 
+> **Flowable** ePUBs allow e-readers to lay out images and text however they want. This mode also enables users to adjust the size of the text in the app or user system font settings. 
 
 
 :::tip
@@ -51,21 +54,13 @@ In the following two charts, we present some notes on our testing with various r
 
 |                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape Layout | Sign Language | Overlay Bubbles (e.g. comics) |
 | ------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ---------------- | ------------- | ----------------------------- |
-| eKitabu Windows
-version                                                                          | ✓                  | No                             | ✓                          | ✓                | ✓             | ✓                             |
-| eKitabu Android
-v5.4.1                                                                           | No                 | No                             | No                         | (1)              | (1)           | ✓                             |
-| Lis-a
-Android version
-Feb 25, 2022                                                               | ✓                  | ✓                              | ✓                          | (2)              | (2)           | (3)                           |
-| Google Play Books
-Sept 2022                                                                      | No                 | No                             | No                         | No               | No            | No                            |
-| Apple Books
-Sept 2022                                                                            | No                 | No                             | No                         | ✓                | ✓             | (3)                           |
-| Dolphin EasyReader
-(Android version)                                                             | (4)                | (5)                            | No                         | No               | No            | (3)                           |
-| Thorium Reader (Windows)                                                                         | No                 | No
-                            | No                         | ✓                | ✓             | ✓                             |
+| eKitabu Windows<br/>version                                                                      | ✓                  | No                             | ✓                          | ✓                | ✓             | ✓                             |
+| eKitabu Android<br/>v5.4.1                                                                       | No                 | No                             | No                         | (1)              | (1)           | ✓                             |
+| Lis-a<br/>Android version<br/>Feb 25, 2022                                                       | ✓                  | ✓                              | ✓                          | (2)              | (2)           | (3)                           |
+| Google Play Books<br/>Sept 2022                                                                  | No                 | No                             | No                         | No               | No            | No                            |
+| Apple Books<br/>Sept 2022                                                                        | No                 | No                             | No                         | ✓                | ✓             | (3)                           |
+| Dolphin EasyReader<br/>(Android version)                                                         | (4)                | (5)                            | No                         | No               | No            | (3)                           |
+| Thorium Reader (Windows)                                                                         | No                 | No                             | No                         | ✓                | ✓             | ✓                             |
 | [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | No                             | ✓                          | (1)              | (1)           | ✓                             |
 
 - Various app controls (e.g. menu bar, media bar) obscure significant portions of Fixed mode ePUBs, making them unusable.
@@ -77,19 +72,12 @@ Sept 2022                                                                       
 
 |                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape to Portrait Rendering | Sign Language | **Overlay Bubbles (e.g. comics)** |
 | ------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ------------------------------- | ------------- | --------------------------------- |
-| eKitabu Windows
-version                                                                          | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
-| eKitabu Android
-v5.4.1                                                                           | No                 | No                             | No                         | (6)                             | ✓             | N/A                               |
-| Lis-a
-Android version
-Feb 25, 2022                                                               | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
-| Google Play Books
-Sept 2022                                                                      | No                 | No                             | No                         | (7)                             | No            | N/A                               |
-| Apple Books
-Sept 2022                                                                            | No                 | No                             | No                         | (6)                             | ✓             | N/A                               |
-| Dolphin EasyReader
-(Android version)                                                             | (4)                | Unreliable                     | (4)                        | ✓                               | No            | N/A                               |
+| eKitabu Windows<br/>version                                                                      | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
+| eKitabu Android<br/>v5.4.1                                                                       | No                 | No                             | No                         | (6)                             | ✓             | N/A                               |
+| Lis-a<br/>Android version<br/>Feb 25, 2022                                                       | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
+| Google Play Books<br/>Sept 2022                                                                  | No                 | No                             | No                         | (7)                             | No            | N/A                               |
+| Apple Books<br/>Sept 2022                                                                        | No                 | No                             | No                         | (6)                             | ✓             | N/A                               |
+| Dolphin EasyReader<br/>(Android version)                                                         | (4)                | Unreliable                     | (4)                        | ✓                               | No            | N/A                               |
 | Thorium Reader (Windows)                                                                         | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
 | [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
 
