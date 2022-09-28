@@ -43,7 +43,7 @@ Note that for dependable What You See Is What You Get digital Bloom books, we re
 There are many ePUB readers available for Windows, Android, iOS and Linux, but these readers vary in their ability to comply with the ePUB3 standard. As a result, you cannot depend on them to faithfully display the contents of a Bloom book, play sign language videos, or to play audio of Bloom Talking Books.
 
 
-In the follow two charts, we present some notes on our testing with various readers, first for **Fixed** mode ePUBs, and secondly, for **Flowable** mode ePUBs. 
+In the following two charts, we present some notes on our testing with various readers, first for **Fixed** mode ePUBs, and secondly, for **Flowable** mode ePUBs. 
 
 
 ### Performance of various ePUB readers for Bloom <u>Fixed-</u>mode ePUBs
@@ -75,23 +75,23 @@ Sept 2022                                                                       
 ### Performance of various ePUB readers for Bloom <u>Flowable-</u>mode ePUBs
 
 
-|                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape to Portrait Rendering | Sign Language | **Overly Bubbles (e.g. comics)** |
-| ------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ------------------------------- | ------------- | -------------------------------- |
+|                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape to Portrait Rendering | Sign Language | **Overlay Bubbles (e.g. comics)** |
+| ------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ------------------------------- | ------------- | --------------------------------- |
 | eKitabu Windows
-version                                                                          | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                              |
+version                                                                          | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
 | eKitabu Android
-v5.4.1                                                                           | No                 | No                             | No                         | (6)                             | ✓             | N/A                              |
+v5.4.1                                                                           | No                 | No                             | No                         | (6)                             | ✓             | N/A                               |
 | Lis-a
 Android version
-Feb 25, 2022                                                               | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                              |
+Feb 25, 2022                                                               | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
 | Google Play Books
-Sept 2022                                                                      | No                 | No                             | No                         | (7)                             | No            | N/A                              |
+Sept 2022                                                                      | No                 | No                             | No                         | (7)                             | No            | N/A                               |
 | Apple Books
-Sept 2022                                                                            | No                 | No                             | No                         | (6)                             | ✓             | N/A                              |
+Sept 2022                                                                            | No                 | No                             | No                         | (6)                             | ✓             | N/A                               |
 | Dolphin EasyReader
-(Android version)                                                             | (4)                | Unreliable                     | (4)                        | ✓                               | No            | N/A                              |
-| Thorium Reader (Windows)                                                                         | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                              |
-| [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                              |
+(Android version)                                                             | (4)                | Unreliable                     | (4)                        | ✓                               | No            | N/A                               |
+| Thorium Reader (Windows)                                                                         | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
+| [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
 
 - Frequent audio clipping.
 - Text highlighting is erratic and unreliable.
