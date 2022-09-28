@@ -5506,10 +5506,10 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-docu-notion@^0.4.7:
-  version "0.4.7"
-  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.4.7.tgz#ecf4d286f0fd61ccf44418bccadc4242d116f93c"
-  integrity sha512-KpSRXlKIuleJ+y1kCh8+9WiXXtQsC8sBG0JnHAUr6ckIlP8nREuHXpYVrZirsZPTy6EStz6+WCIH2MlXEHPHTg==
+docu-notion@^0.4.8:
+  version "0.4.8"
+  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.4.8.tgz#556b2256305287c11dfabe343250a86252d1cc36"
+  integrity sha512-asc4qsrKby6hVAHXn5LRynEZ0JE35F3an0B21/WmyPgvqMlAao6MlyQejmhckEaBHl7VVP4C2GvlLtikSiGs3w==
   dependencies:
     "@notionhq/client" "^1.0.4"
     chalk "^4.1.2"
