@@ -88,6 +88,7 @@ Warning: If you use Windows file explorer to create a copy of a Bloom book, that
 
 
 
+
 At this point, the book will be “checked out” to the administrator. Typically, the administrator might then immediately check the book _back in_ so that the translation team can begin its translation.
 
 

@@ -35,6 +35,7 @@ Regarding the “tweaking” mentioned above, if your book is not yet ready to s
 
 
 
+
 Legitimate “tweaking” of an already published Bloom book might include things like _adding_ or improving the audio narration, or perhaps adding a forgotten book acknowledgment, or some other minor change.
 
 

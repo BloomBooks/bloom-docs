@@ -64,6 +64,7 @@ Conclusion: Do not use spaces to center text or to indent text.  Instead, use a 
 
 
 
+
 ![](./2022340528.png)
 
 
@@ -90,6 +91,7 @@ Key principle: use character formatting to highlight particular words or phrases
 
 
 
+
 If you need a new Style for a text box, Bloom provides a simple way to create one:
 
 
@@ -104,6 +106,7 @@ If you need a new Style for a text box, Bloom provides a simple way to create on
 Key principle: the actual text typed in any text box needs to accurately correspond with the language tag associated with it.
 
 :::
+
 
 
 

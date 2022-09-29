@@ -8,38 +8,25 @@ slug: ePUB-errata
 
 :::tip
 
-**Fixed vs. Flowable ePUBs**  
+**Fixed vs. Flowable ePUBs**
+
+Starting with Bloom 5.4, you have the option of publishing ePUBs in either **Fixed** **layout** mode or **Flowable** mode. 
+
+**Fixed Layout** ePUBs work with fully compatible e-readers (ePUB 3 standard) to display the book exactly like it is shown in Bloom. Fixed mode ePUB is an attractive option for landscape books and it is the only option for Bloom books containing image overlays like speech bubbles and captions. Unfortunately, many e-readers do a very poor job of presenting landscape books. In addition, Fixed mode ePUBs do not handle scrolling text boxes, so all your text must fit on the page.
+
+**Flowable** ePUBs allow e-readers to lay out images and text however they want. This mode also enables users to adjust the size of the text in the app or user system font settings. 
 
 :::
 
-::: 
 
-
-
-:::
-
-> Starting with Bloom 5.4, you have the option of publishing ePUBs in either **Fixed** **layout** mode or **Flowable** mode.   
-::: 
-
-
-
-:::
-
-> **Fixed Layout** ePUBs work with fully compatible e-readers (ePUB 3 standard) to display the book exactly like it is shown in Bloom. Fixed mode ePUBs are an attractive option for landscape books and it is the only option for Bloom books containing image overlays like speech bubbles and captions. Unfortunately, many e-readers do a very poor job of presenting landscape books. In addition, Fixed mode ePUB do not handle scrolling text boxes, so all you text must fit on the page.  
-::: 
-
-
-
-:::
-
-> **Flowable** ePUBs allow e-readers to lay out images and text however they want. This mode also enables users to adjust the size of the text in the app or user system font settings. 
 
 
 :::tip
 
-Note that for dependable What You See Is What You Get digital Bloom books, we recommend readers that handle our **bloomPUB** format. Currently these are: [Bloom Reader](https://bloomlibrary.org/page/create/bloom-reader), [BloomPUB Viewer](https://github.com/BloomBooks/bloompub-viewer/releases), and apps created with [Reading App Builder](https://software.sil.org/readingappbuilder/). These readers also supply analytics back to [BloomLibrary.org](http://BloomLibrary.org) so that you can see how your books are doing.
+Note that for dependable What You See Is What You Get digital Bloom books, we recommend readers that handle our **bloomPUB** format. Currently, these are: Bloom Reader, BloomPUB Viewer, and apps created with Reading App Builder. These readers also supply analytics back to BloomLibrary.org so that you can see how your books are doing.
 
 :::
+
 
 
 
