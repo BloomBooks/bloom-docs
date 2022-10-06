@@ -30,5 +30,9 @@
   "sidebar.defaultSidebar.category.Intermediate-Topics": {
     "message": "Intermediate-Topics",
     "description": "The label for category Intermediate-Topics in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Technical-Notes": {
+    "message": "Technical-Notes",
+    "description": "The label for category Technical-Notes in sidebar defaultSidebar"
   }
 }
