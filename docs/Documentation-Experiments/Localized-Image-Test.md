@@ -15,5 +15,5 @@ If things are working properly, you should see a British flag in English mode, a
 See also: 
 
 
-[Publish as Audio or Video Errata](/Advanced-Topics-for-Large-Book-Projects/Technical-Errata/Publish-as-Audio-or-Video-Errata)
+[Notes on “Publish as Audio or Video“](/Advanced-Topics-for-Large-Book-Projects/Technical-Notes/Notes-on-“Publish-as-Audio-or-Video“)
 

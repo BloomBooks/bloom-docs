@@ -1,7 +1,7 @@
 ---
-title: Team Collection Errata
+title: Notes on “Team Collections”
 sidebar_position: 4
-slug: Team-Collection-Errata
+slug: Notes-on-%E2%80%9CTeam-Collections%E2%80%9D
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: ePUB errata
+title: Notes on “Publish to ePUB”
 sidebar_position: 5
-slug: ePUB-errata
+slug: ePUB-notes
 ---
 
 
