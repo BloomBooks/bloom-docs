@@ -1,7 +1,7 @@
 ---
-title: Notes on ‘Team Collections’
+title: Notes on Team Collections
 sidebar_position: 4
-slug: Notes-on-%E2%80%98Team-Collections%E2%80%99
+slug: Notes-on-Team-Collections
 ---
 
 
