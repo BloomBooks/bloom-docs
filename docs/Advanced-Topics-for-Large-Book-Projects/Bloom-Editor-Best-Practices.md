@@ -1,7 +1,7 @@
 ---
 title: Bloom Editor Best Practices
 sidebar_position: 9
-slug: Bloom-Editor-Best-Practices
+slug: /a937a8ca-9949-450b-898a-94e532bde3d2
 ---
 
 

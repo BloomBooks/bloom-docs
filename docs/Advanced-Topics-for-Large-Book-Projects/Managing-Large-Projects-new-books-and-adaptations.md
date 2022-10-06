@@ -1,7 +1,7 @@
 ---
-title: Managing Large Projects&#58; new books and adaptations
+title: Managing Large Projects- new books and adaptations
 sidebar_position: 7
-slug: Managing-Large-Projects-new-books-and-adaptations
+slug: /43bf0a73-a123-4ef6-845b-c7581992708d
 ---
 
 

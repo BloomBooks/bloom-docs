@@ -1,7 +1,7 @@
 ---
 title: How to distribute Bloom books on SD Cards
-sidebar_position: 17
-slug: How-to-distribute-Bloom-books-on-SD-Cards
+sidebar_position: 16
+slug: /861f3795-f18a-4841-804f-ff2bed0a78bd
 ---
 
 

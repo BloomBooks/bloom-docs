@@ -1,7 +1,7 @@
 ---
 title: Notes on Team Collections
 sidebar_position: 4
-slug: Notes-on-Team-Collections
+slug: /team-collection-notes
 ---
 
 

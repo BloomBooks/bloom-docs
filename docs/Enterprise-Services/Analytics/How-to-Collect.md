@@ -1,7 +1,7 @@
 ---
 title: How to Collect
 sidebar_position: 14
-slug: How-to-Collect
+slug: /202ea065-f108-4ebc-a6d9-5c656ca47a73
 ---
 
 
