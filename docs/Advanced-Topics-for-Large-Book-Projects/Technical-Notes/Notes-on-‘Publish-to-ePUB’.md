@@ -1,5 +1,5 @@
 ---
-title: Notes on “Publish to ePUB”
+title: Notes on ‘Publish to ePUB’
 sidebar_position: 5
 slug: ePUB-notes
 ---
@@ -42,7 +42,7 @@ In the following two charts, we present some notes on our testing with various r
 |                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape Layout | Sign Language | Overlay Bubbles (e.g. comics) |
 | ------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ---------------- | ------------- | ----------------------------- |
 | eKitabu Windows<br/>version                                                                      | ✓                  | No                             | ✓                          | ✓                | ✓             | ✓                             |
-| eKitabu Android<br/>v5.4.1                                                                       | No                 | No                             | No                         | (1)              | (1)           | ✓                             |
+| eKitabu Android<br/>v5.4.1                                                                       | ✓                  | No                             | ✓                          | (1)              | (1)           | ✓                             |
 | Lis-a<br/>Android version<br/>Feb 25, 2022                                                       | ✓                  | ✓                              | ✓                          | (2)              | (2)           | (3)                           |
 | Google Play Books<br/>Sept 2022                                                                  | No                 | No                             | No                         | No               | No            | No                            |
 | Apple Books<br/>Sept 2022                                                                        | No                 | No                             | No                         | ✓                | ✓             | (3)                           |
