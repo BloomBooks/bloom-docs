@@ -4997,7 +4997,12 @@ commander@^8.3.0:
   resolved "https://registry.npmjs.org/commander/-/commander-8.3.0.tgz"
   integrity sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww==
 
-commander@^9.2.0, commander@^9.4.0:
+commander@^9.2.0:
+  version "9.4.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.1.tgz#d1dd8f2ce6faf93147295c0df13c7c21141cfbdd"
+  integrity sha512-5EEkTNyHNGFPD2H+c/dXXfQZYa/scCKasxWcXJaWnNJ99pnQN9Vnmqow+p+PlFPE63Q6mThaZws1T+HxfpgtPw==
+
+commander@^9.4.0:
   version "9.4.0"
   resolved "https://registry.npmjs.org/commander/-/commander-9.4.0.tgz"
   integrity sha512-sRPT+umqkz90UA8M1yqYfnHlZA7fF6nSphDtxeywPZ49ysjxDQybzk13CL+mXekDRG92skbcqCLVovuCusNmFw==
@@ -5506,10 +5511,10 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-docu-notion@^0.4.8:
-  version "0.4.8"
-  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.4.8.tgz#556b2256305287c11dfabe343250a86252d1cc36"
-  integrity sha512-asc4qsrKby6hVAHXn5LRynEZ0JE35F3an0B21/WmyPgvqMlAao6MlyQejmhckEaBHl7VVP4C2GvlLtikSiGs3w==
+docu-notion@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.5.0.tgz#766dbc3ba16bf876aaff8b699b0a958838a61bc5"
+  integrity sha512-6Z28XkioDDD3WJFMAcSgqDGvUTEvekZ1YSZHqhFqJtC+cXDuWEwErxhGQ6BCD9+m3j+v9VyGOE0uolRuwUk5FA==
   dependencies:
     "@notionhq/client" "^1.0.4"
     chalk "^4.1.2"

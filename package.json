@@ -5,7 +5,7 @@
   "scripts": {
     "simulate-locally": "yarn clear && yarn pull && yarn make-pdf && yarn crowdin:sync &&  yarn copy-static-docs && yarn serve",
     "docusaurus": "docusaurus",
-    "start": "copy-static-docs && docusaurus start",
+    "start": "yarn copy-static-docs && docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
@@ -30,7 +30,6 @@
     "@mdx-js/react": "^1",
     "clsx": "^1.1.1",
     "cross-var": "^1.1.0",
-    "docu-notion": "^0.4.8",
     "docu-pdf": "^1.2.1",
     "prism-react-renderer": "^1.3.1",
     "react": "^17.0.2",
@@ -40,6 +39,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.1.0",
     "@tsconfig/docusaurus": "^1.0.6",
+    "docu-notion": "^0.5.0",
     "typescript": "^4.6.4"
   },
   "browserslist": {
