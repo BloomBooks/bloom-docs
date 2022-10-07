@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "simulate-locally": "yarn clear && yarn pull && yarn make-pdf && yarn crowdin:sync &&  yarn copy-static-docs && yarn serve",
+    "simulate-locally": "yarn clear && yarn pull && yarn make-pdf && yarn crowdin:sync && yarn serve",
     "docusaurus": "docusaurus",
     "start": "yarn copy-static-docs && docusaurus start",
-    "build": "docusaurus build",
+    "build": "yarn copy-static-docs && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -21,7 +21,8 @@
     "crowdin": "crowdin",
     "//pretranslate": "  used to re-apply translations when files are renamed or reorganized",
     "crowdin:pretranslate": "crowdin pre-translate --method tm --translate-untranslated-only --translate-with-perfect-match-only --verbose",
-    "crowdin:sync": "docusaurus write-translations && crowdin upload --delete-obsolete && crowdin download"
+    "crowdin:sync with buggy delete-obsolete https://github.com/crowdin/crowdin-cli/issues/489": "docusaurus write-translations && crowdin upload sources --delete-obsolete && crowdin download",
+    "crowdin:sync": "docusaurus write-translations && crowdin upload sources && crowdin download"
   },
   "dependencies": {
     "@crowdin/cli": "3.8.1",
