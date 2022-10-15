@@ -17,7 +17,7 @@ If it finds .[bloomshelf](https://docs.google.com/document/u/0/d/1UUvwxJ32W2X5CR
 
 # **Instructions**
 
-- **Gather your bloomPUBs**
+1. **Gather your bloomPUBs**
 
 Gather all the books you want to distribute. These books will have an extension of either:
 
@@ -39,7 +39,7 @@ Or, from the Bloom Editor, you can make a BloomPUB file of any book in your coll
 
 ![](./1079617681.png)
 
-- **Create the folder on your SD card**
+1. **Create the folder on your SD card**
 
 After gathering all your Bloom books on your computer, you will then use your computer to create the following series of folders on the SD card:
 
@@ -67,7 +67,7 @@ D:\Android\data\org.sil.bloom.reader\files\Books
 
 ### 💡 Note that capitalization must be _exactly_ as shown.
 
-- **Copy over the bloomPUBS**
+1. **Copy over the bloomPUBS**
 
 Copy the bloomPUBs into the folder.
 

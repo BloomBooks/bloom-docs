@@ -8,8 +8,8 @@ slug: /43bf0a73-a123-4ef6-845b-c7581992708d
 
 Throughout the years, a number of organizations have used Bloom to make a set of self-authored books and oversee the translation of these books into other languages. Most commonly, these organizations employ the following simple workflow:
 
-- _New_ books are authored in a particular chosen majority language such as English, French, Russian, Hindi, etc. This “SOURCE” collection of _original_ books constitutes a type of “parent” collection.
-- The books in the parent collection are translated into a variety of other local languages in various “daughter” collections.
+1. _New_ books are authored in a particular chosen majority language such as English, French, Russian, Hindi, etc. This “SOURCE” collection of _original_ books constitutes a type of “parent” collection.
+1. The books in the parent collection are translated into a variety of other local languages in various “daughter” collections.
 
 Chetana, for example, is an avid user of Bloom and they chose to write their original titles in English, and the various translations they have published (currently in 9 other languages) are _derived from_ that collection of original editions. 
 

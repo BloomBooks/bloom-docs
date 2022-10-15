@@ -8,9 +8,9 @@ slug: /fbd87872-6b70-49b0-9a01-c47f55b9e3d0
 
 There are only three approved ways to make a book in Bloom. 
 
-- Make a brand new book from a book template, such as the Basic Book template.
-- Make a book using an existing book in Sources for new books, typically, to translate it into another language.
-- Duplicate an existing book.
+1. Make a brand new book from a book template, such as the Basic Book template.
+1. Make a book using an existing book in Sources for new books, typically, to translate it into another language.
+1. Duplicate an existing book.
 
 ## Book IDs
 

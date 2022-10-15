@@ -44,10 +44,10 @@ Key to Bloom’s success is the generosity of local authors and organizations wh
 
 Uploaded books are displayed using a “book card”. The book card shows a thumbnail image of the book’s front cover. Below that is a colored banner and 1-4 black dots to indicate one of four reading levels recognized by Bloom: 
 
-- First words and phrases
-- First sentences
-- First paragraphs
-- Longer paragraphs
+1. First words and phrases
+1. First sentences
+1. First paragraphs
+1. Longer paragraphs
 
 ![](./55130788.png)
 

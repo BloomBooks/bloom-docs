@@ -2,6 +2,7 @@
 title: Notes on “Publish to ePUB”
 sidebar_position: 5
 slug: /ePUB-notes
+keywords: [ePUB, publish, ebook]
 ---
 
 
@@ -50,25 +51,25 @@ In the following two charts, we present some notes on our testing with various r
 | Thorium Reader (Windows)                                                                         | No                 | No                             | No                         | ✓                | ✓             | ✓                             |
 | [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | No                             | ✓                          | (1)              | (1)           | ✓                             |
 
-- Various app controls (e.g. menu bar, media bar) obscure significant portions of Fixed mode ePUBs, making them unusable.
-- Text on right-side of screen is frequently slightly clipped.
-- The positioning of text inside speech bubbles and captions is inaccurate, sometimes badly.
+1. Various app controls (e.g. menu bar, media bar) obscure significant portions of Fixed mode ePUBs, making them unusable.
+1. Text on right-side of screen is frequently slightly clipped.
+1. The positioning of text inside speech bubbles and captions is inaccurate, sometimes badly.
 
 ### Performance of various ePUB readers for Bloom <u>Flowable-</u>mode ePUBs
 
 
 |                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape to Portrait Rendering | Sign Language | **Overlay Bubbles (e.g. comics)** |
 | ------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ------------------------------- | ------------- | --------------------------------- |
-| eKitabu Windows<br/>version                                                                      | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
-| eKitabu Android<br/>v5.4.1                                                                       | No                 | No                             | No                         | (6)                             | ✓             | N/A                               |
-| Lis-a<br/>Android version<br/>Feb 25, 2022                                                       | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
-| Google Play Books<br/>Sept 2022                                                                  | No                 | No                             | No                         | (7)                             | No            | N/A                               |
-| Apple Books<br/>Sept 2022                                                                        | No                 | No                             | No                         | (6)                             | ✓             | N/A                               |
-| Dolphin EasyReader<br/>(Android version)                                                         | (4)                | Unreliable                     | (4)                        | ✓                               | No            | N/A                               |
-| Thorium Reader (Windows)                                                                         | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
-| [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | ✓                              | ✓                          | (6)                             | ✓             | N/A                               |
+| eKitabu Windows<br/>version                                                                      | ✓                  | ✓                              | ✓                          | (3)                             | ✓             | N/A                               |
+| eKitabu Android<br/>v5.4.1                                                                       | No                 | No                             | No                         | (3)                             | ✓             | N/A                               |
+| Lis-a<br/>Android version<br/>Feb 25, 2022                                                       | ✓                  | ✓                              | ✓                          | (3)                             | ✓             | N/A                               |
+| Google Play Books<br/>Sept 2022                                                                  | No                 | No                             | No                         | (4)                             | No            | N/A                               |
+| Apple Books<br/>Sept 2022                                                                        | No                 | No                             | No                         | (3)                             | ✓             | N/A                               |
+| Dolphin EasyReader<br/>(Android version)                                                         | (1)                | Unreliable                     | (1)                        | ✓                               | No            | N/A                               |
+| Thorium Reader (Windows)                                                                         | ✓                  | ✓                              | ✓                          | (3)                             | ✓             | N/A                               |
+| [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | ✓                              | ✓                          | (3)                             | ✓             | N/A                               |
 
-- Frequent audio clipping.
-- Text highlighting is erratic and unreliable.
-- Top or bottom positioned text blocks (in Bloom Edit) will display nicely, but right-side text blocks (in Bloom Edit) may have reduced margins.
-- Text which should wrap is often simply cut off.
+1. Frequent audio clipping.
+1. Text highlighting is erratic and unreliable.
+1. Top or bottom positioned text blocks (in Bloom Edit) will display nicely, but right-side text blocks (in Bloom Edit) may have reduced margins.
+1. Text which should wrap is often simply cut off.

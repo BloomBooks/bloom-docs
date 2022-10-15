@@ -20,10 +20,10 @@ Accessible books are electronic books that have features to make their content m
 
 In this training module, you will learn how to:
 
-- Create image descriptions,
-- Record audio of the text in the book and in image descriptions,
-- Evaluate whether images need adjustment for visual impairment, and
-- Choose images that are going to be easier to perceive
+1. Create image descriptions,
+1. Record audio of the text in the book and in image descriptions,
+1. Evaluate whether images need adjustment for visual impairment, and
+1. Choose images that are going to be easier to perceive
 
 ---
 
@@ -273,8 +273,8 @@ Additional images that are simpler on the left and more complex on the right:
 
 In this training module, you learned how to:
 
-- Gain access to accessible book tools in Bloom,
-- Create image descriptions,
-- Record audio of the text in the book and in image descriptions,
-- Evaluate whether images need adjustment for visual impairment, and
-- Choose images that are going to be easier to perceive.
+1. Gain access to accessible book tools in Bloom,
+1. Create image descriptions,
+1. Record audio of the text in the book and in image descriptions,
+1. Evaluate whether images need adjustment for visual impairment, and
+1. Choose images that are going to be easier to perceive.
