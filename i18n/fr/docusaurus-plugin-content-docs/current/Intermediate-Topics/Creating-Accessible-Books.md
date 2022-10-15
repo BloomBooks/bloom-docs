@@ -20,10 +20,10 @@ Les livres accessibles sont des livres électroniques qui ont des caractéristiq
 
 Dans ce tutoriel, vous apprendrez comment :
 
-- Créer des descriptions d'image,
-- Enregistrer l'audio du texte dans le livre et dans les descriptions d'image,
-- Évaluer si les images ont besoin d'être ajustées pour une déficience visuelle, et
-- Choisir les images qui seront plus faciles à percevoir
+1. Créer des descriptions d'image,
+1. Enregistrer l'audio du texte dans le livre et dans les descriptions d'image,
+1. Évaluer si les images ont besoin d'être ajustées pour une déficience visuelle, et
+1. Choisir les images qui seront plus faciles à percevoir
 
 ---
 
@@ -266,8 +266,8 @@ Images supplémentaires plus simples à gauche et plus complexes à droite:
 
 Dans ce module d'entraînement, vous avez appris à :
 
-- Accédez aux outils de livres accessibles dans Bloom,
-- Créer des descriptions d'image,
-- Enregistrer l'audio du texte dans le livre et dans les descriptions d'image,
-- Évaluer si les images ont besoin d'être ajustées pour une déficience visuelle, et
-- Choisir les images qui seront plus faciles à percevoir.
+1. Accédez aux outils de livres accessibles dans Bloom,
+1. Créer des descriptions d'image,
+1. Enregistrer l'audio du texte dans le livre et dans les descriptions d'image,
+1. Évaluer si les images ont besoin d'être ajustées pour une déficience visuelle, et
+1. Choisir les images qui seront plus faciles à percevoir.
