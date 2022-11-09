@@ -1,6 +1,6 @@
 ---
 title: Overview of the Bloom Platform for Large Book Projects
-sidebar_position: 6
+sidebar_position: 7
 slug: /05b3d243-f195-4b77-bbf8-ecee475afeab
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: What Bloom Branding can do
-sidebar_position: 15
+sidebar_position: 16
 slug: /e487c121-d0d2-4abd-9dd1-3dfb4b46391c
 ---
 

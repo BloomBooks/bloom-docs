@@ -1,6 +1,6 @@
 ---
 title: Issues around derivative books
-sidebar_position: 10
+sidebar_position: 11
 slug: /fbd87872-6b70-49b0-9a01-c47f55b9e3d0
 ---
 

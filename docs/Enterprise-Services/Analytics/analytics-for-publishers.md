@@ -1,6 +1,6 @@
 ---
 title: Bloom Analytics For Publishers
-sidebar_position: 13
+sidebar_position: 14
 slug: /analytics-for-publishers
 keywords: [analytics, statistics]
 ---

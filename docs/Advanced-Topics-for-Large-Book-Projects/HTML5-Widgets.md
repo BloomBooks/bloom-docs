@@ -1,6 +1,6 @@
 ---
 title: HTML5 Widgets
-sidebar_position: 12
+sidebar_position: 13
 slug: /48e8e101-e788-4a3a-9cbf-6fb931f024d2
 keywords: [HTML5, widgets, activities, games]
 ---

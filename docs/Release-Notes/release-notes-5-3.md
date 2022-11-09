@@ -1,6 +1,6 @@
 ---
 title: Bloom 5.3 Beta Release Notes
-sidebar_position: 1
+sidebar_position: 2
 slug: /release-notes-5-3
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Notes on Publish as Audio or Video
-sidebar_position: 3
+sidebar_position: 4
 slug: /publish-audio-video-notes
 ---
 

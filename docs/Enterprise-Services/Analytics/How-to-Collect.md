@@ -1,6 +1,6 @@
 ---
 title: How to Collect
-sidebar_position: 14
+sidebar_position: 15
 slug: /202ea065-f108-4ebc-a6d9-5c656ca47a73
 ---
 

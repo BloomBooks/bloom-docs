@@ -1,6 +1,6 @@
 ---
 title: Notes on “Publish as ePUB”
-sidebar_position: 5
+sidebar_position: 6
 slug: /ePUB-notes
 keywords: [ePUB, publish, ebook]
 ---

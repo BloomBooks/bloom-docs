@@ -1,6 +1,6 @@
 ---
 title: Managing Large Projects- new books and adaptations
-sidebar_position: 7
+sidebar_position: 8
 slug: /43bf0a73-a123-4ef6-845b-c7581992708d
 ---
 
