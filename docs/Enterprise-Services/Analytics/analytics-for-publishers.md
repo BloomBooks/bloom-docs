@@ -49,26 +49,26 @@ Example dashboards using this data: [PNG RISE](https://www.inclusiveducation.com
 
 All Bloom Player contexts (Bloom Library, Bloom Reader, BloomPub Viewer, RAB apps)
 
-	- Pages read
-	- Was the last (numbered) page in the book read?
-		- This is some indication that the entire book was read. Note: it is possible to just flip past pages, or to move randomly through the book. So it wouldn’t be hard to cheat this system.
-	- Time spent
-	- Comprehension Quizzes
-		- including how many questions were present and how many answered correctly.
-	- Duration of audio and video playback
-	- Book branding
-	- Bloom Library
-	- Downloads
-	- Bloom Reader Specific events
-	- Installations
+- Pages read
+- Was the last (numbered) page in the book read?
+	- This is some indication that the entire book was read. Note: it is possible to just flip past pages, or to move randomly through the book. So it wouldn’t be hard to cheat this system.
+- Time spent
+- Comprehension Quizzes
+	- including how many questions were present and how many answered correctly.
+- Duration of audio and video playback
+- Book branding
+- Bloom Library
+- Downloads
+- Bloom Reader Specific events
+- Installations
 
-	No events at this time:
+No events at this time:
 
-	- Shared book
-	- Shared bookshelf
-	- Shared APK
-	- Share Link to app on play store
-	- EPUB
+- Shared book
+- Shared bookshelf
+- Shared APK
+- Share Link to app on Play Store
+- EPUB
 
 ## User Information that we collect
 

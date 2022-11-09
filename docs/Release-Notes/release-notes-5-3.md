@@ -1,7 +1,7 @@
 ---
 title: Bloom 5.3 Beta Release Notes
 sidebar_position: 1
-slug: /456b40cf-a6dd-44f2-9cfd-a1ad9639db98
+slug: /release-notes-5-3
 ---
 
 
@@ -66,7 +66,7 @@ We made several changes to speed up Bloom’s launch time.
 In the Collection dropdown menu, we 
 
 - Renamed the “Advanced” submenu to “Troubleshooting”.
-- In “Shell” collections (which we think should be _very_ rare in 2022), we moved “Make Bloom Pack” from the toolbar to this menu.
+- In “Source” collections (which we think should be _very_ rare in 2022), we moved “Make Bloom Pack” from the toolbar to this menu.
 
 ![](./546095792.png)
 
