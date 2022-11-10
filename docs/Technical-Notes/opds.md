@@ -1,7 +1,7 @@
 ---
-title: API
-sidebar_position: 18
-slug: /api
+title: OPDS API
+sidebar_position: 17
+slug: /opds
 keywords: [API, OPDS]
 ---
 
