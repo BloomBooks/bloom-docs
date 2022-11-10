@@ -7,7 +7,13 @@ keywords: [API, OPDS]
 
 
 
-## OPDS
+:::note
+
+An “API” is a way for programmers to connect their program to another system. In this case, Bloom’s OPDS API allows programmers to get information on BloomLibrary.org’s collections of books.
+
+:::
+
+
 
 
 Bloom implements the [OPDS](https://opds.io/) API, which is a common API in the ePUB world. The OPDS format is extremely verbose, and we don’t love it, but it works. Using Bloom’s OPDS API, you can
