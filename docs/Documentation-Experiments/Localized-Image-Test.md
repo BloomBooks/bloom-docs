@@ -1,6 +1,6 @@
 ---
 title: Localized Image Test
-sidebar_position: 18
+sidebar_position: 16
 slug: /b453d628-3a61-4b97-b529-926e641e8982
 ---
 

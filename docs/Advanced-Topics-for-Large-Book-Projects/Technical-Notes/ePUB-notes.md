@@ -74,3 +74,12 @@ In the following two charts, we present some notes on our testing with various r
 1. Frequent audio clipping.
 1. Top or bottom positioned text blocks (in Bloom Edit) will display nicely, but right-side text blocks (in Bloom Edit) may have reduced margins.
 1. Text which should wrap is often simply cut off.
+
+:::caution
+
+For books produced by Bloom 5.4: if you make a Talking Book out of an Overlay (comic) book, ePUB readers will read bubbles in the order you created them. That won’t always be the correct order! We have an idea of how to improve things for Bloom 5.5.
+
+:::
+
+
+

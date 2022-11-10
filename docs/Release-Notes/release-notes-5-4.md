@@ -10,13 +10,22 @@ keywords: [Release Notes]
 ## Simple Choice Activities
 
 
-We’ve added two new activities that you can add to your books. Just enter the correct answer in the first box. When someone reads the book, bloom will shuffle the answers.
+We’ve added two new activities that you can add to your books. Just enter the correct answer in the first box. When someone reads the book, Bloom will shuffle the answers.
+
+
+### Choose Word from Picture
 
 
 ![](./170924698.png)
 
 
+### Choose Picture from Word
+
+
 ![](./261441133.png)
+
+
+Are there other simple activities that you would like to have in your Bloom books? Feel free to request them in a [Feature Request](https://community.software.sil.org/c/bloom/featurerequests/16).  Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to add new activities to a book.
 
 
 ## Get More Books from Within Bloom Reader
@@ -70,7 +79,7 @@ Once you pick a book, you can either download it into Bloom Reader or just read 
 # Smarter Splitter
 
 
-We heard you: getting image and text boxes to _just the right size_ was too hard. We’ve made splitters smart in a couple of ways:
+We heard you: getting image and text boxes to _just the right size_ was too hard. We’ve made the splitter smart in a couple of ways:
 
 
 1) You can now double-click the splitter to make it snap to the position used by the previous page.
@@ -80,7 +89,7 @@ We heard you: getting image and text boxes to _just the right size_ was too hard
 
 - The position used by the previous page.
 - The position that perfectly matches the image’s proportions.
-- 1/4,1/3, 1/2, etc.
+- 1/4, 1/3, 1/2, etc.
 - Square
 
 <div class='notion-row'>
@@ -123,6 +132,18 @@ Bloom can now create ePUBs in “Fixed” mode which asks ePUB players to preser
 
 
 With this improvement, you can now publish overlay (comic) books as ePUBs.
+
+
+:::caution
+
+Note that if you make a Talking Book out of an Overlay (comic) book, ePUB readers will read bubbles in the order you created them. That won’t always be the correct order! We have an idea of how to improve things for Bloom 5.5.
+
+:::
+
+
+
+
+See [here](https://docs.bloomlibrary.org/ePUB-notes) for more information about the state of Bloom-to-ePUB publishing.
 
 
 ## Color Chooser
@@ -175,17 +196,21 @@ We’ve noticed that sometimes people forget to add a copyright, which later pre
 - You can now click on the background image in order to change it.
 - If a bubble somehow ends up off-screen, Bloom will move it back on screen the next time it loads the page.
 
+Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to add new Overlay (comic) images to a book.
+
+
 ## Other Improvements
 
 - Bloom’s experimental spreadsheet import/export now retains a book’s metadata.
-- We added experimental spreadsheet import/export for Talking Books.
+- We added experimental spreadsheet import/export for Talking Books. Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to use the spreadsheet commands.
 - We made it feasible to use leading spaces in a Talking book to make the left edge of a text box vary in order to do things like conform to the image to the left of the text. While we don’t _like_ this approach, it is currently the only way to achieve this.
 	- Don't highlight leading/trailing whitespace of current audio segment.
 	- Collapse multiple whitespace in translation bubbles.
 - When Bloom makes a BloomPack, it now includes any audio in the books.
-- Bloom now shows the Sign Language name on the cover.
+- Bloom now shows the Sign Language name on the cover. Note that the name only appears once there is at least one recording, and only after the book has been reloaded.
+- You can now access the “Scripts & Variants” settings for a Sign languages. The “scripts” part is not relevant, but this allows you to define a language as a regional dialect of a more widely known Sign language.
 - If you download and translate a book, Bloom now gives you the same cover colors as the original.
-- SIL has deprecated Andika New Basic, since Andika now contains all of its characters. We are gradually switching everything over to Andika in a way that we think will be invisible to users. For this release, we switched Bloom Reader & Viewer to come with Andika built in.
+- SIL has deprecated Andika New Basic since Andika now contains all of its characters. We are gradually switching everything over to Andika in a way that we think will be invisible to users. For this release, we switched Bloom Reader & Viewer to come with Andika built in.
 - We improved sorting of books in BloomLibrary.org. By default, books now sort from newest to oldest. For particular collections, we can change this to sorting by title with good number sorting so that numbered series will show in order.
 - BloomLibrary’s “stats” pages now have a “People Reached Digitally” Stat
 

@@ -1,6 +1,6 @@
 ---
 title: Introduction
-sidebar_position: 19
+sidebar_position: 17
 slug: /
 ---
 
