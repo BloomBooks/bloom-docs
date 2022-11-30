@@ -15,10 +15,6 @@ When you open a Team Collection, the first thing you will notice is a “Team Co
 ![](./620339863.png)
 
 
-es [https://i.imgur.com/ztF4dpY.png](https://i.imgur.com/ztF4dpY.png)
-fr [https://i.imgur.com/I8ITKq0.png](https://i.imgur.com/I8ITKq0.png)
-
-
 When you click on a book thumbnail, Bloom will display who has the book checked out. Books that are checked out to other team members are not available for editing. (Notice that the “Edit” tab is gray, meaning that you cannot click on it to edit the book.) 
 
 

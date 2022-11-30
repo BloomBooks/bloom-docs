@@ -167,7 +167,7 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 </div>
 
 
-**Only the person who has a book checked out can make changes to it****.** Whenever one user checks out a book for editing, Bloom uses Dropbox to notify the other team members that the book is checked out. After the user checks the book back in, Bloom notifies the other team members that the book is available for editing again. 
+Only the person who has a book checked out can make changes to it. Whenever one user checks out a book for editing, Bloom uses Dropbox to notify the other team members that the book is checked out. After the user checks the book back in, Bloom notifies the other team members that the book is available for editing again. 
 
 
 This checkout system ensures that team members do not develop multiple conflicting versions of a book that must be painfully reconciled later. 
@@ -176,7 +176,7 @@ This checkout system ensures that team members do not develop multiple conflicti
 ## What if I don't have Internet access all the time?
 
 
-You do not need continuous internet access to use Bloom team collections. You only need to be connected to the internet when you check books in and out. But your internet service does have to be sufficiently fast, affordable, and reliable to transfer Bloom books to and from Dropbox.
+You do not need continuous internet access to use Bloom team collections. You only need to be connected to the internet when you check books in and out. Your internet service does have to be sufficiently fast and reliable to transfer books to and from Dropbox.
 
 
 ### Why Dropbox? 
