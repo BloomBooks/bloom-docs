@@ -6,7 +6,7 @@ slug: /team-collections-advanced-topics
 
 
 
-## **Moving a book from one collection to another**
+## Moving a book from one collection to another
 
 
 Sometimes a book needs to be moved from one collection to another. For example, suppose you have multiple Team Collections organized according to grade levels or difficulty. After reassessing a book’s level of difficulty, you decide it needs to be moved to a different collection.
@@ -15,10 +15,10 @@ Sometimes a book needs to be moved from one collection to another. For example, 
 The procedure to do this is as follows:
 
 1. **In Bloom:** Check Out the book. (Remember, you need to check the book out to make changes.)
-1. **Using Windows File Explorer:** C**opy** the book’s _local_ folder (not the Dropbox or LAN folder), to the new collection folder.
+1. **Using Windows File Explorer:** Copy the book’s _local_ folder (not the Dropbox or LAN folder), to the new collection folder.
 1. **In Bloom:** _While the book is still checked out to you,_ right-click on the book’s thumbnail and choose **Delete Book**.
 
-## **Locking down a book to prevent further modifications**
+## Locking down a book to prevent further modifications
 
 
 There are several ways you can “lock down” a book to prevent further modification: 
@@ -27,16 +27,10 @@ There are several ways you can “lock down” a book to prevent further modific
 - The Administrator can move the book out of the team collection (see [Moving a book from one collection to another](9e5b75a9d295460f9b2e92eb5067171e#fd16939ea0684005a34727444964a436)).
 - The Administrator can “retire” the entire Team Collection (see [Retiring a Team Collection](9e5b75a9d295460f9b2e92eb5067171e#3a6243f616134809b5b9c06e5748094f)).
 
-:::note
-
-In a future version of Bloom, we may add the ability to “lock down” a book. 
-
-:::
+(In a future version of Bloom, we may add the ability to “lock down” a book. )
 
 
-
-
-## **Retiring a Team Collection**
+## Retiring a Team Collection
 
 
 The team collection Administrator may wish to “retire” a particular Team Collection in order to prevent accidental book modification or deletions. This might happen if a team has completed work on a book collection, or if collaboration on the book collection is no longer needed or desired. 
@@ -86,9 +80,7 @@ When you [create a Team Collection](67038f2eef724222a49939310345e056#6035d8998d5
 
 	![](./1087074606.png)
 
-
-	Click **JOIN**. Bloom should proceed to open the Team Collection. 
-
+1. Click **JOIN**. Bloom should proceed to open the Team Collection.
 
 :::note
 
@@ -110,31 +102,12 @@ There are a number of situations where conflicts arise between books on differen
 
 1. Navigate to the Dropbox (or LAN)-synchronized “shadow folder” (for instance, **`C:\Users\<your username>\Dropbox\My-collection - TC\`**).
 1. Now look for a subfolder called **`Lost and Found`**. Inside the `Lost and Found` subfolder you will find one or more files with a **`.bloom`** extension. Each of these is a compressed book folder.
-1. Copy the desired `.bloom` file to a different location on your computer, and uncompress it into a new folder.
-
-	:::note
-	
-	You will probably need to use a zip utility such as 7-Zip to do this. (Alternately, you can change the filename extension to `.zip`, and use Windows’ built-in zip tools to uncompress the file into a new folder.) 
-	
-	:::
-	
-
-
-1. Copy or move your newly uncompressed folder into your **local** Team Collection folder.
-
-	:::caution
-	
-	**WARNING
-	Make sure the folder has a different name than the original book’s folder name!** Otherwise you’ll get back into a conflict situation. 
-	
-	:::
-	
-
-
+1. Copy the desired `.bloom` file to a different location on your computer, and uncompress it into a new folder. You will probably need to use a zip utility such as 7-Zip to do this. (Alternately, you can change the filename extension to `.zip`, and use Windows’ built-in zip tools to uncompress the file into a new folder.)
+1. Copy or move your newly uncompressed folder into your **local** Team Collection folder. **WARNING: Make sure the folder has a different name than the original book’s folder name!** Otherwise you’ll get back into a conflict situation.
 1. Launch Bloom (or close and relaunch Bloom). Bloom will recognize that a book has been added to the Team Collection, and will automatically check it out to you.
 1. Check in the book, and Bloom (with a little help from Dropbox or your LAN) will propagate the new book to the other Team Collection computers.
 
-_Now comes the hard part: you must_ _**manually**_ _reconcile the two different versions._ This means identifying the parts you want to keep from one book (the version you will not keep), and manually moving them into the one you will keep. This can be a painful process! 
+**Now comes the hard part:** you must manually reconcile the two different versions. This means identifying the parts you want to keep from one book (the version you will not keep), and manually moving them into the one you will keep. This can be a painful process! 
 
 
 After you have finished reconciling the two books, you can remove the one you do not want to keep (see [How can I remove a book from a Team Collection](906cc9d79a3843e4b2f666120b79a44c#41000d72c84a4fde8bf3e62f407e4cea) for instructions on how to do this). 

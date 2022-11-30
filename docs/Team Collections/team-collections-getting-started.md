@@ -6,7 +6,7 @@ slug: /team-collections-getting-started
 
 
 
-To create a team collection, you start with an existing Bloom collection and convert it into a Team Collection. In this guide, we will walk through the process of converting an existing collection into a Team Collection.
+To create a Team Collection, you start with an existing Bloom collection and convert it into a Team Collection. In this guide, we will walk through the process of converting an existing collection into a Team Collection.
 
 
 The basic steps are:
@@ -27,16 +27,7 @@ Before you begin, make sure:
 - The latest version of Bloom is installed on your computer, **and** you have registered it with a distinct email address.
 - You have a Bloom Collection that you want to convert to be a Team Collection.
 - You have a Dropbox account.
-- The Dropbox app is installed on your computer.
-
-	:::note
-	
-	If the Dropbox app is not installed on your computer, see Setting Up Dropbox on Your Computer.
-	
-	:::
-	
-
-
+- The Dropbox app is installed on your computer. If the Dropbox app is not installed on your computer, see [Setting Up Dropbox on Your Computer](496a651297d742199b86fd3c542f361f).
 
 	:::note
 	
@@ -87,13 +78,13 @@ Once you have the base collection prepared, there are four steps to the process:
 Let's look at each step in detail.
 
 
-### 2.1 **Open the Collection Settings in Bloom**
+### 2.1 Open the Collection Settings in Bloom
 
 
 Open the Collection in Bloom, and click on **Settings** in the "Collections" toolbar (make sure you are in the “Collections” mode, not "Edit" or "Publish").
 
 
-### 2.2 **Enable Bloom Enterprise features**
+### 2.2 Enable Bloom Enterprise features
 
 
 Team Collections is a Bloom Enterprise feature. Navigate to the **Bloom Enterprise** tab of the Collection Settings. 
@@ -102,12 +93,12 @@ Team Collections is a Bloom Enterprise feature. Navigate to the **Bloom Enterpri
 Click the **Enterprise Subscription** radio button and enter your Bloom Enterprise subscription code **❶**. 
 
 
-	:::note
-	
-	If your project is funded entirely by a local community, you can enable Bloom Enterprise features by clicking “Funded by the local community only” ❷.
-	
-	:::
-	
+:::note
+
+If your project is funded entirely by a local community, you can enable Bloom Enterprise features by clicking “Funded by the local community only” ❷.
+
+:::
+
 
 
 
@@ -117,7 +108,7 @@ Click the **Enterprise Subscription** radio button and enter your Bloom Enterpri
 ![](./1179410017.png)
 
 
-### 2.3 **Enable Team Collections**
+### 2.3 Enable Team Collections
 
 
 Team Collections is an experimental feature that must be enabled. After Bloom restarts, return to the Collection Settings and navigate to the **Advanced Program Settings.** 
@@ -132,7 +123,7 @@ Tick the **Team Collections** box ❹.
 ![](./2039122407.png)
 
 
-### 3.4 **Create the Team Collection** 
+### 3.4 Create the Team Collection 
 
 
 After Bloom restarts, return to the Collection Settings. This time, you will see a new tab for **Team Collections**. When you activate it, you will see a warning message:
@@ -214,7 +205,7 @@ Enter the email address of each person you want to invite. Make sure the recipie
 ![](./1357356141.png)
 
 
-## 4. Other team members j**oin the Team Collection**
+## 4. Other team members join the Team Collection
 
 
 To join a Team Collection, other team members do the following: 
@@ -236,7 +227,7 @@ To join a Team Collection, other team members do the following:
 
 :::caution
 
-It is essential to double-click `Join this Team Collection.JoinBloomTC` **in Windows File Explorer**, _not_ in the Dropbox interface in a web browser. 
+It is essential to double-click `Join this Team Collection.JoinBloomTC` **in Windows File Explorer**, not in the Dropbox interface in a web browser. 
 
 :::
 

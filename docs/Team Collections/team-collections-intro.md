@@ -6,7 +6,7 @@ slug: /team-collections-intro
 
 
 
-A **Bloom Team Collection** is a normal Bloom Collection that is shared among team members through the synchronized cloud storage service [Dropbox](https://www.dropbox.com/) or a local area network. **We recommend this system for any project where more than one person touches a book before it is published,** _**and**_ **everyone has adequate internet access.** By synchronizing files across computers, each person who works on a book has the latest version available. 
+A **Bloom Team Collection** is a normal Bloom Collection that is shared among team members through the synchronized cloud storage service [Dropbox](https://www.dropbox.com/) or a local area network. By synchronizing files across computers, each person who works on a book has the latest version available. **We recommend this system for any project where more than one person touches a book before it is published, and where everyone has adequate internet access.** 
 
 
 ## System requirements for using a Team Collection
@@ -39,7 +39,16 @@ A **Bloom Team Collection** is a normal Bloom Collection that is shared among te
 A Bloom Team Collection has two parts. The first part is a normal Bloom collection of working files. This is a folder that contains one or more Bloom books, each in its own folder, as well as special files used by Bloom. 
 
 
-The second part is a special **shadow collection folder**, which is created for the Team Collection by Bloom. The shadow collection contains compressed copies of all the Team Collection files. Bloom synchronizes the shadow collection with the working files. The shadow collection is also synchronized between your computer and the Dropbox cloud storage service, which synchronizes it to other team members’ computers. 
+The second part is a special **shadow collection folder**, which is created for the Team Collection by Bloom. Bloom synchronizes the shadow collection and the working files. The shadow collection is also synchronized between your computer and the Dropbox cloud storage service, which synchronizes it to other team members’ computers.
+
+
+:::note
+
+A **shadow collection folder** (sometimes called a “shadow collection” or “shadow folder”) is a special folder that contains compressed copies of all the Team Collection files. The shadow collection folder is stored in a cloud-synchronized local directory on your computer. 
+
+:::
+
+
 
 
 <div class='notion-row'>

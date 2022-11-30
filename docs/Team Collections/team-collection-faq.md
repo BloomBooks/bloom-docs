@@ -15,7 +15,7 @@ If you already have the book checked out, you can edit it. If you do not have th
 ![](./228753637.png)
 
 
-## D**oes everyone on the team have to have the same version of Bloom?**
+## Does everyone on the team have to have the same version of Bloom?
 
 
 No. The members of a team can use different versions of Bloom, with one limitation: if one team member adds a book that uses a new Bloom feature, other team members will not be able to edit that book until they update Bloom on their computers. (This is how Bloom works in general, not just for Team Collections.) 
@@ -27,7 +27,7 @@ No. The members of a team can use different versions of Bloom, with one limitati
 Bloom will notice that the book is not yet part of the Team Collection, and automatically add the book to the Team Collection as a “checked in” book. 
 
 
-## How **can I remove a book from a Team Collection?** 
+## How can I remove a book from a Team Collection? 
 
 
 To remove a book from a Team Collection, do the following: 

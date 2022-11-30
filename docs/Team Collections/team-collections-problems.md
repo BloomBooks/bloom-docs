@@ -9,7 +9,7 @@ slug: /team-collections-problems
 ## Check-in / Check-out problems
 
 
-### **What happens if there is a delay in synchronization such that two people both have a book checked out?**
+### What happens if there is a delay in synchronization such that two people both have a book checked out?
 
 
 ---
@@ -21,16 +21,16 @@ This should happen only rarely. If it does happen, Dropbox will choose one of th
 ### What happens if I connect to a Team Collection with multiple computers? 
 
 
-You can join a Team Collection using multiple computers. To do this, use the same email address to register Bloom on each computer, and launch the **`Join this Team Collection.joinBloomTC`** file on each machine. (You’ll also need to use the same email address for Dropbox on both computers.)
+You can join a Team Collection using multiple computers. To do this, use the same email address to register Bloom on each computer, and launch the `Join this Team Collection.joinBloomTC` file on each machine. (You’ll also need to use the same email address for Dropbox on both computers.)
 
 
-Be aware that you can check out a book for editing _on only a single computer at a time._ If you have a book checked out on one computer and look at the same book on a different computer, Bloom will inform you that “this book is checked out to you, but on a different computer. You cannot edit the book on this computer, until you have checked it in on [the other computer’s name].”
+Be aware that you can check out a book for editing _on only a single computer at a time._ If you have a book checked out on one computer and look at the same book on a different computer, Bloom will inform you that “This book is checked out to you, but on a different computer. You cannot edit the book on this computer, until you have checked it in on [the other computer’s name].”
 
 
 ![](./885919069.png)
 
 
-### **What happens if someone checks out a book but then becomes unreachable for a long time, and the team wants to edit that book?**
+### What happens if someone checks out a book but then becomes unreachable for a long time, and the team wants to edit that book?
 
 
 The Team Collection Administrator can use the “Force Unlock” command to make the book editable again. 
@@ -39,7 +39,7 @@ The Team Collection Administrator can use the “Force Unlock” command to make
 :::caution
 
 **“Force unlocking” a book is not the same as checking the book in!** 
-When the administrator force-unlocks a book, any changes made by the user who originally checked the book out will _not_ be saved to the shared team version. Instead, that version of the book will be moved to a “Lost & Found” folder. If you want to incorporate those changes into shared team version later, you must do so by hand.
+When the administrator force-unlocks a book, any changes made by the user who originally checked the book out will not be saved to the shared team version. Instead, that version of the book will be moved to a “Lost and Found” folder. If you want to incorporate those changes into the shared team version later, you must do so by hand.
 
 :::
 
@@ -49,7 +49,7 @@ When the administrator force-unlocks a book, any changes made by the user who or
 ![](./1322981045.png)
 
 
-### **What happens when the long-lost team member comes back online?**
+### What happens when the long-lost team member comes back online?
 
 
 On the long-lost team member’s computer, Bloom will notice that the shared team version no longer has a “lock file” that indicates that he or she has that book checked out for editing. It is now likely that there are diverging versions of this book. Bloom will save the force-unlocked version to a special “Lost & Found” folder in Dropbox, remove that user’s edit access, and notify him or her of what just happened. 
@@ -61,13 +61,13 @@ If your long-lost teammate has been very productive and you want to use his vers
 ## Bloom Enterprise license problems
 
 
-### **What happens if someone tries to join a Team Collection but does not have a Bloom Enterprise License?**
+### What happens if someone tries to join a Team Collection but does not have a Bloom Enterprise License?
 
 
 Enterprise Licenses are for the project, not people. So anyone joining a Team Collection is joining a collection that already has the Enterprise license set up.
 
 
-### **What happens if a Bloom Enterprise License expires on a Team Collection?**
+### What happens if a Bloom Enterprise License expires on a Team Collection?
 
 
 The collections will keep working, but they will become disconnected from each other. Without the Bloom Enterprise enabled, the books on the team members’ computers will not synchronize with each other, nor will they have a checked-in/checked-out state.
@@ -82,7 +82,7 @@ Each user will have to rejoin the team collection. (This allows any edits that w
 ## Naming conflicts
 
 
-### **What happens if you join a Team Collection, but you already have a local collection with that name?**
+### What happens if you join a Team Collection but you already have a local collection with that name?
 
 
 This has several answers.
