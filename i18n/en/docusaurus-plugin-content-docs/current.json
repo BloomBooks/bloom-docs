@@ -3,37 +3,9 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.defaultSidebar.category.Advanced-Topics-for-Large-Book-Projects": {
-    "message": "Advanced-Topics-for-Large-Book-Projects",
-    "description": "The label for category Advanced-Topics-for-Large-Book-Projects in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Technical-Errata": {
-    "message": "Technical-Errata",
-    "description": "The label for category Technical-Errata in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Documentation-Experiments": {
-    "message": "Documentation-Experiments",
-    "description": "The label for category Documentation-Experiments in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Enterprise-Services": {
-    "message": "Enterprise-Services",
-    "description": "The label for category Enterprise-Services in sidebar defaultSidebar"
-  },
   "sidebar.defaultSidebar.category.Analytics": {
     "message": "Analytics",
     "description": "The label for category Analytics in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Release-Notes": {
-    "message": "Release-Notes",
-    "description": "The label for category Release-Notes in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Intermediate-Topics": {
-    "message": "Intermediate-Topics",
-    "description": "The label for category Intermediate-Topics in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Technical-Notes": {
-    "message": "Technical-Notes",
-    "description": "The label for category Technical-Notes in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Intermediate Topics": {
     "message": "Intermediate Topics",
