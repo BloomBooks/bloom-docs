@@ -6,10 +6,10 @@ slug: /team-collections-problems
 
 
 
-## Check-in / Check-out problems
+## Check-in / Check-out problems {#6f6500e490414e749a1e84d79bc6ff23}
 
 
-### What happens if there is a delay in synchronization such that two people both have a book checked out?
+### What happens if there is a delay in synchronization such that two people both have a book checked out? {#59a4097651004f1baf2f77d13efcc328}
 
 
 ---
@@ -18,7 +18,7 @@ slug: /team-collections-problems
 This should happen only rarely. If it does happen, Dropbox will choose one of the users as the “winner” and one as the “loser”. On the “losing” machine, Bloom will notice within a minute or so that another user is editing the same book. Bloom will send that user back to the Collection tab, and any changes made to the book on the “losing” machine will be removed. Bloom will alert the user to what happened, and why.
 
 
-### What happens if I connect to a Team Collection with multiple computers? 
+### What happens if I connect to a Team Collection with multiple computers?  {#0b62246146cc455aad437c5e81a2c809}
 
 
 You can join a Team Collection using multiple computers. To do this, use the same email address to register Bloom on each computer, and launch the `Join this Team Collection.joinBloomTC` file on each machine. (You’ll also need to use the same email address for Dropbox on both computers.)
@@ -30,7 +30,7 @@ Be aware that you can check out a book for editing _on only a single computer at
 ![](./885919069.png)
 
 
-### What happens if someone checks out a book but then becomes unreachable for a long time, and the team wants to edit that book?
+### What happens if someone checks out a book but then becomes unreachable for a long time, and the team wants to edit that book? {#260920d95fbb4b4f94c7868e39b510b3}
 
 
 The Team Collection Administrator can use the “Force Unlock” command to make the book editable again. 
@@ -49,40 +49,40 @@ When the administrator force-unlocks a book, any changes made by the user who or
 ![](./1322981045.png)
 
 
-### What happens when the long-lost team member comes back online?
+### What happens when the long-lost team member comes back online? {#cc80df6c942a450c855966547a2bfe11}
 
 
 On the long-lost team member’s computer, Bloom will notice that the shared team version no longer has a “lock file” that indicates that he or she has that book checked out for editing. It is now likely that there are diverging versions of this book. Bloom will save the force-unlocked version to a special “Lost & Found” folder in Dropbox, remove that user’s edit access, and notify him or her of what just happened. 
 
 
-If your long-lost teammate has been very productive and you want to use his versions of the books, you’ll need to retrieve them from the “Lost & Found” folder. It’s best to get a Bloom expert to help you do this. If you’re a confident computer user and want to do it yourself, see [Retrieving a Book from Lost & Found](9e5b75a9d295460f9b2e92eb5067171e#3f4663c924424e6b93158710b7d00ea2). 
+If your long-lost teammate has been very productive and you want to use his versions of the books, you’ll need to retrieve them from the “Lost & Found” folder. It’s best to get a Bloom expert to help you do this. If you’re a confident computer user and want to do it yourself, see [Retrieving a Book from Lost & Found](/team-collections-advanced-topics#3f4663c924424e6b93158710b7d00ea2). 
 
 
-## Bloom Enterprise license problems
+## Bloom Enterprise license problems {#63b5f85ea6c241f9ad21249c25a11143}
 
 
-### What happens if someone tries to join a Team Collection but does not have a Bloom Enterprise License?
+### What happens if someone tries to join a Team Collection but does not have a Bloom Enterprise License? {#2b1f765f02d34040b6b4e601efa1781c}
 
 
 Enterprise Licenses are for the project, not people. So anyone joining a Team Collection is joining a collection that already has the Enterprise license set up.
 
 
-### What happens if a Bloom Enterprise License expires on a Team Collection?
+### What happens if a Bloom Enterprise License expires on a Team Collection? {#c2784003ed1a40918fa6f2782cb8c100}
 
 
 The collections will keep working, but they will become disconnected from each other. Without the Bloom Enterprise enabled, the books on the team members’ computers will not synchronize with each other, nor will they have a checked-in/checked-out state.
 
 
-### What happens to a Team Collection when an expired Bloom Enterprise license is renewed? 
+### What happens to a Team Collection when an expired Bloom Enterprise license is renewed?  {#c4adc9e0944e49fcac6d17e44f64b55b}
 
 
 Each user will have to rejoin the team collection. (This allows any edits that were done while not in enterprise mode to be properly merged.)
 
 
-## Naming conflicts
+## Naming conflicts {#b772f1af5c9a4ff097a27c675cf52f5c}
 
 
-### What happens if you join a Team Collection but you already have a local collection with that name?
+### What happens if you join a Team Collection but you already have a local collection with that name? {#bd3b982ca6cb45a587e204f10e30d291}
 
 
 This has several answers.
@@ -94,7 +94,7 @@ Usually, the two collections are merged. Books that are unique to either collect
 If the local collection is found to be already connected to the Team Collection you are trying to join, Bloom will point this out in a message and open it normally. As a special case of this, if you have moved the Team Collection (for example, reorganizing your Dropbox, or switching from a LAN Team Collection to a Dropbox one), joining the collection in the new place will provide a way to reconnect them. (Otherwise, when Bloom can’t find the Team Collection at the old location, it will report that it is “disconnected”.)
 
 
-### What happens if a book has been renamed before a copied collection is merged into a team collection
+### What happens if a book has been renamed before a copied collection is merged into a team collection {#03575ccbe7c7432786550bb908b77367}
 
 
 Recall that if a user tries to join a Team Collection, but already has a collection with the same name as the Team Collection, Bloom will ask the user to _Join and Merge_ the local collection with the Team Collection_._ If the user agrees, Bloom will add the books in the user’s private collection to the Team Collection. 
@@ -109,7 +109,7 @@ When Fred tries to join the Team Collection, Bloom will see that team collection
 In this situation, the Team Collection wins. Bloom will put Fred’s books _Book 1_ and _Fred’s book_ in a special Lost & Found folder, and update Fred’s local collection to have the Team Collection versions of _Joe’s book_ and _Book 2_.
 
 
-### What happens if two Team Collections have the same name? 
+### What happens if two Team Collections have the same name?  {#12bf2fce751c44dba4e3ac0ae448c12b}
 
 
 Suppose Fred is creating books in the VMU language. He creates a Team Collection called “VMU books” and shares it with his friend Joe. Joe joins Fred’s “VMU Books” team collection. 
@@ -121,5 +121,5 @@ Joe’s friend Sally is also creating books for the VMU language. Sally also cre
 What to do: 
 
 - _If Fred, Sally, and Joe want to work together, they should decide which collection they should all use._ In this case, they agreed that Sally’s collection was the best.
-	- If Sally invites Fred to join her collection, he will get the same warning as Joe did, because he still has a Team Collection with the same name as Sally’s Team Collection. Fred should [remove his Team Collection](9e5b75a9d295460f9b2e92eb5067171e#3a6243f616134809b5b9c06e5748094f) and try again. This time Bloom will merge Fred’s local collection with Sally’s Team Collection. Sally’s collection will now contain all the books. Now that Fred’s collection is gone, Joe can join Sally’s collection.
-- _If Fred and Sally do not want to work together, they should_ [_choose different names for their Team Collections_](9e5b75a9d295460f9b2e92eb5067171e#22fd4aa3440a47b6a7ab9ed66028ca08) _so that Joe can work with them both._
+	- If Sally invites Fred to join her collection, he will get the same warning as Joe did, because he still has a Team Collection with the same name as Sally’s Team Collection. Fred should [remove his Team Collection](/team-collections-advanced-topics#3a6243f616134809b5b9c06e5748094f) and try again. This time Bloom will merge Fred’s local collection with Sally’s Team Collection. Sally’s collection will now contain all the books. Now that Fred’s collection is gone, Joe can join Sally’s collection.
+- _If Fred and Sally do not want to work together, they should_ [_choose different names for their Team Collections_](/team-collections-advanced-topics#22fd4aa3440a47b6a7ab9ed66028ca08) _so that Joe can work with them both._

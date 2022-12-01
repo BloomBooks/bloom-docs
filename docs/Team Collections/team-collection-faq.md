@@ -6,7 +6,7 @@ slug: /team-collection-faq
 
 
 
-## What happens if I want to edit a book but I cannot get online?
+## What happens if I want to edit a book but I cannot get online? {#573fa1dced4041a6804ad5f75a9d9b4e}
 
 
 If you already have the book checked out, you can edit it. If you do not have the book already checked out, you cannot check it out or edit it. 
@@ -15,19 +15,19 @@ If you already have the book checked out, you can edit it. If you do not have th
 ![](./228753637.png)
 
 
-## Does everyone on the team have to have the same version of Bloom?
+## Does everyone on the team have to have the same version of Bloom? {#93f287362b554f04b0ce4830039dd33d}
 
 
 No. The members of a team can use different versions of Bloom, with one limitation: if one team member adds a book that uses a new Bloom feature, other team members will not be able to edit that book until they update Bloom on their computers. (This is how Bloom works in general, not just for Team Collections.) 
 
 
-## What happens if I drag a Bloom Book folder into my Team Collection folder?
+## What happens if I drag a Bloom Book folder into my Team Collection folder? {#00b65914d99045a4abed4b3363496174}
 
 
 Bloom will notice that the book is not yet part of the Team Collection, and automatically add the book to the Team Collection as a “checked in” book. 
 
 
-## How can I remove a book from a Team Collection? 
+## How can I remove a book from a Team Collection?  {#41000d72c84a4fde8bf3e62f407e4cea}
 
 
 To remove a book from a Team Collection, do the following: 
@@ -40,7 +40,7 @@ To remove a book from a Team Collection, do the following:
 ![](./420186854.png)
 
 
-## What happens if I rename a book in a Team Collection?
+## What happens if I rename a book in a Team Collection? {#3ccf1796c5f94e21a96ff85e69be1407}
 
 
 Bloom treats renaming a book in a Team Collection as a _deletion_ followed by an _addition_. 

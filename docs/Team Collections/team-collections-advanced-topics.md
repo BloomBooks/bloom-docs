@@ -6,7 +6,7 @@ slug: /team-collections-advanced-topics
 
 
 
-## Moving a book from one collection to another
+## Moving a book from one collection to another {#fd16939ea0684005a34727444964a436}
 
 
 Sometimes a book needs to be moved from one collection to another. For example, suppose you have multiple Team Collections organized according to grade levels or difficulty. After reassessing a book’s level of difficulty, you decide it needs to be moved to a different collection.
@@ -18,19 +18,19 @@ The procedure to do this is as follows:
 1. **Using Windows File Explorer:** Copy the book’s _local_ folder (not the Dropbox or LAN folder), to the new collection folder.
 1. **In Bloom:** _While the book is still checked out to you,_ right-click on the book’s thumbnail and choose **Delete Book**.
 
-## Locking down a book to prevent further modifications
+## Locking down a book to prevent further modifications {#82b7d8f186a74e5d8ba5fc85083927bc}
 
 
 There are several ways you can “lock down” a book to prevent further modification: 
 
 - The Administrator can permanently Check Out the book.
-- The Administrator can move the book out of the team collection (see [Moving a book from one collection to another](9e5b75a9d295460f9b2e92eb5067171e#fd16939ea0684005a34727444964a436)).
-- The Administrator can “retire” the entire Team Collection (see [Retiring a Team Collection](9e5b75a9d295460f9b2e92eb5067171e#3a6243f616134809b5b9c06e5748094f)).
+- The Administrator can move the book out of the team collection (see [Moving a book from one collection to another](/team-collections-advanced-topics#fd16939ea0684005a34727444964a436)).
+- The Administrator can “retire” the entire Team Collection (see [Retiring a Team Collection](/team-collections-advanced-topics#3a6243f616134809b5b9c06e5748094f)).
 
 (In a future version of Bloom, we may add the ability to “lock down” a book. )
 
 
-## Retiring a Team Collection
+## Retiring a Team Collection {#3a6243f616134809b5b9c06e5748094f}
 
 
 The team collection Administrator may wish to “retire” a particular Team Collection in order to prevent accidental book modification or deletions. This might happen if a team has completed work on a book collection, or if collaboration on the book collection is no longer needed or desired. 
@@ -46,20 +46,20 @@ The team collection Administrator can change the Team Collection back into a reg
 	- `TeamCollectionLink.txt`
 1. **Using Dropbox:** Delete or un-share the shared **Dropbox** folder containing the Team Collection. (If you are using a LAN for file sharing, delete or un-share the shared LAN folder.)
 
-## Changing the name of a Team Collection
+## Changing the name of a Team Collection {#22fd4aa3440a47b6a7ab9ed66028ca08}
 
 
-When you [create a Team Collection](67038f2eef724222a49939310345e056#6035d8998d5d42a4b66a19e86590d845), you are warned that you will not be able to change the name of the collection later. This is not _exactly_ true: it is possible to change the name, but it’s painful. If you find yourself in dire circumstances and must change the Team Collection name, here is how you can do it: 
+When you [create a Team Collection](/team-collections-getting-started#6035d8998d5d42a4b66a19e86590d845), you are warned that you will not be able to change the name of the collection later. This is not _exactly_ true: it is possible to change the name, but it’s painful. If you find yourself in dire circumstances and must change the Team Collection name, here is how you can do it: 
 
 1. The Team Collection Administrator “retires” the Team Collections, following the instructions in Retiring a Team Collection above. (Note that this requires that all books be checked in.)
 1. The Team Collection Administrator deletes shadow folder, so that it is removed from all team members’ computers. If for some reason the Administrator cannot delete the shadow collection from the team members’ computers, the team members should be sure they have removed the shadow collection from their computers.
 1. The Team Collection Administrator renames the retired Team Collection (which is now a “regular” Bloom collection).
 1. The Team Collection Administrator follows the regular instructions to create a Team Collection from the collection (see Getting Started with Team Collections).
 
-## Moving a Team Collection’s shadow collection folder to a different location
+## Moving a Team Collection’s shadow collection folder to a different location {#8835095466de40648d779a09b31150ff}
 
 
-When you [create a Team Collection](67038f2eef724222a49939310345e056#6035d8998d5d42a4b66a19e86590d845), you choose a Dropbox (or LAN) folder for the Team Collection’s shadow collection folder. If you later decide you need to move the shadow collection folder to a different location, here is how you can do it:
+When you [create a Team Collection](/team-collections-getting-started#6035d8998d5d42a4b66a19e86590d845), you choose a Dropbox (or LAN) folder for the Team Collection’s shadow collection folder. If you later decide you need to move the shadow collection folder to a different location, here is how you can do it:
 
 1. **Close Bloom.**
 1. **In Windows Explorer,** navigate to the location of the shadow collection folder (in your Dropbox folder). Move the shadow collection folder to its new location.
@@ -92,7 +92,7 @@ If you try to open a Team Collection whose Dropbox folder has been moved, Bloom 
 
 
 
-## Retrieving a book from Lost and Found
+## Retrieving a book from Lost and Found {#2488e17a8a6140bebcef068046cc57b7}
 
 
 There are a number of situations where conflicts arise between books on different team members’ computers and Bloom cannot decide which one it should treat as authoritative. In these cases, Bloom chooses one version as the “winner” and saves the other one in a special folder called “Lost and Found”. (The Lost and Found folder exists only in the synchronized team collection “shadow folder”, not in your working files.) 
@@ -110,5 +110,5 @@ There are a number of situations where conflicts arise between books on differen
 **Now comes the hard part:** you must manually reconcile the two different versions. This means identifying the parts you want to keep from one book (the version you will not keep), and manually moving them into the one you will keep. This can be a painful process! 
 
 
-After you have finished reconciling the two books, you can remove the one you do not want to keep (see [How can I remove a book from a Team Collection](906cc9d79a3843e4b2f666120b79a44c#41000d72c84a4fde8bf3e62f407e4cea) for instructions on how to do this). 
+After you have finished reconciling the two books, you can remove the one you do not want to keep (see [How can I remove a book from a Team Collection](/team-collection-faq#41000d72c84a4fde8bf3e62f407e4cea) for instructions on how to do this). 
 

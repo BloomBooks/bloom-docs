@@ -6,7 +6,7 @@ slug: /bloom-editor-best-practices
 
 
 
-# Effective use of Styles
+# Effective use of Styles {#765ef785a8b64719864f32b738878f17}
 
 
 There are a number of simple “best practices” to follow to ensure your Bloom publications will display _optimally_ on a variety of devices with Bloom Reader (or ePUB), or on Bloom Library.
@@ -23,7 +23,7 @@ There are two bad habits that violate best practices:
 - Using spaces to center or indent text.
 - Formatting entire text boxes using _character_ formatting instead of using the text box style.
 
-## Using Spaces to Center or Indent Text
+## Using Spaces to Center or Indent Text {#78392b559be3468ca66edc6b5b128560}
 
 
 ![](./1329966447.png)
@@ -68,7 +68,7 @@ Conclusion: Do not use spaces to center text or to indent text.  Instead, use a 
 ![](./2022340528.png)
 
 
-## Formatting the entire text box using _character_ formatting instead of using a style
+## Formatting the entire text box using _character_ formatting instead of using a style {#db922f79470c42baa2dc8fa8d06e427b}
 
 
 Bloom allows you to select certain words in a text box and make them bold, italic etc.. This is useful for highlighting particular words, e.g.: 
@@ -98,7 +98,7 @@ If you need a new Style for a text box, Bloom provides a simple way to create on
 ![](./409758586.gif)
 
 
-## Accurate Language Tagging
+## Accurate Language Tagging {#2adf286cde6349c18b2445cef0e96a9e}
 
 
 :::tip
@@ -158,7 +158,7 @@ To achieve this specialized layout like the above, you will (1) slide the Change
 ![](./2092903332.png)
 
 
-## Image Credits
+## Image Credits {#3cb0b242b33c4573b78eeefdbf5092e6}
 
 
 Please ensure that you have accurately filled out the copyright and licensing information for all images in your book.  

@@ -7,19 +7,19 @@ keywords: [Release Notes]
 
 
 
-## Simple Choice Activities
+## Simple Choice Activities {#7b9137e3a2884dc894dfd5530044ada1}
 
 
 We’ve added two new activities that you can add to your books. Just enter the correct answer in the first box. When someone reads the book, Bloom will shuffle the answers.
 
 
-### Choose Word from Picture
+### Choose Word from Picture {#a7522644c0b24bc4b4e2d03f20357ddd}
 
 
 ![](./170924698.png)
 
 
-### Choose Picture from Word
+### Choose Picture from Word {#1c0627ef95374d84b0d6bff9b0d2b409}
 
 
 ![](./261441133.png)
@@ -28,7 +28,7 @@ We’ve added two new activities that you can add to your books. Just enter the 
 Are there other simple activities that you would like to have in your Bloom books? Feel free to request them in a [Feature Request](https://community.software.sil.org/c/bloom/featurerequests/16).  Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to add new activities to a book.
 
 
-## Get More Books from Within Bloom Reader
+## Get More Books from Within Bloom Reader {#25150f857d294ed4ab6adb1f72a99969}
 
 
 <div class='notion-row'>
@@ -76,7 +76,7 @@ Once you pick a book, you can either download it into Bloom Reader or just read 
 </div>
 
 
-# Smarter Splitter
+# Smarter Splitter {#de70537d74ce4ca68ce16095433faf20}
 
 
 We heard you: getting image and text boxes to _just the right size_ was too hard. We’ve made the splitter smart in a couple of ways:
@@ -113,7 +113,7 @@ We heard you: getting image and text boxes to _just the right size_ was too hard
 4) If you need more precision, hold down the CTRL key to go back to moving by tenths of a percent, ignoring snap points.
 
 
-## Fixed Layout ePUBs
+## Fixed Layout ePUBs {#8ec0aa36a08a4b5aaada1f990b9f0a4e}
 
 
 <div class='notion-row'>
@@ -146,13 +146,13 @@ Note that if you make a Talking Book out of an Overlay (comic) book, ePUB reader
 See [here](https://docs.bloomlibrary.org/ePUB-notes) for more information about the state of Bloom-to-ePUB publishing.
 
 
-## Color Chooser
+## Color Chooser {#790ecf6457f14013a5aceac811989c6c}
 
 
 We improved the color chooser and made the same chooser available everywhere you can set a color, including text, background colors in the overlay tool, and cover colors.
 
 
-## Text Color in Styles
+## Text Color in Styles {#ff621bf1d21f4877a38624307b9b515c}
 
 
 ![](./1015538185.png)
@@ -164,13 +164,13 @@ As before, you can also color individual words and letters:
 ![](./2003208278.png)
 
 
-## Modernised Topic Chooser
+## Modernised Topic Chooser {#160efe2e19c040a6a2b8adcc2211dbf1}
 
 
 ![](./235385131.png)
 
 
-## “Needs Copyright” Button
+## “Needs Copyright” Button {#aa5dac85bc6d400783781f410bdef7bc}
 
 
 We’ve noticed that sometimes people forget to add a copyright, which later prevents them from publishing the book to BloomLibrary.org. Now Bloom shows this button to prompt you.
@@ -183,7 +183,7 @@ We’ve noticed that sometimes people forget to add a copyright, which later pre
 
 
 
-## Overlay Tool
+## Overlay Tool {#8208a44b54ea46caa737a063dd6c74d4}
 
 - We’ve added a new Bubble shape, “Rectangular”:
 
@@ -199,7 +199,7 @@ We’ve noticed that sometimes people forget to add a copyright, which later pre
 Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to add new Overlay (comic) images to a book.
 
 
-## Other Improvements
+## Other Improvements {#118605b2d74e4b749b18f97353ab6abc}
 
 - Bloom’s experimental spreadsheet import/export now retains a book’s metadata.
 - We added experimental spreadsheet import/export for Talking Books. Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to use the spreadsheet commands.

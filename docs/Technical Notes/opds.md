@@ -22,7 +22,7 @@ Bloom implements the [OPDS](https://opds.io/) API, which is a common API in the 
 - Get lists of books in a language
 - Get thumbnails and URLs for books
 
-## Getting an account from us
+## Getting an account from us {#bfb0005a345c469da9590c29ca462505}
 
 
 There are two general ways to get an account:
@@ -62,13 +62,13 @@ Thanks!
 
 
 
-## Base URL
+## Base URL {#75d673fae90e489ca8c85599a003b669}
 
 
 [`https://api.bloomlibrary.org/v1/opds`](https://api.bloomlibrary.org/v1/opds?organizeby=language&key=rev79_app@sil.org:kCaAHOBD2r&minimalnavlinks=true)
 
 
-## Queries
+## Queries {#15c0daf6f1bc40cabee98891b9d6cfbc}
 
 
 In the following
@@ -77,7 +77,7 @@ In the following
 - `YOURKEY` is the secret API key we will give you
 - `LANGUAGETAG` is a [BCP47 ](https://www.rfc-editor.org/info/bcp47)tag
 
-## Parameters
+## Parameters {#b7487ef94deb49cfa43845a3b4f790b5}
 
 
 The following parameters are our additions the OPDS spec:
@@ -104,7 +104,7 @@ The following parameters are our additions the OPDS spec:
 `epub`: “true” | “false” (default), optional.
 
 
-### Languages
+### Languages {#91e67c66a8044bd0abe68e6d0aa6b6e3}
 
 
 To get a list of languages, use a URL like this:
@@ -130,7 +130,7 @@ etc...
 ```
 
 
-### Important OPDS/catalog/link attributes
+### Important OPDS/catalog/link attributes {#4f29ecd5d4b344e1b1ff42b1301a1c09}
 
 
 `iso`: Actually a bcp47. That is, normally this is iso-6393 code, unless it has been augmented with script or regional variant information.
@@ -142,7 +142,7 @@ etc...
 ---
 
 
-### Books of a language
+### Books of a language {#ca33614244c44331b981d98b15bd79ac}
 
 
 To get a list of books in a language, use a URL like this:
@@ -209,5 +209,5 @@ Also, depending on the book, it may provide:
 - link to an ePUB
 - link to a bloomPUB
 
-## 
+##  {#96a533648ec0444bb3ac60c4cb7789fe}
 

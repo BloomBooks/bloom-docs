@@ -9,7 +9,7 @@ slug: /62e0c75a-264b-4fdf-b37b-7cec35507f3a
 Several organizations like to publish their books to the Bloom Library in _multiple languages_. We encourage this, but also want to outline two different workflows or approaches and discuss the resulting ramifications of using each approach.
 
 
-## Method 1
+## Method 1 {#fe9b5cd512d444b8b752634ae23cd1ba}
 
 
 Publish one single book to Bloom Library which contains multiple embedded languages for your original title
@@ -39,7 +39,7 @@ Regarding the “tweaking” mentioned above, if your book is not yet ready to s
 Legitimate “tweaking” of an already published Bloom book might include things like _adding_ or improving the audio narration, or perhaps adding a forgotten book acknowledgment, or some other minor change.
 
 
-## Method 2
+## Method 2 {#0b1c5ee4ec604aa1a6c357f0ac1cc426}
 
 
 Publish one source language book, and then create derivative copies of the book in other languages
@@ -57,7 +57,7 @@ Publish one source language book, and then create derivative copies of the book 
 Now that you understand the advantages and disadvantages of these two methods, let’s talk about how your workflow would differ for each method.
 
 
-## Workflow for Method 1
+## Workflow for Method 1 {#2f4bec2da8e3425595cc7d0faf126ed7}
 
 
 For this method, you will create just _one_ Bloom collection on your computer which will serve as a “master” collection and it will hold _all_ of your books in _all_ the languages you desire. When you wish to Edit a book in a different language, you will simply switch languages in your collection’s Language Settings. Bloom will then reboot and open your collection in the new language.
@@ -78,7 +78,7 @@ If, at a later date, you need to update your book for any reason, you will need 
 ![](./841887422.png)
 
 
-## Workflow for Method 2
+## Workflow for Method 2 {#88e2a0b4e5884abcbf57a5f6ba1d7563}
 
 
 In Bloom, create a separate Bloom collection for _each_ language your organization is working with.

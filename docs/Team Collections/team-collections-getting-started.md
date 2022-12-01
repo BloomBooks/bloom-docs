@@ -19,7 +19,7 @@ The basic steps are:
 Let’s look at each step in turn.
 
 
-## Before you begin
+## Before you begin {#e90273e0a5624c619c271d35d943aa0f}
 
 
 Before you begin, make sure:
@@ -38,7 +38,7 @@ Before you begin, make sure:
 
 
 
-## Step 1: The team designates a Team Collection Administrator
+## Step 1: The team designates a Team Collection Administrator {#c66469a5defd4920adc51e3a43af9dac}
 
 
 Your team must decide who will be the Team Collection’s _Administrator_. The Administrator is the one who will convert the collection into a Team Collection and share it with the other team members. 
@@ -53,7 +53,7 @@ In addition to setting up the Team Collection and sharing it with the other team
 
 
 
-## Step 2: The Administrator converts the Collection into a Team Collection
+## Step 2: The Administrator converts the Collection into a Team Collection {#d29740fcdcfd40d7804294b33f66c04d}
 
 
 The next step for our Administrator is to convert the "regular" Collection into a Team Collection. The collection can be an existing one with books already in it, or it can be a newly created, empty collection. 
@@ -78,13 +78,13 @@ Once you have the base collection prepared, there are four steps to the process:
 Let's look at each step in detail.
 
 
-### 2.1 Open the Collection Settings in Bloom
+### 2.1 Open the Collection Settings in Bloom {#e0cdf1c10f91453ba596fe6b5657cd58}
 
 
 Open the Collection in Bloom, and click on **Settings** in the "Collections" toolbar (make sure you are in the “Collections” mode, not "Edit" or "Publish").
 
 
-### 2.2 Enable Bloom Enterprise features
+### 2.2 Enable Bloom Enterprise features {#e20fb62f9ba44e5e944a477dd3d60204}
 
 
 Team Collections is a Bloom Enterprise feature. Navigate to the **Bloom Enterprise** tab of the Collection Settings. 
@@ -108,7 +108,7 @@ If your project is funded entirely by a local community, you can enable Bloom En
 ![](./1179410017.png)
 
 
-### 2.3 Enable Team Collections
+### 2.3 Enable Team Collections {#06325dc8841a41ca951ef5c67281d42b}
 
 
 Team Collections is an experimental feature that must be enabled. After Bloom restarts, return to the Collection Settings and navigate to the **Advanced Program Settings.** 
@@ -123,7 +123,7 @@ Tick the **Team Collections** box ❹.
 ![](./2039122407.png)
 
 
-### 3.4 Create the Team Collection 
+### 3.4 Create the Team Collection  {#4e59155062ed4f5ebde71045b8ed20c8}
 
 
 After Bloom restarts, return to the Collection Settings. This time, you will see a new tab for **Team Collections**. When you activate it, you will see a warning message:
@@ -171,7 +171,7 @@ After Bloom has finished creating the cloud collection folder, Bloom will restar
 ![](./1131537463.png)
 
 
-## 3. The Administrator shares the Team Collection with the other team members
+## 3. The Administrator shares the Team Collection with the other team members {#fc32002511f04c6fad08415be980e85b}
 
 
 For others to collaborate on your Team Collection, you need to share your Team Collection folders with them. You do this by sharing with them the synchronized folder that contains your cloud collection folder. Assuming you are using Dropbox on Windows, you can do this by right-clicking the team collection shadow folder _in Windows File Explorer_ (10a) and then clicking **Share…**. (10b).
@@ -205,7 +205,7 @@ Enter the email address of each person you want to invite. Make sure the recipie
 ![](./1357356141.png)
 
 
-## 4. Other team members join the Team Collection
+## 4. Other team members join the Team Collection {#f2aa79dfaa414d9f8f188d1c7ef62e52}
 
 
 To join a Team Collection, other team members do the following: 
@@ -291,7 +291,7 @@ After Bloom has copied all the files into a working collection, Bloom will resta
 ![](./999881425.png)
 
 
-## What next? 
+## What next?  {#c33b6d8a90f64a82aa6a83911a6d4e10}
 
 
 Working with a Team Collection is like working with a regular Bloom Collection, but you need to check books out in order to edit them. When you’re finished making edits, check them in again so that your teammates can work on them. For more details, see [Working with Team Collections](/working-with-team-collections). 

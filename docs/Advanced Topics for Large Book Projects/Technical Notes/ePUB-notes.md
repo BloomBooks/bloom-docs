@@ -37,7 +37,7 @@ There are many ePUB readers available for Windows, Android, iOS and Linux, but t
 In the following two charts, we present some notes on our testing with various readers, first for **Fixed** mode ePUBs, and secondly, for **Flowable** mode ePUBs. 
 
 
-### Performance of various ePUB readers for Bloom <u>Fixed</u>-mode ePUBs
+### Performance of various ePUB readers for Bloom <u>Fixed</u>-mode ePUBs {#2e1030dda972401ba08157c7fc8fcd45}
 
 
 |                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape Layout | Sign Language | Overlay Bubbles (e.g. comics) |
@@ -57,7 +57,7 @@ In the following two charts, we present some notes on our testing with various r
 1. Frequent audio clipping.
 1. Text highlighting is erratic and unreliable.
 
-### Performance of various ePUB readers for Bloom <u>Flowable</u>-mode ePUBs
+### Performance of various ePUB readers for Bloom <u>Flowable</u>-mode ePUBs {#50df0c6098104edcb56dd27a79d0a139}
 
 
 |                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape to Portrait Rendering | Sign Language | **Overlay Bubbles (e.g. comics)** |

@@ -6,7 +6,7 @@ slug: /05b3d243-f195-4b77-bbf8-ecee475afeab
 
 
 
-# The Bloom Platform
+# The Bloom Platform {#955ffbdd4f3a467580fc005bcf18b218}
 
 
 Bloom _Editor_, Bloom _Library_, and Bloom _Reader_ comprise the Bloom _Platform_. 
@@ -15,7 +15,7 @@ Bloom _Editor_, Bloom _Library_, and Bloom _Reader_ comprise the Bloom _Platform
 The Bloom Platform is an integrated approach to book-making which provides a robust and sustainable means for language communities to author, translate, publish, and distribute books for themselves in the language they speak or sign.
 
 
-## Bloom Editor
+## Bloom Editor {#070f565a9a73475790b49a7ccd258ace}
 
 
 ![](./749601441.png)
@@ -33,7 +33,7 @@ But despite its simplicity, in recent years, Bloom Editor has increasingly becom
 To view all of Bloom Editor’s features, see [this page ](https://bloomlibrary.org/page/create/page/feature-matrix)on Bloom Library.
 
 
-## Bloom Library
+## Bloom Library {#9d03d5c0220e48129b86b0958ff59386}
 
 
 [Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than 11,000 free books in 480+ languages. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
@@ -55,7 +55,7 @@ Uploaded books are displayed using a “book card”. The book card shows a thum
 Special book features and the list of languages represented in the book are also indicated on the book card.
 
 
-## Bloom Reader
+## Bloom Reader {#e383b07bf8834fb494a7f7cd4a6268eb}
 
 
 [Bloom Reader ](https://play.google.com/store/apps/details?id=org.sil.bloom.reader)is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features: edge-to-edge images, synchronized audio narration, language switching (for books published with multiple languages), sign language video, audio image descriptions, and page navigation.

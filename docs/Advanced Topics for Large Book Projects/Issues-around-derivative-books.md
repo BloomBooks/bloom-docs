@@ -12,13 +12,13 @@ There are only three approved ways to make a book in Bloom.
 1. Make a book using an existing book in Sources for new books, typically, to translate it into another language.
 1. Duplicate an existing book.
 
-## Book IDs
+## Book IDs {#5a9eb5a6c54546659990c06b3cab766c}
 
 
 When you make a book using any of the above Bloom-approved methods for making books, the Bloom Editor will generate a unique number and assign that number to your book. This “book ID” is unique and it will follow that book _wherever_ that book “lives” even when it is uploaded to the Bloom Library.
 
 
-## Consequences of using Windows Explorer to make a new book
+## Consequences of using Windows Explorer to make a new book {#b5937dcc86c84961aeb121e2c5214730}
 
 
 If you use Windows Explorer to make a new book by copying a book folder from one collection into another collection, then the two books will have the _same_ ID. This could cause confusion later on.
