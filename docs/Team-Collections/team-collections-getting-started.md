@@ -27,7 +27,7 @@ Before you begin, make sure:
 - The latest version of Bloom is installed on your computer, **and** you have registered it with a distinct email address.
 - You have a Bloom Collection that you want to convert to be a Team Collection.
 - You have a Dropbox account.
-- The Dropbox app is installed on your computer. If the Dropbox app is not installed on your computer, see [Setting Up Dropbox on Your Computer](496a651297d742199b86fd3c542f361f).
+- The Dropbox app is installed on your computer. If the Dropbox app is not installed on your computer, see [Setting Up Dropbox on Your Computer](/team-collections-setting-up-dropbox).
 
 	:::note
 	
