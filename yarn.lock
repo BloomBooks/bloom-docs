@@ -5512,9 +5512,9 @@ dns-packet@^5.2.2:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
 docu-notion@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.7.0.tgz#1de55e9e46a092f4970bff728bc8a965966c641c"
-  integrity sha512-Gz8u9CVZaB4BK5bmmZxLMoIjWDrh3+oqcVtnO0/saxgMDDDa3bArN5XRPyuoLy9ypOtpKYHqmrVPVfjAlqQ7Mg==
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.7.2.tgz#7e8c31cfb276362a9f6bc931ab9f2690d6599a45"
+  integrity sha512-dAClYP8ex/L9KB5XlQ2bOR/WTVnskZakZ6sSG8PoKU8W+C5XidDNUXZ4UR1+9rmPktw0RcPDZUMi8wqJpwej2A==
   dependencies:
     "@notionhq/client" "^1.0.4"
     chalk "^4.1.2"
