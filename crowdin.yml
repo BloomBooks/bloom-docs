@@ -16,6 +16,6 @@ files: [
       # doesn't skip untranslated parts of our MD files like we would expect: "skip_untranslated_strings": true,
       "skip_untranslated_files": true,
       # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
-      "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif"],
+      "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif", "**/_category_.json"],
     },
   ]
