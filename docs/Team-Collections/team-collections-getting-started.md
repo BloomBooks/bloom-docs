@@ -153,7 +153,21 @@ The **shadow collection folder** is a special folder of compressed files stored 
 
 
 
-**T**ake a moment to read and make sure you understand the three items in the second section **❽**. Then, tick the three boxes showing you have read and understood these notices. 
+:::caution
+
+Make sure that the folder you choose as your shadow folder (the “LAN or Dropbox Folder”) is NOT one of the following: 
+- a folder that is already a shadow folder (i.e., DON’T choose a folder that contains a `.JoinBloomTC` file)
+
+- a Bloom collection working folder working collection (i.e., DON’T choose a folder that contains a `.bloomCollection` file)
+
+- a folder that already contains a folder with the same name as the shadow folder you are trying to create
+
+:::
+
+
+
+
+Next, take a moment to read and make sure you understand the three items in the second section **❽**. Then, tick the three boxes showing you have read and understood these notices. 
 
 
 If you are satisfied that everything is correct, click **CREATE & RESTART** **❾**. 
