@@ -6,7 +6,7 @@ slug: /2f3ad4e2-7d98-47b8-858f-5c4436e9cc91
 
 
 
-![](./1760295598.png)
+![Recording a Talking Book alt text box](./1760295598.png)
 
 
 ## Creating Accessible Books in Bloom {#84b69f618d77465ea850d78a72029ed9}
@@ -182,16 +182,25 @@ The first choice shows what the image might look like to someone with cataracts.
 ![](./938620240.png)
 
 
+---
+
+
 For color blindness, there are three possibilities. The first shows what the image might look like to someone with red-green color blindness.
 
 
 ![](./1435977174.png)
 
 
+---
+
+
 The second option shows what the image might look like to someone with blue-yellow color blindness.
 
 
 ![](./305669585.png)
+
+
+---
 
 
 The third option shows what the image might look like to someone with complete color blindness.
