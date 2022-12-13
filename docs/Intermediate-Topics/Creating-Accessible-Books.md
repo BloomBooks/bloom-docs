@@ -68,11 +68,20 @@ Then activate the **Image Description Tool** by clicking in the check box.
 ## Create Image Descriptions {#06836ffe32e943a485c675e3d3a8d73b}
 
 
+<div class='notion-row'>
+<div class='notion-column'>
+
 Now that the Image Description Tool is open, a space will be created next to the image for adding a text description. You may now type in the text which describes the image. If you are not familiar with how to write image descriptions, you may want to visit:
 [poet.diagramcenter.org](http://poet.diagramcenter.org/). 
 
+</div>
+
+<div class='notion-column'>
 
 ![](./2056205524.png)
+
+</div>
+</div>
 
 
 Once you are satisfied with the image description, you can close the Image Description Tool by clicking on the X above the Image Description Tool window. 
@@ -85,10 +94,19 @@ _Learning to Use Bloom_ tells how to record audio of the text in a book. Those i
 Begin by switching the active tool from the Image Description Tool to the Talking Book Tool.
 
 
+<div class='notion-row'>
+<div class='notion-column'>
+
 If needed, use the Next and Back button to change from one text box to another. If you are recording by sentence, The Next and Back buttons will move one sentence at a time. 
 
+</div>
+
+<div class='notion-column'>
 
 ![](./850996196.png)
+
+</div>
+</div>
 
 
 ---
@@ -137,6 +155,8 @@ Read aloud the highlighted text several times until you are familiar with the te
 
 When you are ready to record, click on and hold down the **Speak** button and start reading the highlighted text. While you are recording, the button will turn yellow. 
 
+—
+
 </div>
 
 <div class='notion-column'>
@@ -150,15 +170,19 @@ When you are ready to record, click on and hold down the **Speak** button and st
 When you are finished reading, release the **Speak** button and Bloom will stop recording. Now, click the Check button to review your recording. 
 
 
+---
+
+
 ## Activating the Impairment Visualizer {#eed6e6e9e83d46978419bdfcfc7ed4f4}
+
+
+The Impairment Visualizer is another tool for creating accessible books. This tool allows you to select several filters that will show you what the image might look like to someone with several different kinds of visual impairment. 
 
 
 <div class='notion-row'>
 <div class='notion-column'>
 
-The Impairment Visualizer is another tool for creating accessible books. This tool allows you to select several filters that will show you what the image might look like to someone with several different kinds of visual impairment. Activate this tool by clicking on More... in the Tool Panel and selecting Impairment Visualizer. 
-Using this tool, you can evaluate whether an image should be modified so that it is easier to interpret for people with these sorts of visual impairments.
-Bloom does not have a tool for editing images. If an image needs to be edited, you will have to use another program to do that.
+Activate this tool by clicking on More... in the Tool Panel and selecting Impairment Visualizer. 
 
 </div>
 
@@ -170,43 +194,97 @@ Bloom does not have a tool for editing images. If an image needs to be edited, y
 </div>
 
 
+<div class='notion-row'>
+<div class='notion-column'>
+
+
+Using this tool, you can evaluate whether an image should be modified so that it is easier to interpret for people with these sorts of visual impairments.
+
+
+
+</div>
+
+<div class='notion-column'>
+
 ![](./2083622234.png)
+
+</div>
+</div>
+
+
+Bloom does not have a tool for editing images. If an image needs to be edited, you will have to use another program to do that.
 
 
 ## Using the Image Visualizer {#8d66fa5d68c447f1b4fe2d974782f927}
 
 
+<div class='notion-row'>
+<div class='notion-column'>
+
 The first choice shows what the image might look like to someone with cataracts.
 
+</div>
+
+<div class='notion-column'>
 
 ![](./938620240.png)
 
+</div>
+</div>
+
 
 ---
 
+
+<div class='notion-row'>
+<div class='notion-column'>
 
 For color blindness, there are three possibilities. The first shows what the image might look like to someone with red-green color blindness.
 
+</div>
+
+<div class='notion-column'>
 
 ![](./1435977174.png)
 
+</div>
+</div>
+
 
 ---
 
+
+<div class='notion-row'>
+<div class='notion-column'>
 
 The second option shows what the image might look like to someone with blue-yellow color blindness.
 
+</div>
+
+<div class='notion-column'>
 
 ![](./305669585.png)
+
+</div>
+</div>
 
 
 ---
 
 
+<div class='notion-row'>
+<div class='notion-column'>
+
 The third option shows what the image might look like to someone with complete color blindness.
 
+</div>
+
+<div class='notion-column'>
 
 ![](./1799625050.png)
+
+</div>
+</div>
 
 
 ## General considerations for choosing images {#9b5d6c7250b34a98a3105c3012a98a24}
@@ -228,53 +306,109 @@ Now we will compare some images to provide some examples of these principles.
 ## Considerations for choosing images: Amount of detail {#8b79affb113e43ee9b3123c73ea02fe4}
 
 
-Here are some examples of images with more detail compared with images with less detail. All of these images are from the Art of Reading. It will be better to use the images with less detail.
+Here are some examples of images with more detail compared with images with less detail. All of these images are from the Art of Reading. It will be better to use the images with less detail. 
 
 
-Images with less detail on the left and more detail on the right:
+<div class='notion-row'>
+<div class='notion-column'>
 
+For example, the Images with less detail on the left, rather than the images with more detail on the right:
+
+</div>
+
+<div class='notion-column'>
 
 ![](./711681117.png)
 
+</div>
+</div>
 
-Additional examples of images with less detail on the left and more detail on the right:
 
+<div class='notion-row'>
+<div class='notion-column'>
+
+Here are some additional examples of images with less detail on the left and more detail on the right:
+
+</div>
+
+<div class='notion-column'>
 
 ![](./367766188.png)
+
+</div>
+</div>
 
 
 ## Considerations for choosing images: Thick black lines {#ef61fc29124f44c2bc3f84dddb40ab4e}
 
 
-These images from the Art of Reading illustrate images that have thick, solid black lines compared to images with thinner, less distinct lines. It will be better to use images with thick, solid lines.
-Images with thicker, solid lines on the left and thinner, less distinct lines on the right:
+These images from the Art of Reading illustrate images that have thick, solid black lines compared to images with thinner, less distinct lines. It will be better to use images with thick, solid lines. 
 
+
+<div class='notion-row'>
+<div class='notion-column'>
+
+The images on the left have thicker, solid lines, and the images on the right have thinner, less distinct lines. 
+
+</div>
+
+<div class='notion-column'>
 
 ![](./1473610249.png)
 
+</div>
+</div>
 
-Additional images with thicker, solid lines on the left and thinner, less distinct lines on the right:
 
+<div class='notion-row'>
+<div class='notion-column'>
+
+Here are some additional examples of images with thicker, solid lines on the left and thinner, less distinct lines on the right. 
+
+</div>
+
+<div class='notion-column'>
 
 ![](./418679652.png)
+
+</div>
+</div>
 
 
 ## Considerations for choosing images: Color and photos {#87c950eedcd64a37bfb462892c174d1e}
 
 
-We all like photos and color illustrations, but they are visually more complex. Below you can compare line drawings to a photo or a color illustration or a simpler color illustration to a more complex one. It will generally be better to use simpler images.
+We all like photos and color illustrations, but they are visually more complex. Below you can compare line drawings to a photo or a color illustration or a simpler color illustration to a more complex one. It will generally be better to use simpler images. 
 
 
-Images that are simpler on the left and more complex on the right:
+<div class='notion-row'>
+<div class='notion-column'>
 
+The images on the left are simpler, while the ones on the right are more complex.
+
+</div>
+
+<div class='notion-column'>
 
 ![](./431581502.png)
 
+</div>
+</div>
 
-Additional images that are simpler on the left and more complex on the right:
 
+<div class='notion-row'>
+<div class='notion-column'>
+
+Additional examples of simpler images on the left and more complex images on the right:
+
+</div>
+
+<div class='notion-column'>
 
 ![](./2115603098.png)
+
+</div>
+</div>
 
 
 ## Summary {#2688584619fc44a9ac09298acadc4048}
