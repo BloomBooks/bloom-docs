@@ -31,8 +31,6 @@ jobs:
         run: yarn pull
       - name: copy-static-docs
         run: yarn copy-static-docs
-      # - name: Prepare PDF Download
-      #   run: yarn make-pdf
       - name: Commit New Source Material
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -48,8 +46,18 @@ jobs:
       - name: Build Docusaurus instance
         run: yarn build
       - name: Upload S3
+        # We exclude these six paths because they existed before the current system.
+        # Those six index.html files are redirects to other documents, mostly Google docs.
+        # Note:
+        #   `team-collections` now redirects to the new system's `https://docs.bloomlibrary.org/team-collections-intro/`.
+        #   `team-collections-sharing-services` now redirects to `https://docs.bloomlibrary.org/team-collections-intro/#2e254141a368476083ba215f25f14ab8`.
         run: aws s3 sync ./build  s3://${{ secrets.AWS_BUCKET }} --delete --exclude "sil-corporate-guidelines/index.html" --exclude "bloomPUB-bundles/index.html" --exclude "bloom-reader-distribution-tags/index.html" --exclude "bloom-reader-shelves/index.html" --exclude "team-collections-sharing-services/index.html" --exclude "team-collections/index.html" --exclude "widgets/index.html"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: "us-east-1"
+          # Make and upload the PDF after uploading to S3 since the PDF is created from content on docs.bloomlibrary.org
+      - name: Prepare PDF Download
+        run: yarn make-pdf
+      - name: Upload PDF to S3
+        run: aws s3 cp ./build/download/*.pdf s3://${{ secrets.AWS_BUCKET }}/downloads

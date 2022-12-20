@@ -1,6 +1,7 @@
 {
-    "workbench.colorCustomizations": {
-        "statusBar.noFolderBackground": "#D65649",
-        "statussBar.prominentBackground": "#D65649"
-    }
+  "workbench.colorCustomizations": {
+    "statusBar.noFolderBackground": "#D65649",
+    "statussBar.prominentBackground": "#D65649"
+  },
+  "cSpell.words": ["bloomlibrary"]
 }
