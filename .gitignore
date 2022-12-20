@@ -24,3 +24,5 @@ yarn-error.log*
 
 docs/downloads.md
 .secrets
+
+static/downloads/docs-bloomlibrary-english-a4.pdf
