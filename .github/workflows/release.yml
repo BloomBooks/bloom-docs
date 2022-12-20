@@ -60,7 +60,7 @@ jobs:
       - name: Prepare PDF Download
         run: yarn make-pdf
       - name: Upload PDF to S3
-        run: aws s3 cp ./static/downloads/docs-bloomlibrary-english-a4.pdf s3://${{ secrets.AWS_BUCKET }}/downloads
+        run: aws s3 cp ./static/downloads/docs-bloomlibrary-english-a4.pdf s3://${{ secrets.AWS_BUCKET }}/downloads/docs-bloomlibrary-english-a4.pdf
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
