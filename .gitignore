@@ -22,7 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-static/downloads/docs-bloomlibrary-english-a4.pdf
-
 docs/downloads.md
 .secrets
