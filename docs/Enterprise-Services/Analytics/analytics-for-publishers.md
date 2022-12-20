@@ -75,7 +75,7 @@ No events at this time:
 
 Web
 
-- IP address (--> city / country?)
+- IP address (--&gt; city / country?)
 
 Bloom Reader only:
 

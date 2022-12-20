@@ -1,6 +1,6 @@
 ---
 title: HTML5 Widgets
-sidebar_position: 8
+sidebar_position: 7
 slug: /48e8e101-e788-4a3a-9cbf-6fb931f024d2
 keywords: [HTML5, widgets, activities, games]
 ---
@@ -70,13 +70,13 @@ To tell Bloom Player to navigate, you will need to add some javascript to a butt
 
 
 <div class='notion-row'>
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 0)) * 1)'}}>
 
 ```javascript
 window.parent.postMessage('{"messageType":"control", "controlAction":"navigate-to-previous-page"}',"*");
 ```
 
-</div>
+</div><div className='notion-spacer' />
 </div>
 
 
@@ -84,12 +84,12 @@ or
 
 
 <div class='notion-row'>
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 0)) * 1)'}}>
 
 ```javascript
 window.parent.postMessage('{"messageType":"control", "controlAction":"navigate-to-next-page"}',"*");
 ```
 
-</div>
+</div><div className='notion-spacer' />
 </div>
 

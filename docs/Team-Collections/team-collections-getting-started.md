@@ -123,7 +123,7 @@ Tick the **Team Collections** box ❹.
 ![](./2039122407.png)
 
 
-### 3.4 Create the Team Collection  {#4e59155062ed4f5ebde71045b8ed20c8}
+### 2.4 Create the Team Collection  {#4e59155062ed4f5ebde71045b8ed20c8}
 
 
 After Bloom restarts, return to the Collection Settings. This time, you will see a new tab for **Team Collections**. When you activate it, you will see a warning message:
@@ -249,17 +249,17 @@ It is essential to double-click `Join this Team Collection.JoinBloomTC` **in Win
 
 
 <div class='notion-row'>
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./819152526.png)
 
-</div>
+</div><div className='notion-spacer' />
 
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1457207837.png)
 
-</div>
+</div><div className='notion-spacer' />
 </div>
 
 

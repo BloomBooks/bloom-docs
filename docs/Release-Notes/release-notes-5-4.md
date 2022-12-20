@@ -32,47 +32,47 @@ Are there other simple activities that you would like to have in your Bloom book
 
 
 <div class='notion-row'>
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 Finally, users can get more books into their Bloom Reader without going to a separate browser window. We’ve added a button at the bottom of the screen:
 
-</div>
+</div><div className='notion-spacer' />
 
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1308884199.png)
 
-</div>
+</div><div className='notion-spacer' />
 </div>
 
 
 <div class='notion-row'>
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 You then choose a language and Bloom Reader shows you books from BloomLibrary.org. It will remember your recent languages, so you don’t have to find them each time:
 
-</div>
+</div><div className='notion-spacer' />
 
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1680403519.png)
 
-</div>
+</div><div className='notion-spacer' />
 </div>
 
 
 <div class='notion-row'>
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 Once you pick a book, you can either download it into Bloom Reader or just read it online:
 
-</div>
+</div><div className='notion-spacer' />
 
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./541668660.png)
 
-</div>
+</div><div className='notion-spacer' />
 </div>
 
 
@@ -93,17 +93,17 @@ We heard you: getting image and text boxes to _just the right size_ was too hard
 - Square
 
 <div class='notion-row'>
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000001)'}}>
 
 ![](./1834670900.png)
 
-</div>
+</div><div className='notion-spacer' />
 
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./183553286.png)
 
-</div>
+</div><div className='notion-spacer' />
 </div>
 
 
@@ -117,17 +117,17 @@ We heard you: getting image and text boxes to _just the right size_ was too hard
 
 
 <div class='notion-row'>
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 Bloom can now create ePUBs in “Fixed” mode which asks ePUB players to preserve the page as you see it in Bloom. If you have a very simple book, Bloom will also let you choose the previous “Flowable” mode.
 
-</div>
+</div><div className='notion-spacer' />
 
-<div class='notion-column'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./330307146.png)
 
-</div>
+</div><div className='notion-spacer' />
 </div>
 
 

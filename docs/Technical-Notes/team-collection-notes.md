@@ -1,6 +1,6 @@
 ---
 title: Notes on Team Collections
-sidebar_position: 1
+sidebar_position: 3
 slug: /team-collection-notes
 ---
 
