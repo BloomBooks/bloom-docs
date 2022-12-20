@@ -42,7 +42,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.1.0",
     "@tsconfig/docusaurus": "^1.0.6",
-    "docu-notion": "^0.7.0",
+    "docu-notion": "^0.8",
     "typescript": "^4.6.4"
   },
   "browserslist": {
