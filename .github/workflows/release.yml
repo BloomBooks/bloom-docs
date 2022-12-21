@@ -59,8 +59,8 @@ jobs:
       # Make and upload the PDF after uploading to S3 since the PDF is created from content on S3.
       - name: Prepare PDF Download
         run: yarn make-pdf
-      - name: Upload PDF to S3
-        run: aws s3 cp ./static/downloads/docs-bloomlibrary-english-a4.pdf s3://${{ secrets.AWS_BUCKET }}/downloads/docs-bloomlibrary-english-a4.pdf
+      - name: Upload PDFs to S3
+        run: aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf" --exclude "*/*"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
