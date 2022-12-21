@@ -31,6 +31,9 @@ jobs:
         run: yarn pull
       - name: copy-static-docs
         run: yarn copy-static-docs
+      # Still doing this here in the sequence for now. See comments below about what needs to happen eventually.
+      - name: Prepare PDF Download
+        run: yarn make-pdf
       - name: Commit New Source Material
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -56,12 +59,16 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: "us-east-1"
+
+      # Ultimately, we need to figure out how to make this work.
+      # But I haven't gotten it working yet. Docusaurus adds a hash to the end of the filename, so it needs to be there when docusaurus
+      # runs, then we need to use that filename for the real one we generate.
       # Make and upload the PDF after uploading to S3 since the PDF is created from content on S3.
-      - name: Prepare PDF Download
-        run: yarn make-pdf
-      - name: Upload PDFs to S3
-        run: aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf" --exclude "*/*"
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: "us-east-1"
+      # - name: Prepare PDF Download
+      #   run: yarn make-pdf
+      # - name: Upload PDFs to S3
+      #   run: aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf" --exclude "*/*"
+      #   env:
+      #     AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
+      #     AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      #     AWS_DEFAULT_REGION: "us-east-1"
