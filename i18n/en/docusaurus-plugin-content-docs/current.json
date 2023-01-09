@@ -30,5 +30,9 @@
   "sidebar.defaultSidebar.category.Team Collections": {
     "message": "Team Collections",
     "description": "The label for category Team Collections in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Whitelisting Bloom": {
+    "message": "Whitelisting Bloom",
+    "description": "The label for category Whitelisting Bloom in sidebar defaultSidebar"
   }
 }
