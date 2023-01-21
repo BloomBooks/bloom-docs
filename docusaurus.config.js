@@ -50,7 +50,7 @@ const config = {
   ],
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr","es"],
+    locales: ["en", "fr", "es"],
     localeConfigs: {
       en: {
         label: "English",

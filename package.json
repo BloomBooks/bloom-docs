@@ -17,7 +17,7 @@
     "copy-static-docs": "cp ./static-docs/*.* ./docs",
     "docu-pdf": "docu-pdf",
     "make-pdf": "bash make-pdf.sh",
-    "pull:test": "cross-var docu-notion -n $SIL_BLOOM_DOCS_NOTION_TOKEN -r $SIL_BLOOM_DOCS_NOTION_ROOT_PAGE -m \"./testdocs\" --status-tag test",
+    "pull:test": "cross-var docu-notion -n $SIL_BLOOM_DOCS_NOTION_TOKEN -r $SIL_BLOOM_DOCS_NOTION_ROOT_PAGE -m \"./testdocs\" --status-tag test --log-level verbose",
     "crowdin": "crowdin",
     "//pretranslate": "  used to re-apply translations when files are renamed or reorganized",
     "crowdin:pretranslate": "crowdin pre-translate --method tm --translate-untranslated-only --translate-with-perfect-match-only --verbose",
