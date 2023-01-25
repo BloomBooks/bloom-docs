@@ -39,7 +39,7 @@ We will set up your account and provide you with the credentials you need.
 
 :::note
 
-Before requesting an API key, please create an account at BloomLibrary.org. Then when you write, tell us what the email address is that you used to create that account.
+Before requesting an API key, please create an account at [BloomLibrary.org](http://BloomLibrary.org). Then when you write, tell us what the email address is that you used to create that account.
 
 :::
 

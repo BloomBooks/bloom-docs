@@ -76,7 +76,7 @@ Once you pick a book, you can either download it into Bloom Reader or just read 
 </div>
 
 
-# Smarter Splitter {#de70537d74ce4ca68ce16095433faf20}
+## Smarter Splitter {#de70537d74ce4ca68ce16095433faf20}
 
 
 We heard you: getting image and text boxes to _just the right size_ was too hard. We’ve made the splitter smart in a couple of ways:

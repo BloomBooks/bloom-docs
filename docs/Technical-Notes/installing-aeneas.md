@@ -72,7 +72,7 @@ If you do not have the aeneas software package installed on your computer, Bloom
 
 ## How to install aeneas {#9a04c47a775746d0be2db16cf442995b}
 
-1. Click the link under “aeneas” in the Talking Book Tool’s warning box,  or navigate to this webpage to download the aeneas software: https://github.com/sillsdev/aeneas-installer/releases/tag/v1.7.3
+1. Click the link under “aeneas” in the Talking Book Tool’s warning box,  or navigate to this webpage to download the [aeneas ](https://github.com/sillsdev/aeneas-installer/releases/tag/v1.7.3)software: [https://github.com/sillsdev/aeneas-installer/releases/tag/v1.7.3](https://github.com/sillsdev/aeneas-installer/releases/tag/v1.7.3)
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
@@ -92,7 +92,7 @@ If you do not have the aeneas software package installed on your computer, Bloom
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-1. Find the downloaded **`aeneas-windows-setup-1.7.3.exe`**  installer program (probably in the **Downloads** folder) and double-click it to launch the software installer. Windows will show you a User Account Control window, asking whether you want to allow the app to make changes to your device. Click **Yes**. 
+1. Find the downloaded [**`aeneas-windows-setup-1.7.3.exe`**](https://github.com/sillsdev/aeneas-installer/releases/download/v1.7.3/aeneas-windows-setup-1.7.3.exe)  installer program (probably in the **Downloads** folder) and double-click it to launch the software installer. Windows will show you a User Account Control window, asking whether you want to allow the app to make changes to your device. Click **Yes**. 
 
 The aeneas tools setup wizard will start.
 

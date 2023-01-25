@@ -51,10 +51,10 @@ The team collection Administrator can change the Team Collection back into a reg
 
 When you [create a Team Collection](/team-collections-getting-started#6035d8998d5d42a4b66a19e86590d845), you are warned that you will not be able to change the name of the collection later. This is not _exactly_ true: it is possible to change the name, but it’s painful. If you find yourself in dire circumstances and must change the Team Collection name, here is how you can do it: 
 
-1. The Team Collection Administrator “retires” the Team Collections, following the instructions in Retiring a Team Collection above. (Note that this requires that all books be checked in.)
+1. The Team Collection Administrator “retires” the Team Collections, following the instructions in [Retiring a Team Collection](/team-collections-advanced-topics#3a6243f616134809b5b9c06e5748094f) above. (Note that this requires that all books be checked in.)
 1. The Team Collection Administrator deletes shadow folder, so that it is removed from all team members’ computers. If for some reason the Administrator cannot delete the shadow collection from the team members’ computers, the team members should be sure they have removed the shadow collection from their computers.
 1. The Team Collection Administrator renames the retired Team Collection (which is now a “regular” Bloom collection).
-1. The Team Collection Administrator follows the regular instructions to create a Team Collection from the collection (see Getting Started with Team Collections).
+1. The Team Collection Administrator follows the regular instructions to create a Team Collection from the collection (see [Getting Started with Team Collections](/team-collections-getting-started)).
 
 ## Moving a Team Collection’s shadow collection folder to a different location {#8835095466de40648d779a09b31150ff}
 
@@ -102,7 +102,7 @@ There are a number of situations where conflicts arise between books on differen
 
 1. Navigate to the Dropbox (or LAN)-synchronized “shadow folder” (for instance, **`C:\Users\<your username>\Dropbox\My-collection - TC\`**).
 1. Now look for a subfolder called **`Lost and Found`**. Inside the `Lost and Found` subfolder you will find one or more files with a **`.bloom`** extension. Each of these is a compressed book folder.
-1. Copy the desired `.bloom` file to a different location on your computer, and uncompress it into a new folder. You will probably need to use a zip utility such as 7-Zip to do this. (Alternately, you can change the filename extension to `.zip`, and use Windows’ built-in zip tools to uncompress the file into a new folder.)
+1. Copy the desired `.bloom` file to a different location on your computer, and uncompress it into a new folder. You will probably need to use a zip utility such as [7-Zip](https://7-zip.org/) to do this. (Alternately, you can change the filename extension to `.zip`, and use Windows’ built-in zip tools to uncompress the file into a new folder.)
 1. Copy or move your newly uncompressed folder into your **local** Team Collection folder. **WARNING: Make sure the folder has a different name than the original book’s folder name!** Otherwise you’ll get back into a conflict situation.
 1. Launch Bloom (or close and relaunch Bloom). Bloom will recognize that a book has been added to the Team Collection, and will automatically check it out to you.
 1. Check in the book, and Bloom (with a little help from Dropbox or your LAN) will propagate the new book to the other Team Collection computers.

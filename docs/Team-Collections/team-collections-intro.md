@@ -26,7 +26,7 @@ A **Bloom Team Collection** is a normal Bloom Collection that is shared among te
 
 	:::note
 	
-	These instructions focus on using Dropbox to synchronize Team Collection files. If you want to use a local network share instead of Dropbox, contact the Bloom team at experimental@bloomlibrary.org. 
+	These instructions focus on using Dropbox to synchronize Team Collection files. If you want to use a local network share instead of Dropbox, contact the Bloom team at [experimental@bloomlibrary.org](mailto:experimental@bloomlibrary.org). 
 	
 	:::
 	

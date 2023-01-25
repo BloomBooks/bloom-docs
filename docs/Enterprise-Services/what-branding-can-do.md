@@ -30,7 +30,7 @@ Creating a custom branding pack is a paid service. If you think you need a custo
 
 :::note
 
-You can do a lot with a custom branding pack, there are limits: see What Bloom branding cannot do below.
+You can do a lot with a custom branding pack, there are limits: see [What Bloom branding cannot do](/what-branding-can-do#b681c648ec2e401999e6cefafeb002fa) below.
 
 :::
 

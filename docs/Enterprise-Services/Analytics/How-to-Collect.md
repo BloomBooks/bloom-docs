@@ -13,7 +13,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 	- Option 2: Create and place a special file on each device. Make sure Bloom Reader has permission to read this file.
 - You will need to be directly reading from our analytics database. This device ID will not be available from a BloomLibrary.org stats page.
 
-### **Option 1: Steps for adding the information directly within Bloom Reader:**[](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#option-1-steps-for-adding-the-information-directly-within-bloom-reader) {#59920d0ccbff4204be5387022a2773e0}
+### **Option 1: Steps for adding the information directly within Bloom Reader:**[undefined](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#option-1-steps-for-adding-the-information-directly-within-bloom-reader) {#59920d0ccbff4204be5387022a2773e0}
 
 1. Decide on a project ID and device IDs for each device.
 1. Open the menu by clicking on the menu at the top-left of the book list.
@@ -26,7 +26,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 [Verification](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#heading=h.gjum8a6qcqrv) below.
 
 
-### **Option 2: Steps for creating the file that identifies each device:**[](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#option-2-steps-for-creating-the-file-that-identifies-each-device) {#6f0db958af26407db71eb5d2100851ef}
+### **Option 2: Steps for creating the file that identifies each device:**[undefined](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#option-2-steps-for-creating-the-file-that-identifies-each-device) {#6f0db958af26407db71eb5d2100851ef}
 
 1. Decide on a project ID and device IDs for each device.
 1. Create a file called deviceId.json.{ project: 'projectID' , device: 'deviceID' } 2. Example: \ { project: 'RISE2' , device: 'STUDENT NORTH FLY 001' }
@@ -46,7 +46,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 menu at the top-left of the book list. 6. Tap “Find lost books”. 7. Navigate to the Bloom directory if needed, then tap “Use this Folder” or “Select” to give permission to the directory.
 
 
-### **Verification**[](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#verification) {#9c7cf468a11f413c82e1663c2b17c863}
+### **Verification**[undefined](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#verification) {#9c7cf468a11f413c82e1663c2b17c863}
 
 
 To verify the setup was successful, open the

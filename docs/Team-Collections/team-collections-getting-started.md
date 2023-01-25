@@ -11,10 +11,10 @@ To create a Team Collection, you start with an existing Bloom collection and con
 
 The basic steps are:
 
-1. The team designates a Team Collection Administrator
-1. The Administrator converts a Collection into a Team Collection
-1. The Administrator shares the Team Collection with the other team members
-1. Other team members join the Team Collection
+1. [The team designates a Team Collection Administrator](/team-collections-getting-started#c66469a5defd4920adc51e3a43af9dac)
+1. [The Administrator converts a Collection into a Team Collection](/team-collections-getting-started#d29740fcdcfd40d7804294b33f66c04d)
+1. [The Administrator shares the Team Collection with the other team members](/team-collections-getting-started#fc32002511f04c6fad08415be980e85b)
+1. [Other team members join the Team Collection](/team-collections-getting-started#f2aa79dfaa414d9f8f188d1c7ef62e52)
 
 Let’s look at each step in turn.
 
@@ -70,10 +70,10 @@ If your team has multiple copies of the exact same book or even multiple copies 
 
 Once you have the base collection prepared, there are four steps to the process:
 
-1. Open the Collection Settings in Bloom
-1. Enable Bloom Enterprise features
-1. Enable Team Collections
-1. Create the Team Collection
+1. [Open the Collection Settings in Bloom](/team-collections-getting-started#e0cdf1c10f91453ba596fe6b5657cd58)
+1. [Enable Bloom Enterprise features](/team-collections-getting-started#e20fb62f9ba44e5e944a477dd3d60204)
+1. [Enable Team Collections](/team-collections-getting-started#e20fb62f9ba44e5e944a477dd3d60204)
+1. [Create the Team Collection](/team-collections-getting-started#107a3a7190484bca817bb46544072192)
 
 Let's look at each step in detail.
 
@@ -146,7 +146,7 @@ The first section lets you choose a location for the team collection’s “shad
 
 :::note
 
-The **shadow collection folder** is a special folder of compressed files stored in Dropbox, which Bloom uses to synchronize files between team members’ computers. See How Team Collections work for more details.
+The **shadow collection folder** is a special folder of compressed files stored in Dropbox, which Bloom uses to synchronize files between team members’ computers. See [How Team Collections work](/team-collections-intro#013b2b088f3d4b98a03331c3953ed52f) for more details.
 
 :::
 
@@ -188,7 +188,7 @@ After Bloom has finished creating the cloud collection folder, Bloom will restar
 ## 3. The Administrator shares the Team Collection with the other team members {#fc32002511f04c6fad08415be980e85b}
 
 
-For others to collaborate on your Team Collection, you need to share your Team Collection folders with them. You do this by sharing with them the synchronized folder that contains your cloud collection folder. Assuming you are using Dropbox on Windows, you can do this by right-clicking the team collection shadow folder _in Windows File Explorer_ (10a) and then clicking **Share…**. (10b).
+For others to collaborate on your Team Collection, you need to share your Team Collection folders with them. You do this by sharing with them the synchronized folder that contains your cloud collection folder. Assuming you are using Dropbox on Windows, you can do this by [right-clicking ](/glossary#ed2779a32ce246d79050e7f2b39374d9)the team collection shadow folder _in Windows File Explorer_ (10a) and then clicking **Share…**. (10b).
 
 
 ![](./782809012.png)
@@ -196,7 +196,7 @@ For others to collaborate on your Team Collection, you need to share your Team C
 
 :::note
 
-The shadow collection folder contains a special file called `Join This Team Collection.JoinBloomTC`. (This file might appear as simply `Join This Team Collection`, if you have Windows File Explorer set to hide filename extensions.) The Administrator can rename this file (for instance, to translate it into another language), but the file **must** retain the `.JoinBloomTC` filename extension.
+The [shadow collection folder](/team-collections-intro#013b2b088f3d4b98a03331c3953ed52f) contains a special file called `Join This Team Collection.JoinBloomTC`. (This file might appear as simply `Join This Team Collection`, if you have Windows File Explorer set to hide filename extensions.) The Administrator can rename this file (for instance, to translate it into another language), but the file **must** retain the `.JoinBloomTC` filename extension.
 
 :::
 
