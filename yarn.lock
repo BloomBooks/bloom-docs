@@ -5593,10 +5593,10 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-docu-notion@^0.9.1:
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.9.1.tgz#8c79efa9e47cefe898517d934e1de438467f45fd"
-  integrity sha512-KEBZZba9iBvOVSaCmULaFkKmxwAO4EteC13zsuKgCLh7lv46n0ivCKhTREWUS+H9lh0L+7T75DYeLVCM90MyeA==
+docu-notion@^0.9.2:
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.9.2.tgz#017ff9c20c3c55fc9bd204ca415764b18049600a"
+  integrity sha512-iLZxt/rTMyR62f/rER+sQsGfsFPEMQADLC/xi0gLV34cxU0ntCTpwGXfBh6vlKro9TFzbLe7x4laJQrsGvgNrg==
   dependencies:
     "@notionhq/client" "2.2.3"
     chalk "^4.1.2"
