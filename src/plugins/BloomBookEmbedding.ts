@@ -1,5 +1,5 @@
 import fetch from "node-fetch";
-import { IPlugin, Log, ICustomNotionToMarkdownConversion } from "docu-notion";
+import { IPlugin, Log } from "docu-notion";
 
 export const bloomPUBembedProps = {
   regex: /\[.*\]\(.*\/\/(.*)bloomlibrary\.org.*[player]\/(.+)\)/,
