@@ -1,31 +1,32 @@
 import fetch from "node-fetch";
 import { IPlugin, Log } from "docu-notion";
-
-export const bloomPUBembedProps = {
-  regex: /\[.*\]\(.*\/\/(.*)bloomlibrary\.org.*[player]\/(.+)\)/,
-  // It would also be possible to just use the /player page for the book (at the cost of including all of blorg):
-  //output: `<iframe width="100%" height="450px" allow="fullscreen" allowFullScreen={true}
-  // src="https://bloomlibrary.org/player/$1_uri_encoded"></iframe>
-
-  // For now, I've decided not to let bloom-player report analytics (`independent=false`).
-  // There are too many questions such as:
-  // * Do we even want **any** book reading analytics from our docs site?
-  // * What should `host` be? (I've set it to docs.bloomlibrary.org for now.)
-  // * How would we properly distinguish or filter out dev books? Or does it matter?
-  output: `<iframe width="100%" height="450px" allow="fullscreen" allowFullScreen={true}
-    src="https://bloomlibrary.org/bloom-player/bloomplayer.htm?url=$1_harvester_digital_output_url&initiallyShowAppBar=false&allowToggleAppBar=true&independent=false&host=docs.bloomlibrary.org"></iframe>`,
-  import: "", // it's just an iframe, nothing to import
-};
+import { exit } from "process";
 
 export async function getBloomPUBReplacement(
   matchedString: string,
   parseBookId: string,
   bookPageUrlSubDomain: string
 ): Promise<string> {
-  const harvesterUrl = await getHarvesterUrl(parseBookId, bookPageUrlSubDomain);
+  const harvesterUrl = await getHarvesterUrl(
+    matchedString,
+    parseBookId,
+    bookPageUrlSubDomain
+  );
   if (harvesterUrl) {
-    return bloomPUBembedProps.output.replace(
-      "$1_harvester_digital_output_url",
+    // It would also be possible to just use the /player page for the book (at the cost of including all of blorg):
+    //output: `<iframe width="100%" height="450px" allow="fullscreen" allowFullScreen={true}
+    // src="https://bloomlibrary.org/player/$1_uri_encoded"></iframe>
+
+    // For now, I've decided not to let bloom-player report analytics (`independent=false`).
+    // There are too many questions such as:
+    // * Do we even want **any** book reading analytics from our docs site?
+    // * What should `host` be? (I've set it to docs.bloomlibrary.org for now.)
+    // * How would we properly distinguish or filter out dev books? Or does it matter?
+    const iframeElement = `<iframe width="100%" height="450px" allow="fullscreen" allowFullScreen={true}
+  src="https://bloomlibrary.org/bloom-player/bloomplayer.htm?url=PUT_URL_HERE&initiallyShowAppBar=false&paused=true&allowToggleAppBar=true&independent=false&host=docs.bloomlibrary.org"></iframe>`;
+
+    return iframeElement.replace(
+      "PUT_URL_HERE",
       // We have to decode it because docusaurus (I think?) will encode it again.
       decodeURIComponent(harvesterUrl)
     );
@@ -34,7 +35,9 @@ export async function getBloomPUBReplacement(
   }
 }
 
+// ask the harvester for a url we can use for embedding a bloom-player that shows this book
 async function getHarvesterUrl(
+  matchedString: string,
   parseBookId: string,
   bookPageUrlSubDomain: string
 ): Promise<string | undefined> {
@@ -59,6 +62,16 @@ async function getHarvesterUrl(
     const { baseUrl } = (await response.json()) as {
       baseUrl: string;
     };
+    if (!baseUrl) {
+      Log.error(
+        `Failed to get baseUrl for book id='${parseBookId}'. The incoming matchedString='${matchedString}'. The full server response was: ${JSON.stringify(
+          response,
+          null,
+          2
+        )})}`
+      );
+      exit(1);
+    }
 
     // This logic was copied from blorg
     let folderWithoutLastSlash = baseUrl;
@@ -80,17 +93,20 @@ async function getHarvesterUrl(
   }
 }
 
+const embeddedBookPattern =
+  /\[.*\]\(.*\/\/(.*)bloomlibrary\.org.*player\/(.+)\)/;
+
 export const bloomBookEmbedding: IPlugin = {
   name: "BloomBookEmbedding",
   regexMarkdownModifications: [
     {
-      regex: bloomPUBembedProps.regex,
+      regex: embeddedBookPattern,
       getReplacement: async (matchedString: string) => {
         Log.verbose(`BloomBookEmbedding plugin given: "${matchedString}"`);
-        const match = bloomPUBembedProps.regex.exec(matchedString);
+        const match = embeddedBookPattern.exec(matchedString);
         if (!match) {
           throw new Error(
-            `BloomBookEmbedding should never get a string that doesn't match its regex (${bloomPUBembedProps.regex}).`
+            `BloomBookEmbedding should never get a string that doesn't match its regex (${embeddedBookPattern}).`
           );
         }
         const bookPageUrlSubDomain = match[1];
