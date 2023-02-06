@@ -36,11 +36,11 @@ then we get
 
 
 <iframe width="100%" height="450px" allow="fullscreen" allowFullScreen={true}
-    src="https://bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://s3.amazonaws.com/bloomharvest/educationforlife@sil.org/42019e35-2c39-4cc4-beb5-8510f4866d79/bloomdigital/index.htm&initiallyShowAppBar=false&allowToggleAppBar=true&independent=false&host=docs.bloomlibrary.org"></iframe>
+  src="https://bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://s3.amazonaws.com/bloomharvest/educationforlife@sil.org/42019e35-2c39-4cc4-beb5-8510f4866d79/bloomdigital/index.htm&initiallyShowAppBar=false&paused=true&allowToggleAppBar=true&independent=false&host=docs.bloomlibrary.org"></iframe>
 
 
 <iframe width="100%" height="450px" allow="fullscreen" allowFullScreen={true}
-    src="https://bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://s3.amazonaws.com/bloomharvest/educationforlife@sil.org/48120b51-255c-4082-ad83-bceda54befc9/bloomdigital/index.htm&initiallyShowAppBar=false&allowToggleAppBar=true&independent=false&host=docs.bloomlibrary.org"></iframe>
+  src="https://bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://s3.amazonaws.com/bloomharvest/educationforlife@sil.org/48120b51-255c-4082-ad83-bceda54befc9/bloomdigital/index.htm&initiallyShowAppBar=false&paused=true&allowToggleAppBar=true&independent=false&host=docs.bloomlibrary.org"></iframe>
 
 
 :::note
