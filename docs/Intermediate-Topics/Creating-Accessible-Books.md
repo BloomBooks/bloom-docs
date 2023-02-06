@@ -87,6 +87,15 @@ Now that the Image Description Tool is open, a space will be created next to the
 Once you are satisfied with the image description, you can close the Image Description Tool by clicking on the X above the Image Description Tool window. 
 
 
+:::note
+
+If you are using the Overlay Tool to make comic books, Bloom allows you to have a background image. You can describe that image just like any other. However, the Overlay Tool also lets you drag images on top of the background, and Bloom does not currently allow you to add image descriptions to these draggable images. Instead, you will need to describe whatever the user needs to know about the scene based on your description of the background image.
+
+:::
+
+
+
+
 ## Recording Audio of Text and Image Descriptions {#988d166c68974ac681dfeb765bc52d1b}
 
 

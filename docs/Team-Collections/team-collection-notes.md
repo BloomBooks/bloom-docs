@@ -26,6 +26,3 @@ Team Collections relies on other file syncing systems while hiding their complex
 
 Only one person can have a book checked out at once. When you try to check out a book, Bloom first makes sure that it isn’t already checked out. However, due to delays inherent in cloud-based file syncing,  it is at least theoretically possible that the book was checked out recently by a teammate, and your computer hasn’t received that data yet. In the future, we plan to add a full-proof cloud-based system that will close this loophole.
 
-
-##  {#92294346896249748e9d48d06930c080}
-

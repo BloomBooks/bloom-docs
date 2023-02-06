@@ -92,7 +92,7 @@ If you try to open a Team Collection whose Dropbox folder has been moved, Bloom 
 
 
 
-## Retrieving a book from Lost and Found {#2488e17a8a6140bebcef068046cc57b7}
+## Retrieving a book from “Lost and Found” {#2488e17a8a6140bebcef068046cc57b7}
 
 
 There are a number of situations where conflicts arise between books on different team members’ computers and Bloom cannot decide which one it should treat as authoritative. In these cases, Bloom chooses one version as the “winner” and saves the other one in a special folder called “Lost and Found”. (The Lost and Found folder exists only in the synchronized team collection “shadow folder”, not in your working files.) 
