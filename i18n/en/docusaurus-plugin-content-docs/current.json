@@ -34,5 +34,9 @@
   "sidebar.defaultSidebar.category.Whitelisting Bloom": {
     "message": "Whitelisting Bloom",
     "description": "The label for category Whitelisting Bloom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bloom Reader": {
+    "message": "Bloom Reader",
+    "description": "The label for category Bloom Reader in sidebar defaultSidebar"
   }
 }
