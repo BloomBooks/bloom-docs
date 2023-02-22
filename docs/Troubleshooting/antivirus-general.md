@@ -47,7 +47,7 @@ For other programs, you will add the Bloom folder to a list of “excluded” fo
 In either case, the result is that your program will no longer scan the Bloom folder looking for virus threats or Adware threats. 
 
 
-Each antivirus program will have its own method for doing this.
+Each antivirus program will have its own method for doing this. Here are two:
 
 
 [link_to_page](2bba8ea6-d1e7-4b69-9fb9-007054aa2fb1)
