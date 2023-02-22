@@ -1,7 +1,7 @@
 ---
 title: Introduction
 sidebar_position: 0
-slug: /
+slug: /0983493d-b0b1-4be5-9d85-162cd1273dba
 ---
 
 
@@ -13,7 +13,4 @@ This site is a work in progress. Our initial goal is to bring together in one pl
 :::
 
 
-
-
-[link_to_page](05b3d243-f195-4b77-bbf8-ecee475afeab)
 

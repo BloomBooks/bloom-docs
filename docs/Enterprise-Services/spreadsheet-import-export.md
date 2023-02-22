@@ -6,7 +6,7 @@ slug: /spreadsheet-import-export
 
 
 
-:::🚧
+:::caution
 
 The Spreadsheet Import/Export function was introduced in Bloom 5.2. It is an _experimental_ Bloom Enterprise feature that is still under development. 
 
@@ -78,7 +78,7 @@ The location of the backup is: `C:\Users\YOUR USER NAME\AppData\Local\Temp\bloom
 The exported spreadsheet is organized into rows and columns. By default, only the main translatable material (the title, and the basic text) from the book is presented, and all other material — such as Copyright and Credits — is _hidden_ from view.
 
 
-:::🚧
+:::caution
 
 The rows and columns that are hidden from view should generally _not_ be edited directly in the spreadsheet. Instead, it is best to edit these in Bloom itself. 
 
@@ -126,20 +126,20 @@ Alternatively, you can add the new column to an existing spreadsheet. In this ca
 Sometimes, a user makes a book and only later discovers they have used the wrong language code.
 
 
-Here is the procedure to correct this problem:
+This can be a fairly technical procedure. The following steps will cover simple cases only:
 
 1. Change the Collection Language Setting to the correct configuration.
 1. Export the book to a Spreadsheet.
-1. Replace the wrong language code and language name in the spreadsheet with the correct one.
-1. Import the spreadsheet into a blank book.
+1. Replace the wrong language code (row 1) and language name (row 2) in the spreadsheet with the correct one.
+1. Import the spreadsheet into a _blank_ book.
 
 Bloom imports in a non-destructive way. This means it _updates_ existing data _but does not erase_ existing data. For this reason, it is important for this usage situation to import into a _blank_ book; otherwise, the original, incorrectly tagged language data, will remain.
 
 
-Importing into a blank book works provided the book has a simple structure of one image and one text box per page. If the book contains multiple text boxes or images, the spreadsheet will have to be imported back into the original book in order to maintain the same data structure. In this case, the unwanted text (incorrectly tagged) will remain. Future versions of this tool may provide a specific way to deal with this problem.
+Importing into a blank book works provided the book has a simple structure of one image and one text box per page. If the book contains multiple text boxes or images, the spreadsheet will have to be imported back into the original book in order to maintain the same data structure. In this case, the unwanted text (incorrectly tagged) will remain unless it is emptied out in the spreadsheet. This may require a Bloom specialist.
 
 
-Meanwhile, for publishing your book to Bloom Library, be sure to uncheck the box for unwanted language. Doing this will strip out that unwanted language for Bloom Library.
+When publishing your book to Bloom Library, be sure to uncheck the box for any unwanted language. Doing this will strip out that unwanted language for Bloom Library.
 
 
 ## 6.4 Changing a book to Digital Comic Book {#3e1a640f7e894299ba71631636f4972d}
@@ -153,7 +153,7 @@ If your original book was made from the Basic Book template and you want to tran
 1. Right-click on this page’s thumbnail, and choose **Duplicate Page Many Times** so that this blank comic book has the same number of pages as the original book.
 1. Import the spreadsheet into this blank comic book.
 
-:::🚧
+:::caution
 
 Limitations: this method works if the original book has one image and one text box per page. 
 

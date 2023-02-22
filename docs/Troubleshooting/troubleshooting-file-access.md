@@ -24,7 +24,7 @@ Our leading theory is that these users have some non-Microsoft anti-virus progra
 For now, if you run into this problem, please help us learn:
 
 1. If the problem comes and goes, or if it is constant.
-1. If you are using an extra antivirus program (beyond the built-in Windows Defender), try telling your antivirus to exclude Bloom. This is called “whitelisting”. For help with this, please refer to **[Problem Internal Link]**. If you do not feel comfortable doing that, try temporarily disabling your antivirus.
+1. If you are using an extra antivirus program (beyond the built-in Windows Defender), try telling your antivirus to exclude Bloom. This is called “whitelisting”. For help with this, please refer to [this article](/antivirus-general). If you do not feel comfortable doing that, try temporarily disabling your antivirus.
 
 Let us know if that helps so that we can spread the word to other people.
 

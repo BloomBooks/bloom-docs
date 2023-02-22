@@ -11,7 +11,7 @@ slug: /TeamCollectionTechnical
 
 A book gets put in Lost and Found in three scenarios:
 
-1. When **Joining** an existing Team Collection, Bloom finds that there is already a Working collection by the same name and it contains a book with the same [book ID](/fbd87872-6b70-49b0-9a01-c47f55b9e3d0#5a9eb5a6c54546659990c06b3cab766c) as one in the Shadow collection but a different name.
+1. When **Joining** an existing Team Collection, Bloom finds that there is already a Working collection by the same name and it contains a book with the same [book ID](/derivatives#5a9eb5a6c54546659990c06b3cab766c) as one in the Shadow collection but a different name.
 1. When **Joining** an existing Team Collection, Bloom finds there is already a Working collection by the same name, and it contains a book with the same name as one in the Shadow collection but a different book ID.
 1. When Syncing a Team Collection, Bloom finds a book that is checked out and edited in the Working collection, but is recorded in the Shadow collection as being: a) checked _out_ by you elsewhere, or b) checked _out_ by someone else, or c) checked _in_ but edited and changed in any way.
 
