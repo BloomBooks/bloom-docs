@@ -57,5 +57,5 @@ About once a year, we work with someone whose Windows computer won’t let Bloom
 ## Interference from a backup program {#e95f6a7b22304626878a8b6375b75004}
 
 
-If you are using a cloud backup program, such as OneDrive, Dropbox, or Google Drive, then it is possible that there could be a very brief disruption when Bloom is trying access some particular files. If this happens, the problem should resolve itself almost immediately.
+If you are using a cloud backup program, such as OneDrive, Dropbox, or Google Drive, then it is possible that there could be a very brief disruption when Bloom is trying to access some particular files. If this happens, the problem should resolve itself almost immediately.
 

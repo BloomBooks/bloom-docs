@@ -108,6 +108,15 @@ By default, the following are hidden;
 Some teams prefer to use spreadsheets, rather than Bloom itself, to do the final editing of their Bloom books.
 
 
+:::caution
+
+If you have already recorded audio for a Talking Book, be careful editing text (whether in Bloom or in a spreadsheet).
+
+:::
+
+
+
+
 ## 6.2 Adding another language translation to a book {#6346d7e504044a448aff0a56b1b555db}
 
 
@@ -167,17 +176,11 @@ Limitations: this method works if the original book has one image and one text b
 
 The following are _not_ supported:
 
-- Quizzes and other Activities
-- Image Descriptions
+- Quizzes and other Activity pages
+- Image Descriptions (forthcoming in Bloom 5.5)
 
-In addition, there are dangers to editing a Talking Book in a spreadsheet. Obviously, if you change the words of a sentence in any way, the audio recording will no longer match. Similarly, if you change the sentence boundaries, the recording will no longer match. Consequently, 
-
-
-:::tip
-
-As a best practice, do not record the audio of your Talking Book until your book has been finalized.
-
-:::
+In addition, there are dangers to editing a Talking Book in a spreadsheet.  If you change the words of a sentence in any way, the audio recording will no longer match. Similarly, if you change the sentence boundaries, the recording will no longer match. 
 
 
+In addition to the above limitations, it is important to understand that when you export a book to a spreadsheet, Bloom does _not_ include the characteristics of the page _layout_ for the book. And so when you import a spreadsheet into a Bloom book, Bloom will either map the data from the spreadsheet onto the page structure of whatever book you have chosen to import into, or if need be, map the data onto its default page layout, namely the “Basic Text & Picture” layout.
 
