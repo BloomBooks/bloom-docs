@@ -50,5 +50,9 @@
   "sidebar.defaultSidebar.category.Advanced Topics": {
     "message": "Advanced Topics",
     "description": "The label for category Advanced Topics in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bloom Library": {
+    "message": "Bloom Library",
+    "description": "The label for category Bloom Library in sidebar defaultSidebar"
   }
 }
