@@ -32,8 +32,8 @@ jobs:
       - name: copy-static-docs
         run: yarn copy-static-docs
       # Still doing this here in the sequence for now. See comments below about what needs to happen eventually.
-      - name: Prepare PDF Download
-        run: yarn make-pdf
+      # - name: Prepare PDF Download
+      #   run: yarn make-pdf
       - name: Commit New Source Material
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
