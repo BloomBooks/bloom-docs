@@ -31,7 +31,7 @@ There are three steps:
 
 1. [**Gather your BloomPUBs**](/BR-distribution#0b7163a212984327b4e9bf60de02db60)
 1. [**Create the required folder on your SD card**](/BR-distribution#f659de0a085545d8b4da927d7ab5a670)
-1. [**Copy over the BloomPUBS**](/BR-distribution#a54b67b77c0649b78e2df708eab086de)
+1. [**Copy over the BloomPUBs**](/BR-distribution#a54b67b77c0649b78e2df708eab086de)
 
 ## 1.1. **Gather your BloomPUBs** {#8bb1ee7ddb8441e4ac73405b55970b2d}
 
@@ -87,7 +87,7 @@ And so on until you have a series of nested folders as follows:
 ### 💡 Note that capitalization must be _exactly_ as shown. {#74dd8aa3dfe345e4bddd3392e6a2b8f5}
 
 
-## 1.3. **Copy over the BloomPUBS** {#a54b67b77c0649b78e2df708eab086de}
+## 1.3. **Copy over the BloomPUBs** {#a54b67b77c0649b78e2df708eab086de}
 
 
 Copy the BloomPUBs into the folder.
@@ -141,7 +141,7 @@ Here’s an example:
 Once the phone is successfully connected, using Windows File Explorer, create a new folder called “Bloom” on the root of the Internal storage. 
 
 
-## 2.3. **Copy over the BloomPUBS**  {#ce36cbefc79f4c5ba8e1d8fbf71b8816}
+## 2.3. **Copy over the BloomPUBs**  {#ce36cbefc79f4c5ba8e1d8fbf71b8816}
 
 
 Drag and drop all the desired books to the newly created Bloom folder.

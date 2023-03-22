@@ -1,7 +1,7 @@
 ---
 title: How to Collect Bloom Reader Analytics by Device
 sidebar_position: 1
-slug: /202ea065-f108-4ebc-a6d9-5c656ca47a73
+slug: /how-to-collect-bloom-reader-analytics
 ---
 
 
