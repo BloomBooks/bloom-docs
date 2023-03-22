@@ -13,6 +13,9 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
+  // Duplicate routes cause the next/prev buttons to loop
+  // which causes the pdf creation to loop forever.
+  onDuplicateRoutes: "throw",
   favicon: "img/favicon.ico",
   organizationName: "BloomBooks",
   projectName: "bloom-docs",
