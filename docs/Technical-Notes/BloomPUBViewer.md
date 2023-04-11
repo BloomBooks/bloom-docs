@@ -65,7 +65,7 @@ After the program has finished downloading, typically, it will show up at the bo
 ![](./867671182.png)
 
 
-In the picture above, the red`!` mark is indicating that the installer program for BloomPUB Viewer is potentially dangerous. Remember, this is only because BloomPUB Viewer is not used by many people. The program is safe.
+In the picture above, the exclamation mark **`!`** is indicating that the installer program for BloomPUB Viewer is potentially dangerous. Remember, this is only because BloomPUB Viewer is not used by many people. The program is safe.
 
 
 ## Step 5: Click the arrow beside the “Discard” button and then click “Keep” {#487edc26e6014fedaaaeee0b8f776da2}

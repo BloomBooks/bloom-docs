@@ -1,7 +1,7 @@
 ---
 title: My Books
 sidebar_position: 0
-slug: /c4a9afcd-19e8-4002-8af8-33e89de90668
+slug: /my-books
 ---
 
 

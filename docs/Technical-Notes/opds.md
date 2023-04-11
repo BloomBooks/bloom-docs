@@ -110,9 +110,7 @@ The following parameters are our additions the OPDS spec:
 To get a list of languages, use a URL like this:
 
 
-```xml
-[https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY](https://api.bloomlibrary.org/v1/opds?organizeby=language&key=rev79_app@sil.org:kCaAHOBD2r&minimalnavlinks=true)
-```
+[`https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY`](https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY)
 
 
 This will return a large result that looks like this:
@@ -123,9 +121,9 @@ This will return a large result that looks like this:
 <id>https://bloomlibrary.org</id>
 <title>Bloom Library Books</title>
 <updated>2022-11-09T17:39:22.868Z</updated>
-<link rel="http://opds-spec.org/facet" iso="haz" href="https://api.bloomlibrary.org/v1/opds?lang=haz&organizeby=language&key=rev79_app%40sil.org%3AkCaAHOBD2r&minimalnavlinks=true" atMost="26" title="Hazaragi" opds:facetGroup="Languages"/>
-<link rel="http://opds-spec.org/facet" iso="acu" href="https://api.bloomlibrary.org/v1/opds?lang=acu&organizeby=language&key=rev79_app%40sil.org%3AkCaAHOBD2rminimalnavlinks=true" atMost="1" title="Achuar-Shiwiar" opds:facetGroup="Languages"/>
-<link rel="http://opds-spec.org/facet" iso="fub" href="https://api.bloomlibrary.org/v1/opds?lang=fub&organizeby=language&key=rev79_app%40sil.org%3AkCaAHOBD2rminimalnavlinks=true" atMost="7" title="Fulfulde (Adamawa)" opds:facetGroup="Languages"/>
+<link rel="http://opds-spec.org/facet" iso="haz" href="https://api.bloomlibrary.org/v1/opds?lang=haz&organizeby=language&minimalnavlinks=true" atMost="26" title="Hazaragi" opds:facetGroup="Languages"/>
+<link rel="http://opds-spec.org/facet" iso="acu" href="https://api.bloomlibrary.org/v1/opds?lang=acu&organizeby=language&rminimalnavlinks=true" atMost="1" title="Achuar-Shiwiar" opds:facetGroup="Languages"/>
+<link rel="http://opds-spec.org/facet" iso="fub" href="https://api.bloomlibrary.org/v1/opds?lang=fub&organizeby=language&minimalnavlinks=true" atMost="7" title="Fulfulde (Adamawa)" opds:facetGroup="Languages"/>
 etc...
 ```
 
