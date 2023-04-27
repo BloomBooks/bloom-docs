@@ -210,7 +210,7 @@ The phone is now ready for distribution.
 # 3. **Advanced Options** {#ab53b94bfff44b448917d311bde496a0}
 
 
-:::🚧
+:::caution
 
 This section described advanced options and is _not_ recommended for most users.
 
