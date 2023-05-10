@@ -1,5 +1,5 @@
 ---
-title: Installing WebView2
+title: Installing & Updating WebView2
 sidebar_position: 9
 slug: /webview2
 keywords: [WebView2]
@@ -7,7 +7,7 @@ keywords: [WebView2]
 
 
 
-Bloom 5.5 and later requires the Microsoft WebView2 Runtime “Evergreen Standalone” to be installed. If your computer regularly receives Windows Updates, you will already have this. Otherwise, follow these instructions:
+Bloom 5.5 and later requires the Microsoft WebView2 Runtime “Evergreen” to be installed and up to date. If your computer regularly receives Windows Updates, you will already have this. Otherwise, follow these instructions:
 
 
 # Only for you? {#8c2000ada2d046f5852f01db766ce634}

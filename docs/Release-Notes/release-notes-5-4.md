@@ -201,6 +201,7 @@ Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature
 
 ## Other Improvements {#118605b2d74e4b749b18f97353ab6abc}
 
+- Previously, there was a slight difference in text size between the Edit Tab and what Bloom would actually publish. You could see this even just in the Collection Tab preview. Where this mattered was that a line might break in a different place. We have fixed this difference in favor of the published versions,  so that if a book is re-published using this versions of Bloom, the layout will be the same as it was previously. But if you look in the Edit tab, changes may be visible from what you would have seen in the Edit tab in previous versions.
 - Bloom’s experimental spreadsheet import/export now retains a book’s metadata.
 - We added experimental spreadsheet import/export for Talking Books. Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to use the spreadsheet commands.
 - We made it feasible to use leading spaces in a Talking book to make the left edge of a text box vary in order to do things like conform to the image to the left of the text. While we don’t _like_ this approach, it is currently the only way to achieve this.
