@@ -9,7 +9,7 @@ const config = {
   title: "Bloom Docs",
   staticDirectories: ["static"],
   tagline: "Let's grow a library",
-  url: "https://docs.bloomlibrary.com",
+  url: "https://docs.bloomlibrary.org",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
