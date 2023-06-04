@@ -9,7 +9,7 @@ keywords: [troubleshoot]
 
 :::tip
 
-Please **[Problem Internal Link]** if you get directed here by Bloom. Even if the following instructions work for you, we need to know that this is actually happening to someone!
+Please get in contact with us ([mailto:issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)) if you get directed here by Bloom. Even if the following instructions work for you, we need to know that this is actually happening to someone!
 
 :::
 
@@ -36,7 +36,7 @@ Click “Modify”, then “Repair”:
 
 :::tip
 
-Please **[Problem Internal Link]** if you get this far. Even if the following instructions work for you, we need to know that this is actually happening to someone!
+Please get in contact with us ([mailto:issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)) if you get this far. Even if the following instructions work for you, we need to know that this is actually happening to someone!
 
 :::
 
