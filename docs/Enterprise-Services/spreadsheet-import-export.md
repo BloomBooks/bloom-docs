@@ -174,8 +174,12 @@ Limitations: this method works if the original book has one image and one text b
 # 7. Current Limitations {#34fbb792bd91484bb5ca087ed397e033}
 
 
+_Updated for Bloom 5.5_
+
+
 The following are _not_ supported:
 
+- Color on words is lost during export and imort
 - Quizzes and other Activity pages
 - Image Descriptions (forthcoming in Bloom 5.5)
 
