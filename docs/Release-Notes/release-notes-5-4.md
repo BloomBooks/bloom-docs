@@ -28,6 +28,15 @@ We’ve added two new activities that you can add to your books. Just enter the 
 Are there other simple activities that you would like to have in your Bloom books? Feel free to request them in a [Feature Request](https://community.software.sil.org/c/bloom/featurerequests/16).  Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to add new activities to a book.
 
 
+:::tip
+
+Enjoy [this 185 page animal alphabet book](https://bloomlibrary.org/new-arrivals/book/IGDR7iE7OY) that includes these new Simple Choice Activities.
+
+:::
+
+
+
+
 ## Get More Books from Within Bloom Reader {#25150f857d294ed4ab6adb1f72a99969}
 
 
@@ -35,6 +44,8 @@ Are there other simple activities that you would like to have in your Bloom book
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 Finally, users can get more books into their Bloom Reader without going to a separate browser window. We’ve added a button at the bottom of the screen:
+
+
 
 </div><div className='notion-spacer' />
 

@@ -1,7 +1,7 @@
 ---
 title: Release Notes Index
 sidebar_position: 0
-slug: /index.md
+slug: /index
 ---
 
 
