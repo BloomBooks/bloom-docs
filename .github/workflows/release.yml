@@ -23,7 +23,8 @@ jobs:
         with:
           node-version: lts/*
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: yarn install
+        # for some reason it was telling me my lockfile was out of date run: yarn install --frozen-lockfile
       - name: Pull from Notion
         env:
           SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
