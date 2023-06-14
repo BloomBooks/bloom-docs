@@ -1,5 +1,5 @@
 import fetch from "node-fetch";
-import { IPlugin, Log } from "docu-notion";
+import { IDocuNotionContext, IPlugin, Log } from "@sillsdev/docu-notion";
 import { exit } from "process";
 
 export async function getBloomPUBReplacement(
@@ -101,9 +101,12 @@ export const bloomBookEmbedding: IPlugin = {
   regexMarkdownModifications: [
     {
       regex: embeddedBookPattern,
-      getReplacement: async (matchedString: string) => {
-        Log.verbose(`BloomBookEmbedding plugin given: "${matchedString}"`);
-        const match = embeddedBookPattern.exec(matchedString);
+      getReplacement: async (
+        context: IDocuNotionContext,
+        matchRegexArray: RegExpExecArray
+      ) => {
+        Log.verbose(`BloomBookEmbedding plugin given: "${matchRegexArray[0]}"`);
+        const match = embeddedBookPattern.exec(matchRegexArray[0]);
         if (!match) {
           throw new Error(
             `BloomBookEmbedding should never get a string that doesn't match its regex (${embeddedBookPattern}).`
@@ -112,7 +115,7 @@ export const bloomBookEmbedding: IPlugin = {
         const bookPageUrlSubDomain = match[1];
         const parseBookId = match[2];
         return await getBloomPUBReplacement(
-          matchedString,
+          matchRegexArray[0],
           parseBookId,
           bookPageUrlSubDomain
         );
