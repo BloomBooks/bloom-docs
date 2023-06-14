@@ -51,13 +51,13 @@ You can use older versions of Bloom with Windows XP and Windows Vista, but this�
 ## Fonts and keyboards {#14b4c74f84664b658f7168630913c7d7}
 
 
-Bloom assumes that you have a way to type your language on your computer. That will often involve using a certain font. SIL offers a free, high-quality fonts for many scripts on its website at [https://software.sil.org/fonts/](https://software.sil.org/fonts/). 
+Bloom assumes that you have a way to type your language on your computer. That will often involve using a certain font. SIL offers a free, high-quality fonts for many scripts on its website at [software.sil.org/fonts](https://software.sil.org/fonts).
 
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-You may also need a special **keyboard layout** to let you type the characters in your language. **Keyman** is a free program from SIL that has many keyboard layouts. You can get Keyman from [https://keyman.com](https://keyman.com/).
+You may also need a special **keyboard layout** to let you type the characters in your language. **Keyman** is a free program from SIL that has many keyboard layouts. You can get Keyman from [keyman.com](https://keyman.com/).
 
 </div><div className='notion-spacer' />
 
@@ -78,8 +78,7 @@ If you need help to find a font or keyboard for your language, try looking on S
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
-You can download Bloom  installation program from the Bloom Library at [https://bloomlibrary.org/page/create/downloads](https://bloomlibrary.org/page/create/downloads). 
-Click the **Download** button at the top of the page to download the latest release version for Microsoft Windows. 
+You can download Bloom  installation program from the Bloom Library at [bloomlibrary.org/downloads](https://bloomlibrary.org/downloads). Click the **Download** button at the top of the page to download the latest release version for Microsoft Windows. 
 
 </div><div className='notion-spacer' />
 
@@ -166,7 +165,7 @@ To download _The Art of Reading,_ click on **The Art of Reading illustration 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
-Next, Double-click _The Art of Reading_ installer to install the image library. The installer program will take you through a series of screens where you will accept the license agreement, find out more information about the collection, and, finally, click the "Install" button.
+Next, double-click _The Art of Reading_ installer to install the image library. The installer program will take you through a series of screens where you will accept the license agreement, find out more information about the collection, and, finally, click the "Install" button.
 
 </div><div className='notion-spacer' />
 
@@ -183,7 +182,7 @@ There is no icon or desktop shortcut for _the Art of Reading._ It will be avail
 
 :::🐧
 
-If you are using Bloom for Linux, see [https://bloomlibrary.org/page/create/art-of-reading](https://bloomlibrary.org/page/create/art-of-reading) for instructions on installing _The Art of Reading_ from the SIL package repository. 
+If you are using Bloom for Linux, see [bloomlibrary.org/page/create/art-of-reading](https://bloomlibrary.org/page/create/art-of-reading) for instructions on installing _The Art of Reading_ from the SIL package repository. 
 
 :::
 
@@ -205,5 +204,5 @@ Be sure to re-enable the anti-virus software after you have installed Bloom!
 
 
 
-If this does not work, ask an IT expert to help you. You may find other ideas to help at: [https://community.software.sil.org/t/how-to-fix-installation-problems/17](https://community.software.sil.org/t/how-to-fix-installation-problems/17)
+If this does not work, ask an IT expert to help you. You may find other helpful ideas in [this community site post](https://community.software.sil.org/t/how-to-fix-installation-problems/17).
 
