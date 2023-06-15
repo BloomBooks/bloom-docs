@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.1.0",
-    "@sillsdev/docu-notion": "^0.11.2",
+    "@sillsdev/docu-notion": "0.11.3",
     "@tsconfig/docusaurus": "^1.0.6",
     "typescript": "^4.6.4"
   },
@@ -56,5 +56,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "packageManager": "yarn@1.22.19",
+  "volta": {
+    "node": "18.16.0",
+    "yarn": "1.22.19"
   }
 }
