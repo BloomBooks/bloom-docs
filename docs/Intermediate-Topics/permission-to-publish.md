@@ -6,4 +6,6 @@ keywords: [publish, copyright, license, creative commons]
 ---
 
 
-[object Object]
+
+[https://www.theedublogger.com/copyright-fair-use-and-creative-commons/](https://www.theedublogger.com/copyright-fair-use-and-creative-commons/)
+
