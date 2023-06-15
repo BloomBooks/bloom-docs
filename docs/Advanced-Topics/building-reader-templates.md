@@ -182,10 +182,10 @@ Next, let’s put a text file in the Sample Text folder. You can have many files
 This opens your computer’s explorer window to the Sample Texts folder for this collection.
 
 
-	You need to have a file available with a word list or a sample text saved as a UTF-8 Unicode *.txt file. Microsoft Notepad works well for this. Microsoft Word also works.
+You need to have a file available with a word list or a sample text saved as a UTF-8 Unicode *.txt file. Microsoft Notepad works well for this. Microsoft Word also works.
 
 
-	While the details about UTF-8 are beyond the scope of this training manual, here are the basic steps you need to do:
+While the details about UTF-8 are beyond the scope of this training manual, here are the basic steps you need to do:
 
 - If you have files in Microsoft Word, use **Save As…**.
 Click the down arrow in the **save as type** box to see the options.
@@ -196,19 +196,16 @@ Then, the **File conversion** dialog box opens. Choose **file encoding**, and th
 Note: If you have a large file of sample words, Bloom may take a very long time to process them. During this time, it will be unresponsive. You may even see the following dialog box appear:
 
 
-	![](./4507168.png)
+![](./4507168.png)
 
 
-	Select the “Don’t ask me again” checkbox, and then click “Continue”.
+Select the “Don’t ask me again” checkbox, and then click “Continue”. The next release of Bloom will do away with this waiting. In the meantime, here’s a tip for avoiding most of the delay. Avoid adding large numbers of words (for example, above a hundred) until you have finished setting up your stages. Then go back and add the rest of the words. You may still face a delay while the words are processed, but you only have to wait once. 
 
 
-	The next release of Bloom will do away with this waiting. In the meantime, here’s a tip for avoiding most of the delay. Avoid adding large numbers of words (for example, above a hundred) until you have finished setting up your stages. Then go back and add the rest of the words. You may still face a delay while the words are processed, but you only have to wait once.
+You should be able to see names of the files in the **Place Text Files in Your Sample Text Folder** box. Now, Bloom can find your file and suggest words.
 
 
-	You should be able to see names of the files in the **Place Text Files in Your Sample Text Folder** box. Now, Bloom can find your file and suggest words.
-
-
-	At this point, you might be asking yourself, “Do I really need to do all this for every template?” No, you only do it once for all your work in a language. All of this setup is part of the Local Language Collection, so it is usable by any book you make in your collection.
+At this point, you might be asking yourself, “Do I really need to do all this for every template?” No, you only do it once for all your work in a language. All of this setup is part of the Local Language Collection, so it is usable by any book you make in your collection.
 
 
 The third task is to set up the stages. You do this in the **Decodable Stages** tab.
@@ -225,10 +222,10 @@ Stage 1 is the first stage. You can add more stages. But first, add letters to S
 Notice that the letters you clicked get a colored background. Also, notice that those letters appear in the left pane.
 
 
-	If you saved a file in the **Sample Files** folder, words that use the letters in Stage 1 appear in the **matching words** pane. It is on the right side of the tab.
+If you saved a file in the **Sample Files** folder, words that use the letters in Stage 1 appear in the **matching words** pane. It is on the right side of the tab.
 
 
-	Now, you can tell Bloom about any sight words you want to use in this level.
+Now, you can tell Bloom about any sight words you want to use in this level.
 
 1. Click the **New Sight Words** box. Then type the words, separated by a space.
 1. Now it is time to add another stage. To do this, click the **Add Stage** link.
@@ -243,7 +240,7 @@ Notice that you cannot click the letter you already introduced.
 Now your local language collection knows about the decodable stages you want. It knows the letters and sight words you want to introduce. Bloom can now suggest to you.
 
 
-	At any time, you can go back in and work on your stages. Remember, these same stages will be available in any decodable reader you make in this collection. They don’t really “belong” to the book you have open.
+At any time, you can go back in and work on your stages. Remember, these same stages will be available in any decodable reader you make in this collection. They don’t really “belong” to the book you have open.
 
 
 ### Experiment with using decodable stages {#6f4f1d5c75da45ca8960e630cc287bdb}
@@ -276,15 +273,15 @@ It looks like this:
 	![](./1615616544.png)
 
 
-	It is a link you can click.
-	If you click this link, Notepad opens with a file that Bloom created. It lists all the stages, and each set of letters and words you have set for each stage. If you change any of the letters or words, click link again to open an updated file.
+It is a link you can click.
+If you click this link, Notepad opens with a file that Bloom created. It lists all the stages, and each set of letters and words you have set for each stage. If you change any of the letters or words, click link again to open an updated file.
 
 1. For this training exercise, set this decodable reader book to Stage 1.
 
 Later we will make Bloom Pack from this template.
 
 
-	Normally, you would want to make five or more templates, with each one of them set to a different stage. Then, the person who receives the Bloom Pack will have templates set for each of the stages. That person could then make books for each stage without the need to change the stages or any of the files in the **Sample Texts** folder.
+Normally, you would want to make five or more templates, with each one of them set to a different stage. Then, the person who receives the Bloom Pack will have templates set for each of the stages. That person could then make books for each stage without the need to change the stages or any of the files in the **Sample Texts** folder.
 
 1. In the **Pages** pane, on the left side, click the **Front Cover** page. The top box is where you put the book title. In this box, type Decodable Stage 1.
 
@@ -304,20 +301,20 @@ The first task is to make a **Leveled Reader** template.
 	![](./212488293.png)
 
 1. Look below **Sources For New Books**. Click the **Leveled Reader** template.
-It looks like this: .
+It looks like this:
 
 	![](./828988532.png)
 
 1. Click the  **Make a book using this source** button.
 
-	![](./1601240987.png)
+![](./1601240987.png)
 
 1. Now, next to your document, you will see the Leveled Reader Tool:
 
 	![](./134515389.png)
 
 
-	Notice that there are numbers that keep you informed about the number of words by pages and for the book. Also, there are links that provide information. The one link we need to use now is the **Set up Levels** link.
+Notice that there are numbers that keep you informed about the number of words by pages and for the book. Also, there are links that provide information. The one link we need to use now is the **Set up Levels** link.
 
 1. Click the **Set up Level** link. It opens the **Set up Leveled Reader Tool** dialog box. It looks like this:
 
@@ -372,7 +369,7 @@ Let’s make a Decodable Reader template.
 The Front Cover page appears. Notice that the focus (place where you type) is in the top text box. This is the box where you type the title of the book. The callout box tells you which language the box expects.
 
 
-	So, let’s give the template a title that will make sense to the author. For example, in English, we might name a template “Decodable 2” so that it is obvious to an author that he or she should select that one if what they want is to start a new decodable book that will conform to stage 2.
+So, let’s give the template a title that will make sense to the author. For example, in English, we might name a template “Decodable 2” so that it is obvious to an author that he or she should select that one if what they want is to start a new decodable book that will conform to stage 2.
 
 1. Let’s make sure the book is set Stage 2. Here is how you do it:
 	- In the **Decodable Reader Tool** pane, find the stage control:
@@ -384,7 +381,7 @@ The Front Cover page appears. Notice that the focus (place where you type) is in
 From now on, this book is set to be a stage 2 book, like this:
 
 
-	![](./1791686420.png)
+![](./1791686420.png)
 
 
 **Set up text styles and spacing**
@@ -445,9 +442,11 @@ So, let’s give the template a title that will make sense to the author. For ex
 From now on, this book is set to be a level 2 book, like this:
 
 
-	![](./1675970773.png)
+![](./1675970773.png)
 
-1. Finally, set the text formatting as you did before, for the decodable readers templates.
+
+Finally, set the text formatting as you did before, for the decodable readers templates.
+
 
 Now, in the **Collections** tab, you could have something like this:
 
@@ -487,11 +486,9 @@ Now you are ready to make a Bloom Pack that will share your stages, letters, wor
 1. Click that white down arrow, and then click the **Make Reader Template BloomPack** command.
 It looks like this:
 
-	![](./1987473885.png)
+![](./1987473885.png)
 
-
-The Make Bloom Reader Template Bloom Pack dialog box opens.
-
+1. The Make Bloom Reader Template Bloom Pack dialog box opens.
 1. Select the check box about confirming that you understand. Then, click the **Save Bloom Pack** button.
 
 The Save As dialog box opens. At this point you can save this Bloom Pack file wherever you want: on a USB Flash drive that you share, to a shared networked folder, in Dropbox, etc.
@@ -501,5 +498,17 @@ The Save As dialog box opens. At this point you can save this Bloom Pack file wh
 Now the Bloom Pack is saved. Another training document, “Using Bloom Reader Templates” is available to help the person who received this Bloom Pack. But just in case you want to know a bit now, that person simply has to copy that Bloom Pack to their computer and double click it. After that, the templates you have created will show up in their **Sources for New Books** area:
 
 
-	![](./776875289.png)
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+![](./776875289.png)
+
+</div><div className='notion-spacer' />
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
+
+</div><div className='notion-spacer' />
+</div>
 
