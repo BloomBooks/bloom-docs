@@ -5,6 +5,4 @@ slug: /Release-Notes
 ---
 
 
-
-This section explains what is new in each release.
-
+[object Object]
