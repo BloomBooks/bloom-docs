@@ -43,7 +43,19 @@ Please get in contact with us ([mailto:issues@bloomlibrary.org](mailto:issues@bl
 
 
 
-We have seen a situation where the above does not fix the problem, and have prepared a “nuclear option”: tell Bloom to use the WebView2 that comes with Microsoft Edge.  To do this, create an environment variable named “BloomWV2Path” and set it to “edge”:
+We have seen a situation where the above does not fix the problem, and have prepared a “nuclear option”: tell Bloom to use the WebView2 that comes with Microsoft Edge. 
+
+
+:::caution
+
+The following has only been tested successfully with Windows 11. For other versions, there is a more complicated approach that we can walk you through, if necessary.
+
+:::
+
+
+
+
+To do this, create an environment variable named “BloomWV2Path” and set it to “edge”:
 
 
 ![](./266899542.png)
