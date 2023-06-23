@@ -2,6 +2,7 @@
 title: Older Release Notes
 sidebar_position: 3
 slug: /older-release-notes
+keywords: [Release Notes]
 ---
 
 
@@ -773,7 +774,7 @@ This release is a stepping stone for a more complete set of features for making 
 ### Accessible Books for people with visual impairments {#48318b5a7b614a88a9e61a2d80cfaa30}
 
 
-This work is funded in part by [Book Boost](https://allchildrenreading.org/challenge/book-boost-access-challenge/). Note that this is a work in progress, and there are a couple more tools we will be building for Bloom 4.4. [This query](https://issues.bloomlibrary.org/youtrack/issues?q=project:%20Bloom%20state:%7BReady%20For%20Work%7D%20%23%7BBook%20Boost%7D%20) will show you what is coming.
+This work is funded in part by [Book Boost](https://allchildrenreading.org/challenge/book-boost-access-challenge/). Note that this is a work in progress, and there are a couple more tools we will be building for Bloom 4.4. [This query](https://issues.bloomlibrary.org/youtrack/issues?q=project%3A%20Bloom%20state%3A%7BReady%20For%20Work%7D%20%23%7BBook%20Boost%7D%20) will show you what is coming.
 
 
 ⭐ New _Image Description Tool_ allows you to type in a description of images, so that Talking Books can describe them to blind people.
@@ -788,7 +789,7 @@ This work is funded in part by [Book Boost](https://allchildrenreading.org/chall
 ### Sign Language {#b4cc9d7c8f7c4c65a1ab3f2ef77cc83f}
 
 
-Note that this is a work in progress, and there are many rough edges that we need to sort out. [This query](https://issues.bloomlibrary.org/youtrack/issues?q=project:%20Bloom%20state:%7BReady%20For%20Work%7D%20%23%7BSign%20Language%7D%20) will show you what we plan to do in the future, mostly in Bloom 4.5.
+Note that this is a work in progress, and there are many rough edges that we need to sort out. [This query](https://issues.bloomlibrary.org/youtrack/issues?q=project%3A%20Bloom%20state%3A%7BReady%20For%20Work%7D%20%23%7BSign%20Language%7D%20) will show you what we plan to do in the future, mostly in Bloom 4.5.
 
 
 You can now use Bloom to make Sign Language books. One way to use this is to make **diglots** which people who sign can use to read, and people who read can use to learn to sign.

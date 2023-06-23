@@ -39,7 +39,7 @@ We will set up your account and provide you with the credentials you need.
 
 :::note
 
-Before requesting an API key, please create an account at [BloomLibrary.org](http://BloomLibrary.org). Then when you write, tell us what the email address is that you used to create that account.
+Before requesting an API key, please create an account at [BloomLibrary.org](http://bloomlibrary.org/). Then when you write, tell us what the email address is that you used to create that account.
 
 :::
 
@@ -65,7 +65,7 @@ Thanks!
 ## Base URL {#75d673fae90e489ca8c85599a003b669}
 
 
-[`https://api.bloomlibrary.org/v1/opds`](https://api.bloomlibrary.org/v1/opds?organizeby=language&key=rev79_app@sil.org:kCaAHOBD2r&minimalnavlinks=true)
+[`https://api.bloomlibrary.org/v1/opds`](https://api.bloomlibrary.org/v1/opds?organizeby=language&key=rev79_app%40sil.org%3AkCaAHOBD2r&minimalnavlinks=true)
 
 
 ## Queries {#15c0daf6f1bc40cabee98891b9d6cfbc}
@@ -110,7 +110,7 @@ The following parameters are our additions the OPDS spec:
 To get a list of languages, use a URL like this:
 
 
-[`https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY`](https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY)
+[`https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY`](https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT%3AYOURKEY)
 
 
 This will return a large result that looks like this:
@@ -147,7 +147,7 @@ To get a list of books in a language, use a URL like this:
 
 
 ```xml
-https://api.bloomlibrary.org/v1/opds?&minimalnavlinks=true&[key=YOURACCOUNT:YOURKEY](https://api.bloomlibrary.org/v1/opds?key=rev79_app@sil.org:kCaAHOBD2r&minimalnavlinks=true&lang=hi)&lang=LANGUAGETAG
+https://api.bloomlibrary.org/v1/opds?&minimalnavlinks=true&[key=YOURACCOUNT:YOURKEY](https://api.bloomlibrary.org/v1/opds?key=rev79_app%40sil.org%3AkCaAHOBD2r&minimalnavlinks=true&lang=hi)&lang=LANGUAGETAG
 ```
 
 
@@ -198,7 +198,7 @@ This will return a result like this:
 Notice that these book entries provide:
 
 - link to a thumbnail
-- link to the [BloomLibrary.org](http://BloomLibrary.org) page for the book
+- link to the [BloomLibrary.org](http://bloomlibrary.org/) page for the book
 - link to read the book online
 
 Also, depending on the book, it may provide:

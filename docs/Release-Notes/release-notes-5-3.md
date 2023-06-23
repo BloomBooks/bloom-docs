@@ -2,6 +2,7 @@
 title: Bloom 5.3 Release Notes
 sidebar_position: 1
 slug: /release-notes-5-3
+keywords: [Release Notes]
 ---
 
 
@@ -83,7 +84,7 @@ Less-used commands are now under a “More” submenu. In the future, we intend 
 ![](./1248715891.png)
 
 
-# [BloomLibrary.org](http://BloomLibrary.org) {#f66219e395024a2f85e67185eaae390d}
+# [BloomLibrary.org](http://bloomlibrary.org/) {#f66219e395024a2f85e67185eaae390d}
 
 
 Project cards can now have country names:
@@ -107,5 +108,5 @@ And finally, we added city and country tables:
 # Bloom Reader {#f699b055e6c44d0b818833742c6c366f}
 
 
-We have changed the name and file extension of Bloom’s digital book publishing format from `Bloom Digital / .bloomd` to `BloomPUB / .bloompub`. All readers have accepted both for some time, and now Bloom Editor and [BloomLibrary.org](http://BloomLibrary.org) both deliver `.bloompub`. The new name is purposely parallel to the better-known `ePUB` format.
+We have changed the name and file extension of Bloom’s digital book publishing format from `Bloom Digital / .bloomd` to `BloomPUB / .bloompub`. All readers have accepted both for some time, and now Bloom Editor and [BloomLibrary.org](http://bloomlibrary.org/) both deliver `.bloompub`. The new name is purposely parallel to the better-known `ePUB` format.
 

@@ -7,7 +7,7 @@ keywords: [analytics, statistics]
 
 
 
-## [BloomLibrary.org](http://BloomLibrary.org) Stats pages {#2dcd9fe587634884bfa59171fcb6036a}
+## [BloomLibrary.org](http://bloomlibrary.org/) Stats pages {#2dcd9fe587634884bfa59171fcb6036a}
 
 
 Bloom Enterprise subscribers get a URL that gives them analytics on the reach of the books in their collection, updated once a day.

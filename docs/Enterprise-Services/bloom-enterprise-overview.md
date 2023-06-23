@@ -134,7 +134,7 @@ To view just one example of a Bloom book with a widget, click on the READ button
 ## Bloom Library Collections {#e681141a57404c3fb71d4a1405423568}
 
 
-Enterprise customers can request a dedicated page on [bloomlibrary.org](http://bloomlibrary.org) that features their books. The page can also feature a logo, a short blurb about the project or organization, and a link for more information. Bloom Library pages can also be embedded on your own website.
+Enterprise customers can request a dedicated page on [bloomlibrary.org](http://bloomlibrary.org/) that features their books. The page can also feature a logo, a short blurb about the project or organization, and a link for more information. Bloom Library pages can also be embedded on your own website.
 
 
 ![](./703657715.png)

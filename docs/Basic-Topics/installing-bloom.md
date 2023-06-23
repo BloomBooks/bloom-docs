@@ -69,7 +69,7 @@ You may also need a special **keyboard layout** to let you type the characters
 </div>
 
 
-If you need help to find a font or keyboard for your language, try looking on SIL’s [ScriptSource](https://scriptsource.org) site. 
+If you need help to find a font or keyboard for your language, try looking on SIL’s [ScriptSource](https://scriptsource.org/) site. 
 
 
 # Downloading Bloom {#cb910b03fa4a483189be6b98d5a1bed8}
