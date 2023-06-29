@@ -32,7 +32,7 @@ Bloom is primarily a program for the Microsoft Windows operating system. To ru
 Bloom can also run on computers that use Ubuntu Linux. Bloom comes pre-installed in [Wasta-Linux](https://www.wastalinux.org/), SIL’s Linux distro. 
 If you are using Ubuntu Jammy (22.04)+, you can download the latest version of Bloom as a Flatpak here: [https://flathub.org/apps/details/org.sil.Bloom](https://flathub.org/apps/details/org.sil.Bloom), 
 
-For Ubuntu Bionic (18.04) and Focal (20.04), Bloom is distributed as apt packages from SIL’s package repository. See [https://docs.bloomlibrary.org/installing-bloom-linux](https://bloomlibrary.org/page/create/linux) for installation instructions.
+For Ubuntu Bionic (18.04) and Focal (20.04), Bloom is distributed as apt packages from SIL’s package repository. See [Installing Bloom on Linux](/installing-bloom-linux) for installation instructions.
 
 :::
 
