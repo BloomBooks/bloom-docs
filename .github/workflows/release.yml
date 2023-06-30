@@ -51,10 +51,8 @@ jobs:
         run: yarn build
       - name: Upload S3
         # We exclude these six paths because they existed before the current system.
-        # Those six index.html files are redirects to other documents, mostly Google docs.
-        # Note:
-        #   `team-collections` now redirects to the new system's `https://docs.bloomlibrary.org/team-collections-intro/`.
-        #   `team-collections-sharing-services` now redirects to `https://docs.bloomlibrary.org/team-collections-intro/#2e254141a368476083ba215f25f14ab8`.
+        # Those six index.html files are redirects to other documents, some on docs.bloomlibrary.org, but still (June 2023) some legacy Google docs.
+        # See more detailed notes at https://docs.google.com/document/d/1Vub0SeQL6BQqyGoQBN6-cfi6AIRbcBHeV87KjnzZXDU/edit#heading=h.aaxpksot3akz.
         run: aws s3 sync ./build  s3://${{ secrets.AWS_BUCKET }} --delete --exclude "sil-corporate-guidelines/index.html" --exclude "bloomPUB-bundles/index.html" --exclude "bloom-reader-distribution-tags/index.html" --exclude "bloom-reader-shelves/index.html" --exclude "team-collections-sharing-services/index.html" --exclude "team-collections/index.html" --exclude "widgets/index.html"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
