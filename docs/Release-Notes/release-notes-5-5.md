@@ -58,7 +58,7 @@ keywords: [Release Notes, Linux]
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- If you book isn’t ready to meet the world just yet, you can now click the “Draft” button.
+- If your book isn’t ready to meet the world just yet, you can now click the “Draft” button.
 
 </div><div className='notion-spacer' />
 
@@ -379,7 +379,13 @@ The _idea_ of "Source Collections" may have had merit, but in practice, too many
 </div>
 
 
-## The End of Linux Updates (for now) {#294a113830484061844df30acf21ff33}
+## The End of Bloom Updates for Windows 7, 8, and 8.1 {#45d2af0275fc4ca89ae94264e38dce71}
+
+
+Bloom 5.4 was the last version of Bloom that supported these operating systems, which Microsoft no longer supports.
+
+
+## The End of Linux Updates (for now) {#1a23f47c824b43adb6f14c43cf022e0f}
 
 
 Bloom 5.4 was the last version of Bloom for now. Ideally, in several years, we hope (but do not promise) that we will again have the technology and staff required to ship new releases for Linux (and Mac).

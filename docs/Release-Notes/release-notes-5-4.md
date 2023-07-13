@@ -7,7 +7,16 @@ keywords: [Release Notes]
 
 
 
-## Simple Choice Activities {#7b9137e3a2884dc894dfd5530044ada1}
+:::note
+
+Bloom 5.4 is the last version that will work with Linux and Windows 7, 8, and 8.1.
+
+:::
+
+
+
+
+## Simple Choice Activities {#d1e642d66d564770975702164b06bece}
 
 
 We’ve added two new activities that you can add to your books. Just enter the correct answer in the first box. When someone reads the book, Bloom will shuffle the answers.
@@ -236,3 +245,21 @@ Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature
 
 - You won’t notice it, but we did months of work preparing Bloom to move to a modern browser component. This investment will reduce our maintenance cost and unlock some new capabilities in the future.
 - We introduced a new layout to most of our “Publish” screens. In the next version, we’ll complete this transition by rewriting the PDF/Print and Web Upload screens to fit this new system. In the end, the publish screens will be much more uniform so that if you learn one, others will be more familiar.
+
+## The End of Linux Updates (for now) {#45015bc2ab4e4c30b0a5b756af04a637}
+
+
+Bloom 5.4 is the last version of Bloom for now. Ideally, in several years, we hope (but do not promise) that we will again have the technology and staff required to ship new releases for Linux (and Mac).
+
+
+**Technical Details**: Bloom started as a Windows-only application, using .net technologies plus an embedded web browser. Unfortunately, a software key component (_geckofx_) stopped development a few years ago. GeckoFX was the magic that allowed us to embed a Firefox Browser in our .net application. Bloom relies on over a thousand other open-source libraries, and increasingly, we cannot make use of _their_ updates and fixes, because our browser is stuck in 2018. We have only a small amount of resources to spend, and we can't justify spending an increasing amount of it going against the tide. Bloom 5.5 uses a modern embedded browser, _WebView2_ from Microsoft.
+
+
+We will eventually get Bloom to a state where its UI is no longer a hybrid of .net and browser UI. With each version, we are retiring some .net UI and replacing it with browser UI. When this process is complete, then new cross-platform possibilities will open up, be it a .net/electron or something else. Microsoft may also deliver _WebView2_, for Linux and Mac (they list this on [their roadmap](https://docs.microsoft.com/en-us/microsoft-edge/webview2/roadmap), in a non-committal way).
+
+
+See also:
+
+
+[Installing Bloom on Linux](/installing-bloom-linux)
+
