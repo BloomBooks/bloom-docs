@@ -46,12 +46,18 @@ and then type “controlled folder” followed by the Enter key:
 
 ![](./1979852456.png)
 
-1. Confirm that “Controlled folder access” is set to “On”. If it is “Off”, then something else is causing the problem, and you can stop reading these instructions.
-1. Click the toggle button that says “On”. It will switch to “Off”
+
+ 2. Confirm that “Controlled folder access” is set to “On”. If it is “Off”, then something else is causing the problem, and you can stop reading these instructions.
+
+
+ 3. Click the toggle button that says “On”. It will switch to “Off”
+
 
 	![](./130758407.png)
 
-1. Now run Bloom again.
+
+ 4. Now run Bloom again.
+
 
 ## Option 2: Move your Bloom collections folder out of “My Documents” {#a191f24b4c27424587acfb06f13b60c7}
 
@@ -97,20 +103,36 @@ and then type “controlled folder” followed by the Enter key:
 
 ![](./1979852456.png)
 
-1. Confirm that “Controlled folder access” is set to “On”. If it is “Off”, then something else is causing the problem, and you can stop reading these instructions.
-1. Click “Allow an app through Controlled folder access”
+
+ 2. Confirm that “Controlled folder access” is set to “On”. If it is “Off”, then something else is causing the problem, and you can stop reading these instructions.
+
+
+ 3. Click “Allow an app through Controlled folder access”
+
 
 	![](./130758407.png)
 
-1. A dialog will appear asking if you want “Windows Security” to make changes to your device. Select “Yes”.
-1. Click “Add an allowed app”
-1. Click “Recently blocked apps
+
+ 4. A dialog will appear asking if you want “Windows Security” to make changes to your device. Select “Yes”.
+
+
+ 5. Click “Add an allowed app”
+
+
+ 6. Click “Recently blocked apps
+
 
 	![](./1962877507.png)
 
-1. Click the “+” next to “Bloom”
-1. Click “Close”
+
+ 7. Click the “+” next to “Bloom”
+
+
+ 8. Click “Close”
+
 
 ![](./413206379.png)
 
-1. Finally, run Bloom again. This time it should open without an error.
+
+ 9. Finally, run Bloom again. This time it should open without an error.
+
