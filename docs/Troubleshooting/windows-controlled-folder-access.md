@@ -53,7 +53,7 @@ and then type “controlled folder” followed by the Enter key:
  3. Click the toggle button that says “On”. It will switch to “Off”
 
 
-	![](./130758407.png)
+![](./130758407.png)
 
 
  4. Now run Bloom again.
@@ -107,10 +107,19 @@ and then type “controlled folder” followed by the Enter key:
  2. Confirm that “Controlled folder access” is set to “On”. If it is “Off”, then something else is causing the problem, and you can stop reading these instructions.
 
 
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
  3. Click “Allow an app through Controlled folder access”
 
+</div><div className='notion-spacer' />
 
-	![](./130758407.png)
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+![](./130758407.png)
+
+</div><div className='notion-spacer' />
+</div>
 
 
  4. A dialog will appear asking if you want “Windows Security” to make changes to your device. Select “Yes”.
@@ -119,10 +128,19 @@ and then type “controlled folder” followed by the Enter key:
  5. Click “Add an allowed app”
 
 
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
  6. Click “Recently blocked apps
 
+</div><div className='notion-spacer' />
 
-	![](./1962877507.png)
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+![](./1962877507.png)
+
+</div><div className='notion-spacer' />
+</div>
 
 
  7. Click the “+” next to “Bloom”
