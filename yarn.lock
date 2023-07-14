@@ -2026,10 +2026,10 @@
   resolved "https://registry.yarnpkg.com/@sideway/pinpoint/-/pinpoint-2.0.0.tgz#cff8ffadc372ad29fd3f78277aeb29e632cc70df"
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
-"@sillsdev/docu-notion@0.11.3":
-  version "0.11.3"
-  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.11.3.tgz#6e77072c18fd79caf51da93b323c71666bdc8e45"
-  integrity sha512-PVKwRorORWHM89XCQe+dyt2NXbsble7x8PWDpxAOEV6n5eA6L/kNC7tTGoVYKDotHdNcca+aQnEhtksx+fHw6Q==
+"@sillsdev/docu-notion@0.13.2-alpha.3":
+  version "0.13.2-alpha.3"
+  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.13.2-alpha.3.tgz#52e835e426cd97ec6a72390de641517c151fcaab"
+  integrity sha512-a+RIGaS6lbWRe6aWmLmE1fJ37fcB10/6FfOvVlf3a2Bf3nIo6HhmBfqFMbFE8SDp8tqFZIhTSW9NEY6yISRqcg==
   dependencies:
     "@notionhq/client" "2.2.3"
     chalk "^4.1.2"
