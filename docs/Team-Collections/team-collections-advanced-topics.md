@@ -100,11 +100,13 @@ There are a number of situations where conflicts arise between books on differen
 
 **If you want to rescue a book from the Lost and Found, it’s best to get a Bloom expert to help you.** If you are a confident computer user and want to do the job yourself, here’s how: 
 
+1. Close Bloom.
 1. Navigate to the Dropbox (or LAN)-synchronized “shadow folder” (for instance, **`C:\Users\<your username>\Dropbox\My-collection - TC\`**).
 1. Now look for a subfolder called **`Lost and Found`**. Inside the `Lost and Found` subfolder you will find one or more files with a **`.bloom`** extension. Each of these is a compressed book folder.
 1. Copy the desired `.bloom` file to a different location on your computer, and uncompress it into a new folder. You will probably need to use a zip utility such as [7-Zip](https://7-zip.org/) to do this. (Alternately, you can change the filename extension to `.zip`, and use Windows’ built-in zip tools to uncompress the file into a new folder.)
-1. Copy or move your newly uncompressed folder into your **local** Team Collection folder. **WARNING: Make sure the folder has a different name than the original book’s folder name!** Otherwise you’ll get back into a conflict situation.
-1. Launch Bloom (or close and relaunch Bloom). Bloom will recognize that a book has been added to the Team Collection, and will automatically check it out to you.
+1. Rename the folder to something which does not match any folder name or book title in your **local** Team Collection.
+1. Copy or move your newly uncompressed folder into your **local** Team Collection folder.
+1. Launch Bloom. Bloom will recognize that a book has been added to the Team Collection. There will be a message saying, “The book ‘XX’ is no longer in the Team Collection. It has been kept in your local collection.” You may ignore this message. The book will be automatically checked out to you.
 1. Check in the book, and Bloom (with a little help from Dropbox or your LAN) will propagate the new book to the other Team Collection computers.
 
 **Now comes the hard part:** you must manually reconcile the two different versions. This means identifying the parts you want to keep from one book (the version you will not keep), and manually moving them into the one you will keep. This can be a painful process! 
