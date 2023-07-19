@@ -6,19 +6,10 @@ slug: /why-share-on-blorg
 
 
 
-:::caution
-
-This page is a work in progress.
-
-:::
+Do you upload your books to Bloom Library? You should! Here are some reasons why.
 
 
-
-
-# Why you should upload your books to Bloom Library {#1b3ceda640774c9b93ceef60257c26aa}
-
-
-Books on BloomLibrary.org benefit 
+When you put your books on[ BloomLibrary.org](http://bloomlibrary.org/), they can benefit:
 
 - language group members
 - educators
@@ -30,59 +21,53 @@ Books on BloomLibrary.org benefit
 - people working on automated translation software
 - people who may be able to translate your book into their own language or dialect
 
-Your book on [BloomLibrary.org](http://bloomlibrary.org/) will be kept safe for generations.
+Also, your books on[ BloomLibrary.org](http://bloomlibrary.org/) will be kept safe for generations.
 
 
-# Questions & Answers {#2c086c68103d41578f75f576914427b0}
+We have heard a number of reasons why people may not upload their books:
+
+- [I don’t have a Bloom Enterprise subscription](/why-share-on-blorg#3d8d00b647c048f0878b3b3ab1695d99).
+- [Bloom Library is only for books to translate, and it wouldn’t make sense to translate my book.](/why-share-on-blorg#0d3bc375478c40f28f79f923ea6f9304)
+- [My book isn’t perfect.](/why-share-on-blorg#93ce579318244ad88bca648e09086cab)
+- [My books can’t be shared outside the country.](/why-share-on-blorg#4d3bffa070ec42c78f373dcffce986fc)
+- [The people who speak this language don’t have access to the internet.](/why-share-on-blorg#0d9ef48328db4575a3922ca075cd12f8)
+
+Do you have a concern that is not listed here? [Tell us](mailto:issues@bloomlibrary.org) about it!
 
 
-## “What if we don’t have an Enterprise Subscription?” {#5b55d9d32a2045ea819b4f2e11ebaca5}
+## **“What if we don’t have an Enterprise Subscription?”** {#3d8d00b647c048f0878b3b3ab1695d99}
 
 
-You don’t need a subscription to host your books on Bloom Library.
+You don’t need a subscription to upload your books to Bloom Library. Anyone can create a free account and upload their books.
 
 
-Subscribers do get some features that help with large projects. They can get particular “bookshelves” created and bulk-upload tens or hundreds of books to those bookshelves without involving the Bloom Librarian. They can also get detailed metrics to see how their books are being used.
+## **“Isn’t Bloom Library for finding books to translate? It would not make sense to translate my book.”** {#0d3bc375478c40f28f79f923ea6f9304}
 
 
-## “Isn’t Bloom Library for finding books to translate? It would not make sense to translate this book.” {#1f0311f789144ae4b52e7a5e18942ac3}
+Even though Bloom Library is a great source of books that can be translated and re-published, the library is _primarily_ a place where readers, educators, and activists can find vernacular materials in specific languages.
 
 
-Bloom Library is indeed a great source of books that can be readily translated and re-published. However, the library is _primarily_ a place where readers, educators, and activists can find vernacular materials.
+## **“Why should I upload my book—it isn’t perfect?”** {#93ce579318244ad88bca648e09086cab}
 
 
-## “But my book isn’t perfect.” {#b359a091b6cb4503aee14fbe45231c29}
+It’s fine to share books that you might improve in the future. Consider putting a note in the book summary alerting users that more work is planned. You might even want to give them a way to contact you for feedback. Then, as you progress, Bloom makes it easy to upload an updated version.
 
 
-It’s fine to share books that you might improve in the future. Consider putting a note in the book summary alerting users that more work is planned. You might even want to give them a way to contact you for feedback. Then, as you progress, Bloom makes it easy to upload any improvements.
+If the book isn’t ready for the public, it can still be great to put the book where you can get feedback while keeping it from being seen by the public. By marking your book as a "draft," you can keep it private—accessible only to you and the trusted individuals you share the link with. This allows you to maintain complete control over your book and decide when it's ready for the world to see.
 
 
-If the book isn’t ready for the public, it can still be great to put the book where you can get feedback while keeping it from being seen by the public. By marking your book as a "draft," you can keep it private, accessible only to you and the trusted individuals you choose. This allows you to maintain complete control over your process and decide when it's ready for the world to see.
+## **“What if my books cannot be shared outside of the country?”** {#4d3bffa070ec42c78f373dcffce986fc}
 
 
-## “What if about books that cannot be shared outside of the country?” {#3a902a8cc3aa4c60b01c37687ba86706}
+There is a way to tell BloomLibrary.org to restrict the reading and downloading of books to a single country. [Contact us ](mailto:issues@bloomlibrary.org)for help with that.
 
 
-There is a way to tell BloomLibrary.org to restrict the reading and downloading of books to a single country. Contact us for help with that.
+## **“What if our people group doesn’t have access to the internet?”** {#0d9ef48328db4575a3922ca075cd12f8}
 
 
-## “But our people don’t use the web.” {#52da92edeec3401b96ba2b4d5cbc1922}
+You can be confident that no matter how remote a language community is, they will eventually get internet access. This may be the local people, the diaspora, or even their descendants. If the books are only on paper or your personal hard drive, your books will disappear. Instead, we encourage you to put them on Bloom Library. SIL and other organizations will keep them accessible now and for future generations. And your book on Bloom Library can still do a lot of good in the world, even while waiting for your language group to get regular, inexpensive access to the internet:
 
-
-Your book on Bloom Library can still do a lot of good in the world, even while waiting for your language group to get regular inexpensive access to the internet.
-
-
-Your book may be an inspiration to the broader literature production community.
-
-
-In NGO contexts, the government may appreciate seeing that you produce helpful materials.
-
-
-If this book production project is supported by donors, putting your books on Bloom Library will help them understand a part of what their donations are making happen.
-
-
-Once a book is available on BloomLibrary.org, it is also shared with the Bloom Reader app, where it can be read and shared offline.
-
-
-You can be confident that no matter how remote a language community is, they will eventually get internet access. This may be the local people, the diaspora, or even their decedents. If the books are only on paper or your personal hard drive, your books will disappear. Instead, we encourage you to put them on [BloomLibrary.org](http://bloomlibrary.org/) today. SIL and other organizations will keep them accessible now and for future generations.
-
+- Your book may be an inspiration to the broader literature production community.
+- In NGO contexts, the government may appreciate seeing that you produce helpful materials.
+- If this book production project is supported by donors, putting your books on Bloom Library will help them understand what their donations are making happen.
+- Once a book is available on Bloom Library, it is also shared with the Bloom Reader app, where it can be read and shared offline.

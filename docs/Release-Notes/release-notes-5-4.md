@@ -245,6 +245,7 @@ Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature
 
 - You won’t notice it, but we did months of work preparing Bloom to move to a modern browser component. This investment will reduce our maintenance cost and unlock some new capabilities in the future.
 - We introduced a new layout to most of our “Publish” screens. In the next version, we’ll complete this transition by rewriting the PDF/Print and Web Upload screens to fit this new system. In the end, the publish screens will be much more uniform so that if you learn one, others will be more familiar.
+- You can now paste in text formatted in “small caps” from Microsoft Word
 
 ## The End of Linux Updates (for now) {#45015bc2ab4e4c30b0a5b756af04a637}
 

@@ -8,7 +8,7 @@ slug: /
 
 :::tip
 
-This site is a work in progress. Our initial goal is to bring together in one place the various advanced documentation writeups we’ve done over the years.
+This site is a work in progress, and is far from a complete set of documentation of Bloom. Within Bloom, you can find helps on most topics by going to the “?” menu.
 
 :::
 
