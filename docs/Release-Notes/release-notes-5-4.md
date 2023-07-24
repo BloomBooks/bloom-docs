@@ -1,5 +1,5 @@
 ---
-title: Bloom 5.4 Beta Release Notes
+title: Bloom 5.4 Release Notes
 sidebar_position: 2
 slug: /release-notes-5-4
 keywords: [Release Notes]
@@ -9,7 +9,7 @@ keywords: [Release Notes]
 
 :::note
 
-Bloom 5.4 is the last version that will work with Linux and Windows 7, 8, and 8.1.
+This version, Bloom 5.4, is the last version that will work with Linux and Windows 7, 8, and 8.1.
 
 :::
 

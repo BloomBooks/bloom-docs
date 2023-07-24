@@ -1,5 +1,5 @@
 ---
-title: Bloom 5.5 Almost-Beta Release Notes
+title: Bloom 5.5 Beta Release Notes
 sidebar_position: 3
 slug: /release-notes-5-5
 keywords: [Release Notes, Linux]
@@ -7,7 +7,16 @@ keywords: [Release Notes, Linux]
 
 
 
-## Publish: New Print / PDF {#0fb7cd3b5e554a15a7b948be2b671834}
+:::note
+
+This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
+
+:::
+
+
+
+
+## Publish: New Print / PDF {#b1b33127eb2a4f0b9c5192f4f0e61e83}
 
 
 <div class='notion-row'>
@@ -187,7 +196,7 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 ## Palettes {#e2f8f06bfd13497d863967447102c08b}
 
 
-Bloom collections now remember what custom colors you have created. So whether you are setting text for a style, a text selection, an audio highlight, or an overlay text, you are working with the same palette.  Cover color are a separate palette.
+Bloom collections now remember what custom colors you have created. So whether you are setting text for a style, a text selection, an audio highlight, or an overlay text, you are working with the same palette.  Cover colors are a separate palette.
 
 
 ## Spreadsheet Import/Export  {#19de49c323e94e1ab09a9834ea5bd057}
@@ -195,7 +204,7 @@ Bloom collections now remember what custom colors you have created. So whether y
 
 :::caution
 
-This feature is Experimental
+This feature is experimental. You can enabled it under Collection Settings:Advanced
 
 :::
 
@@ -204,7 +213,7 @@ This feature is Experimental
 
 :::note
 
-This feature requires a Bloom Enterprise subscription
+This feature requires a Bloom Enterprise subscription.
 
 :::
 
@@ -229,7 +238,7 @@ Creating _**new**_ overlay pages requires a Bloom Enterprise subscription. Trans
 
 
 - Overlays now work great in books that can be switched between languages. As you change to a different language, the size and location of bubbles are updated to match what they should be for that language.
-- Overlay bubbles now respond better when you change the size / orientation of the book.
+- Overlay bubbles now respond better when you change the size/orientation of the book.
 
 ## Scrolling Text Boxes in Device Layouts {#ba12c7f8ad9e4d238a970ca36f913f60}
 
@@ -239,7 +248,7 @@ When a text box has more text than can fit, Bloom does several things to draw yo
 
 :::caution
 
-Note that for technical/cost reasons this scrollbar actually takes up some of the box’s horizontal space, whereas during actual playback of the book, the scrollbar hovers above the text. So you won’t get exactly the same line breaking.
+Note that for technical/cost reasons, this scrollbar actually takes up some of the box’s horizontal space, whereas during actual playback of the book, the scrollbar hovers above the text. So you won’t get exactly the same line-breaking.
 
 :::
 
@@ -326,7 +335,13 @@ Note that for technical/cost reasons this scrollbar actually takes up some of th
 </div>
 
 
-## The End of Andika New Basic {#87cd0515414e4b12a7bb36480049d728}
+## Major Infrastructure Work {#87cd0515414e4b12a7bb36480049d728}
+
+
+Much of the effort we spent in this version was on updating Bloom’s “underpinnings”. If all goes well, this work should be invisible to you as a user. We mention it only because you might like to know that we are continually investing in the foundations of Bloom instead of just adding new features.
+
+
+## The End of Andika New Basic {#652892e660564b8a8414380e1a5b668b}
 
 
 Bloom’s default font has always been Andika New Basic (ANB), and before this version, we installed it on your computer along with Bloom. ANB is now completely replaceable by the [Andika ](https://software.sil.org/andika/)font, and will no longer be updated by its publisher (SIL). Therefore, in this version we have switched to Andika. As part of this switch,
