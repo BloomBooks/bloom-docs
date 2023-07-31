@@ -224,7 +224,7 @@ This feature requires a Bloom Enterprise subscription.
 - Roundtrip colored words
 - Importing Overlays now preserves text styles
 - On import, remove pages that have been removed from the spreadsheet
-- 
+
 
 ## Overlays {#adf1d45d0d474bdfb5ce6c17adf2ed50}
 
@@ -321,7 +321,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- We added a new set of statistics to the “stats” page fore each collection.
+- We added a new set of statistics to the “stats” page for each collection.
 
 
 
