@@ -20,7 +20,7 @@ This page is a work in progress.
 
 
 
-# Mouse: click and right-click {#0d0d7a4e94d9488996a19af18ce23db7}
+## Mouse: click and right-click {#0d0d7a4e94d9488996a19af18ce23db7}
 
 
 One example in Bloom where a right-click is needed is when you want to Duplicate or Delete a Book. To access these commands in Bloom, you need to right-click on the book’s thumbnail. Doing so will reveal these commands (and others).
@@ -29,7 +29,7 @@ One example in Bloom where a right-click is needed is when you want to Duplicate
 ![](./2142947944.png)
 
 
-# Shell Book {#a9855df550204e1caffc0d245164ab11}
+## Shell Book {#a9855df550204e1caffc0d245164ab11}
 
 
 "Shell Books" (sometimes called “Shells”) are books that have been intentionally designed by their authors to be translated into other languages.

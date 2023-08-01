@@ -224,7 +224,6 @@ This feature requires a Bloom Enterprise subscription.
 - Roundtrip colored words
 - Importing Overlays now preserves text styles
 - On import, remove pages that have been removed from the spreadsheet
-- 
 
 ## Overlays {#adf1d45d0d474bdfb5ce6c17adf2ed50}
 
@@ -321,7 +320,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- We added a new set of statistics to the “stats” page fore each collection.
+- We added a new set of statistics to the “stats” page for each collection.
 
 
 
@@ -422,4 +421,10 @@ See also:
 
 
 A software component (_geckofx_) that Bloom has used to provide support for Graphite fonts is no longer being maintained by its author, and the Bloom team does not have the resources to maintain it. Therefore, starting with Bloom 5.5, we are switching to an alternative that is maintained by Microsoft. This has many benefits for us, but one downside is that Bloom will no longer support complex non-roman scripts that require “Graphite” technology. For most non-roman fonts, this will not be a problem. However, Nastaliq and Lanna fonts do require Graphite. As far as we can tell, no one has ever contributed a book to Bloom Library using these fonts, and our analytics tell us that no books are using it with Bloom 5.4. If you need Graphite font technology, please use Bloom 5.4 and also contact us.
+
+
+## The End of Adobe Reader {#cbc634239daa43189414d19d4d698057}
+
+
+Bloom no longer uses Adobe Reader, so there is no need to install it anymore if you don’t already have it.
 

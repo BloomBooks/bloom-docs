@@ -107,10 +107,11 @@ Bloom supports two kinds of **activity pages** in digital books: Comprehension Q
 **HTML5 widgets** are JavaScript apps that are programmed outside of Bloom and can be embedded in Bloom book pages. These widgets open up many options for making books interactive.
 
 
-To view just one example of a Bloom book with a widget, click on the READ button below and go to page 9:
+To view just one example of a Bloom book with a widget, click the link below and go to page 9.
 
 
-[embed](https://bloomlibrary.org/activities/books-with-widgets/book/wXn65BSrBI)
+<iframe width="100%" height="450px" allow="fullscreen" allowFullScreen={true}
+  src="https://bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://s3.amazonaws.com/bloomharvest/educationforlife@sil.org/dce90651-e17a-4f28-a135-42fd3327c137/bloomdigital/index.htm&initiallyShowAppBar=false&paused=true&allowToggleAppBar=true&independent=false&host=docs.bloomlibrary.org"></iframe>
 
 
 # Editing tools {#2af3fbf23d4c4a9c97a6b0d1e6155ec1}
