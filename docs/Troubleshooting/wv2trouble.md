@@ -7,19 +7,40 @@ keywords: [troubleshoot]
 
 
 
+Bloom’s user interface is powered by the same browser engine as Microsoft Edge, which is named “WebView2”. If WebView2 were to get damaged in some way, Bloom would not be able to run.  It would direct you to this web page.
+
+
+If this happens to your, here are some things to try:
+
+
+## 1) Restart your computer {#78df2d52ce074ef5950792bee1ed9a92}
+
+
+ We have seen a case where a “zombie” Bloom is running with different WebView2 arguments.
+
+
+## 2) Delete a folder from temp {#9fae8c7bb27344ee8b8f13f9c2d927a3}
+
+
 :::tip
 
-Please get in contact with us ([mailto:issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)) if you get directed here by Bloom. Even if the following instructions work for you, we need to know that this is actually happening to someone!
+Please get in contact with us ([mailto:issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)) if you get this far in your debuggin. Even if the following instructions work for you, we need to know that this is actually happening to someone!
 
 :::
 
 
 
 
-Bloom’s user interface is powered by the same browser engine as Microsoft Edge, which is named “WebView2”. If WebView2 were to get damaged in some way, Bloom would not be able to run.  It would direct you to this web page.
+In File Explorer, navigate to you temp director and delete “Bloom WebView2”:
 
 
-If this happens to your, here are some things to try:
+![](./1478022081.png)
+
+
+Delete the contents of that folder. Now run Bloom again.
+
+
+## 3) Repair WebView2 {#99638cbf03324e9580368a5cd90c4e31}
 
 
 ![](./1735398459.png)
@@ -31,7 +52,7 @@ Click “Modify”, then “Repair”:
 ![](./1601555847.png)
 
 
-# If the repair doesn’t work {#f275483d6cd94e20a669424e17cc7b61}
+## 4) Tell Bloom to use Edge instead {#f275483d6cd94e20a669424e17cc7b61}
 
 
 :::tip

@@ -27,7 +27,7 @@ Bloom is designed to run on fairly modest hardware. Your computer should have at
 Bloom is primarily a program for the Microsoft Windows operating system. To run Bloom, you need **Windows 8.1**, **Windows 10**, or **Windows 11**.
 
 
-:::🐧
+:::caution
 
 Bloom can also run on computers that use Ubuntu Linux. Bloom comes pre-installed in [Wasta-Linux](https://www.wastalinux.org/), SIL’s Linux distro. 
 If you are using Ubuntu Jammy (22.04)+, you can download the latest version of Bloom as a Flatpak here: [https://flathub.org/apps/details/org.sil.Bloom](https://flathub.org/apps/details/org.sil.Bloom), 
@@ -39,7 +39,7 @@ For Ubuntu Bionic (18.04) and Focal (20.04), Bloom is distributed as apt package
 
 
 
-:::🪟
+:::caution
 
 You can use older versions of Bloom with Windows XP and Windows Vista, but this is <u>not</u> recommended. If you must use these unsupported operating systems, you can download the required versions of Bloom from the [Bloom Library downloads](https://bloomlibrary.org/page/create/downloads) page. 
 
@@ -180,7 +180,7 @@ Next, double-click _The Art of Reading_ installer to install the image library.
 There is no icon or desktop shortcut for _the Art of Reading._ It will be available the next time that you run Bloom.
 
 
-:::🐧
+:::caution
 
 If you are using Bloom for Linux, see [bloomlibrary.org/page/create/art-of-reading](https://bloomlibrary.org/page/create/art-of-reading) for instructions on installing _The Art of Reading_ from the SIL package repository. 
 
