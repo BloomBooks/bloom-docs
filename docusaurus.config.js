@@ -119,10 +119,11 @@ const config = {
             position: "right",
             docId: "downloads",
           },
-          {
-            type: "localeDropdown",
-            position: "right",
-          },
+          // As of Aug 2023, we don't really have enough translation done to warrant having a locale chooser.
+          // {
+          //   type: "localeDropdown",
+          //   position: "right",
+          // },
         ],
       },
 
