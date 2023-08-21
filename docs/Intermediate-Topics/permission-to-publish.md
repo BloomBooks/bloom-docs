@@ -15,3 +15,9 @@ Here is an article that explains much of what you need to know:
 
 [https://www.theedublogger.com/copyright-fair-use-and-creative-commons/](https://www.theedublogger.com/copyright-fair-use-and-creative-commons/)
 
+
+In addition, this short video may be helpful:
+
+
+[image](https://youtu.be/nHg9uiw3DQg)
+
