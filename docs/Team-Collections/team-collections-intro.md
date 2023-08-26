@@ -56,13 +56,13 @@ A **shadow collection folder** (sometimes called a “shadow collection” or �
 
 For example, let’s say Awa has a collection of books on her computer (Figure 1): 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![Figure 1: Awa’s computer](./1498310619.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -71,13 +71,13 @@ For example, let’s say Awa has a collection of books on her computer (Figure 1
 
 Awa’s collection is a Team Collection, so Bloom creates a shadow collection folder on her computer from her working files. The shadow collection is also synchronized to the Dropbox file-sharing service (Figure 2). 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![Figure 2: Awa’s computer, with a shadow collection folder synchronized to Dropbox.](./561722303.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -86,13 +86,13 @@ Awa’s collection is a Team Collection, so Bloom creates a shadow collection fo
 
 Awa shares the shadow collection folder with her teammate Barkari using Dropbox. Now Awa and Barkari both have a shadow collection folder on their computers (Figure 3).   
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000002)'}}>
 
 ![Figure 3: Awa’s computer, and the shadow collection synchronized to Barkari’s computer](./1676446137.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -101,13 +101,13 @@ Awa shares the shadow collection folder with her teammate Barkari using Dropbox.
 
 When Barkari launches a special file in the shadow collection folder, Bloom copies the Team Collection files from the shadow collection on his computer, to create a working collection. Now Barkari can edit books in the collection, too. 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![Figure 4: Awa’s computer, and Barkari’s computer with a working collection from the synchronized shadow collection](./1234625758.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -125,13 +125,13 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 
 - **Available for editing**
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 ![](./1747722979.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -142,13 +142,13 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 ![](./662682535.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -157,13 +157,13 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 
 - **Checked out by someone else**
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 ![](./1040791527.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 

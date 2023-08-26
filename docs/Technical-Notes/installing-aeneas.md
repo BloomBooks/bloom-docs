@@ -25,13 +25,13 @@ Bloom has two methods for recording audio narration for a book: **by sentence** 
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1002154726.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -45,13 +45,13 @@ To enable recording by text box, tick the check box that says **Record by whole 
 
  
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1160559479.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -60,13 +60,13 @@ To enable recording by text box, tick the check box that says **Record by whole 
 
 If you do not have the aeneas software package installed on your computer, Bloom will display a warning in the lower portion of the Talking Book tool controls, saying **To split recordings into sentences, first install the** [**aeneas**](https://github.com/sillsdev/aeneas-installer/releases/tag/v1.7.3) **system.** 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./2231245.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -79,13 +79,13 @@ If you do not have the aeneas software package installed on your computer, Bloom
 
 1. Click the **`aeneas-windows-setup-1.7.3.exe`** link to download the software.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./929714417.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -96,13 +96,13 @@ If you do not have the aeneas software package installed on your computer, Bloom
 
 The aeneas tools setup wizard will start.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./78045525.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -111,13 +111,13 @@ The aeneas tools setup wizard will start.
 
 1. Click **Next** to follow the steps of the setup wizard. **Do not make any changes to the default installation settings unless you are sure what you are doing.**
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./2145079537.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -126,7 +126,7 @@ The aeneas tools setup wizard will start.
 
 1. When you reach the “Ready to Install” screen, click **Install.** You will see a number of installation status screens, including some in the Windows command line.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
@@ -134,7 +134,7 @@ The aeneas tools setup wizard will start.
 
 ![](./1110641972.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -143,13 +143,13 @@ The aeneas tools setup wizard will start.
 
 Eventually, you will see a “Completing the aeneas tools Setup Wizard” screen.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./86068752.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 1. Restart your computer.

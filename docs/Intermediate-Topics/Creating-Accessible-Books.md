@@ -38,13 +38,13 @@ In order to access the Image Description Tool, click on the menu icon at the top
 
 The toolbar will open. If the Image Description Tool is not listed at the top, click on the “More…” button at the bottom of the toolbar. 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 ![](./2039978613.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -55,13 +55,13 @@ Then activate the **Image Description Tool** by clicking in the check box.
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1.0625)'}}>
 
 ![](./1869683335.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -74,13 +74,13 @@ Then activate the **Image Description Tool** by clicking in the check box.
 Now that the Image Description Tool is open, a space will be created next to the image for adding a text description. You may now type in the text which describes the image. If you are not familiar with how to write image descriptions, you may want to visit:
 [poet.diagramcenter.org](http://poet.diagramcenter.org/). 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 ![](./2056205524.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -108,13 +108,13 @@ Begin by switching the active tool from the Image Description Tool to the Talkin
 
 If needed, use the Next and Back button to change from one text box to another. If you are recording by sentence, The Next and Back buttons will move one sentence at a time. 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 ![](./850996196.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -129,13 +129,13 @@ If needed, use the Next and Back button to change from one text box to another. 
 
 Bloom allows you to record one sentence at a time, or to record the whole text box at one time. Some speakers find that recording the entire text box all at once will give a better recording. Others find it better to record one sentence at a time. 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./1701967193.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -166,13 +166,13 @@ When you are ready to record, click on and hold down the **Speak** button and st
 
 —
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./1830205513.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -193,13 +193,13 @@ The Impairment Visualizer is another tool for creating accessible books. This to
 
 Activate this tool by clicking on More... in the Tool Panel and selecting Impairment Visualizer. 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./2028270830.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -211,13 +211,13 @@ Using this tool, you can evaluate whether an image should be modified so that it
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./2083622234.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -232,13 +232,13 @@ Bloom does not have a tool for editing images. If an image needs to be edited, y
 
 The first choice shows what the image might look like to someone with cataracts.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./938620240.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -250,13 +250,13 @@ The first choice shows what the image might look like to someone with cataracts.
 
 For color blindness, there are three possibilities. The first shows what the image might look like to someone with red-green color blindness.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./1435977174.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -268,13 +268,13 @@ For color blindness, there are three possibilities. The first shows what the ima
 
 The second option shows what the image might look like to someone with blue-yellow color blindness.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./305669585.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -286,13 +286,13 @@ The second option shows what the image might look like to someone with blue-yell
 
 The third option shows what the image might look like to someone with complete color blindness.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./1799625050.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -323,13 +323,13 @@ Here are some examples of images with more detail compared with images with less
 
 For example, the Images with less detail on the left, rather than the images with more detail on the right:
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 ![](./711681117.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -338,13 +338,13 @@ For example, the Images with less detail on the left, rather than the images wit
 
 Here are some additional examples of images with less detail on the left and more detail on the right:
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 ![](./367766188.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -359,13 +359,13 @@ These images from the Art of Reading illustrate images that have thick, solid bl
 
 The images on the left have thicker, solid lines, and the images on the right have thinner, less distinct lines. 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 ![](./1473610249.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -374,13 +374,13 @@ The images on the left have thicker, solid lines, and the images on the right ha
 
 Here are some additional examples of images with thicker, solid lines on the left and thinner, less distinct lines on the right. 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 ![](./418679652.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -395,13 +395,13 @@ We all like photos and color illustrations, but they are visually more complex. 
 
 The images on the left are simpler, while the ones on the right are more complex.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 ![](./431581502.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -410,13 +410,13 @@ The images on the left are simpler, while the ones on the right are more complex
 
 Additional examples of simpler images on the left and more complex images on the right:
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 ![](./2115603098.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 

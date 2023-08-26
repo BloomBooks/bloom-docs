@@ -76,7 +76,7 @@ To tell Bloom Player to navigate, you will need to add some javascript to a butt
 window.parent.postMessage('{"messageType":"control", "controlAction":"navigate-to-previous-page"}',"*");
 ```
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -90,6 +90,6 @@ or
 window.parent.postMessage('{"messageType":"control", "controlAction":"navigate-to-next-page"}',"*");
 ```
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 

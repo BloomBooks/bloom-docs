@@ -5,7 +5,7 @@ slug: /permission-to-publish
 keywords: [publish, copyright, license, creative commons]
 ---
 
-
+import ReactPlayer from "react-player";
 
 Before uploading a book to Bloom Library, it is essential that you have full permission to do so. Frequently, Bloom users have questions about what this means. 
 
@@ -19,5 +19,5 @@ Here is an article that explains much of what you need to know:
 In addition, this short video may be helpful:
 
 
-[image](https://youtu.be/nHg9uiw3DQg)
+<ReactPlayer controls url="https://youtu.be/nHg9uiw3DQg" />
 

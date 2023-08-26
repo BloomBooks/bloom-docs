@@ -56,13 +56,13 @@ Finally, users can get more books into their Bloom Reader without going to a sep
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1308884199.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -71,13 +71,13 @@ Finally, users can get more books into their Bloom Reader without going to a sep
 
 You then choose a language and Bloom Reader shows you books from BloomLibrary.org. It will remember your recent languages, so you don’t have to find them each time:
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1680403519.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -86,13 +86,13 @@ You then choose a language and Bloom Reader shows you books from BloomLibrary.or
 
 Once you pick a book, you can either download it into Bloom Reader or just read it online:
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./541668660.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -117,13 +117,13 @@ We heard you: getting image and text boxes to _just the right size_ was too hard
 
 ![](./1834670900.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./183553286.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -141,13 +141,13 @@ We heard you: getting image and text boxes to _just the right size_ was too hard
 
 Bloom can now create ePUBs in “Fixed” mode which asks ePUB players to preserve the page as you see it in Bloom. If you have a very simple book, Bloom will also let you choose the previous “Flowable” mode.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./330307146.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 

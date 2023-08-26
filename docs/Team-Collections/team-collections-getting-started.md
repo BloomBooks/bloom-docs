@@ -253,13 +253,13 @@ It is essential to double-click `Join this Team Collection.JoinBloomTC` **in Win
 
 ![](./819152526.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1457207837.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 

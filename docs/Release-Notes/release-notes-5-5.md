@@ -32,13 +32,13 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./906504899.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -54,13 +54,13 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./552360354.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -69,13 +69,13 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 - If your book isn’t ready to meet the world just yet, you can now click the “Draft” button.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1731335791.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -84,13 +84,13 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 - To turn off the draft status of a book that you uploaded earlier, go to it on [BloomLibrary.org](http://bloomlibrary.org/) and un-tick the Draft button:
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./589860057.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -104,13 +104,13 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 - Bloom no longer constructs a Preview when you go into this screen. Instead, if you want a preview, click the new “Preview” button.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1082030715.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -119,13 +119,13 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 - You can now expand the preview to fill up most of the Bloom Window ([Feature Request](https://community.software.sil.org/t/large-preview-screen-for-bloompub/7491))
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1836475877.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -162,7 +162,7 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 
 - You can now show and hide image descriptions (for the blind).
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
@@ -172,7 +172,7 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -183,13 +183,13 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./889517787.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -262,13 +262,13 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 - If you create a template book in your collection, you can now choose “**Make new book using this template”** to add a new book to your collection, based on that template.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./147992031.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -285,13 +285,13 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 - Added Full Screen Mode ([Feature Request](https://community.software.sil.org/t/full-screen-feature-in-bloompub-viewer/7301/3))
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1709629312.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -303,13 +303,13 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 - We improved handling of books in Right-to-Left languages. Now, to advance, you swipe left.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1358431497.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 - When switching languages, Bloom now stops any audio that is playing, and starts the page over, playing the newly selected language.
@@ -324,13 +324,13 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./394177586.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -355,13 +355,13 @@ Bloom’s default font has always been Andika New Basic (ANB), and before this v
 
 - Bloom now also comes with another popular font, [ABeeZee](https://fonts.google.com/specimen/ABeeZee). This does not have nearly the range of glyphs to handle the world’s alphabets like Andika does, but it’s a fine option for languages with only the most common accent characters. See [https://fonts.google.com/specimen/ABeeZee/glyphs](https://fonts.google.com/specimen/ABeeZee/glyphs)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./709482134.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -383,13 +383,13 @@ The _idea_ of "Source Collections" may have had merit, but in practice, too many
 
 
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./315900342.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
