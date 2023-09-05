@@ -16,12 +16,12 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 ### **Option 1: Steps for adding the information directly within Bloom Reader**[undefined](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#option-1-steps-for-adding-the-information-directly-within-bloom-reader) {#59920d0ccbff4204be5387022a2773e0}
 
 1. Decide on a project ID and device IDs for each device.
-1. Open the menu by clicking on the menu at the top-left of the book list.
-1. At the bottom of the menu, there is an item which indicates it is trying to send stats information or all stats have been sent.
+2. Open the menu by clicking on the menu at the top-left of the book list.
+3. At the bottom of the menu, there is an item which indicates it is trying to send stats information or all stats have been sent.
 	1. Tap the menu item three times.
-1. The following form will then allow you to enter the project ID and device ID:
-1. Save. 2. You may change the IDs using this form, but the only way to remove them completely is to clear the app settings (from the Android settings) or uninstall.
-1. See
+4. The following form will then allow you to enter the project ID and device ID:
+5. Save. 2. You may change the IDs using this form, but the only way to remove them completely is to clear the app settings (from the Android settings) or uninstall.
+6. See
 
 [Verification](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#heading=h.gjum8a6qcqrv) below.
 
@@ -29,16 +29,16 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 ### **Option 2: Steps for creating the file that identifies each device**[undefined](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#option-2-steps-for-creating-the-file-that-identifies-each-device) {#6f0db958af26407db71eb5d2100851ef}
 
 1. Decide on a project ID and device IDs for each device.
-1. Create a file called deviceId.json.{ project: 'projectID' , device: 'deviceID' } 2. Example: \ { project: 'RISE2' , device: 'STUDENT NORTH FLY 001' }
+2. Create a file called deviceId.json.{ project: 'projectID' , device: 'deviceID' } 2. Example: \ { project: 'RISE2' , device: 'STUDENT NORTH FLY 001' }
 
 	```text
 	1. The file content must be  \
 	
 	```
 
-1. Put the deviceId.json file on the device in the Bloom folder which contains the Bloom Reader books (at the root of Internal Storage).
-1. Restart Bloom Reader. 3. This may require actually closing the app if it is currently running. 4. The user will see a brief message indicating the failure or success of loading the project and device IDs. The message is only shown once. The only way to change it after it is initially set is to clear the app settings (from the Android settings) or uninstall.
-1. See
+3. Put the deviceId.json file on the device in the Bloom folder which contains the Bloom Reader books (at the root of Internal Storage).
+4. Restart Bloom Reader. 3. This may require actually closing the app if it is currently running. 4. The user will see a brief message indicating the failure or success of loading the project and device IDs. The message is only shown once. The only way to change it after it is initially set is to clear the app settings (from the Android settings) or uninstall.
+5. See
 
 [Verification](http://localhost:3000/Bloom%20Enterprise%20Services/Analytics/test-/analyticsByDevice#heading=h.gjum8a6qcqrv) below. 6. If this is not working, it means that Bloom Reader does not have permission to read from the Bloom folder at the root of Internal Storage. 5. Open the
 

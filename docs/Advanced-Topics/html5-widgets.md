@@ -72,9 +72,11 @@ To tell Bloom Player to navigate, you will need to add some javascript to a butt
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 0)) * 1)'}}>
 
+
 ```javascript
 window.parent.postMessage('{"messageType":"control", "controlAction":"navigate-to-previous-page"}',"*");
 ```
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -86,9 +88,11 @@ or
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 0)) * 1)'}}>
 
+
 ```javascript
 window.parent.postMessage('{"messageType":"control", "controlAction":"navigate-to-next-page"}',"*");
 ```
+
 
 </div><div className='notion-spacer'></div>
 </div>

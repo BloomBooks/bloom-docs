@@ -71,13 +71,17 @@ Bloom supports two kinds of **activity pages** in digital books: Comprehension Q
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 **Comprehension questions** let you design multiple-choice questions for readers to answer. These activities enhance the reading experience, and Bloom’s analytics system can capture whether readers answer the questions correctly or incorrectly. Such information can provide valuable data for an organization or project’s monitoring and evaluation efforts. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1667521162.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -90,11 +94,9 @@ Bloom supports two kinds of **activity pages** in digital books: Comprehension Q
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
 
 
 </div><div className='notion-spacer'></div>

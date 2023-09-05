@@ -39,13 +39,17 @@ To view all of Bloom Editor’s features, see [this page ](https://bloomlibrary.
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 [Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than 11,000 free books in 480+ languages. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./912047487.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -57,9 +61,9 @@ Key to Bloom’s success is the generosity of local authors and organizations wh
 Uploaded books are displayed using a “book card”. The book card shows a thumbnail image of the book’s front cover. Below that is a colored banner and 1-4 black dots to indicate one of four reading levels recognized by Bloom: 
 
 1. First words and phrases
-1. First sentences
-1. First paragraphs
-1. Longer paragraphs
+2. First sentences
+3. First paragraphs
+4. Longer paragraphs
 
 ![](./55130788.png)
 
@@ -73,13 +77,17 @@ Special book features and the list of languages represented in the book are also
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 [Bloom Reader ](https://play.google.com/store/apps/details?id=org.sil.bloom.reader)is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features: edge-to-edge images, synchronized audio narration, language switching (for books published with multiple languages), sign language video, audio image descriptions, and page navigation.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./121665725.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -97,13 +105,17 @@ Organizations interested in mass distribution of Bloom books to a people group c
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 **Bloom Enterprise** is a special service for organizations that need additional program and publishing features. For more information about Bloom Enterprise, see [Bloom Enterprise Service Overview](/bloom-enterprise-overview). 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 ![](./1497594810.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>

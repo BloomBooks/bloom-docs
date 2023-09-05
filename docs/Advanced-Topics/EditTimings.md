@@ -48,12 +48,12 @@ For the steps below, we assume you have text which has already been recorded **B
 With the Talking Book Tool open: 
 
 1. Click the arrow to open up the **Advanced** section of the tool.
-1. Click **Split** the audio.
-1. The button **Edit Timings File** will illuminate. Click this button.
+2. Click **Split** the audio.
+3. The button **Edit Timings File** will illuminate. Click this button.
 
 	![](./174084097.png)
 
-1. A message will display (example shown below). Click **OK**.
+4. A message will display (example shown below). Click **OK**.
 
 ![](./851082364.png)
 
@@ -99,16 +99,16 @@ This section assumes you already have a good grasp of using the program Audacity
 
 
 1. In the Audio folder of your book, find the audio file identified in the message in step 4 above, and open it in Audacity.
-1. Import the corresponding timings file as a Labels file (File &gt; Import &gt; Labels).
-1. Close Notepad.
-1. Listen to the recording in Audacity and adjust the audio timings by sliding the start and end points of each label to the right or the left as necessary.
- 
+2. Import the corresponding timings file as a Labels file (File &gt; Import &gt; Labels).
+3. Close Notepad.
+4. Listen to the recording in Audacity and adjust the audio timings by sliding the start and end points of each label to the right or the left as necessary.
+
 Hint: select the _circle_ shown below to move _both_ start and end points at the same time.
 
 	![](./2019935925.png)
 
-1. Export the labels file (File &gt; Export &gt; Labels) and _overwrite_ the old timings file.
+5. Export the labels file (File &gt; Export &gt; Labels) and _overwrite_ the old timings file.
 
 	![](./1862658726.png)
 
-1. Back in Bloom, click **Apply Timings File**, select your newly edited timings file, and click Open.
+6. Back in Bloom, click **Apply Timings File**, select your newly edited timings file, and click Open.

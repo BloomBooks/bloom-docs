@@ -6,7 +6,7 @@ slug: /glossary
 
 
 1. [Mouse: click and right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7)
-1. [Shell Book](/glossary#a9855df550204e1caffc0d245164ab11)
+2. [Shell Book](/glossary#a9855df550204e1caffc0d245164ab11)
 
 ---
 

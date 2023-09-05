@@ -21,6 +21,7 @@ This page describes how to install aeneas on a Windows computer for use with Blo
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 Bloom has two methods for recording audio narration for a book: **by sentence** and **by text box**. Bloom’s usual way of recording narrated audio is one sentence at a time. Bloom will highlight each sentence and allow you to record audio for that sentence.  
 
 
@@ -29,7 +30,9 @@ Bloom has two methods for recording audio narration for a book: **by sentence** 
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1002154726.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -41,15 +44,19 @@ However, if you record a whole text box at once, the recording usually sounds mo
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 To enable recording by text box, tick the check box that says **Record by whole text box, then let Bloom split it into sentences later**. Bloom will highlight the entire text box. 
 
  
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1160559479.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -58,13 +65,17 @@ To enable recording by text box, tick the check box that says **Record by whole 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 If you do not have the aeneas software package installed on your computer, Bloom will display a warning in the lower portion of the Talking Book tool controls, saying **To split recordings into sentences, first install the** [**aeneas**](https://github.com/sillsdev/aeneas-installer/releases/tag/v1.7.3) **system.** 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./2231245.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -83,7 +94,9 @@ If you do not have the aeneas software package installed on your computer, Bloom
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./929714417.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -100,7 +113,9 @@ The aeneas tools setup wizard will start.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./78045525.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -115,7 +130,9 @@ The aeneas tools setup wizard will start.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./2145079537.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -130,9 +147,13 @@ The aeneas tools setup wizard will start.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1431606412.png)
 
+
+
 ![](./1110641972.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -141,13 +162,17 @@ The aeneas tools setup wizard will start.
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 Eventually, you will see a “Completing the aeneas tools Setup Wizard” screen.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./86068752.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>

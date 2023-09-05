@@ -20,7 +20,7 @@ A **Bloom Team Collection** is a normal Bloom Collection that is shared among te
 	
 	:::
 	
-
+	
 
 - A [Dropbox](https://www.dropbox.com/) account. The [free version of Dropbox](https://www.dropbox.com/basic), which provides 2GB of storage space, should be sufficient for 100–1000 typical Bloom books.
 
@@ -30,7 +30,7 @@ A **Bloom Team Collection** is a normal Bloom Collection that is shared among te
 	
 	:::
 	
-
+	
 
 
 ## How Team Collections work {#013b2b088f3d4b98a03331c3953ed52f}
@@ -54,13 +54,17 @@ A **shadow collection folder** (sometimes called a “shadow collection” or �
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 For example, let’s say Awa has a collection of books on her computer (Figure 1): 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![Figure 1: Awa’s computer](./1498310619.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -69,13 +73,17 @@ For example, let’s say Awa has a collection of books on her computer (Figure 1
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 Awa’s collection is a Team Collection, so Bloom creates a shadow collection folder on her computer from her working files. The shadow collection is also synchronized to the Dropbox file-sharing service (Figure 2). 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![Figure 2: Awa’s computer, with a shadow collection folder synchronized to Dropbox.](./561722303.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -84,13 +92,17 @@ Awa’s collection is a Team Collection, so Bloom creates a shadow collection fo
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000001)'}}>
 
+
 Awa shares the shadow collection folder with her teammate Barkari using Dropbox. Now Awa and Barkari both have a shadow collection folder on their computers (Figure 3).   
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000002)'}}>
 
+
 ![Figure 3: Awa’s computer, and the shadow collection synchronized to Barkari’s computer](./1676446137.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -99,13 +111,17 @@ Awa shares the shadow collection folder with her teammate Barkari using Dropbox.
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 When Barkari launches a special file in the shadow collection folder, Bloom copies the Team Collection files from the shadow collection on his computer, to create a working collection. Now Barkari can edit books in the collection, too. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![Figure 4: Awa’s computer, and Barkari’s computer with a working collection from the synchronized shadow collection](./1234625758.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -129,7 +145,9 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
+
 ![](./1747722979.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -141,12 +159,13 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 - **Checked out by you**
 
 
-
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
+
 ![](./662682535.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -161,7 +180,9 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
+
 ![](./1040791527.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>

@@ -21,9 +21,9 @@ Accessible books are electronic books that have features to make their content m
 In this training module, you will learn how to:
 
 1. Create image descriptions,
-1. Record audio of the text in the book and in image descriptions,
-1. Evaluate whether images need adjustment for visual impairment, and
-1. Choose images that are going to be easier to perceive
+2. Record audio of the text in the book and in image descriptions,
+3. Evaluate whether images need adjustment for visual impairment, and
+4. Choose images that are going to be easier to perceive
 
 ---
 
@@ -34,15 +34,21 @@ In this training module, you will learn how to:
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 In order to access the Image Description Tool, click on the menu icon at the top right of the screen. 
 
+
+
 The toolbar will open. If the Image Description Tool is not listed at the top, click on the “More…” button at the bottom of the toolbar. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 ![](./2039978613.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -50,6 +56,7 @@ The toolbar will open. If the Image Description Tool is not listed at the top, c
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
+
 
 Then activate the **Image Description Tool** by clicking in the check box.
 
@@ -59,7 +66,9 @@ Then activate the **Image Description Tool** by clicking in the check box.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1.0625)'}}>
 
+
 ![](./1869683335.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -71,14 +80,18 @@ Then activate the **Image Description Tool** by clicking in the check box.
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 Now that the Image Description Tool is open, a space will be created next to the image for adding a text description. You may now type in the text which describes the image. If you are not familiar with how to write image descriptions, you may want to visit:
 [poet.diagramcenter.org](http://poet.diagramcenter.org/). 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 ![](./2056205524.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -106,13 +119,17 @@ Begin by switching the active tool from the Image Description Tool to the Talkin
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 If needed, use the Next and Back button to change from one text box to another. If you are recording by sentence, The Next and Back buttons will move one sentence at a time. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 ![](./850996196.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -127,13 +144,17 @@ If needed, use the Next and Back button to change from one text box to another. 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
+
 Bloom allows you to record one sentence at a time, or to record the whole text box at one time. Some speakers find that recording the entire text box all at once will give a better recording. Others find it better to record one sentence at a time. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
+
 ![](./1701967193.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -160,17 +181,25 @@ This section will assume you are recording your audio on your computer with the 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
+
 Read aloud the highlighted text several times until you are familiar with the text. 
+
+
 
 When you are ready to record, click on and hold down the **Speak** button and start reading the highlighted text. While you are recording, the button will turn yellow. 
 
+
+
 —
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
+
 ![](./1830205513.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -191,13 +220,17 @@ The Impairment Visualizer is another tool for creating accessible books. This to
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
+
 Activate this tool by clicking on More... in the Tool Panel and selecting Impairment Visualizer. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
+
 ![](./2028270830.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -205,6 +238,7 @@ Activate this tool by clicking on More... in the Tool Panel and selecting Impair
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
+
 
 
 Using this tool, you can evaluate whether an image should be modified so that it is easier to interpret for people with these sorts of visual impairments.
@@ -215,7 +249,9 @@ Using this tool, you can evaluate whether an image should be modified so that it
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
+
 ![](./2083622234.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -230,14 +266,18 @@ Bloom does not have a tool for editing images. If an image needs to be edited, y
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
+
 The first choice shows what the image might look like to someone with cataracts.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
+
 
 ![](./938620240.png)
 
+
 </div><div className='notion-spacer'></div>
 </div>
 
@@ -247,15 +287,19 @@ The first choice shows what the image might look like to someone with cataracts.
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
+
 
 For color blindness, there are three possibilities. The first shows what the image might look like to someone with red-green color blindness.
 
+
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
+
 
 ![](./1435977174.png)
 
+
 </div><div className='notion-spacer'></div>
 </div>
 
@@ -265,14 +309,18 @@ For color blindness, there are three possibilities. The first shows what the ima
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
+
 
 The second option shows what the image might look like to someone with blue-yellow color blindness.
 
+
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
+
 ![](./305669585.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -284,13 +332,17 @@ The second option shows what the image might look like to someone with blue-yell
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
+
 The third option shows what the image might look like to someone with complete color blindness.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
+
 ![](./1799625050.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -321,13 +373,17 @@ Here are some examples of images with more detail compared with images with less
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
+
 For example, the Images with less detail on the left, rather than the images with more detail on the right:
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
+
 ![](./711681117.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -336,13 +392,17 @@ For example, the Images with less detail on the left, rather than the images wit
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 Here are some additional examples of images with less detail on the left and more detail on the right:
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 ![](./367766188.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -357,13 +417,17 @@ These images from the Art of Reading illustrate images that have thick, solid bl
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 The images on the left have thicker, solid lines, and the images on the right have thinner, less distinct lines. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 ![](./1473610249.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -372,13 +436,17 @@ The images on the left have thicker, solid lines, and the images on the right ha
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 Here are some additional examples of images with thicker, solid lines on the left and thinner, less distinct lines on the right. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 ![](./418679652.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -393,13 +461,17 @@ We all like photos and color illustrations, but they are visually more complex. 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 The images on the left are simpler, while the ones on the right are more complex.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 ![](./431581502.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -408,13 +480,17 @@ The images on the left are simpler, while the ones on the right are more complex
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
+
 Additional examples of simpler images on the left and more complex images on the right:
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
+
 ![](./2115603098.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -426,7 +502,7 @@ Additional examples of simpler images on the left and more complex images on the
 In this training module, you learned how to:
 
 1. Gain access to accessible book tools in Bloom,
-1. Create image descriptions,
-1. Record audio of the text in the book and in image descriptions,
-1. Evaluate whether images need adjustment for visual impairment, and
-1. Choose images that are going to be easier to perceive.
+2. Create image descriptions,
+3. Record audio of the text in the book and in image descriptions,
+4. Evaluate whether images need adjustment for visual impairment, and
+5. Choose images that are going to be easier to perceive.

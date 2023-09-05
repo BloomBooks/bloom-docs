@@ -31,12 +31,13 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 - Part of our multi-year rewrite towards Mac and Linux compatibility
 
 
-
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./906504899.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -53,12 +54,13 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 - Part of our multi-year rewrite towards Mac and Linux compatibility
 
 
-
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./552360354.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -73,7 +75,9 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1731335791.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -88,7 +92,9 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./589860057.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -108,7 +114,9 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1082030715.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -123,7 +131,9 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1836475877.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -140,11 +150,14 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 We have renovated the Talking Book Tool “Advanced” section:
+
 
 - You can now click “Insert Segment Marker” to break up your text into smaller portions for the purpose of highlighting audio. As always, you can also just type in the “|” character.
 
 - These segment markers will be automatically hidden when you’re not using the Talking Book tool.
+
 
 :::tip
 
@@ -154,11 +167,21 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 
 
 
+
 - We made the “Recording Mode” easier to understand and added pop-up tooltips explaining all advanced buttons.
 
 - You can now fine-tune timings created when using Aeneas via the “Split” button ([Feature Request](https://community.software.sil.org/t/songbook-talking-book-audio-timing-file/7535))
+	1. Click “Split”
+	2. Click “Edit Timings File…”
+	3. The file will open in whatever program you have chosen for “.txt” files.
+	4. After editing, click “Apply Timings File…” and choose that file again.
 
 - You can now apply timings files created from Audacity:
+	1. In Audacity, open your audio.
+	2. Tracks > Add New > Label Track
+	3. Make segments that match what you have in Bloom
+	4. File > Export > Export Labels
+	5. In Bloom, “Apply Timings File…”
 
 - You can now show and hide image descriptions (for the blind).
 
@@ -166,7 +189,10 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./886328300.png)
+
+
 
 ![](./574158110.png)
 
@@ -182,12 +208,13 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 - You can now control both the foreground and background color of the highlight that Bloom uses while playing a talking book. This is part of the textbox style, so to change it, click on the gear icon in the lower left of the text box. Then go to the new “Highlighting” section. ([Feature Request](https://community.software.sil.org/t/easier-customization-of-talking-book-highlight-style/6830))
 
 
-
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./889517787.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -266,7 +293,9 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./147992031.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -289,7 +318,9 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1709629312.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -307,7 +338,9 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1358431497.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -323,12 +356,13 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 - We added a new set of statistics to the “stats” page for each collection.
 
 
-
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./394177586.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -359,7 +393,9 @@ Bloom’s default font has always been Andika New Basic (ANB), and before this v
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./709482134.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -382,12 +418,13 @@ The _idea_ of "Source Collections" may have had merit, but in practice, too many
 - If you want to show a collection on your machine in the “Sources for New Books”, there is now a button to do that (2, below).
 
 
-
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./315900342.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>

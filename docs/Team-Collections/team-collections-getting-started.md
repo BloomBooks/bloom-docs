@@ -12,9 +12,9 @@ To create a Team Collection, you start with an existing Bloom collection and con
 The basic steps are:
 
 1. [The team designates a Team Collection Administrator](/team-collections-getting-started#c66469a5defd4920adc51e3a43af9dac)
-1. [The Administrator converts a Collection into a Team Collection](/team-collections-getting-started#d29740fcdcfd40d7804294b33f66c04d)
-1. [The Administrator shares the Team Collection with the other team members](/team-collections-getting-started#fc32002511f04c6fad08415be980e85b)
-1. [Other team members join the Team Collection](/team-collections-getting-started#f2aa79dfaa414d9f8f188d1c7ef62e52)
+2. [The Administrator converts a Collection into a Team Collection](/team-collections-getting-started#d29740fcdcfd40d7804294b33f66c04d)
+3. [The Administrator shares the Team Collection with the other team members](/team-collections-getting-started#fc32002511f04c6fad08415be980e85b)
+4. [Other team members join the Team Collection](/team-collections-getting-started#f2aa79dfaa414d9f8f188d1c7ef62e52)
 
 Let’s look at each step in turn.
 
@@ -35,7 +35,7 @@ Before you begin, make sure:
 	
 	:::
 	
-
+	
 
 
 ## Step 1: The team designates a Team Collection Administrator {#c66469a5defd4920adc51e3a43af9dac}
@@ -71,9 +71,9 @@ If your team has multiple copies of the exact same book or even multiple copies 
 Once you have the base collection prepared, there are four steps to the process:
 
 1. [Open the Collection Settings in Bloom](/team-collections-getting-started#e0cdf1c10f91453ba596fe6b5657cd58)
-1. [Enable Bloom Enterprise features](/team-collections-getting-started#e20fb62f9ba44e5e944a477dd3d60204)
-1. [Enable Team Collections](/team-collections-getting-started#e20fb62f9ba44e5e944a477dd3d60204)
-1. [Create the Team Collection](/team-collections-getting-started#107a3a7190484bca817bb46544072192)
+2. [Enable Bloom Enterprise features](/team-collections-getting-started#e20fb62f9ba44e5e944a477dd3d60204)
+3. [Enable Team Collections](/team-collections-getting-started#e20fb62f9ba44e5e944a477dd3d60204)
+4. [Create the Team Collection](/team-collections-getting-started#107a3a7190484bca817bb46544072192)
 
 Let's look at each step in detail.
 
@@ -233,11 +233,11 @@ To join a Team Collection, other team members do the following:
 	
 	:::
 	
+	
 
-
-1. Add the shadow collection to his or her Dropbox by clicking **Add** in response to the Administrator’s invitation.
-1. Locate the shadow collection folder in the Windows File Explorer and open it.
-1. Locate and double-click the `Join this Team Collection.JoinBloomTC` file **(13)**.
+2. Add the shadow collection to his or her Dropbox by clicking **Add** in response to the Administrator’s invitation.
+3. Locate the shadow collection folder in the Windows File Explorer and open it.
+4. Locate and double-click the `Join this Team Collection.JoinBloomTC` file **(13)**.
 
 :::caution
 
@@ -251,13 +251,17 @@ It is essential to double-click `Join this Team Collection.JoinBloomTC` **in Win
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./819152526.png)
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1457207837.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>

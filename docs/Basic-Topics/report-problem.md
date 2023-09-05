@@ -12,9 +12,9 @@ If you come across a software problem when using Bloom, our team wants to know a
 There are four steps to this process:
 
 1. [Initiate your error report](/report-problem#742dc066529441c99fd107cc4b5288de)
-1. [Report the Problem](/report-problem#bf297e526e6440b69c0788cd0bdf86e8)
-1. [Check for an email receipt](/report-problem#d984aa3889d542c98e757b2cef74ba81)
-1. [Follow-up with Correspondence](/report-problem#44c3b90994bc469b8cf07c2d2e1fcb14)
+2. [Report the Problem](/report-problem#bf297e526e6440b69c0788cd0bdf86e8)
+3. [Check for an email receipt](/report-problem#d984aa3889d542c98e757b2cef74ba81)
+4. [Follow-up with Correspondence](/report-problem#44c3b90994bc469b8cf07c2d2e1fcb14)
 
 # Initiate your error report {#742dc066529441c99fd107cc4b5288de}
 
@@ -22,8 +22,8 @@ There are four steps to this process:
 To start the process, you must:
 
 1. **Select the book which shows the problem. You might be editing the book, or publishing the book.**
-1. **Click the** **?** **in the top right corner.**
-1. **Click** **Report a Problem****.**
+2. **Click the** **?** **in the top right corner.**
+3. **Click** **Report a Problem****.**
 
 ![](./535153799.png)
 
@@ -34,10 +34,10 @@ To start the process, you must:
 Following this, the **Report a Problem** dialogue will appear.
 
 1. **Describe the problem in as much detail as you can.** For example, which page(s) of your book exhibit(s) the problem?
-1. **Tell us if the problem happened only once, or if it keeps happening.**
-1. **Ensure your email is entered and is correct.** (Hint: if you registered in Bloom, your email will appear automatically.)
-1. **Ensure these boxes are ticked.**
-1. **Click** **Submit****.**
+2. **Tell us if the problem happened only once, or if it keeps happening.**
+3. **Ensure your email is entered and is correct.** (Hint: if you registered in Bloom, your email will appear automatically.)
+4. **Ensure these boxes are ticked.**
+5. **Click** **Submit****.**
 
 ![](./460702887.png)
 

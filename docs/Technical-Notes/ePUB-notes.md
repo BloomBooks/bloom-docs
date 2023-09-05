@@ -52,10 +52,10 @@ In the following two charts, we present some notes on our testing with various r
 | [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | No                             | ✓                          | (1)              | (1)           | ✓                             |
 
 1. Various app controls (e.g. menu bar, media bar) obscure significant portions of Fixed mode ePUBs, making them unusable.
-1. Text on right-side of screen is frequently slightly clipped.
-1. The positioning of text inside speech bubbles and captions is inaccurate, sometimes badly.
-1. Frequent audio clipping.
-1. Text highlighting is erratic and unreliable.
+2. Text on right-side of screen is frequently slightly clipped.
+3. The positioning of text inside speech bubbles and captions is inaccurate, sometimes badly.
+4. Frequent audio clipping.
+5. Text highlighting is erratic and unreliable.
 
 ### Performance of various ePUB readers for Bloom <u>Flowable</u>-mode ePUBs {#50df0c6098104edcb56dd27a79d0a139}
 
@@ -72,8 +72,8 @@ In the following two charts, we present some notes on our testing with various r
 | [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
 
 1. Frequent audio clipping.
-1. Top or bottom positioned text blocks (in Bloom Edit) will display nicely, but right-side text blocks (in Bloom Edit) may have reduced margins.
-1. Text which should wrap is often simply cut off.
+2. Top or bottom positioned text blocks (in Bloom Edit) will display nicely, but right-side text blocks (in Bloom Edit) may have reduced margins.
+3. Text which should wrap is often simply cut off.
 
 :::caution
 

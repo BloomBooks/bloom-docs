@@ -57,13 +57,17 @@ Bloom assumes that you have a way to type your language on your computer. That w
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 You may also need a special **keyboard layout** to let you type the characters in your language. **Keyman** is a free program from SIL that has many keyboard layouts. You can get Keyman from [keyman.com](https://keyman.com/).
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1824787836.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -78,13 +82,17 @@ If you need help to find a font or keyboard for your language, try looking on S
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
+
 You can download Bloom  installation program from the Bloom Library at [bloomlibrary.org/downloads](https://bloomlibrary.org/downloads). Click the **Download** button at the top of the page to download the latest release version for Microsoft Windows. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
+
 ![](./625671864.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -96,13 +104,17 @@ You can download Bloom  installation program from the Bloom Library at [bloomlib
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
+
 Double-click the installer program to install Bloom on your computer. While the installer is working, it will display this window. 
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
+
 ![](./961234876.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -111,17 +123,25 @@ Double-click the installer program to install Bloom on your computer. While the 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
+
 After the installer has finished, it will show you a license agreement. Click **I agree to the terms of the license agreement.**
+
+
 
 When you launch Bloom the first time, Bloom will ask you to create a **collection**. You may do so at this point, or you can create your initial collection later.
 
+
+
 For more details on how to create a collection, see **Creating a new collection**.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
+
 ![](./811927764.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -133,13 +153,17 @@ For more details on how to create a collection, see **Creating a new collection*
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 _The Art of Reading_ is an collection of black and white line drawings from SIL International that you may use without cost.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./979073911.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -147,6 +171,7 @@ _The Art of Reading_ is an collection of black and white line drawings from SIL
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
+
 
 To download _The Art of Reading,_ click on **The Art of Reading illustration collection** link under "Related Software" on the Bloom installers page. That link will take you to the Art of Reading web page. Click on the link there that says, **Download Art of Reading version 3.3 installer**. The installer will download to your computer.
 
@@ -156,7 +181,9 @@ To download _The Art of Reading,_ click on **The Art of Reading illustration 
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
+
 ![](./145447604.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -165,13 +192,17 @@ To download _The Art of Reading,_ click on **The Art of Reading illustration 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
+
 Next, double-click _The Art of Reading_ installer to install the image library. The installer program will take you through a series of screens where you will accept the license agreement, find out more information about the collection, and, finally, click the "Install" button.
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
+
 ![](./895106733.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>

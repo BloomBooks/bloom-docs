@@ -24,7 +24,7 @@ Our leading theory is that these users have some non-Microsoft anti-virus progra
 For now, if you run into this problem, please help us learn:
 
 1. If the problem comes and goes, or if it is constant.
-1. If you are using an extra antivirus program (beyond the built-in Windows Defender), try telling your antivirus to exclude Bloom. This is called “whitelisting”. For help with this, please refer to [this article](/antivirus-general). If you do not feel comfortable doing that, try temporarily disabling your antivirus.
+2. If you are using an extra antivirus program (beyond the built-in Windows Defender), try telling your antivirus to exclude Bloom. This is called “whitelisting”. For help with this, please refer to [this article](/antivirus-general). If you do not feel comfortable doing that, try temporarily disabling your antivirus.
 
 Let us know if that helps so that we can spread the word to other people.
 
@@ -41,15 +41,15 @@ If you are _not_ using a non-Microsoft anti-virus program and you are encounteri
 About once a year, we work with someone whose Windows computer won’t let Bloom access its own files. We don’t know what causes that, but here’s how to fix it:
 
 1. Locate your Bloom folder. Normally this folder is Documents/Bloom.
-1. Right click on the folder and choose “Properties”.
-1. Click on the “Security” tab.
-1. Click Edit.
-1. Click Add.
-1. Type _everyone_.
-1. Click OK.
-1. Next to “Full Control”, tick the box next in the “Allow” column.
-1. Click OK.
-1. Click OK.
+2. Right click on the folder and choose “Properties”.
+3. Click on the “Security” tab.
+4. Click Edit.
+5. Click Add.
+6. Type _everyone_.
+7. Click OK.
+8. Next to “Full Control”, tick the box next in the “Allow” column.
+9. Click OK.
+10. Click OK.
 
 ![](./2063379169.png)
 

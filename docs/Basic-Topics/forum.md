@@ -15,6 +15,7 @@ The Bloom Community Forum is the place to get announcements, ask for help, share
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 [**Click here to sign up**](https://community.software.sil.org/signup)
 
 
@@ -23,7 +24,9 @@ The Bloom Community Forum is the place to get announcements, ask for help, share
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1069721348.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -35,13 +38,17 @@ The Bloom Community Forum is the place to get announcements, ask for help, share
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 [**Click here for the Bloom section**](https://community.software.sil.org/c/bloom)
+
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./600036027.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>

@@ -9,8 +9,8 @@ slug: /derivatives
 There are only three approved ways to make a book in Bloom. 
 
 1. Make a brand new book from a book template, such as the Basic Book template.
-1. Make a book using an existing book in Sources for new books, typically, to translate it into another language.
-1. Duplicate an existing book.
+2. Make a book using an existing book in Sources for new books, typically, to translate it into another language.
+3. Duplicate an existing book.
 
 ## Book IDs {#5a9eb5a6c54546659990c06b3cab766c}
 
