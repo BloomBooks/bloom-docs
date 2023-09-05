@@ -55,10 +55,10 @@ Dans les deux graphiques suivants, nous présentons quelques remarques sur notre
 | Simply Reading [(Android)](https://play.google.com/store/apps/details?id=aeldata.simply.reading) | ✓                    | Non                                | ✓                                        | (1)            | (1)               | ✓                                   |
 
 1. Divers contrôles d'application (p. ex. barre de menus, barre de média) obscurcissent des parties significatives des ePUB en mode Fixe, ce qui les rend inutilisables.
-1. Le texte sur le côté droit de l'écran est souvent légèrement écourté.
-1. Le positionnement du texte dans les bulles de parole et les légendes est inexact, parfois excessivement.
-1. Écrêtage fréquent de l'audio.
-1. Le surlignage du texte est aléatique et peu fiable.
+2. Le texte sur le côté droit de l'écran est souvent légèrement écourté.
+3. Le positionnement du texte dans les bulles de parole et les légendes est inexact, parfois excessivement.
+4. Écrêtage fréquent de l'audio.
+5. Le surlignage du texte est aléatique et peu fiable.
 
 ### Performance de différents lecteurs ePUB pour Bloom <u>Fluide</u>-mode ePUB {#50df0c6098104edcb56dd27a79d0a139}
 
@@ -75,8 +75,8 @@ Dans les deux graphiques suivants, nous présentons quelques remarques sur notre
 | Simply Reading [(Android)](https://play.google.com/store/apps/details?id=aeldata.simply.reading) | ✓                    | ✓                                  | ✓                                        | (2)                         | ✓                 | N / A                                   |
 
 1. Écrêtage fréquent de l'audio.
-1. Les blocs de texte placés en haut ou en bas (dans l'édition de Bloom) s'affichent bien, mais ceux de droite (dans l'édition de Bloom) pourraient avoir des marges réduites.
-1. Le texte qui devrait être renvoyé à la ligne est souvent tout simplement coupé.
+2. Les blocs de texte placés en haut ou en bas (dans l'édition de Bloom) s'affichent bien, mais ceux de droite (dans l'édition de Bloom) pourraient avoir des marges réduites.
+3. Le texte qui devrait être renvoyé à la ligne est souvent tout simplement coupé.
 
 :::caution
 
