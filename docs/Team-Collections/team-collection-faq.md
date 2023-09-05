@@ -35,7 +35,6 @@ To remove a book from a Team Collection, do the following:
 1. **In Bloom:** Check Out the book. (Remember, you need to check the book out to make changes.)
 2. **In Bloom:** _While the book is still checked out to you,_ right-click on the book’s thumbnail and choose **Delete Book**.
 3. **Dropbox** will ask whether you want to “Remove (book title) from your Dropbox account and all devices?” Click “Move out of Dropbox”. If you do not want to see such notices in the future, you can tick the box “Don’t ask me this again”.
-4. 
 
 ![](./420186854.png)
 
