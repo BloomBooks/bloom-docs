@@ -2053,10 +2053,10 @@
   resolved "https://registry.yarnpkg.com/@sideway/pinpoint/-/pinpoint-2.0.0.tgz#cff8ffadc372ad29fd3f78277aeb29e632cc70df"
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
-"@sillsdev/docu-notion@^0.14.0-alpha.2":
-  version "0.14.0-alpha.2"
-  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.14.0-alpha.2.tgz#41f54ea18f9c902ef8748dcc4d2bcb8d9ecb435d"
-  integrity sha512-N+X3gQGhQd9xvbplYMIJlEcjuSw271/uKpACzU31/nOLOF6LTAJfEe/RzuxS3rfp1N8gDyVc/JKCYaShHYrRDQ==
+"@sillsdev/docu-notion@^0.14.0-alpha.3":
+  version "0.14.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.14.0-alpha.3.tgz#284034f3a4097160a37b3f0981d9ad57c8f25ce0"
+  integrity sha512-TdBEKmefpneo1k9mrEkJitI+yifGbgb+xdhEE3Rew745bqMbvdG9U7kxjUKDcsQ55EenUHgEoFpKZVpvRZgjGg==
   dependencies:
     "@notionhq/client" "2.2.3"
     chalk "^4.1.2"
@@ -2069,7 +2069,7 @@
     markdown-table "^2.0.0"
     node-fetch "2.6.6"
     notion-client "^4"
-    notion-to-md "2.5.5"
+    notion-to-md "3.1.1"
     path "^0.12.7"
     sanitize-filename "^1.6.3"
     ts-node "^10.2.1"
@@ -6942,6 +6942,13 @@ node-emoji@^1.10.0:
   dependencies:
     lodash "^4.17.21"
 
+node-fetch@2:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.7.0.tgz#d0f0fa6e3e2dc1d27efcd8ad99d550bda94d187d"
+  integrity sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==
+  dependencies:
+    whatwg-url "^5.0.0"
+
 node-fetch@2.6.6:
   version "2.6.6"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.6.tgz#1751a7c01834e8e1697758732e9efb6eeadfaf89"
@@ -7010,12 +7017,13 @@ notion-client@^4:
     notion-utils "^4.19.8"
     p-map "^4.0.0"
 
-notion-to-md@2.5.5:
-  version "2.5.5"
-  resolved "https://registry.yarnpkg.com/notion-to-md/-/notion-to-md-2.5.5.tgz#b022cd9d6f01125762b85e26e0a41ae15410bd12"
-  integrity sha512-EdzuNZpJyc+287ItRALOld90RkshWBDiSA0WThf75z98Y8cyynhu6Hg+h377eD5K4UOSQHy5K0SUV4vGdCxCiA==
+notion-to-md@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/notion-to-md/-/notion-to-md-3.1.1.tgz#4ffc08f7aa86e4a4511878f2bfe8e77ac46069bb"
+  integrity sha512-Zaa2P1B9Rx99bevFYTGuUMYbbfdHn2G1AZMsytYGDWIJjr6Ie1qp/8CorpwVUh1qrquES/V2PkEREqCuTu1zKA==
   dependencies:
     markdown-table "^2.0.0"
+    node-fetch "2"
 
 notion-types@^4.19.8:
   version "4.19.8"
