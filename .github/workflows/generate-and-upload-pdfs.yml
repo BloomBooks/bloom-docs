@@ -1,0 +1,33 @@
+name: Generate PDFs
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: 'Language to generate PDF for'
+        required: false
+        default: 'en'
+        type: string
+jobs:
+  release:
+    name: Generate PDFs
+    #name: Generate PDF for ${{ inputs.language }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: lts/*
+      - name: Install dependencies
+        run: yarn
+      - name: Generate PDFs
+        run: yarn make-pdf
+      - name: Upload PDFs to S3
+        run: aws s3 cp ./build/ s3://${{ secrets.AWS_BUCKET }}/ --recursive --exclude "*" --include "*.pdf" --exclude "*/*" --dryrun
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: "us-east-1"
