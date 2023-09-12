@@ -1,7 +1,7 @@
 ---
 title: Installing BloomPub Viewer
 sidebar_position: 4
-slug: /BloomPUBViewer
+slug: /bloompub-viewer
 ---
 
 

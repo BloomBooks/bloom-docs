@@ -1,7 +1,7 @@
 ---
 title: Fine-tuning Aeneas Timings
 sidebar_position: 9
-slug: /EditTimings
+slug: /edit-timings
 keywords: [Aeneas, Talking Book Tool]
 ---
 

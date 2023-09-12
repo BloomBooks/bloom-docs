@@ -1,7 +1,7 @@
 ---
 title: Team Collection Technical Notes
 sidebar_position: 8
-slug: /TeamCollectionTechnical
+slug: /team-collection-technical
 ---
 
 

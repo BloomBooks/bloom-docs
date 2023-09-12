@@ -1,7 +1,7 @@
 ---
 title: How to distribute Bloom books on SD Cards or Phones
 sidebar_position: 0
-slug: /BR-distribution
+slug: /br-distribution
 ---
 
 
@@ -17,9 +17,9 @@ An alternative is to sell phones pre-loaded with the Bloom Reader app already in
 
 In this article, we will provide step-by-step instructions for both methods. 
 
-1. [Distributing Bloom books on SD Cards](/BR-distribution#58616141ac10471481495e18570fb619)
-2. [Distributing Books via Pre-loaded Phones](/BR-distribution#aff5473a55cc4f2e8922622ce4e44d00)
-3. [Advanced Options](/BR-distribution#ab53b94bfff44b448917d311bde496a0)
+1. [Distributing Bloom books on SD Cards](/br-distribution#58616141ac10471481495e18570fb619)
+2. [Distributing Books via Pre-loaded Phones](/br-distribution#aff5473a55cc4f2e8922622ce4e44d00)
+3. [Advanced Options](/br-distribution#ab53b94bfff44b448917d311bde496a0)
 
 # 1. Distributing Bloom books on SD Cards {#58616141ac10471481495e18570fb619}
 
@@ -29,14 +29,14 @@ When **Bloom Reader** starts, it automatically looks for an SD card and for cert
 
 There are three steps: 
 
-1. [**Gather your BloomPUBs**](/BR-distribution#0b7163a212984327b4e9bf60de02db60)
-2. [**Create the required folder on your SD card**](/BR-distribution#f659de0a085545d8b4da927d7ab5a670)
-3. [**Copy over the BloomPUBs**](/BR-distribution#a54b67b77c0649b78e2df708eab086de)
+1. [**Gather your BloomPUBs**](/br-distribution#0b7163a212984327b4e9bf60de02db60)
+2. [**Create the required folder on your SD card**](/br-distribution#f659de0a085545d8b4da927d7ab5a670)
+3. [**Copy over the BloomPUBs**](/br-distribution#a54b67b77c0649b78e2df708eab086de)
 
 ## 1.1. **Gather your BloomPUBs** {#8bb1ee7ddb8441e4ac73405b55970b2d}
 
 
-Gather all the books you want to distribute. These books will have an extension of either `.bloomd`   or `.bloompub`. You can get BloomPUBs by [downloading them from the Bloom Library](/BR-distribution#dc35440714c648c4b6a86cc9effd975e) (or perhaps a colleague has sent you a BloomPUB directly).
+Gather all the books you want to distribute. These books will have an extension of either `.bloomd`   or `.bloompub`. You can get BloomPUBs by [downloading them from the Bloom Library](/br-distribution#dc35440714c648c4b6a86cc9effd975e) (or perhaps a colleague has sent you a BloomPUB directly).
 
 
 ### Downloading BloomPUBs from the Bloom Library {#dc35440714c648c4b6a86cc9effd975e}
