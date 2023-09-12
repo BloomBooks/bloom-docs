@@ -42,7 +42,9 @@ npx docu-pdf "$URL" \
 
 if [ "$1" == "en" ]; then
     # Until we start generating language-specific PDFs, we'll just copy the English one to the other locales.
+    mkdir -p "build/fr/downloads"
     cp "$OUTPUTPATH" "build/fr/downloads/docs-bloomlibrary-english-a4.pdf"
+    mkdir -p "build/es/downloads"
     cp "$OUTPUTPATH" "build/es/downloads/docs-bloomlibrary-english-a4.pdf"
 fi
 
