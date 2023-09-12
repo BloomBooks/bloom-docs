@@ -1,4 +1,4 @@
-name: Generate PDFs
+name: Generate and Upload PDFs
 on:
   workflow_dispatch:
     inputs:
@@ -9,8 +9,8 @@ on:
         type: string
 jobs:
   release:
-    name: Generate PDFs
-    #name: Generate PDF for ${{ inputs.language }}
+    name: Generate and Upload PDFs
+    #name: Generate and Upload PDF for ${{ inputs.language }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -26,7 +26,10 @@ jobs:
       - name: Generate PDFs
         run: yarn make-pdf
       - name: Upload PDFs to S3
-        run: aws s3 cp ./build/ s3://${{ secrets.AWS_BUCKET }}/ --recursive --exclude "*" --include "*.pdf" --exclude "*/*" --dryrun
+        run: |
+          aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/fr/downloads/ s3://${{ secrets.AWS_BUCKET }}/fr/downloads/ --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/es/downloads/ s3://${{ secrets.AWS_BUCKET }}/es/downloads/ --exclude "*" --include "*.pdf"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
