@@ -64,6 +64,3 @@ On each page of this shell book, you will see the original text in some majority
 
 ![](./1771206510.png)
 
-
-#  {#ed2779a32ce246d79050e7f2b39374d9}
-
