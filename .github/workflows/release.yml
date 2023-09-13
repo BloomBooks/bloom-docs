@@ -60,10 +60,16 @@ jobs:
         run: yarn make-pdf
       - name: Upload PDFs to S3
         run: |
-          aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/fr/downloads/ s3://${{ secrets.AWS_BUCKET }}/fr/downloads/ --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/es/downloads/ s3://${{ secrets.AWS_BUCKET }}/es/downloads/ --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/downloads s3://${{ secrets.AWS_BUCKET }}/downloads --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/fr/downloads s3://${{ secrets.AWS_BUCKET }}/fr/downloads --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/es/downloads s3://${{ secrets.AWS_BUCKET }}/es/downloads --exclude "*" --include "*.pdf"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: "us-east-1"
+      - name: Cloudflare - purge cache for PDFs
+        uses: jakejarvis/cloudflare-purge-action@v0.3.0
+        env:
+          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+          PURGE_URLS: '["https://docs.bloomlibrary.org/downloads/docs-bloomlibrary-english-a4.pdf", "https://docs.bloomlibrary.org/fr/downloads/docs-bloomlibrary-english-a4.pdf", "https://docs.bloomlibrary.org/es/downloads/docs-bloomlibrary-english-a4.pdf"]'
