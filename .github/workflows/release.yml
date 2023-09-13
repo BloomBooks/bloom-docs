@@ -60,9 +60,9 @@ jobs:
         run: yarn make-pdf
       - name: Upload PDFs to S3
         run: |
-          aws s3 cp ./build/downloads s3://${{ secrets.AWS_BUCKET }}/downloads --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/fr/downloads s3://${{ secrets.AWS_BUCKET }}/fr/downloads --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/es/downloads s3://${{ secrets.AWS_BUCKET }}/es/downloads --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/fr/downloads/ s3://${{ secrets.AWS_BUCKET }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/es/downloads/ s3://${{ secrets.AWS_BUCKET }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
