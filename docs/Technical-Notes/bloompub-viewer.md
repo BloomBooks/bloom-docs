@@ -1,5 +1,5 @@
 ---
-title: Installing BloomPub Viewer
+title: Installing BloomPUB Viewer
 sidebar_position: 4
 slug: /bloompub-viewer
 ---

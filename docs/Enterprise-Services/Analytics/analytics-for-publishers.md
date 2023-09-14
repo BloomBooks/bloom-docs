@@ -47,7 +47,7 @@ Example dashboards using this data: [PNG RISE](https://www.inclusiveducation.com
 ## Events that we measure {#f82b211cce6b401dab71e5368e8cc91e}
 
 
-All Bloom Player contexts (Bloom Library, Bloom Reader, BloomPub Viewer, RAB apps)
+All Bloom Player contexts (Bloom Library, Bloom Reader, BloomPUB Viewer, RAB apps)
 
 - Pages read
 - Was the last (numbered) page in the book read?
