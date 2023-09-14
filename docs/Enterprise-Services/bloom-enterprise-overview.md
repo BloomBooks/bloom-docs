@@ -32,7 +32,7 @@ Bloom Enterprise subscribers have access to the following features and tools:
 # Enterprise book features {#ac7150b88c264bf5b0d9e5cba55805b7}
 
 
-Enterprise customers gain access to additional Bloom Desktop Editor features:
+Enterprise customers gain access to additional Bloom Editor features:
 
 
 ## Branding and custom page layouts {#8193915c093b4da99004038e38fe09dc}

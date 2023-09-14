@@ -66,7 +66,7 @@ chmod +x ~/Desktop/org.sil.Bloom.desktop
 Bloom 5.4 is available as a Debian package for Ubuntu 20.04 (Wasta 20) and Ubuntu 18.04 (Wasta 18).  This is the final version of Bloom available for these versions of Linux.
 
 
-### Step 1: Try to install the Bloom Desktop program {#0955c54890a548c88f50627a739761cf}
+### Step 1: Try to install the Bloom Editor program {#0955c54890a548c88f50627a739761cf}
 
 
 ```bash
@@ -104,7 +104,7 @@ sudo apt update
 ```
 
 
-## Step 3: Install the Bloom Desktop program {#22bd050eb47f49a4b6db40632e55a6fd}
+## Step 3: Install the Bloom Editor program {#22bd050eb47f49a4b6db40632e55a6fd}
 
 
 ```bash
