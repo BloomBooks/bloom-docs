@@ -19,7 +19,7 @@ This situation could be due to a number of issues:
 	1. Type “dropbox” in your Search bar.
 	2. If you see the Dropbox App on the left side as in the picture below, then Dropbox has been installed.
 
-		![](./1003128287.png)
+		![](./1157050924.png)
 
 	- If you don’t see Dropbox, you’ll need to install it first. See [Setting up Dropbox on your computer](/team-collections-setting-up-dropbox).
 - **Some part of Dropbox isn’t running**
@@ -27,11 +27,11 @@ This situation could be due to a number of issues:
 	- If Bloom _still_ gives you the error that brought you to this page, you may need to restart the Dropbox service.
 		- Type “services” in your Search bar and choose the **Services** app.
 
-			![](./1942256401.png)
+			![](./275146683.png)
 
 		- You should see something similar to this:
 
-			![](./1356191065.png)
+			![](./238603763.png)
 
 
 		If you find “**DbxSvc**” under the **Name** column (1), and it does not say “**Running**” under the **Status** column, then you should click on the word “<u>Start</u>” in “<u>Start</u> the service” (2).
