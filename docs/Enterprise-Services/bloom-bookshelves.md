@@ -1,6 +1,6 @@
 ---
 title: Bloom Bulk Book Processing
-sidebar_position: 2
+sidebar_position: 4
 slug: /bloom-bookshelves
 ---
 
