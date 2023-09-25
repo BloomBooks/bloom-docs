@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.1.0",
-    "@sillsdev/docu-notion": "^0.14.0-alpha.6",
+    "@sillsdev/docu-notion": "^0.14.0-alpha.7",
     "@tsconfig/docusaurus": "^1.0.6",
     "typescript": "^4.6.4"
   },
