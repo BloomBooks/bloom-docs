@@ -112,7 +112,7 @@ Many Bloom Enterprise projects use their own custom front/back matter packs. Pre
 ## Collection Tab {#b0abe655f8d345489c236ebe4aadf55e}
 
 
-⭐You can now rename a book. Previously, Bloom always used the name of a book’s title. The new name appears under the thumbnail of the book and also the name of the folder on disk (![](https://imgur.com/dcMz5tu)). [Feature Request](https://community.software.sil.org/t/allow-changing-book-filenames/489/14.gif)
+⭐You can now rename a book. Previously, Bloom always used the name of a book’s title. The new name appears under the thumbnail of the book and also the name of the folder on disk (![](https://imgur.com/dcMz5tu.gif)). [Feature Request](https://community.software.sil.org/t/allow-changing-book-filenames/489/14)
 
 
 ## Edit Tab {#97d0ef6072c14b90b11e0eff73f8b1ff}
@@ -163,9 +163,6 @@ People will be naturally resistant to installing Dropbox. There are two things t
 ![](./1411806571.png)
 
 
-screenshot-online-only
-
-
 Team Collections debuted in Bloom 5.0 beta. For 5.1, we have added a few small features:
 
 
@@ -175,31 +172,19 @@ Team Collections debuted in Bloom 5.0 beta. For 5.1, we have added a few small f
 ![](./333504556.jpg)
 
 
-screenshot
-
-
 We added a little informational menu option that provides information about the name and “avatar” (picture) associated with books you check out. The dialog also provides links for changing (or setting) the avatar and name.
 
 
 ![](./1874024501.jpg)
 
 
-screenshot
-
-
 ![](./1387748392.png)
-
-
-screenshot
 
 
 ⭐You can now “Forget Changes & Check in Book” if you decide to abandon the changes you’ve made to a book since you checked it out.
 
 
 ![](./1260531280.png)
-
-
-screenshot
 
 
 ### Images {#b595689ddb5b444f8a006bcafb638a89}
@@ -220,16 +205,10 @@ We added a new tool for making it easy to create a BloomPUB of every book in a c
 ![](./248914323.png)
 
 
-screenshot
-
-
 You can now also upload an entire collection or even multiple collections to the Bloom Library. (Bloom Enterprise)
 
 
 ![](./498553567.png)
-
-
-screenshot
 
 
 ## Bloom Library {#843c55e4736b416f8d19af528fa2220d}
@@ -250,7 +229,7 @@ We added a new page selector for Bloom Player, the engine that powers book readi
 ## Other Good Stuff {#7805422b888141989091e2d74847e899}
 
 
-**Faster Enterprise Subscription Delivery** When projects get a new Enterprise subscription, there is a delay while we build their branding pack (logos, boilerplate text, etc). Starting with Bloom 5.1, customers don’t have to wait… their Enterprise code will work immediately. Bloom will show a placeholder message on the back cover that shows the subscription name. When an update to Bloom contains the branding files for the subscription, this message will be automatically replaced with the branding images, the next time the books in the collection are edited.
+**Faster Enterprise Subscription Delivery** When projects get a new Enterprise subscription, there is a delay while we build their branding pack (logos, boilerplate text, etc.). Starting with Bloom 5.1, customers don’t have to wait… their Enterprise code will work immediately. Bloom will show a placeholder message on the back cover that shows the subscription name. When an update to Bloom contains the branding files for the subscription, this message will be automatically replaced with the branding images, the next time the books in the collection are edited.
 
 
 ### Work towards a more cross-platform Bloom {#01acfd78344844acbaf88e7e0ed16214}
@@ -295,9 +274,6 @@ The Comic Tool is now the “Overlay Tool”. We made this change because this t
 ![](./2045011375.png)
 
 
-screenshot-online-only
-
-
 ⭐You can now make circle text elements. [Feature Request](https://community.software.sil.org/t/circular-comic-captions/3121)
 
 
@@ -317,9 +293,6 @@ There is now a “Widget Page” that gives you a full-screen page to host your 
 
 
 ![](./1227934907.png)
-
-
-screenshot-online-only
 
 
 ### Leveled Reader {#e54292d592f648f3b128d2523a6458e3}
@@ -352,13 +325,7 @@ Recently we spent weeks improving Bloom’s ability to deal with large books and
 ![](./1223989195.png)
 
 
-screenshot-online-only
-
-
 ![](./257371461.png)
-
-
-screenshot-online-only
 
 
 ## BloomLibrary.org {#6063ef811ea94bc89f311047208bd70f}
@@ -373,13 +340,7 @@ We’ve improved what you see when you look at [template books on BloomLibrary.o
 ![](./1419664420.png)
 
 
-screenshot-online-only
-
-
 ![](./1223995595.png)
-
-
-screenshot-online-only
 
 
 # 4.9 {#2dab991be0924600b15056df087bb940}

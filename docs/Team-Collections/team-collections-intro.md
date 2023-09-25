@@ -9,7 +9,7 @@ slug: /team-collections-intro
 A **Bloom Team Collection** is a normal Bloom Collection that is shared among team members through the synchronized cloud storage service [Dropbox](https://www.dropbox.com/) or a local area network. By synchronizing files across computers, each person who works on a book has the latest version available. **We recommend this system for any project where more than one person touches a book before it is published, and where everyone has adequate internet access.** 
 
 
-## System requirements for using a Team Collection {#898b75ce07734a0891bf3512030894b4}
+## System requirements for using a Team Collection
 
 - A Bloom Enterprise subscription, **OR** you can affirm that your project is fully funded by a local community
 - Bloom 5.1 or greater. (It is recommended, but not required, that all the team members use the same version of Bloom.)
@@ -33,7 +33,7 @@ A **Bloom Team Collection** is a normal Bloom Collection that is shared among te
 	
 
 
-## How Team Collections work {#013b2b088f3d4b98a03331c3953ed52f}
+## How Team Collections work
 
 
 A Bloom Team Collection has two parts. The first part is a normal Bloom collection of working files. This is a folder that contains one or more Bloom books, each in its own folder, as well as special files used by Bloom. 
@@ -130,7 +130,7 @@ When Barkari launches a special file in the shadow collection folder, Bloom copi
 Whenever Awa or Barkari change something in the working collection on their computers, Bloom copies the changes into the shadow collection, and Dropbox copies the changes to the other one’s computer. In this way, they can both work on the collection, even though they are using different computers. 
 
 
-## Checking books in and out {#a9f312d9f6f94e5aae10c9abc8ac8069}
+## Checking books in and out
 
 
 In a Team Collection, each book has a **status**. There are three possibilities for a book: 

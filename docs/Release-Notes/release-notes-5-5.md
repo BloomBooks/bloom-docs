@@ -16,7 +16,7 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 
 
 
-## Publish: New Print / PDF {#b1b33127eb2a4f0b9c5192f4f0e61e83}
+## Publish: New Print / PDF
 
 
 <div class='notion-row'>
@@ -43,7 +43,7 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 </div>
 
 
-## Publish: New Web Upload {#7c5cf16c9e874d87b6ac3fb2d0001d17}
+## Publish: New Web Upload
 
 
 <div class='notion-row'>
@@ -100,7 +100,7 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 </div>
 
 
-## Publish: BloomPUB Preview {#890c9b0f2a904c43b1f0a04bb886c3ac}
+## Publish: BloomPUB Preview
 
 
 <div class='notion-row'>
@@ -139,12 +139,12 @@ This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
 </div>
 
 
-## Publish: ePUB Preview {#b91b3e6bd82845fa82e6bcb2475bdecb}
+## Publish: ePUB Preview
 
 - As with the BloomPUB Preview, we have reorganized this screen to work better for users with small screens. The preview portion no longer hides the portion where you can actually save and share your file.
 - As with the BloomPUB Preview, Bloom no longer constructs a Preview when you go into this screen. Instead, if you want a preview, click the new “Preview” button. ([Feature Request](https://community.software.sil.org/t/pause-epub-creation-in-publish-tab/6447/3))
 
-## Talking Books {#c0887b5c62394606b5aee2a613fd4ae0}
+## Talking Books
 
 
 <div class='notion-row'>
@@ -220,13 +220,13 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 </div>
 
 
-## Palettes {#e2f8f06bfd13497d863967447102c08b}
+## Palettes
 
 
 Bloom collections now remember what custom colors you have created. So whether you are setting text for a style, a text selection, an audio highlight, or an overlay text, you are working with the same palette.  Cover colors are a separate palette.
 
 
-## Spreadsheet Import/Export  {#19de49c323e94e1ab09a9834ea5bd057}
+## Spreadsheet Import/Export 
 
 
 :::caution
@@ -252,7 +252,7 @@ This feature requires a Bloom Enterprise subscription.
 - Importing Overlays now preserves text styles
 - On import, remove pages that have been removed from the spreadsheet
 
-## Overlays {#adf1d45d0d474bdfb5ce6c17adf2ed50}
+## Overlays
 
 
 :::note
@@ -266,7 +266,7 @@ Creating _**new**_ overlay pages requires a Bloom Enterprise subscription. Trans
 - Overlays now work great in books that can be switched between languages. As you change to a different language, the size and location of bubbles are updated to match what they should be for that language.
 - Overlay bubbles now respond better when you change the size/orientation of the book.
 
-## Scrolling Text Boxes in Device Layouts {#ba12c7f8ad9e4d238a970ca36f913f60}
+## Scrolling Text Boxes in Device Layouts
 
 
 When a text box has more text than can fit, Bloom does several things to draw your attention to the "overflow". However, if you later view the book on the web or in Bloom Reader, we turn on a scrollbar and allow the user to scroll down to see the entire text. This has been true for a while now. With this new version, if you have chosen either of the "Device16x9" layouts, we don't make a big deal out of the overflow. We simply let it overflow and show a scrollbar.
@@ -281,7 +281,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 
 
-## Templates {#1559a3b827f9482f99829f3a56541daf}
+## Templates
 
 
 <div class='notion-row'>
@@ -301,12 +301,12 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 </div>
 
 
-## Team Collections {#833f4ceceea941b284cc08b0259b5661}
+## Team Collections
 
 - The Book History now includes Import events
 - If you report a problem with a book, the Bloom Team now gets the Book History in the report, along with version numbers.
 
-## BloomPUB Viewer {#e3df2921d39a462c92e6fce587b1b0e2}
+## BloomPUB Viewer
 
 
 <div class='notion-row'>
@@ -326,7 +326,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 </div>
 
 
-## Bloom Reader {#1e2b555371904177ac67463988de0feb}
+## Bloom Reader
 
 
 <div class='notion-row'>
@@ -347,7 +347,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 
 - When switching languages, Bloom now stops any audio that is playing, and starts the page over, playing the newly selected language.
 
-## Bloom Library {#30b8603d705044a0963fd8868611f78b}
+## Bloom Library
 
 
 <div class='notion-row'>
