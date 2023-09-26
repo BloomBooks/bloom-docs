@@ -24,7 +24,7 @@ In a “customer interview,” Richard said
 | **❸** | To download a PNG image of the page, or a detailed CSV file, click the corresponding icon.                                                                                |
 
 
-# Events that we measure {#6731ec339fee41c5b10a3848d3035992}
+### Events that we measure {#6731ec339fee41c5b10a3848d3035992}
 
 - All Bloom Player contexts (Bloom Library, Bloom Reader, BloomPub Viewer, RAB apps)
 	- Pages read
@@ -35,50 +35,57 @@ In a “customer interview,” Richard said
 	- Book branding
 - Bloom Library
 	- Downloads
-- Bloom Reader Specific events
+- Bloom Reader specific events
 	- Installations
 - No events at this time
 	- Shared book
 	- Shared bookshelf
 	- Shared APK
-	- Share Link to app on play store
-	- EPUB
-- User Information that we collect
-	- Web
-		- IP address (--> city / country?)
+	- Share Link to app on Play Store
+	- ePUB
+
+### User information that we collect {#df805fac7c624034b2386a0a5f87715a}
+
+- Web
+	- IP address (--> city / country?)
 - Bloom Reader only
 	- Named device ids
 		- ANALYTICS_DEVICE_PROJECT
 		- ANALYTICS_DEVICE_ID
 	- Location
-	- `latitude`, `longitude`, `locationSource`, `locationAccuracy`, `locationAgeDays`
-	- We record the locations available from each of the standard providers (network, gps, and passive) explicitly.  But for the standard location for this report, we mainly want the most recent location we can get; precision is not very important. However, we know from experience that in poor countries, IP address doesn't give us reliable location, and we expect that wifi and other networks will be similarly unreliable as means of location. So if we have a reasonably recent high-precision location we will take that in preference to a lower-precision one that may be even more current. (Elsewhere we request one location per hour from GPS, if available, to ensure that the "last known location" for the gps provider will be reasonably recent.)
+		- `latitude`, `longitude`, `locationSource`, `locationAccuracy`, `locationAgeDays`
+		- We record the locations available from each of the standard providers (network, gps, and passive) explicitly.  But for the standard location for this report, we mainly want the most recent location we can get; precision is not very important. 
+		However, we know from experience that in poor countries, IP address doesn't give us reliable location, and we expect that WiFi and other networks will be similarly unreliable as means of location. So if we have a reasonably recent high-precision location we will take that in preference to a lower-precision one that may be even more current. (Elsewhere we request one location per hour from GPS, if available, to ensure that the "last known location" for the GPS provider will be reasonably recent.)
 	- [Distribution Source](/br-campaigns)
 	- Hardware info
 	- Android version?
-- How your project can get analytics
-	- BloomLibrary bookshelves
-		- /stats
-		- CSV & PDF download
+
+### How your project can get analytics {#b53d29129ea74442b6c6d118e2aacddc}
+
+- BloomLibrary bookshelves
+	- /stats
+	- CSV & PDF download
 - Advanced low level access to analytics data
 	- SQL access
-	- [Available Fields](/analytic-fields)
-- Example
-- Difficulties getting analytics
-	- Getting analytics from devices that are normally offline
+		- [Available Fields](/analytic-fields)
+
+### Difficulties getting analytics {#e88158be7e314caea85bc8217b37fd05}
+
+- Getting analytics from devices that are normally offline
 	- No internet (talk about Bloom Reader offline)
-	- Effect of blocking cookies?
-	- Firewalls
-	- No events on EPUB
-- Privacy Issues
-	- No emails
-	- IP addresses?
-	- Cookies
-	- GPS resolution
-	- GPS opt in/out
-	- Device hardware IDs
-	- Named Device IDs
-- Pricing
+- Effect of blocking cookies?
+- Firewalls
+- No events on EPUB
+
+### Privacy Issues {#c41cf67c2137426fb875b6275d5aa00d}
+
+- No emails
+- IP addresses?
+- Cookies
+- GPS resolution
+- GPS opt in/out
+- Device hardware IDs
+- Named Device IDs
 
 # Analytics Fields {#c2e2aaf25f2a4507a6f130a1c0c12791}
 

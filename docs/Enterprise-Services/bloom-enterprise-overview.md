@@ -6,7 +6,7 @@ slug: /bloom-enterprise-overview
 
 
 
-# About Bloom Enterprise
+# About Bloom Enterprise {#0c41c9c9b95e4681acc645d60786abf9}
 
 
 **Bloom Enterprise** is a subscription service that provides additional features and tools for organizations and projects. By subscribing to this service, organizations and projects can meet some of their unique needs while also supporting the development of Bloom, which helps everybody.
