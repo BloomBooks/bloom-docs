@@ -15,7 +15,7 @@ This material is for Bloom clients holding a Bloom Enterprise subscription.
 
 
 
-# Overview {#df0855b964e24b7394027fff9c54cea3}
+## Overview {#df0855b964e24b7394027fff9c54cea3}
 
 
 Organizations holding a Bloom Enterprise subscription can organize their books into different bookshelves (book collections). For example, below is a sampling of the Bloom Library bookshelves for the organization _Education for Life_:
@@ -32,7 +32,7 @@ Bloom provides two different bulk operations to its Enterprise clients:
 _Both_ bulk operations depend on grouping books into particular “bookshelves” similar to those shown above for _Education for Life_.
 
 
-## Essential Steps for Setup {#129a30f7be7b45e59c5b7e6be3b3ae75}
+### Essential Steps for Setup {#129a30f7be7b45e59c5b7e6be3b3ae75}
 
 
 There are two essential steps before initiating either of these bulk processing operations.
@@ -67,7 +67,7 @@ To do this, in Publish to Web (or in Publish to BloomPUB) for _each_ book, ensur
 - **Visibility**.
 - Book **Summary**.
 
-# Bulk Uploading to Web {#9db147e9949e425cb73cb3b013f07c55}
+## Bulk Uploading to Web {#9db147e9949e425cb73cb3b013f07c55}
 
 
 After completing the two essential steps, the entire collection can be bulk uploaded. 
@@ -103,7 +103,7 @@ There are a number of very important things to keep in mind about the bulk-uploa
 - Upload (and _overwrite_) any previously uploaded book that has changed.
 - Skip uploading any previously uploaded book that has _not_ changed.
 
-# Bloom Reader and Bloom Library Bookshelves {#a0bda0de7ece4067ae3ab1dcbca98bd6}
+## Bloom Reader and Bloom Library Bookshelves {#a0bda0de7ece4067ae3ab1dcbca98bd6}
 
 
 Bloom editor also provides a means to bulk publish BloomPUBs and prepare a special “`.bloomshelf`” file to accompany these BloomPUBs for [bulk distribution ](/BR-distribution)on Bloom Reader. The same bookshelf is used for both Bloom Library and Bloom Reader.
@@ -124,7 +124,7 @@ Bloom Reader Bookshelves provide an excellent way to organize many books on a si
 See also [How to distribute Bloom books on SD Cards or Phones](/BR-distribution).
 
 
-# Make All BloomPUBs {#9eaab0ca96f44e25ae8a2cae05f545e5}
+## Make All BloomPUBs {#9eaab0ca96f44e25ae8a2cae05f545e5}
 
 
 To bulk publish all BloomPUBs in a single operation: 
@@ -149,7 +149,7 @@ A **Make All BloomPUBs from Collection** dialog will appear with a number of opt
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **❷** | Click the color chooser to select a color for this bookshelf.                                                                                                                                                                                                                  |
 | **❸** | If your organization wants to track particular Bloom Reader campaigns, choose a specific Distribution Tag to identify that campaign. See also [this document](https://docs.google.com/document/d/1Hm7apUH1KV3I_GCCOVkh-aiCtq5O_1ILcne074r_w-g/preview#heading=h.u0vc4ok5rukm). |
-| **❹** | Tick this box if you need the books bundled together into a single `.bloombundle` file. <br/>See also [BloomPUB Bundles](/bloompub-bundles).                                                                                                                   |
+| **❹** | Tick this box if you need the books bundled together into a single `.bloombundle` file. <br/>See also [BloomPUB Bundles](/bloomPUB-bundles).                                                                                                                   |
 | **❺** | Click the MAKE button to start the process.                                                                                                                                                                                                                                    |
 
 

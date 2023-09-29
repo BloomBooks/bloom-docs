@@ -1,7 +1,7 @@
 ---
 title: BloomPUB Bundles
 sidebar_position: 1
-slug: /bloompub-bundles
+slug: /bloomPUB-bundles
 keywords: [BloomPUB]
 ---
 
