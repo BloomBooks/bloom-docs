@@ -56,7 +56,7 @@ In a “customer interview,” Richard said
 		- `latitude`, `longitude`, `locationSource`, `locationAccuracy`, `locationAgeDays`
 		- We record the locations available from each of the standard providers (network, gps, and passive) explicitly.  But for the standard location for this report, we mainly want the most recent location we can get; precision is not very important. 
 		However, we know from experience that in poor countries, IP address doesn't give us reliable location, and we expect that WiFi and other networks will be similarly unreliable as means of location. So if we have a reasonably recent high-precision location we will take that in preference to a lower-precision one that may be even more current. (Elsewhere we request one location per hour from GPS, if available, to ensure that the "last known location" for the GPS provider will be reasonably recent.)
-	- [Distribution Source](/br-campaigns)
+	- [Distribution Source](/bloom-reader-distribution-tags)
 	- Hardware info
 	- Android version?
 

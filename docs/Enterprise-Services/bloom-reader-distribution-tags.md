@@ -1,7 +1,7 @@
 ---
 title: Measuring the Impact of your Bloom Reader Campaigns with Distribution Tags
 sidebar_position: 5
-slug: /br-campaigns
+slug: /bloom-reader-distribution-tags
 ---
 
 
