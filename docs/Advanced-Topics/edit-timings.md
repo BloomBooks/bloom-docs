@@ -102,7 +102,15 @@ This section assumes you already have a good grasp of using the program Audacity
 2. Import the corresponding timings file as a Labels file (File &gt; Import &gt; Labels).
 3. Close Notepad.
 4. Listen to the recording in Audacity and adjust the audio timings by sliding the start and end points of each label to the right or the left as necessary.
-	1. Hint: select the _circle_ shown below to move _both_ start and end points at the same time.
+
+	:::caution
+	
+	Hint: select the _circle_ shown below to move _both_ start and end points at the same time. 
+	
+	:::
+	
+	
+
 
 	![](./2019935925.png)
 

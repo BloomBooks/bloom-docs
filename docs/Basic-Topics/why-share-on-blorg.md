@@ -1,6 +1,6 @@
 ---
 title: Why share on Bloom Library?
-sidebar_position: 4
+sidebar_position: 5
 slug: /why-share-on-blorg
 ---
 

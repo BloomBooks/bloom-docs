@@ -6,7 +6,7 @@ slug: /installing-bloom-linux
 
 
 
-# Installing Bloom on Newer Linux Systems (Ubuntu 22.04 and later) {#0a0e555f3b51439686a086c6f0c97bf1}
+## Installing Bloom on Newer Linux Systems (Ubuntu 22.04 and later) {#0a0e555f3b51439686a086c6f0c97bf1}
 
 
 Bloom 5.4 is available as a flatpak package which will run on newer versions of Ubuntu and Wasta (and probably other Linux distributions). For details on installing the flatpak version of Bloom, see [https://flathub.org/apps/org.sil.Bloom](https://flathub.org/apps/org.sil.Bloom).  The debian packages will not work on these newer releases of Linux because the system libraries are no longer compatible with some of the older software libraries used inside Bloom.
@@ -60,7 +60,7 @@ chmod +x ~/Desktop/org.sil.Bloom.desktop
 - Checking ePUB accessibility by ACE by Daisy does not work.  At this point, there are no plans to try to get this working.  It should be possible to save an ePUB from Bloom and check that file separately with the ACE by Daisy program outside of Bloom.
 - Bloom 5.4 is the final version of Bloom available on Linux in either a flatpak or debian package for the foreseeable future.  The Bloom team is working to convert all of the Bloom user interface to be web-based, but has a long ways to go to get there.  Once that is achieved, we hope to be able to offer a more cross-platform Bloom available on Apple OSX and Linux as well as Windows.  We do not have a time-table for when that will happen.
 
-# Installing Bloom on Older Linux Systems (Ubuntu 20.04 and 18.04) {#39ef5bfd225f4978b2f04fe16036059a}
+## Installing Bloom on Older Linux Systems (Ubuntu 20.04 and 18.04) {#39ef5bfd225f4978b2f04fe16036059a}
 
 
 Bloom 5.4 is available as a Debian package for Ubuntu 20.04 (Wasta 20) and Ubuntu 18.04 (Wasta 18).  This is the final version of Bloom available for these versions of Linux.
@@ -77,7 +77,7 @@ sudo apt install bloom-desktop
 If this succeeds, you can skip to step 4 below (you are already a user of SIL software).  If this fails because of authorization issues or a missing sudo program, you need to consult with the local Linux administrator.  If this fails because apt cannot locate the package, then the following steps are needed.
 
 
-## Step 2: Add the SIL repository to your system {#d39f37716f014faca56c137191554e6f}
+### Step 2: Add the SIL repository to your system {#d39f37716f014faca56c137191554e6f}
 
 
 See the [Enable access to SIL software and fonts in Ubuntu](https://packages.sil.org/) for alternative instructions on how to add the SIL repository to your system.
@@ -104,7 +104,7 @@ sudo apt update
 ```
 
 
-## Step 3: Install the Bloom Editor program {#22bd050eb47f49a4b6db40632e55a6fd}
+### Step 3: Install the Bloom Editor program {#22bd050eb47f49a4b6db40632e55a6fd}
 
 
 ```bash
@@ -115,7 +115,7 @@ sudo apt install bloom-desktop
 (This is just a repeat of step 1 now that you have access to the SIL software repository.)
 
 
-## Step 4: Copy the desktop launcher to your local area {#7afd8e3e48c94d5a8a19bad8617ffe8a}
+### Step 4: Copy the desktop launcher to your local area {#7afd8e3e48c94d5a8a19bad8617ffe8a}
 
 
 ```bash
@@ -124,7 +124,7 @@ chmod +x ~/Desktop/bloom.desktop
 ```
 
 
-## Step 5: Launch the Application {#f95630c029d14b5e95ff3072bdc76bbd}
+### Step 5: Launch the Application {#f95630c029d14b5e95ff3072bdc76bbd}
 
 
 ### (mouse) {#f81860b903e14dfc9ce02714f1fd3e0a}

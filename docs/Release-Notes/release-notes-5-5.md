@@ -9,7 +9,7 @@ keywords: [Release Notes, Linux]
 
 :::note
 
-This version, Bloom 5.5, does not work with Linux and Windows 7, 8, or 8.1.
+Starting with this version, Bloom does not work with Linux and Windows 7, 8, or 8.1. 
 
 :::
 
