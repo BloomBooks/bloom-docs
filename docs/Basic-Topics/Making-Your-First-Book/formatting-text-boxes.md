@@ -52,9 +52,6 @@ You can change the language (or languages) used in your book in the Collection s
 | ❷ | If you want this text box to always display a certain language, choose Language 1, Language 2, or Language 3. (These are the same languages that are listed in the Collection settings.)                                                                                   |
 
 
-For more details on language settings and making bilingual and trilingual books, see **[Problem Internal Link]**. 
-
-
 ## The Alignment tab {#39af07a9fdfb450d9052eb7789bd2f74}
 
 
