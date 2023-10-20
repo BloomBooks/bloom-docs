@@ -72,6 +72,3 @@ Coming: Publishers can update, delete, and change book settings on their [BloomL
 - Somewhat improved vertical alignment with overflow in device layouts
 - Added an invitation to join the Community Forum
 - Added more info to error reports, including Windows 11 info, drive space, and WebView2 version.
-
-[embed]()
-
