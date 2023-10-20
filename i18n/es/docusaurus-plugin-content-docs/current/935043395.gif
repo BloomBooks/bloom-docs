@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Imgur</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+        <meta name="copyright" content="Copyright 2023 Imgur, Inc." />
+        <meta id="viewport" name="viewport" content="width=840, user-scalable=yes" />
+        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1697728773" />
+
+        <style type="text/css">
+            #content, #video {
+                width:  840px;
+                height: 352px;
+            }
+
+            #chrome, #progress {
+                width: 840px;
+            }
+        </style>
+
+        <link rel="alternate" type="application/json+oembed" href="https://api.imgur.com/oembed.json?url=https://i.imgur.com/2349yzI.gifv" title="Imgur" />
+        <link rel="alternate" type="application/xml+oembed" href="https://api.imgur.com/oembed.xml?url=https://i.imgur.com/2349yzI.gifv" title="Imgur" />
+
+        <link rel="canonical"                 href="https://imgur.com/2349yzI" />
+
+        <meta property="og:site_name"         content="Imgur" />
+                <meta name="robots"                   content="none" />
+        
+                <meta property="og:title"             content="Imgur"/>
+        <meta property="og:description"       content="Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users." />
+        
+        <meta property="og:type"              content="video.other" />
+                <meta property="og:url"               content="https://i.imgur.com/2349yzI.gif?noredirect" />
+        <meta property="og:image"             content="https://i.imgur.com/2349yzI.gif?noredirect" />
+        <meta property="og:image:width"       content="840" />
+        <meta property="og:image:height"      content="352" />
+        
+
+        <meta name="twitter:site"                       content="@imgur" />
+        <meta name="twitter:domain"                     content="imgur.com" />
+        <meta name="twitter:app:id:googleplay"          content="com.imgur.mobile" />
+        <meta name="twitter:card"                       content="player" />
+                <meta name="twitter:title"                      content="Imgur"/>
+        <meta name="twitter:description"                content="Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users." />
+        
+        <meta name="twitter:image"                      content="https://i.imgur.com/2349yzI.jpg?play" />
+        <meta name="twitter:player"                     content="https://i.imgur.com/2349yzI.gifv?twitter#t" />
+        <meta name="twitter:player:width"               content="840" />
+        <meta name="twitter:player:height"              content="352" />
+        <meta name="twitter:player:stream"              content="https://i.imgur.com/2349yzI.mp4" />
+        <meta name="twitter:player:stream:content_type" content="video/mp4">
+        <!-- Facebook Tag -->
+<script type="text/javascript">
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '742377892535530');
+    fbq('track', 'PageView');
+
+    if (document.location.search === '?reg') {
+        fbq('track', 'CompleteRegistration');
+    }
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=742377892535530&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook tag -->
+
+
+        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1697728773"></script>
+<![endif]-->
+    </head>
+    <body id="body">
+        
+        <div id="content">
+            <script type="text/javascript">
+                window.image        = '2349yzI';
+                window.image_size   = '962170';
+                window.image_width  = '840';
+                window.image_height = '352';
+                window.cdn_url      = '//i.imgur.com';
+
+                if(navigator.userAgent.match(/Firefox/)) {
+                    document.body.className = document.body.className + ' firefox';
+                }
+            </script>
+            <div class="vid-container">
+                
+                
+                
+                <div class="post-image">
+    
+
+            <div class="video-container">
+            <script type="text/javascript">
+                var videoItem = {
+                    looping:  true,
+                    width:    840,
+                    height:   352,
+                    size:     962170,
+                    gifUrl:   '//i.imgur.com/2349yzI.gif',
+                    forceGif: false,
+                    prefer_video: false,
+                    hash:     '2349yzI',
+                    forceLoadAll: false,
+                }
+            </script>
+            <video poster="//i.imgur.com/2349yzIh.jpg"
+                preload="auto"
+                autoplay="autoplay"
+                muted="muted"  loop="loop"
+            webkit-playsinline></video>
+            <div class="video-elements">
+                <source src="//i.imgur.com/2349yzI.mp4" type="video/mp4">
+            </div>
+            <progress value="0" max="100" min="0"></progress>
+            <div class="video-loader"></div>
+            <script id="script2349yzI" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1697728773"></script>
+
+            <meta itemprop="thumbnailUrl" content="https://i.imgur.com/2349yzIh.jpg" />
+            <meta itemprop="contentURL" content="https://i.imgur.com/2349yzI.mp4" />
+            <meta itemprop="embedURL" content="https://i.imgur.com/2349yzI.gifv" />
+        </div>
+    
+</div>
+
+            </div>
+            <script type="text/javascript">
+            var pixel_url = '//i.imgur.com/imageview.gif?a=2349yzI&r=' + encodeURIComponent(document.referrer);
+            var pixel = document.createElement('img');
+            pixel.src = pixel_url;
+            </script>
+
+            <div id="chrome">
+                <div class="icon">
+                    <a href="//imgur.com/2349yzI"><img src="//i.imgur.com/favicon.ico" /></a>
+                </div>
+                <div class="imgur">
+                    <a href="//imgur.com/2349yzI">Imgur</a>
+                </div>
+                <div class="controls">
+                    <a href="//imgur.com/download/2349yzI">download</a>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1697728773"></script>
+
+    </body>
+</html>

@@ -68,3 +68,6 @@ Finally, in order to get emails of announcements and discussions,
 
 ![](./1952105052.png)
 
+
+[Why share on Bloom Library?](/why-share-on-blorg)
+
