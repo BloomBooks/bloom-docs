@@ -54,5 +54,9 @@
   "sidebar.defaultSidebar.category.Bloom Library": {
     "message": "Bloom Library",
     "description": "The label for category Bloom Library in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Making Your First Book": {
+    "message": "Making Your First Book",
+    "description": "The label for category Making Your First Book in sidebar defaultSidebar"
   }
 }
