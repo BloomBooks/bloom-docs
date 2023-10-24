@@ -61,7 +61,7 @@ If you want to align text vertically within the text box, click the **Alignment 
 ![](./1384506557.png)
 
 
-:::✅
+:::tip
 
 The “Picture on Left” page layout uses vertical centering by default. 
 

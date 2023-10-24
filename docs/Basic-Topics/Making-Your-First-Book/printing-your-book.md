@@ -112,7 +112,7 @@ If you want to print your book in booklet form, you create a PDF for the **Bookl
 2. **Click the** **`PDF & Print`** **button in the left-hand toolbar** (you may have done this already also)
 3. **Click the** **`Booklet Insides`** **button in the right-hand toolbar.** Bloom will make a PDF of just the inside pages of your book.
 
-	:::✅
+	:::tip
 	
 	Bloom will reorder the pages so that when you it double-sided and fold it, you will have a booklet. 
 	
@@ -136,7 +136,7 @@ If you want to print your book in booklet form, you create a PDF for the **Bookl
 ![](./26331906.png)
 
 
-:::✅
+:::tip
 
 If you are printing a booklet, your book should come out of the printer ready to be folded and stapled or sewn. 
 

@@ -6,7 +6,7 @@ slug: /creating-a-new-collection
 
 
 
-:::▶️
+:::tip
 
 There’s a 3-minute training video about creating a Bloom collection: 
 **Bloom: Making a Set of Decodable and Leveled Reader Templates - Step 1: Create a New Collection** (available on [Vimeo](https://vimeo.com/121688803) and [YouTube](https://youtu.be/CQO8PmIYVqY))
@@ -54,7 +54,7 @@ You can have more than one collection of books on your computer. Bloom stores al
 Because every book must be part of a collection, before you can create a book you must have at least one collection.  
 
 
-# How to create a new collection {#1d6b50d3274041feaf260bfd18d07d4f}
+## How to create a new collection {#1d6b50d3274041feaf260bfd18d07d4f}
 
 
 To create a collection, Bloom needs to gather some basic information about the books that will be part of the collection — especially, the name of the language the books are written in. Bloom will lead you through a series of screens to gather the information it needs. 
@@ -66,10 +66,6 @@ To create a collection, Bloom needs to gather some basic information about the b
 When you start Bloom for the first time, Bloom will show you a window that lets you _Open/Create Collections._ 
 
 
-![](./189155919.png)
-
-- **Click** **`Create New Collection`**.
-
 :::note
 
 If you want to select a user interface other than English, you can do so with the drop-down menu in the upper right-hand corner. The Bloom interface is currently available in 21 languages. 
@@ -79,12 +75,16 @@ If you want to select a user interface other than English, you can do so with th
 
 
 
+![](./189155919.png)
+
+- **Click** **`Create New Collection`**.
+
 :::note
 
 If this is your first time running Bloom, Bloom will also show you a welcome screen. 
 ![](./1192204652.png)
 
-- If you see this welcome screen, **click** **`Next`****.**
+- If you see this welcome screen, **click** **`Next`**.
 
 :::
 
@@ -96,7 +96,7 @@ Now Bloom is ready to gather the information it needs about your collection.
 
 :::note
 
-**Collection types
+**Collection types  
 If you are using Bloom 5.4 or earlier,** Bloom will ask you to select a **collection type.**  In almost every situation, you will want to use a **Local Language collection**. 
 
 :::
@@ -133,10 +133,10 @@ Bloom versions prior to 5.5 use Andika New Basic as their default font.
 
 
 
-1. **If you want to use a different font, select the font you want to use from the drop-down list of fonts that are installed on your computer.**
-2. **If the language’s script is written right to left (like Arabic), tick the checkbox next to** **`This script is right to left like Arabic, Hebrew, and Urdu.`**
-3. **If the language’s script uses stacked diacritics, tick the checkbox next to** **`Use Special line spacing`****. T****hen select the** **`Default line spacing`** **(or a taller spacing) from the drop-down list.**
-4. **Click** **`Next`****.**
+1. **If** you want to use a different font, select the font you want to use from the drop-down list of fonts that are installed on your computer.
+2. **If** the language’s script is written right to left (like Arabic), **tick the checkbox next to** **`This script is right to left like Arabic, Hebrew, and Urdu.`**
+3. **If** the language’s script uses stacked diacritics, **tick the checkbox next to** **`Use Special line spacing`**. Then select the **`Default line spacing`** (or a taller spacing) from the drop-down list.
+4. **Click** **`Next`**.
 
 	![](./1439350978.png)
 
@@ -161,7 +161,7 @@ The language location will appear on the title page of books in this collection.
 
 
 
-- **Click** **`Next`****.**
+- **Click** **`Next`**.
 
 
 </div><div className='notion-spacer'></div>
@@ -182,9 +182,10 @@ The language location will appear on the title page of books in this collection.
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
-1. **Provide a** **`Collection Name`** **for your collection.**
+1. Provide a **`Collection Name`** for your collection.
 
 2. **Click** **`Next`****.**
+
 
 </div><div className='notion-spacer'></div>
 
@@ -217,7 +218,7 @@ Now you are _Ready To Create Your New Collection_**.**
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
-- **Click** **`Finish`****.**
+- **Click** **`Finish`**.
 
 </div><div className='notion-spacer'></div>
 

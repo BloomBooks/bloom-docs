@@ -156,7 +156,7 @@ You can use the Image Toolbox to browse to any location on your computer where a
 
 3. **Click on the image to select it.**
 
-4. **Click** **`Open`****.** Bloom will show the image in the Image Toolbox.
+4. **Click** **`Open`**. Bloom will show the image in the Image Toolbox.
 
 5. **Click** **`OK`** **to add the image to your book.**
 
@@ -190,18 +190,18 @@ When you place your cursor over an image, three buttons appear in the corners of
 ![](./1912188804.png)
 
 
-| **❶** | **Upper left corner:** **`Edit Image Credits, Copyright, & License`****.** Clicking this will call up the image copyright and license dialog box (see [Including copyright and license information for images](/working-with-images#2247254aae9d456b9867c70031438bcc) below).  |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **❷** | **Upper right corner:** **`Change Image`**. Clicking this will call up the Image Toolbox (as seen in [Invoking the Image Toolbox ](/working-with-images#4b49a0c6adbc4d338522f7fd1fa1bb20)above).                                                                               |
+| **❶** | **Upper left corner:** **`Edit Image Credits, Copyright, & License`**. Clicking this will call up the image copyright and license dialog box (see [Including copyright and license information for images](/working-with-images#2247254aae9d456b9867c70031438bcc) below).  |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **❷** | **Upper right corner:** **`Change Image`**. Clicking this will call up the Image Toolbox (as seen in [Invoking the Image Toolbox ](/working-with-images#4b49a0c6adbc4d338522f7fd1fa1bb20)above).                                                                           |
 
 
 The last three buttons are combined in one block in the lower right corner: 
 
 
-| **❸** | **`Cut Image`****.** Clicking this will remove the image from the image container and place it in your computer’s clipboard.       |
+| **❸** | **`Cut Image`**. Clicking this will remove the image from the image container and place it in your computer’s clipboard.           |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **❹** | **`Copy Image.`** Clicking this will leave the image in its place, and also put a copy of the image on your computer’s clipboard,  |
-| ❺     | **`Paste Image`****.** Paste an image on your computer’s clipboard into the image container.                                       |
+| **❹** | **`Copy Image`**. Clicking this will leave the image in its place, and also put a copy of the image on your computer’s clipboard,  |
+| ❺     | **`Paste Image`**. Paste an image on your computer’s clipboard into the image container.                                           |
 
 
 ## The Image Information Panel {#75d9722d1f454776b0669b142d26221e}
@@ -323,7 +323,7 @@ To add copyright and license information to an image, do the following:
 
 	:::note
 	
-	The copyright dialog box for images is slightly different from the copyright dialog box for books: it includes a field for the illustrator or photographer’s name, in addition to the copyright holder’s name. 
+	The copyright dialog box for images includes a field for the illustrator or photographer’s name, in addition to the copyright holder’s name. 
 	
 	:::
 	
@@ -357,7 +357,7 @@ To add copyright and license information to an image, do the following:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-Bloom will ask you if you want to apply the same copyright and license information to all the images in your book. Click **Yes** if you want to do this. Click **No** if not all the pictures have the same copyright and license information.
+Bloom will ask you if you want to apply the same copyright and license information to all the images in your book. Click **`Yes`** if you want to do this. Click **`No`** if not all the pictures have the same copyright and license information.
 
 
 </div><div className='notion-spacer'></div>

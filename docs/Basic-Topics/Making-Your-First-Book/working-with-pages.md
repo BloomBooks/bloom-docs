@@ -20,7 +20,7 @@ To add a page to your book, you must be in **Edit mode.**  If you are in the Col
 2. **Click** **`Edit this book`** **in the right-hand pane.**
 
 
-:::✅
+:::tip
 
 Alternately, you can **double-click** the thumbnail image of the book in the Collection pane. 
 
@@ -72,7 +72,7 @@ Next, Bloom will display the **Add Page... dialog box** with a choice of **page 
 
 2. **Put the number of pages you want to insert into the number box** (optional).
 
-3. **Click** **`ADD PAGE`****.**
+3. **Click** **`ADD PAGE`**.
 
 </div><div className='notion-spacer'></div>
 
@@ -256,7 +256,7 @@ Sometimes you may want to choose a different layout for your page. Maybe you cho
 
 :::caution
 
-**WARNING! Changing the layout of a page can cause content to be lost.** It's best to try this first on a copy of the page you want to change.
+**Changing the layout of a page can cause content to be lost.** It's best to try this first on a copy of the page you want to change.
 
 :::
 
@@ -273,7 +273,7 @@ To choose a different page layout for the selected page:
 
 2. **Click the small triangle below the page to invoke the context menu.** You can also right-click on the page to show the menu.
 
-3. **Select** **`Choose Different Layout`****.** Bloom will show you the page layout chooser.
+3. **Select** **`Choose Different Layout`**. Bloom will show you the page layout chooser.
 
 4. Choose the layout you want.
 

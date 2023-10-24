@@ -56,8 +56,8 @@ There are three additional buttons:
 ![](./774918726.png)
 
 
-| ❹ | Click the **A**$^2$ button to make the text superscript. <br/>(Bloom does not currently provide a subscript option.)  |
-| - | --------------------------------------------------------------------------------------------------------------------- |
-| ❺ | Click the **link icon** to insert a hyperlink from the clipboard.                                                     |
-| ❻ | Click the <u>A</u>▼ button to choose a color for the text.                                                            |
+| ❹ | **Click the** **`A²`** **button** to make the text superscript. <br/>(Bloom does not currently provide a subscript option.)  |
+| - | ---------------------------------------------------------------------------------------------------------------------------- |
+| ❺ | Click the **link icon** to insert a hyperlink from the clipboard.                                                            |
+| ❻ | Click the <u>A</u>▼ button to choose a color for the text.                                                                   |
 

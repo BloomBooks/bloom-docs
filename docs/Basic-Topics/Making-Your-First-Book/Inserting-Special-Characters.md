@@ -25,10 +25,9 @@ Your language's alphabet or script may include **special characters**, such as *
 </div>
 
 
-:::✅
+:::tip
 
-If your language uses a non-Roman script or regularly uses special characters based on the Roman script, you need a way to type it conveniently. Your operating system may provide a keyboard for your language, or you can use special keyboarding software such as SIL's **Keyman** ([https://keyman.com](https://keyman.com/)).
-![](./1258319607.png)
+If your language uses a non-Roman script or regularly uses special characters based on the Roman script, you need a way to type it conveniently. Your operating system may provide a keyboard for your language, or you can use special keyboarding software such as SIL's **Keyman** ([https://keyman.com](https://keyman.com/)).  
 
 :::
 

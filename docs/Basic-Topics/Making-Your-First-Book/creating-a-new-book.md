@@ -90,7 +90,7 @@ To add a picture, hover the mouse over the flower.  Two buttons will appear (se
 Next, Bloom will show the **Image Toolbox**. The Image Toolbox lets you choose from several sources for images, including Bloom Image Galleries, an attached scanner or digital camera, or a file on your computer. Here we will select an image from _The Art of Reading_ image gallery. (If you do not have _The Art of Reading_ or another Bloom image library installed, see [Installing Bloom](/installing-bloom#a5ed45478c4141838da36b429cd4a600) for directions.) 
 
 1. **Click the** **`Image`** **`Galleries`** **button.**
-2. **Type a search term into the search box****.** The search term needs to be in the language of the dropdown list to the right of the magnifying glass **❸**. (The language will default to the user interface language, but you can choose a different language for this search if you like.)
+2. **Type a search term into the search box****.** The search term needs to be in the language of the dropdown list to the right of the magnifying glass ❸. (The language will default to the user interface language, but you can choose a different language for this search if you like.)
 3. **Click the magnifying glass icon** 🔎 **to search the image collection.**
 4. **Select an image from the results returned.**
 5. **Click** **`OK`** **to insert the image into your book.**
@@ -223,7 +223,7 @@ When you are finished, click the **Collections** tab. Bloom will return to the C
 When you want to work on your book another time, do the following
 
 1. **Click the book’s image in the Collection pane.**
-2. **Click** **`EDIT THIS BOOK`****.**
+2. **Click** **`EDIT THIS BOOK`**.
 
 ![](./462169170.png)
 

@@ -9,18 +9,12 @@ slug: /formatting-text-styles
 When writing books for people at different levels of reading skill, it is important to choose the right font, font size, line spacing, and word spacing. 
 
 
+For general guidance on choosing font sizes, setting the number of words per page, and other aspects of leveled book design, see Davidson (2013), [_Books that Children Can Read: Decodable Books and Book Leveling_](https://www.edu-links.org/resources/books-children-can-read).
+
+
 :::note
 
 This page talks about formatting text styles. For help on formatting text styles and text boxes, see [Formatting Text](/formatting-text). 
-
-:::
-
-
-
-
-:::✅
-
-For general guidance on choosing font sizes, setting the number of words per page, and other aspects of leveled book design, see Davidson (2013), [_Books that Children Can Read: Decodable Books and Book Leveling_](https://www.edu-links.org/resources/books-children-can-read).
 
 :::
 
@@ -54,7 +48,7 @@ The first tab, **Style Name**, tells us which style you will be editing. You can
 ![](./365311563.png)
 
 
-:::✅
+:::tip
 
 To exit the Format Styles dialog box, click anywhere outside the dialog box. 
 
@@ -83,10 +77,8 @@ The **Characters** tab gives you formatting options for characters.
 
 :::note
 
-**Why Andika?**
-Bloom uses SIL’s [Andika](https://software.sil.org/andika/) font as its default font. Andika is specially designed with the needs of new readers in mind, and has complete coverage of the Latin and Cyrillic scripts. 
-
-If your language uses a different script, you can choose a different font. SIL publishes fonts for many other scripts: see [https://software.sil.org/fonts/](https://software.sil.org/fonts/). 
+**Why Andika?**  
+Bloom uses SIL’s [Andika](https://software.sil.org/andika/) font as its default font. Andika is specially designed with the needs of new readers in mind, and has complete coverage of the Latin and Cyrillic scripts. If your language uses a different script, you can choose a different font. SIL publishes freely available fonts for many scripts at [https://software.sil.org/fonts/](https://software.sil.org/fonts/). 
 
 :::
 
@@ -111,7 +103,7 @@ The **Paragraph** tab gives you formatting options for paragraphs.
 ### The Highlighting style tab {#1ab99823d15246fa9636cae61c07dd3a}
 
 
-The **Highlighting** tab lets you choose the color of text when it is highlighted when Talking Books are played. For more information on Talking Books and highlighting, see [TALKING BOOKS]. 
+The **Highlighting** tab lets you choose the color of text when it is highlighted when Talking Books are played.  
 
 
 ![](./745550130.png)

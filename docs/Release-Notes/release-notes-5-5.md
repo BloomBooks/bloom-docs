@@ -207,6 +207,7 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 
 - You can now control both the foreground and background color of the highlight that Bloom uses while playing a talking book. This is part of the textbox style, so to change it, click on the gear icon in the lower left of the text box. Then go to the new “Highlighting” section. ([Feature Request](https://community.software.sil.org/t/easier-customization-of-talking-book-highlight-style/6830))
 
+- Bloom now recognized Khmer character ។ as a sentence-ending character.
 
 </div><div className='notion-spacer'></div>
 
