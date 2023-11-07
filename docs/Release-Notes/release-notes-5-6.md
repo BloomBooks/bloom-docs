@@ -16,7 +16,7 @@ keywords: [Release Notes]
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- We added an indicator to show how many books in your language are currently available on the Bloom Library.  For now, the “goal” is just the Bloom project’s goal, which is 200 books in each language. In the future, we may allow you to change this to your own goal.
+- Bloom now displays an indicator of how many books in your language are currently available on the Bloom Library.  For now, the “goal” is just the Bloom project’s goal, which is 200 books in each language. In the future, we may allow you to change this number to your own goal.
 
 </div><div className='notion-spacer'></div>
 
@@ -76,7 +76,7 @@ keywords: [Release Notes]
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- We added a “Check Out” event to book history.
+- “Check Out” events are now recorded in book history.
 
 </div><div className='notion-spacer'></div>
 

@@ -40,7 +40,7 @@ To view all of Bloom Editor’s features, see [this page ](https://bloomlibrary.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-[Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than 11,000 free books in 480+ languages. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
+[Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than 16,000 free books in 680+ languages. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
 
 
 </div><div className='notion-spacer'></div>
