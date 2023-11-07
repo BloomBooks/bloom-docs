@@ -84,7 +84,7 @@ If you want to select a user interface other than English, you can do so with th
 If this is your first time running Bloom, Bloom will also show you a welcome screen. 
 ![](./1192204652.png)
 
-- If you see this welcome screen, **click** **`Next`**.
+If you see this welcome screen, **click** **`Next`**.
 
 :::
 
@@ -96,8 +96,7 @@ Now Bloom is ready to gather the information it needs about your collection.
 
 :::note
 
-**Collection types  
-If you are using Bloom 5.4 or earlier,** Bloom will ask you to select a **collection type.**  In almost every situation, you will want to use a **Local Language collection**. 
+**If you are using Bloom 5.4 or earlier,** Bloom will ask you to select a `collection type`**.**  In almost every situation, you will want to use a **Local Language collection**. 
 
 :::
 
@@ -201,7 +200,7 @@ The language location will appear on the title page of books in this collection.
 
 :::note
 
-The collection name is the name that Bloom will give the folder for your collection’s books, so it must be different than all your other project names. If you choose a collection name that already exists on your computer, Bloom will prompt you to choose a different name. 
+The collection name is the name that Bloom will give the folder for your collection’s books, so it must be different than all your other project names. If you choose a collection name that already exists on your computer, Bloom will prompt you to choose a different name.  
 ![](./162318.png)
 
 :::
@@ -273,8 +272,4 @@ If you are already running Bloom, you use the **Other Collections** button to cr
 
 Next you will see a window that lets you **`Create a new collection`** or **`Browse for another collection on this computer.`** 
 
-- **Click** **`Create New Collection`****.**
-
-## Next {#c8b6c8c52a3149e1b75863d20a89c189}
-
-- [Creating a new book](/creating-a-new-collection)
+- **Click** **`Create New Collection`**.

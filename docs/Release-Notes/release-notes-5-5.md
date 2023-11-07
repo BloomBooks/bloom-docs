@@ -207,7 +207,7 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 
 - You can now control both the foreground and background color of the highlight that Bloom uses while playing a talking book. This is part of the textbox style, so to change it, click on the gear icon in the lower left of the text box. Then go to the new “Highlighting” section. ([Feature Request](https://community.software.sil.org/t/easier-customization-of-talking-book-highlight-style/6830))
 
-- Bloom now recognized Khmer character ។ as a sentence-ending character.
+- Bloom now recognizes Khmer character ។ as a sentence-ending character.
 
 </div><div className='notion-spacer'></div>
 
@@ -232,7 +232,7 @@ Bloom collections now remember what custom colors you have created. So whether y
 
 :::caution
 
-This feature is experimental. You can enabled it under Collection Settings:Advanced
+This feature is experimental. You can enable it under Collection Settings:Advanced
 
 :::
 
@@ -288,7 +288,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- If you create a template book in your collection, you can now choose “**Make new book using this template”** to add a new book to your collection, based on that template.
+- If you create a template book in your collection, you can now choose “**Make new book using this template”** to add a new book to your collection based on that template.
 
 </div><div className='notion-spacer'></div>
 
@@ -372,7 +372,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 ## Major Infrastructure Work {#87cd0515414e4b12a7bb36480049d728}
 
 
-Much of the effort we spent in this version was on updating Bloom’s “underpinnings”. If all goes well, this work should be invisible to you as a user. We mention it only because you might like to know that we are continually investing in the foundations of Bloom instead of just adding new features.
+Much of our effort in this version was on updating Bloom’s “underpinnings”. If all goes well, this work should be invisible to you as a user. We mention it only because you might like to know that we are continually investing in the foundations of Bloom instead of just adding new features.
 
 
 ## The End of Andika New Basic {#652892e660564b8a8414380e1a5b668b}
@@ -458,7 +458,7 @@ See also:
 ## The End of Graphite Font Support {#2741a1296b554bf98d7cb952638cb775}
 
 
-A software component (_geckofx_) that Bloom has used to provide support for Graphite fonts is no longer being maintained by its author, and the Bloom team does not have the resources to maintain it. Therefore, starting with Bloom 5.5, we are switching to an alternative that is maintained by Microsoft. This has many benefits for us, but one downside is that Bloom will no longer support complex non-roman scripts that require “Graphite” technology. For most non-roman fonts, this will not be a problem. However, Nastaliq and Lanna fonts do require Graphite. As far as we can tell, no one has ever contributed a book to Bloom Library using these fonts, and our analytics tell us that no books are using it with Bloom 5.4. If you need Graphite font technology, please use Bloom 5.4 and also contact us.
+A software component (_geckofx_) that Bloom has used to support Graphite fonts is no longer being maintained by its author, and the Bloom team does not have the resources to maintain it. Therefore, starting with Bloom 5.5, we are switching to an alternative that is maintained by Microsoft. This has many benefits for us, but one downside is that Bloom will no longer support complex non-roman scripts that require “Graphite” technology. For most non-roman fonts, this will not be a problem. However, Nastaliq and Lanna fonts do require Graphite. As far as we can tell, no one has ever contributed a book to Bloom Library using these fonts, and our analytics tell us that no books are using it with Bloom 5.4. If you need Graphite font technology, please use Bloom 5.4 and also contact us.
 
 
 ## The End of Adobe Reader {#cbc634239daa43189414d19d4d698057}

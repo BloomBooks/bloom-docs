@@ -77,7 +77,7 @@ If you want to re-use your layout within your book, click the **down** **arrow**
 
 :::tip
 
-You can also duplicate the page by clicking on the icon to “Insert a new page that is a duplicate of this one”. The icon is in the lower left-hand corner of the Edit screen, below the “Add Page” button. 
+You can also duplicate the page by clicking on the icon to “Insert a new page that is a duplicate of this one”. The icon is in the lower left-hand corner of the Edit screen, below the “Add Page” button.  
 ![](./2039500663.png)
 
 :::

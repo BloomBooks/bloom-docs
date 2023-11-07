@@ -7,6 +7,14 @@ keywords: [Dropbox Troubleshooting]
 
 
 
+When using Bloom Team Collections with Dropbox, two problems can occur:
+
+1. [Bloom detects that Dropbox is not running](/dropbox-trouble#d7c9e80a73764f2887d5fe7d3db16a02).
+2. [Dropbox cannot handle the book’s Unicode title.](/dropbox-trouble#ad601b79aeb34247b20f7be1a44e4b4e)
+
+# Bloom detects that Dropbox is not running {#d7c9e80a73764f2887d5fe7d3db16a02}
+
+
 Sometimes users of our [Team Collections](/team-collections-intro) feature have a problem where Bloom detects that Dropbox isn’t functioning normally. Dropbox is a program that Bloom uses to enable multiple users to share a collection over the Internet.
 
 
@@ -38,4 +46,22 @@ This situation could be due to a number of issues:
 
 
 		If you still cannot get Bloom to work with Dropbox, please get in contact with us ([issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)).
+
+
+		# Dropbox cannot handle the book’s Unicode title
+
+
+		If the title of your book has an unusual combination of Unicode characters, Dropbox _may_ have difficulty synching these files to the cloud. Under the Activity tab, your Dropbox app will show a message like this: 
+
+
+		![](./463678924.png)
+
+
+		If this occurs, the solution is to rename the book without renaming its title. To rename a book, right-click on the book’s thumbnail, and choose rename:
+
+
+		![](./1915223153.png)
+
+
+		Then, type in a simplified name for your book and press Enter. 
 
