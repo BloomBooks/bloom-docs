@@ -1,6 +1,6 @@
 ---
 title: Bloom 5.6 Beta Release Notes
-sidebar_position: 2
+sidebar_position: 1
 slug: /release-notes-5-6
 keywords: [Release Notes]
 ---
