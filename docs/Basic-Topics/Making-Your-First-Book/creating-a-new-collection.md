@@ -96,7 +96,7 @@ Now Bloom is ready to gather the information it needs about your collection.
 
 :::note
 
-**If you are using Bloom 5.4 or earlier,** Bloom will ask you to select a `collection type`**.**  In almost every situation, you will want to use a **Local Language collection**. 
+**If you are using Bloom 5.4 or earlier,** Bloom will ask you to select a `collection type`.  In almost every situation, you will want to use a **Local Language collection**. 
 
 :::
 

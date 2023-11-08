@@ -24,7 +24,7 @@ Bloom is designed to run on fairly modest hardware. Your computer should have at
 ## Operating system {#3fcf15146bf34b8c82ff2a445247ddce}
 
 
-Bloom is primarily a program for the Microsoft Windows operating system. To run Bloom, you need **Windows 8.1**, **Windows 10**, or **Windows 11**.
+Bloom is primarily a program for the Microsoft Windows operating system. To run [Bloom 5.5 ](/release-notes-5-5#45d2af0275fc4ca89ae94264e38dce71)or higher, you need **Windows 10**, or **Windows 11**.
 
 
 :::caution

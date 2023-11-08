@@ -1,6 +1,6 @@
 ---
-title: Bloom 5.5 Beta Release Notes
-sidebar_position: 3
+title: Bloom 5.5 Release Notes
+sidebar_position: 1
 slug: /release-notes-5-5
 keywords: [Release Notes, Linux]
 ---

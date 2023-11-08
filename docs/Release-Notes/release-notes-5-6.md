@@ -1,6 +1,6 @@
 ---
 title: Bloom 5.6 Beta Release Notes
-sidebar_position: 4
+sidebar_position: 2
 slug: /release-notes-5-6
 keywords: [Release Notes]
 ---
@@ -52,25 +52,12 @@ keywords: [Release Notes]
 
 ## Edit Tab {#e17410d3193a4bee9f8cca78ea06c157}
 
+- We added a new Book Settings dialog. For now, it lets you control the maximum image size used in eBooks that you create from a book.  The default is HD, but you can shrink that or increase it up to 4k resolution. This setting affects BloomPUBs, ePUBs, and books when they are viewed on BloomLibrary.org.
 
-<div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
-- We added a new Book Settings dialog. For now, it lets you control the resolution of BloomPUBs that you create from a book.  Many more book settings are coming in the next version of Bloom.
-
-</div><div className='notion-spacer'></div>
-
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+![](./1262207980.png)
 
 
-![](./1579680246.png)
-
-
-</div><div className='notion-spacer'></div>
-</div>
-
-
-## Team Collections  {#79144649f38d455c96c1ab3e0a9a6e8d}
+## Team Collections  {#1ffc2657146a4019ac6a17bc5fefe2c7}
 
 
 <div class='notion-row'>
@@ -140,7 +127,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 
 ## Bloom Library {#97542ddb00634cd98c176d8f49a09d80}
 
-- We improve search by introducing two levels. In the initial level, you will see books with titles matching your search more precisely. If that doesn’t find the book you want, you can then click “Search Deeper” to search in copyright, publisher, parts of the title, etc. For example, if you search for “tortoise finds his house”, you would previously be shown 502 books all of which had something to do with tortoises, houses, or finding. After this change, Bloom Library just shows you one book. Clicking on “Search Deeper” still gives you the full list of 502 books.
+- We improved search by introducing two levels. In the initial level, you will see books with titles matching your search more precisely. If that doesn’t find the book you want, you can then click “Search Deeper” to search in copyright, publisher, parts of the title, etc. For example, if you search for “tortoise finds his house”, you would previously be shown 502 books all of which had something to do with tortoises, houses, or finding. After this change, Bloom Library just shows you one book. Clicking on “Search Deeper” still gives you the full list of 502 books.
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
@@ -177,7 +164,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 </div><div className='notion-spacer'></div>
 </div>
 
-- We added a “Branding” column to the Grid (Feature Request [https://community.software.sil.org/t/add-branding-to-the-grid-view-in-the-library/8063](https://community.software.sil.org/t/add-branding-to-the-grid-view-in-the-library/8063))
+- We added a “Branding” column to the Grid. ([Feature Request](https://community.software.sil.org/t/add-branding-to-the-grid-view-in-the-library/8063))
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
@@ -199,7 +186,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 
 ## Other Improvements {#058e8f3eee2a41dd8852d755b5b8d789}
 
-- We Improved our OPDS API
+- We Improved our OPDS API.
 - We improved vertical alignment with overflow in device layouts, but only somewhat. If you are putting large amounts of text in a box such that it doesn’t all fit, we recommend changing the vertical alignment to “Top”.
-- We added a message box that invites users to join the Bloom Community Forum.
+- We added a message box that invites users to join the [Bloom Community Forum](https://community.software.sil.org/c/bloom/5).
 - If you send us an error report we will now receive more information, including your Windows 11 info, drive space, and WebView2 version.
