@@ -105,7 +105,7 @@ By default, the following are hidden;
 ## 6.1 Simple corrections or editing {#dfd58dbb22804a73bba3764e09f19e39}
 
 
-Some teams prefer to use spreadsheets, rather than Bloom itself, to do the final editing of their Bloom books.
+Some teams prefer spreadsheets, rather than Bloom itself, to do the final editing of their books.
 
 
 :::caution
@@ -123,7 +123,7 @@ If you have already recorded audio for a Talking Book, be careful editing text (
 Some teams have translators who are comfortable using spreadsheets, but not Bloom. 
 
 
-To add a new language to a book, the exported spreadsheet will need a new column for the language. The easiest way to do this is to ensure the new language is listed in the Languages tab of your Bloom Settings prior to exporting the book.
+To add a new language to a book, the exported spreadsheet will need a new column for the language. The easiest way to do this is to ensure the new language is listed in the Languages tab of your Bloom Settings before exporting the book.
 
 
 Alternatively, you can add the new column to an existing spreadsheet. In this case, you will need to unhide row 1 to type in the language code of the language. The language code must be enclosed in square brackets.
@@ -139,16 +139,17 @@ This can be a fairly technical procedure. The following steps will cover simple 
 
 1. Change the Collection Language Setting to the correct configuration.
 2. Export the book to a Spreadsheet.
-3. Replace the wrong language code (row 1) and language name (row 2) in the spreadsheet with the correct one.
-4. Import the spreadsheet into a _blank_ book.
+3. In the spreadsheet, find the column that has the old (incorrect) language code in row 1. Replace that old language code with the correct one. Also, ensure the language name in row 2 of that same column is accurate.
+4. There should be a blank column with the new language code and name. Delete this column.
+5. Import the spreadsheet into a _blank_ book.
 
-Bloom imports in a non-destructive way. This means it _updates_ existing data _but does not erase_ existing data. For this reason, it is important for this usage situation to import into a _blank_ book; otherwise, the original, incorrectly tagged language data, will remain.
-
-
-Importing into a blank book works provided the book has a simple structure of one image and one text box per page. If the book contains multiple text boxes or images, the spreadsheet will have to be imported back into the original book in order to maintain the same data structure. In this case, the unwanted text (incorrectly tagged) will remain unless it is emptied out in the spreadsheet. This may require a Bloom specialist.
+Bloom imports in a non-destructive way. This means it _updates_ existing data _but does not erase_ existing data. For this reason, it is essential for this usage situation to import into a _blank_ book; otherwise, the original, incorrectly tagged language data, will remain.
 
 
-When publishing your book to Bloom Library, be sure to uncheck the box for any unwanted language. Doing this will strip out that unwanted language for Bloom Library.
+Importing into a blank book works provided the book has a simple structure: one image and one text box per page. If the book contains multiple text boxes or images, the spreadsheet will have to be imported back into the original book to maintain the same data structure. In this case, the unwanted text (incorrectly tagged) will remain unless it is emptied out in the spreadsheet. This may require a Bloom specialist.
+
+
+When publishing your book to Bloom Library, uncheck the box for any unwanted language. Doing this will strip out that unwanted language for Bloom Library.
 
 
 ## 6.4 Changing a book to Digital Comic Book {#3e1a640f7e894299ba71631636f4972d}
@@ -158,7 +159,7 @@ If your original book was made from the Basic Book template and you want to tran
 
 1. Create a blank book using the Digital Comic Book template.
 2. Add a **Comic** page.
-3. Using the Overlay Tool, add a Caption or Text Block to the page.
+3. Add a Caption or Text Block to the page using the Overlay Tool.
 4. Right-click on this page’s thumbnail, and choose **Duplicate Page Many Times** so that this blank comic book has the same number of pages as the original book.
 5. Import the spreadsheet into this blank comic book.
 
@@ -179,12 +180,12 @@ _Updated for Bloom 5.5_
 
 The following are _not_ supported:
 
-- Color on words is lost during export and imort
+- Color on words is lost during export and import
 - Quizzes and other Activity pages
 - Image Descriptions (forthcoming in Bloom 5.5)
 
 In addition, there are dangers to editing a Talking Book in a spreadsheet.  If you change the words of a sentence in any way, the audio recording will no longer match. Similarly, if you change the sentence boundaries, the recording will no longer match. 
 
 
-In addition to the above limitations, it is important to understand that when you export a book to a spreadsheet, Bloom does _not_ include the characteristics of the page _layout_ for the book. And so when you import a spreadsheet into a Bloom book, Bloom will either map the data from the spreadsheet onto the page structure of whatever book you have chosen to import into, or if need be, map the data onto its default page layout, namely the “Basic Text & Picture” layout.
+In addition to the above limitations, it is essential to understand that when you export a book to a spreadsheet, Bloom does _not_ include the characteristics of the page _layout_ for the book. And so when you import a spreadsheet into a Bloom book, Bloom will either map the data from the spreadsheet onto the page structure of whatever book you have chosen to import into, or if need be, map the data onto its default page layout, namely the “Basic Text & Picture” layout.
 
