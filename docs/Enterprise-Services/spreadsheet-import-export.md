@@ -135,21 +135,30 @@ Alternatively, you can add the new column to an existing spreadsheet. In this ca
 Sometimes, a user makes a book and only later discovers they have used the wrong language code.
 
 
-This can be a fairly technical procedure. The following steps will cover simple cases only:
+This can be a fairly technical procedure. In the following steps, we will use a concrete example of changing a book whose contents is _written_ in German [de], but is mistakenly tagged as English [en].
 
-1. Change the Collection Language Setting to the correct configuration.
+
+:::caution
+
+The procedure below will _overwrite_ your existing book. You should back up your original collection as a safeguard before doing this. 
+
+:::
+
+
+
+1. Change the Collection Language Setting to the _correct_ language configuration. 
+
+(In our example, change Language 1 — and possibly language 2 — from [en] to [de].)
 2. Export the book to a Spreadsheet.
-3. In the spreadsheet, find the column that has the old (incorrect) language code in row 1. Replace that old language code with the correct one. Also, ensure the language name in row 2 of that same column is accurate.
-4. There should be a blank column with the new language code and name. Delete this column.
-5. Import the spreadsheet into a _blank_ book.
+3. Find the column with the old (incorrect) language code in row 1 in the spreadsheet. Replace that old language code with the correct one and the language name in row 2.
 
-Bloom imports in a non-destructive way. This means it _updates_ existing data _but does not erase_ existing data. For this reason, it is essential for this usage situation to import into a _blank_ book; otherwise, the original, incorrectly tagged language data, will remain.
+(In our example, change [en] to [de] in row 1, and “English” to “German” in row 2.)
+4. You should see a column labeled with the new language code and name. (This column will show `[blank]` in rows 5 and beyond.) Change the code and name in this column to the old (incorrect) code and name.
 
+(In our example, change [de] to [en] and “German” to “English”.)
+5. Import the spreadsheet back into the _same_ book.
 
-Importing into a blank book works provided the book has a simple structure: one image and one text box per page. If the book contains multiple text boxes or images, the spreadsheet will have to be imported back into the original book to maintain the same data structure. In this case, the unwanted text (incorrectly tagged) will remain unless it is emptied out in the spreadsheet. This may require a Bloom specialist.
-
-
-When publishing your book to Bloom Library, uncheck the box for any unwanted language. Doing this will strip out that unwanted language for Bloom Library.
+When publishing your book to Bloom Library, it is a good practice to uncheck the box for any unwanted language(s). Doing this will strip out that unwanted language for Bloom Library.
 
 
 ## 6.4 Changing a book to Digital Comic Book {#3e1a640f7e894299ba71631636f4972d}
