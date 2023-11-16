@@ -10,7 +10,7 @@ slug: /spreadsheet-import-export
 
 The Spreadsheet Import/Export function was introduced in Bloom 5.2. It is an _experimental_ Bloom Enterprise feature that is still under development. 
 
-To access the latest developments of this experimental feature, it is essential to use the very most recent version of [Bloom Beta](https://bloomlibrary.org/page/create/downloads).
+To access the latest developments of this experimental feature, it is _essential_ to use the very most recent version of [Bloom Beta](https://bloomlibrary.org/page/create/downloads).
 
 :::
 
@@ -135,7 +135,7 @@ Alternatively, you can add the new column to an existing spreadsheet. In this ca
 Sometimes, a user makes a book and only later discovers they have used the wrong language code.
 
 
-This can be a fairly technical procedure. In the following steps, we will use a concrete example of changing a book whose contents is _written_ in German [de], but is mistakenly tagged as English [en].
+This can be a fairly technical procedure. In the following steps, we will use a concrete example of changing a book whose contents are _written_ in German `[de]`, but are mistakenly _tagged_ as English `[en]`.
 
 
 :::caution
@@ -146,19 +146,13 @@ The procedure below will _overwrite_ your existing book. You should back up your
 
 
 
-1. Change the Collection Language Setting to the _correct_ language configuration. 
-
-(In our example, change Language 1 — and possibly language 2 — from [en] to [de].)
+1. Change the Collection Language Setting to the _correct_ language configuration. (In our example, change Language 1 — and possibly language 2 — from `[en]` to `[de]`.)
 2. Export the book to a Spreadsheet.
-3. Find the column with the old (incorrect) language code in row 1 in the spreadsheet. Replace that old language code with the correct one and the language name in row 2.
-
-(In our example, change [en] to [de] in row 1, and “English” to “German” in row 2.)
-4. You should see a column labeled with the new language code and name. (This column will show `[blank]` in rows 5 and beyond.) Change the code and name in this column to the old (incorrect) code and name.
-
-(In our example, change [de] to [en] and “German” to “English”.)
+3. Find the column with the old (incorrect) language code in row 1 in the spreadsheet. Replace that old language code with the correct one and correct the language name in row 2. (In our example, change `[en]` to `[de]` in row 1 and “English” to “German” in row 2.)
+4. You should see a column labeled with the new language code and name. (This column will show `[blank]` in rows five and beyond.) Change the code and name in this column to the old (incorrect) code and name. (In our example, change `[de]` to `[en]` and “German” to “English”.)
 5. Import the spreadsheet back into the _same_ book.
 
-When publishing your book to Bloom Library, it is a good practice to uncheck the box for any unwanted language(s). Doing this will strip out that unwanted language for Bloom Library.
+When publishing your book to Bloom Library, it is an excellent practice to _uncheck_ the box for any unwanted language(s). Doing this will strip out that unwanted language for Bloom Library.
 
 
 ## 6.4 Changing a book to Digital Comic Book {#3e1a640f7e894299ba71631636f4972d}
