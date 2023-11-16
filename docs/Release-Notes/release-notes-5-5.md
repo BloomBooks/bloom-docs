@@ -384,7 +384,7 @@ Bloom’s default font has always been Andika New Basic (ANB), and before this v
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- Bloom longer installs ANB (or any other fonts). Instead, Andika is built-in to Bloom itself.
+- Bloom no longer installs ANB (or any other fonts). Instead, Andika is built-in to Bloom itself.
 
 - All books that request ANB will actually be given Andika in the Bloom Editor software, in Bloom Reader, in BloomPUB viewer, and on the web.
 
