@@ -54,7 +54,7 @@ The Bloom Community Forum is the place to get announcements, ask for help, share
 </div>
 
 
-# Step 3: Turn on email notifications  for Bloom Topics {#ed958ead95e640f5872bdaa8875d9978}
+# Step 3: Turn on email notifications for Bloom Topics {#ed958ead95e640f5872bdaa8875d9978}
 
 
 Finally, in order to get emails of announcements and discussions, 

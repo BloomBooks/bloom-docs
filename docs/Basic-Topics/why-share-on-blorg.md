@@ -44,7 +44,7 @@ You don’t need a subscription to upload your books to Bloom Library. Anyone ca
 ## **“Isn’t Bloom Library for finding books to translate? It would not make sense to translate my book.”** {#0d3bc375478c40f28f79f923ea6f9304}
 
 
-Even though Bloom Library is an excellent source of books that can be translated and re-published, the library is _primarily_ a place where readers, educators, and activists can find vernacular materials in specific languages.
+Even though Bloom Library is an excellent source of books that can be translated and re-published, the library is _primarily_ a place where readers, educators, and local-language advocates can find vernacular materials in specific languages.
 
 
 ## **“Why should I upload my book—it isn’t perfect?”** {#93ce579318244ad88bca648e09086cab}
