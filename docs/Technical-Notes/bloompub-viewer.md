@@ -6,7 +6,7 @@ slug: /bloompub-viewer
 
 
 
-These days — for very good safety reasons — Windows makes it difficult to install programs that are not widely used. The BloomPUB Viewer is one such program. In this article, we will give steps to overcome the difficulties associated with installing BloomPUB Viewer.
+These days — for excellent safety reasons — Windows makes it difficult to install programs that are not widely used. The BloomPUB Viewer is one such program. This article will give steps to overcome the difficulties associated with installing BloomPUB Viewer.
 
 
 We will show you how to:
@@ -14,13 +14,13 @@ We will show you how to:
 - Bypass the caution message on Chrome when downloading the BloomPUB Viewer.
 - Bypass the caution message on Windows Defender.
 
-## Step 1: On the CREATE tab of Bloom Library, click DOWNLOAD BLOOM {#5881a5521a2f4c1abd978bf3a0681d76}
+## Step 1: On the [CREATE ](https://bloomlibrary.org/create)tab of Bloom Library, click [DOWNLOAD BLOOM](https://bloomlibrary.org/page/create/downloads) {#5881a5521a2f4c1abd978bf3a0681d76}
 
 
 ![](./1025636758.png)
 
 
-## Step 2: Click the link for “BloomPUB Viewer for Windows” under “Related Software” {#909fcd17fc7e4f84a2ee782d9c9b6d18}
+## Step 2: Click the link for “[BloomPUB Viewer for Windows](https://github.com/BloomBooks/bloompub-viewer/releases)” under “Related Software” {#909fcd17fc7e4f84a2ee782d9c9b6d18}
 
 
 ![](./1276478062.png)
@@ -29,7 +29,7 @@ We will show you how to:
 Your browser will open up a webpage on github.com. This page contains links to _all_ versions of the BloomPUB Viewer program (current and previous versions). 
 
 
-Typically, you will want to install the _latest_ version. The latest version will always be listed at the top of the page. It will be marked “Latest”:
+Typically, you will want to install the _latest_ version. The latest version will always be listed at the top of the page. It will be marked “**Latest**”:
 
 
 ![](./952539402.png)

@@ -59,7 +59,7 @@ If the book isn’t ready for the public, it can still be great to put the book 
 ## **“What if my books cannot be shared outside of the country?”** {#4d3bffa070ec42c78f373dcffce986fc}
 
 
-There is a way to tell BloomLibrary.org to restrict the reading and downloading of books to a single country. [Contact us ](mailto:issues@bloomlibrary.org)for help with that.
+There is a way to tell BloomLibrary.org to restrict the reading and downloading of books to a single country. [Contact us](mailto:issues@bloomlibrary.org) for help with that.
 
 
 ## **“What if our people group doesn’t have access to the internet?”** {#0d9ef48328db4575a3922ca075cd12f8}

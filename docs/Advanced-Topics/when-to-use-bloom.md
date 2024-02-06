@@ -34,7 +34,6 @@ Bloom is not good for every purpose. Here are a number of needs that Bloom does 
 # Other limitations of Bloom {#45bd439e3f064882828bc31c8f66118f}
 
 - Bloom does not have built-in tools for editing images, audio, or video. Bloom lets you crop an image, but cannot make any other changes to it.
-- Bloom only knows four types of content: text, pictures, audio, and video. Bloom books cannot include any other sort of content.
 
 # When you may need Bloom Enterprise {#f8a9e97302bb418a8d2fd164d5e207f1}
 

@@ -6,7 +6,7 @@ slug: /forum
 
 
 
-The Bloom Community Forum is the place to get announcements, ask for help, share ideas, and vote on new features.
+The [Bloom Community Forum](https://community.software.sil.org/c/bloom/5) is the place to get announcements, ask for help, share ideas, and vote on new features.
 
 
 # Step 1: Sign Up to the Web Forum {#64aeca2190ba4906b40e4fb455d12ce0}

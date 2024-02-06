@@ -38,6 +38,7 @@ keywords: [Release Notes]
 
 - We added helpful little “badges” to book thumbnails that make it easy to see the status of your book on the Bloom Library.
 
+
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
@@ -52,6 +53,7 @@ keywords: [Release Notes]
 
 ## Edit Tab {#e17410d3193a4bee9f8cca78ea06c157}
 
+- You can now hold down Ctrl+Shift+space to see all “invisible” characters, such as non-breaking spaces.
 - We added a new Book Settings dialog. For now, it lets you control the maximum image size used in eBooks that you create from a book.  The default is HD, but you can shrink that or increase it up to 4k resolution. This setting affects BloomPUBs, ePUBs, and books when they are viewed on BloomLibrary.org.
 
 ![](./1262207980.png)

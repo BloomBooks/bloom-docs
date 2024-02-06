@@ -1,6 +1,6 @@
 ---
 title: Making a Translation “Snappy”
-sidebar_position: 4
+sidebar_position: 3
 slug: /snappy
 ---
 
