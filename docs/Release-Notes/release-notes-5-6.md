@@ -26,11 +26,12 @@ keywords: [Release Notes]
 ![](./368682374.png)
 
 
+
 </div><div className='notion-spacer'></div>
 </div>
 
 
-### Books on  BloomLibrary.org Badges {#47f1b3df61d243b386fb482cd1275861}
+### Books on BloomLibrary.org Badges {#47f1b3df61d243b386fb482cd1275861}
 
 
 <div class='notion-row'>
@@ -102,6 +103,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 ![](./368082680.png)
 
 
+
 </div><div className='notion-spacer'></div>
 </div>
 
@@ -121,6 +123,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 
 
 ![](./2024340246.png)
+
 
 
 </div><div className='notion-spacer'></div>

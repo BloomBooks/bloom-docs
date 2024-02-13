@@ -14,7 +14,7 @@ We will show you how to:
 - Bypass the caution message on Chrome when downloading the BloomPUB Viewer.
 - Bypass the caution message on Windows Defender.
 
-## Step 1: On the [CREATE ](https://bloomlibrary.org/create)tab of Bloom Library, click [DOWNLOAD BLOOM](https://bloomlibrary.org/page/create/downloads) {#5881a5521a2f4c1abd978bf3a0681d76}
+## Step 1: On the [CREATE](https://bloomlibrary.org/create) tab of Bloom Library, click [DOWNLOAD BLOOM](https://bloomlibrary.org/page/create/downloads) {#5881a5521a2f4c1abd978bf3a0681d76}
 
 
 ![](./1025636758.png)

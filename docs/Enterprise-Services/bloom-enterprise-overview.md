@@ -9,7 +9,7 @@ slug: /bloom-enterprise-overview
 # About Bloom Enterprise {#0c41c9c9b95e4681acc645d60786abf9}
 
 
-**Bloom Enterprise** is a subscription service that provides additional features and tools for organizations and projects. By subscribing to this service, organizations and projects can meet some of their unique needs while also supporting the development of Bloom, which helps everybody.
+**Bloom Enterprise** is a paid subscription service that provides additional features and tools for organizations and projects. By subscribing to this service, organizations and projects can meet some of their unique needs while also supporting the maintenance of Bloom, which helps everybody.
 
 
 Bloom Enterprise subscribers have access to the following features and tools:
@@ -26,6 +26,7 @@ Bloom Enterprise subscribers have access to the following features and tools:
 	- [Bloom Library Collections](/bloom-enterprise-overview#e681141a57404c3fb71d4a1405423568)
 	- [Uploading collections to Bloom Library](/bloom-enterprise-overview#9f527fedf9a54915bc595948fab91aae)
 	- [Convenient creation of multiple BloomPUBs](/bloom-enterprise-overview#66a5414a6cd44ce58f6f48113a1993ca)
+	- [Embed your custom bookshelves in your own website](/embed-collection)
 - [Analytics](/bloom-enterprise-overview#e747074e415b4781bbc27aed1db5b468)
 - [How to subscribe](/bloom-enterprise-overview#6e34f51010d34c988eeed8cb75f879e5)
 
@@ -170,7 +171,7 @@ For an additional charge, customers can also be given access to the SQL database
 # How to subscribe {#6e34f51010d34c988eeed8cb75f879e5}
 
 
-To learn more about Bloom Enterprise, or to subscribe, [contact us](https://sites.google.com/sil.org/bloom-program/im-interested).
+To learn more about Bloom Enterprise or to subscribe, [contact us](https://sites.google.com/sil.org/bloom-program/im-interested).
 
 
 :::note

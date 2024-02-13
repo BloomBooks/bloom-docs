@@ -85,5 +85,5 @@ To do this, create an environment variable named “BloomWV2Path” and set it t
 ![](./1139571278.png)
 
 
-Close these windows and run Bloom again. If this doesn’t work, or even if it does, please get in contact with us  ([issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)).
+Close these windows and run Bloom again. If this doesn’t work, or even if it does, please get in contact with us ([issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)).
 

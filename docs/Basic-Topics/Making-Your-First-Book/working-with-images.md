@@ -52,8 +52,12 @@ Bloom allows you to add images using several methods. Most of them use the **Ima
 
 
 
-To access the Image Toolbox, hover your mouse over the top right corner of the image box. Then click the **Change Image** button that appears.
+To access the Image Toolbox:
 
+
+- Hover your mouse over the an image box.
+
+- Click the **Change Image** button that appears.
 
 
 :::note
@@ -72,6 +76,7 @@ You can invoke the Image Toolbox by clicking the Change Image button even if you
 
 
 ![](./944341938.png)
+
 
 
 </div><div className='notion-spacer'></div>

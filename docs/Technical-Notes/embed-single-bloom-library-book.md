@@ -7,6 +7,9 @@ keywords: [embed, player, bloomplayer]
 
 
 
+See also: [How to Embed a Bloom Library Collection In Your Website](https://www.notion.so/7bf1d2edfdfa421891a60e4c0af37d53) 
+
+
 It is possible to embed an interactive book directly on your website, if your website supports “iframes”.  
 
 

@@ -39,6 +39,7 @@ You can have more than one collection of books on your computer. Bloom stores al
 
 
 
+
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
@@ -115,7 +116,7 @@ Bloom will show you a long list of languages.
 5. If you can’t find your language in the list, click **Can’t find your language?** for more help.
 6. Click **Next**.
 
-![](./493163638.png)
+![](./882563412.png)
 
 
 ### Select the font to use for the main language (optional) {#5bef2bd549244665987d586bdd788586}
@@ -262,6 +263,17 @@ The Collection pane (in the upper left corner of the screen) is empty — ready 
 
 ## How to begin a new collection from the Bloom window {#d99e8fe85cff4e22b4371f8dbfa77dae}
 
+
+If you are already running Bloom, you use the **Other Collections** button to create a new collection. 
+
+- **Click on the** **Other** **collections** **button in the Bloom toolbar.**
+
+![](./197277042.png)
+
+
+Next you will see a window that lets you **`Create a new collection`** or **`Browse for another collection on this computer.`** 
+
+- **Click** **`Create New Collection`**.
 
 If you are already running Bloom, you use the **Other Collections** button to create a new collection. 
 

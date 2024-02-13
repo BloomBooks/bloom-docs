@@ -1,7 +1,7 @@
 ---
 title: Inserting Special Characters
 sidebar_position: 5
-slug: /8f11820d-5665-4eda-a251-4a06163ac6d5
+slug: /inserting-special-characters
 ---
 
 
@@ -21,6 +21,7 @@ Your language's alphabet or script may include **special characters**, such as *
 ![](./1759878967.png)
 
 
+
 </div><div className='notion-spacer'></div>
 </div>
 
@@ -36,31 +37,37 @@ If your language uses a non-Roman script or regularly uses special characters ba
 
 ## How to insert a special character {#2d90f198a0724cb7b82dd7ffe60ffd4b}
 
-- **Press the key that has the base letter for the special character and keep holding down the key.**  Bloom will display special characters that are variations of the base letter.
+1. **Press the key** that has the **base letter** for the special character (for example: “o”).
+	1. **K****eep holding** the key down**.**
+2. Bloom will display special characters that are variations of the base letter:
 
-You can select the character you want in several ways.
+	![](./173570224.png)
 
+3. You can then select the character you need using your **mouse** or the **keyboard**.
 
-### Using the mouse:  {#5a4facf9ccca4002850da24e7dbcac11}
+### Using the mouse {#5a4facf9ccca4002850da24e7dbcac11}
 
-- **Select the letter you need using your mouse or the keyboard.**
+- Click on the character that you want to use:
 
 	![](./935043395.gif)
 
 
-### Using the keyboard:  {#02d08bf9c9b24411a6dd3e7c53a172ed}
+### Using the keyboard {#02d08bf9c9b24411a6dd3e7c53a172ed}
 
 
-When you press and hold the key, each Special Character for that base letter is assigned a key, which you can press to insert that character.  The keys are shown at the bottom right corner in each of the special character boxes.
+When you press and hold the key, each Special Character for that base letter is assigned a key, which you can press to insert that character. The keys are shown at the bottom right corner in each of the special character boxes.
 
-- **Press the keyboard letter that appears in the Special Character box.**
+- Press the **keyboard letter** that appears in the **Special Character box.**
 
 ![](./139395228.png)
 
 
 :::note
 
-For special characters that you use frequently, you can memorize the key that goes with that character. the memorized action for the special character **ö** would be to press and hold down the **O** key and then press the **E** key.
+For special characters that you use frequently, you can memorize the key that goes with that character. For example, the keys to press for the special character **ö** would b:
+1. Press and hold down the **O** key.
+
+2. Press the **E** key.
 
 :::
 

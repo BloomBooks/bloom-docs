@@ -11,7 +11,7 @@ When writing books for people at different levels of reading skill, it is import
 
 :::note
 
-This page talks about formatting strings of text. For help on formatting text styles and text boxes, see [Formatting Text Styles](/formatting-text-styles). 
+This page talks about formatting strings of text. For help on formatting text styles and text boxes, see [Formatting Text Styles](https://www.notion.so/714954ed16574614ae57a4549564fb73) and [Formatting Text Boxes](https://www.notion.so/33cac10c67d840ea94d63bb6397f957c).
 
 :::
 
@@ -21,12 +21,12 @@ This page talks about formatting strings of text. For help on formatting text st
 ## Formatting selected text {#d54ed7fc181a4263bcc6de863db82652}
 
 
-Bloom lets you easily make a character, word, or phrase **bold**, italic, underlined, or superscript. You can also set the color of a portion of text. 
+Bloom lets you easily make a character, word, or phrase **bold**, _italic_, <u>underlined</u>, or superscript. You can also set the color of a portion of text. 
 
 
 :::caution
 
-**Do not use this feature to format** <u>**all**</u> **the text in a textbox!** If you need to format <u>all</u> of the text inside a text box, you should do this by selecting a different text style, or by changing the style characteristics. See [Formatting Text Styles](/formatting-text-styles). 
+**Do not use this feature to format** <u>**all**</u> **the text in a textbox!** If you need to format <u>all</u> of the text inside a text box, you should do this by selecting a different text style, or by changing the style characteristics. See [Formatting Text Styles](https://www.notion.so/714954ed16574614ae57a4549564fb73).
 
 :::
 
@@ -38,7 +38,7 @@ Bloom lets you easily make a character, word, or phrase **bold**, italic, underl
 ## The formatting buttons {#13abb4a4972b47f0823d22a9e93ab57d}
 
 
-The first three buttons are typical character formatting buttons. These buttons also have keyboard shortcuts. 
+The first three buttons are typical character formatting buttons. These buttons also have keyboard shortcuts.
 
 
 ![](./1340320898.png)
@@ -56,8 +56,8 @@ There are three additional buttons:
 ![](./774918726.png)
 
 
-| ❹ | **Click the** **`A²`** **button** to make the text superscript. <br/>(Bloom does not currently provide a subscript option.)  |
-| - | ---------------------------------------------------------------------------------------------------------------------------- |
-| ❺ | Click the **link icon** to insert a hyperlink from the clipboard.                                                            |
-| ❻ | Click the <u>A</u>▼ button to choose a color for the text.                                                                   |
+| ❹ | **Click the** **`A²`** **button** to make the text superscript. <br/>(Bloom does not currently provide a subscript option.) |
+| - | --------------------------------------------------------------------------------------------------------------------------- |
+| ❺ | Click the **link icon** **🔗** to insert a hyperlink from the clipboard.                                                    |
+| ❻ | Click the <u>A</u>▼ button to choose a color for the text.                                                                  |
 

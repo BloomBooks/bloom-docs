@@ -24,7 +24,7 @@ Creating a new book is a two-part process.
 ### The Edit tab {#421144f36dd94c6880857ff45ae3f576}
 
 
-When you click **`MAKE A BOOK USING THIS SOURCE`**, Bloom adds a new book based on the template to your collection and opens it in a new tab, the **Edit** tab. (Bloom also adds a **Publish** tab.) When you open a new book for editing, Bloom takes you to the **Front Cover**. 
+When you click **`MAKE A BOOK USING THIS SOURCE`**, Bloom adds a new book based on the template to your collection and opens it in a new tab, the **Edit** tab. (Bloom also adds a **Publish** tab.) When you open a new book for editing, Bloom takes you to the **Front Cover**.
 
 
 Let’s look at some of the parts of the Edit tab window and the front cover. 
@@ -33,13 +33,13 @@ Let’s look at some of the parts of the Edit tab window and the front cover.
 ![](./892672860.png)
 
 
-| **❶** | On the LEFT side of the window are small images (called **”thumbnails”**) of each page in your book.                                                                                             |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **❷** | On the RIGHT side is the **editing pane** where you can edit your book.                                                                                                                          |
-| **❸** | Bloom puts a box around each place where you can put content. Here you see a box for the book title. When a text box is selected for editing, Bloom makes the box around it a light blue color.  |
-| **❹** | Each text box has a light gray label in its lower right corner showing what language it contains.                                                                                                |
-| **❺** | Bloom puts a small note to indicate that this is the title box.                                                                                                                                  |
-| **❻** | The Basic Book template includes a place for you to put a picture on the cover of your book.                                                                                                     |
+| **❶** | On the LEFT side of the window are small images (called **”thumbnails”**) of each page in your book.                                                                                            |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **❷** | On the RIGHT side is the **editing pane** where you can edit your book.                                                                                                                         |
+| **❸** | Bloom puts a box around each place where you can put content. Here you see a box for the book title. When a text box is selected for editing, Bloom makes the box around it a light blue color. |
+| **❹** | Each text box has a light gray label in its lower right corner showing what language it contains.                                                                                               |
+| **❺** | Bloom puts a small note to indicate that this is the title box.                                                                                                                                 |
+| **❻** | The Basic Book template includes a place for you to put a picture on the cover of your book.                                                                                                    |
 
 
 ### Adding a page title {#d91111baa0f14027be1decb76554ef84}
@@ -61,7 +61,7 @@ You can also add a picture to the front cover. We'll look at that next.
 In Bloom, spaces for pictures are shown with the **flower shape**. (If you do not add a picture, the final book will be blank in this space. The flower shape will not appear.)
 
 
-To add a picture, hover the mouse over the flower.  Two buttons will appear (see below): 
+To add a picture, hover the mouse over the flower. Two buttons will appear (see below): 
 
 
 | **❶** | The **upper right button** opens the image toolbox, from which you can select an image for this space.     |
@@ -98,7 +98,7 @@ Next, Bloom will show the **Image Toolbox**. The Image Toolbox lets you choose f
 ![](./1269559090.png)
 
 
-For more details about the Image Toolbox, see [Working with Images](/working-with-images). 
+For more details about the Image Toolbox, see [Working with Images](https://www.notion.so/40a8207cca6640399187dcd37eaafa00) 
 
 
 ## Front matter pages {#86e2d91e11ef4fc0b662523c1859d38f}
@@ -119,10 +119,10 @@ You can change how the front matter and back matter pages appear in the “Book 
 ### The Title page {#d5816ffc724a42cd9551d97f32150c0c}
 
 
-The **Title Page** should already have the title of your book. When you type the title of your book into the front cover, Bloom automatically copies the title to the title page. 
+The **Title Page** should already have the title of your book. When you type the title of your book into the front cover, Bloom automatically copies the title to the title page.
 
 
-Whenever we make a book, it is important to acknowledge those who contributed to the content of the book.  You can acknowledge them on the title page. 
+Whenever we make a book, it is important to acknowledge those who contributed to the content of the book. You can acknowledge them on the title page. 
 
 1. **Type the names of the book’s authors or illustrators into the second text box.**
 2. **Use the third box to acknowledge any funders.**
@@ -211,13 +211,13 @@ After you have finished your book’s front matter, you can start adding pages.
 ![](./740261842.png)
 
 
-See [Working with Pages](/working-with-pages) for more directions on how to add and remove pages, change page layouts, and more. 
+See [Working with Pages](https://www.notion.so/2e85e1313ca147b4a198188af61f8286) for more directions on how to add and remove pages, change page layouts, and more.
 
 
 ## Finishing your book {#8582862c7b3d424d8ab5c1f79d7e1366}
 
 
-When you are finished, click the **Collections** tab. Bloom will return to the Collections view. Now you will see the new book that you have just created. 
+When you are finished, click the **Collections** tab. Bloom will return to the Collections view. Now you will see the new book that you have just created.
 
 
 When you want to work on your book another time, do the following

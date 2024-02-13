@@ -24,7 +24,7 @@ After you have created a collection, you can create a new book and start adding 
 [Working with Pages](/working-with-pages)
 
 
-[Inserting Special Characters](/8f11820d-5665-4eda-a251-4a06163ac6d5)
+[Inserting Special Characters](/inserting-special-characters)
 
 
 [Working with Images](/working-with-images)

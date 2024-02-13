@@ -1,6 +1,6 @@
 ---
 title: Installing & Updating WebView2
-sidebar_position: 9
+sidebar_position: 10
 slug: /webview2
 keywords: [WebView2]
 ---

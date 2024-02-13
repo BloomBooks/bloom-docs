@@ -5,7 +5,7 @@
         <meta http-equiv="content-type" content="text/html;charset=utf-8" />
         <meta name="copyright" content="Copyright 2024 Imgur, Inc." />
         <meta id="viewport" name="viewport" content="width=840, user-scalable=yes" />
-        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1707146015" />
+        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1707753446" />
 
         <style type="text/css">
             #content, #video {
@@ -75,7 +75,7 @@
 <!-- End Facebook tag -->
 
 
-        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1707146015"></script>
+        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1707753446"></script>
 <![endif]-->
     </head>
     <body id="body">
@@ -127,7 +127,7 @@
             </div>
             <progress value="0" max="100" min="0"></progress>
             <div class="video-loader"></div>
-            <script id="scriptP6Z8jUS" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1707146015"></script>
+            <script id="scriptP6Z8jUS" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1707753446"></script>
 
             <meta itemprop="thumbnailUrl" content="https://i.imgur.com/P6Z8jUSh.jpg" />
             <meta itemprop="contentURL" content="https://i.imgur.com/P6Z8jUS.mp4" />
@@ -156,7 +156,7 @@
                 <div class="clear"></div>
             </div>
         </div>
-        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1707146015"></script>
+        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1707753446"></script>
 
     </body>
 </html>

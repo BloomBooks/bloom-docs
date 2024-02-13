@@ -9,7 +9,10 @@ slug: /working-with-pages
 ## How to add a page to a book {#7044c9f42b2749d280a4c0e4953fe0fb}
 
 
-To add a page to your book, you must be in **Edit mode.**  If you are in the Collections view. 
+To add a page to your book, you must be in **Edit mode.**
+
+
+In the **Collections view**:
 
 
 <div class='notion-row'>
@@ -50,6 +53,7 @@ In the **Edit view:**
 
 - Click the **`+ Add Page`** button at the bottom of the thumbnails on the left side of the screen.
 
+
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
@@ -62,7 +66,7 @@ In the **Edit view:**
 </div>
 
 
-Next, Bloom will display the **Add Page... dialog box** with a choice of **page layouts.**
+Next, Bloom will display the **Add Page...** **dialog box** with a choice of **page layouts.**
 
 
 <div class='notion-row'>
@@ -139,8 +143,7 @@ Sometimes you may want to duplicate a page. Perhaps it has a picture that you wa
 	
 
 
-3. **Choose** **`Duplicate Page`** **from the small menu that appears.** 
-.
+3. **Choose** **`Duplicate Page`** **from the small menu that appears.**
 
 </div><div className='notion-spacer'></div>
 
@@ -194,7 +197,23 @@ You can also duplicate a page by copying and pasting it.
 
 :::note
 
-You can copy a page from one book using this method: copy the page, open a different book, and paste the page into the other book. (Unfortunately, you must do this one page at a time.) 
+You can copy a page from one book using this method: copy the page, open a different book, and paste the page into the other book. (Unfortunately, you must do this one page at a time.)
+
+:::
+
+
+
+
+:::note
+
+You can copy a page from one book using this method:
+1. Copy the page
+
+2. Open a different book
+
+3. Paste the page into the other book.
+
+(Unfortunately, you must do this one page at a time.)
 
 :::
 
@@ -289,5 +308,5 @@ To choose a different page layout for the selected page:
 </div>
 
 
-Bloom lets you customize your page layout beyond the templates provided in the page layout chooser. See [Working with Page Layouts](/working-with-page-layouts) to learn more. 
+Bloom lets you customize your page layout beyond the templates provided in the page layout chooser. See [Working with Page Layouts](https://www.notion.so/98df53133ba24ab9bfc72b5460272a0a) to learn more.
 
