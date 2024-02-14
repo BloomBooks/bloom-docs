@@ -1,7 +1,7 @@
 ---
 title: Making Your First Book Index
 sidebar_position: 0
-slug: /Making-Your-First-Book
+slug: /making-your-first-book
 ---
 
 
