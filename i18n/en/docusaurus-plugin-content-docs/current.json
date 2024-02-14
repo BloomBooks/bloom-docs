@@ -58,5 +58,9 @@
   "sidebar.defaultSidebar.category.Making Your First Book": {
     "message": "Making Your First Book",
     "description": "The label for category Making Your First Book in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.In-progress Docs for Future Features": {
+    "message": "In-progress Docs for Future Features",
+    "description": "The label for category In-progress Docs for Future Features in sidebar defaultSidebar"
   }
 }
