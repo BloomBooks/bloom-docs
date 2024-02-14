@@ -1,6 +1,6 @@
 ---
 title: Formatting Text Styles
-sidebar_position: 6
+sidebar_position: 7
 slug: /formatting-text-styles
 ---
 

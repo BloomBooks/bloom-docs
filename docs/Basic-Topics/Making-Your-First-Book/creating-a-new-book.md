@@ -1,6 +1,6 @@
 ---
 title: Creating a New Book
-sidebar_position: 1
+sidebar_position: 2
 slug: /creating-a-new-book
 keywords: [new book]
 ---

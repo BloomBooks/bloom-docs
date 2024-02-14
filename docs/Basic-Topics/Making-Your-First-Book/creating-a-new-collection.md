@@ -1,6 +1,6 @@
 ---
 title: Creating a New Collection
-sidebar_position: 0
+sidebar_position: 1
 slug: /creating-a-new-collection
 ---
 

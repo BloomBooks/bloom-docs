@@ -1,6 +1,6 @@
 ---
 title: Working with Page Layouts
-sidebar_position: 8
+sidebar_position: 9
 slug: /working-with-page-layouts
 ---
 
