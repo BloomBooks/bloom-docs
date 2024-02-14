@@ -13,7 +13,7 @@ See also:
 [How to Embed a single book from Bloom Library In Your Website](/embed-single-bloom-library-book)
 
 
-## 1) Do you have a collection? {#8c955c946e8e4708be8d91f88c9ea2fe}
+## 1) Do you have a collection? {#5bf2aa399c174ef393a7a21c1ce44215}
 
 
 BloomLibrary.org offers custom collections (sometimes called “bookshelves”). These pages can have a banner, text about your organization or project, and links for people to learn more. And, of course, a set of books. We offer these collections as part of our [Bloom Enterprise](/bloom-enterprise-overview) paid service. Once you have a Bloom Enterprise subscription, you can embed your collection on your own website.

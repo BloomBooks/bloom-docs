@@ -7,10 +7,13 @@ keywords: [troubleshoot]
 
 
 
+See also: [Installing & Updating WebView2](https://www.notion.so/abb24b6894f0488c8f772eee1afadb78) 
+
+
 Bloom’s user interface is powered by the same browser engine as Microsoft Edge, which is named “WebView2”. If WebView2 were to get damaged in some way, Bloom would not be able to run.  It would direct you to this web page.
 
 
-If this happens to your, here are some things to try:
+If this happens to you, here are some things to try:
 
 
 ## 1) Restart your computer {#78df2d52ce074ef5950792bee1ed9a92}
@@ -67,6 +70,18 @@ Please get in contact with us ([issues@bloomlibrary.org](mailto:issues@bloomlibr
 We have seen a situation where the above does not fix the problem, and have prepared a “nuclear option”: tell Bloom to use the WebView2 that comes with Microsoft Edge. 
 
 
+First, run Edge and make sure its version is at least that of Bloom’s minimum WebView2 Version (which is 112 as of the time of this writing):
+
+
+![](./2039540903.png)
+
+
+If Edge’s version is too low, update it.
+
+
+Now you are ready to tell Bloom to use Edge directly.
+
+
 :::caution
 
 The following has only been tested successfully with Windows 11. For other versions, there is a more complicated approach that we can walk you through, if necessary.
@@ -86,4 +101,7 @@ To do this, create an environment variable named “BloomWV2Path” and set it t
 
 
 Close these windows and run Bloom again. If this doesn’t work, or even if it does, please get in contact with us ([issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)).
+
+
+[embed]()
 

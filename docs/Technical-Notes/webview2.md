@@ -7,20 +7,29 @@ keywords: [WebView2]
 
 
 
+See also: [WebView2 Trouble](https://www.notion.so/ec4ee1cba95847c394a7fe637615098a) 
+
+
 Bloom 5.5 and later requires the Microsoft WebView2 Runtime “Evergreen” to be installed and up to date. If your computer regularly receives Windows Updates, you will already have this. Otherwise, follow these instructions:
 
 
-# Only for you? {#8c2000ada2d046f5852f01db766ce634}
+# Using the Online Installer {#8c2000ada2d046f5852f01db766ce634}
 
 
 Click [here](https://go.microsoft.com/fwlink/p/?LinkId=2124703) to get a small program from Microsoft. When you run it, it will download and install whatever you need. It may mention “Microsoft Edge” instead of “Webview2”, that’s fine.
 
 
-# Want to save bandwidth by getting an installer you can share with others offline? {#000ea21dae6641f6ad5f132942f9ed79}
+# Using the Offline installer {#000ea21dae6641f6ad5f132942f9ed79}
 
 
 Click [here ](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)for a page that will let you download a large (~140mb) installer that you can share with others. When you get that page, click the one that says “x64”:
 
 
 ![](./1026406943.png)
+
+
+# When manually installing WebView2 Fails {#ae2d3121622c454ba4445d914f71f889}
+
+
+We have a report of a computer which refused to allow manual updating of WebView2. It was stuck on an old version. The user reported that he fixed this by running Microsoft Edge and let _it_ update, and this then fixed things so that Bloom could run. This doesn’t exactly make sense to us, but we’re passing it on just in case. It’s possible that this only helped because the user had told Bloom to [use Edge instead of WebView2](/wv2trouble#f275483d6cd94e20a669424e17cc7b61).
 
