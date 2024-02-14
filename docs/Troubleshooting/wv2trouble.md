@@ -7,7 +7,10 @@ keywords: [troubleshoot]
 
 
 
-See also: [Installing & Updating WebView2](https://www.notion.so/abb24b6894f0488c8f772eee1afadb78) 
+See also: 
+
+
+[Installing & Updating WebView2](/webview2)
 
 
 Bloom’s user interface is powered by the same browser engine as Microsoft Edge, which is named “WebView2”. If WebView2 were to get damaged in some way, Bloom would not be able to run.  It would direct you to this web page.
@@ -101,7 +104,4 @@ To do this, create an environment variable named “BloomWV2Path” and set it t
 
 
 Close these windows and run Bloom again. If this doesn’t work, or even if it does, please get in contact with us ([issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)).
-
-
-[embed]()
 
