@@ -9,6 +9,15 @@ slug: /antivirus-general
 # Introduction to the problem {#cfcdd04f0abd46cf8b021bdcac920ed9}
 
 
+:::caution
+
+There is a malware program that shares our name, so make sure that your malware scanner is not actually detecting that. If you open the Windows Task Manager (Ctrl+Shift+Esc) and see any mention of  "Bloom ltd Copyright”, that’s not us, thats the “adware”.
+
+:::
+
+
+
+
 Bloom works great with the antivirus program that is built into Windows, which is called “Windows Defender”. Most people don’t need or want anything more than that.
 
 
