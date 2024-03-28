@@ -46,7 +46,10 @@ const config = {
         },
         blog: false,
         theme: {
-          customCss: [require.resolve("./src/css/custom.css")],
+          customCss: [
+            require.resolve("./css/docu-notion-styles.css"),
+            require.resolve("./src/css/custom.css"),
+          ],
         },
       }),
     ],
