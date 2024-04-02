@@ -9,7 +9,7 @@ slug: /creating-a-new-collection
 :::tip
 
 There’s a 3-minute training video about creating a Bloom collection: 
-**Bloom: Making a Set of Decodable and Leveled Reader Templates - Step 1: Create a New Collection** (available on [Vimeo](https://vimeo.com/121688803) and [YouTube](https://youtu.be/CQO8PmIYVqY))
+**Bloom: Making a Set of Decodable and Leveled Reader Templates - Step 1: Create a New Collection** (available on [Vimeo](https://vimeo.com/showcase/3294468/video/121688803) and [YouTube](https://youtu.be/CQO8PmIYVqY))
 
 :::
 
@@ -66,26 +66,17 @@ To create a collection, Bloom needs to gather some basic information about the b
 
 When you start Bloom for the first time, Bloom will show you a window that lets you _Open/Create Collections._ 
 
-
-:::note
-
-If you want to select a user interface other than English, you can do so with the drop-down menu in the upper right-hand corner. The Bloom interface is currently available in 21 languages. 
-
-:::
-
-
-
+- Click **`Create New Collection`**.
 
 ![](./189155919.png)
 
-- **Click** **`Create New Collection`**.
 
 :::note
 
 If this is your first time running Bloom, Bloom will also show you a welcome screen. 
 ![](./1192204652.png)
 
-If you see this welcome screen, **click** **`Next`**.
+If you see this welcome screen, click **`Next`**.
 
 :::
 
@@ -110,11 +101,11 @@ Now Bloom is ready to gather the information it needs about your collection.
 Bloom will show you a long list of languages. 
 
 1. **Scroll through the list, OR begin typing the language name in the search bar.** Bloom will show you a list of one or more languages that match what you typed.
-2. **Click on the language's name to select it.**
-3. **Change how the language's name is displayed in your collection** (optional).
-4. **Specify which script or dialect your collection uses by clicking on** **Script and Variant** (optional).
-5. If you can’t find your language in the list, click **Can’t find your language?** for more help.
-6. Click **Next**.
+2. Click on the **language's name** to select it.
+3. **Change** how the language's name is **displayed** in your collection (optional).
+4. Specify which script or dialect your collection uses by clicking on **`Script and Variant`** (optional).
+5. If you can’t find your language in the list, click **`Can’t find your language?`** for more help.
+6. Click **`Next`**.
 
 ![](./882563412.png)
 

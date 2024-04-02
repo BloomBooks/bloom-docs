@@ -1,6 +1,6 @@
 ---
 title: Unblocking Bloom from Windows Controlled Folder Access
-sidebar_position: 5
+sidebar_position: 6
 slug: /windows-controlled-folder-access
 keywords: [troubleshooting, Defender, controlled, folder]
 ---
@@ -75,7 +75,7 @@ If you move your Bloom collections folders somewhere that Windows is not “cont
 
 :::caution
 
-This approach has a major drawback: you will need to do it each time Bloom updates itself.
+This approach is not practical— you will need to do it each time Bloom updates itself. It may not be clear to you that this happened and you may not remember having read this notice. So then you will suddently get hard to understand error messages and be stuck.
 
 :::
 

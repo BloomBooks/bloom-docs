@@ -26,14 +26,21 @@ Bloom lets you easily make a character, word, or phrase **bold**, _italic_, <u>u
 
 :::caution
 
-**Do not use this feature to format** <u>**all**</u> **the text in a textbox!** If you need to format <u>all</u> of the text inside a text box, you should do this by selecting a different text style, or by changing the style characteristics. See [Formatting Text Styles](https://www.notion.so/714954ed16574614ae57a4549564fb73).
+**Do not use this feature to format** <u>**all**</u> **the text in a textbox!** If you need to format <u>**all**</u> of the text inside a text box, you should do this by selecting a different text style, or by changing the style characteristics. See [Formatting Text Styles](https://www.notion.so/714954ed16574614ae57a4549564fb73).
 
 :::
 
 
 
-- **Select the portion of text you want to format.** To select some text, you can double-click a word, or you can put your cursor next to the portion of text you want to select, then click and drag the mouse over the text**.** When you select some text, six buttons will appear.
-- **Click the button for the formatting option you want.**
+1. **Select** the portion of **text** you want to format:
+	1. **D****ouble-click** a word
+	OR
+	2. Put your cursor next to the portion of text you want to select, then **click and drag** the mouse over the text**.**
+2. When you select some text, six buttons will appear.
+
+	![](./802938539.png)
+
+3. Click the **button** for the **formatting option** you want.
 
 ## The formatting buttons {#13abb4a4972b47f0823d22a9e93ab57d}
 

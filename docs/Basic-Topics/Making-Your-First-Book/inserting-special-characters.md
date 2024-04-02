@@ -37,8 +37,8 @@ If your language uses a non-Roman script or regularly uses special characters ba
 
 ## How to insert a special character {#2d90f198a0724cb7b82dd7ffe60ffd4b}
 
-1. **Press the key** that has the **base letter** for the special character (for example: “o”).
-	1. **K****eep holding** the key down**.**
+1. **Press and hold** the key that has the **base letter** for the special character (for example: “o”).
+	1. **K****eep holding** the key **down.**
 2. Bloom will display special characters that are variations of the base letter:
 
 	![](./173570224.png)

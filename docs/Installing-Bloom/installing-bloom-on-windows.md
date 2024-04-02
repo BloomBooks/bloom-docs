@@ -1,7 +1,7 @@
 ---
-title: Installing Bloom
+title: Installing Bloom on Windows
 sidebar_position: 1
-slug: /installing-bloom
+slug: /installing-bloom-on-windows
 ---
 
 
@@ -173,7 +173,7 @@ _The Art of Reading_ is an collection of black and white line drawings from SIL
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
 
-To download _The Art of Reading,_ click on **The Art of Reading illustration collection** link under "Related Software" on the Bloom installers page. That link will take you to the Art of Reading web page. Click on the link there that says, **Download Art of Reading version 3.3 installer**. The installer will download to your computer.
+To download _The Art of Reading__,_ click on **The Art of Reading illustration collection** link under "Related Software" on the Bloom installers page. That link will take you to the Art of Reading web page. Click on the link there that says, **Download Art of Reading version 3.3 installer**. The installer will download to your computer.
 
 
 

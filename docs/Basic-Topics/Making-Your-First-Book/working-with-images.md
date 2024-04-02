@@ -105,23 +105,25 @@ We will focus on the **Image Galleries** and **File** methods below.
 ### Adding an image from an Image Gallery {#de4d254b555a4c378a635319b1973cc1}
 
 
-In this section, we will demonstrate how to add an image from the free **Art of Reading** image gallery from SIL International. (If you do not have the Art of Reading installed, you can find instructions on how to install it in [Installing Bloom](/installing-bloom#a5ed45478c4141838da36b429cd4a600).) 
+In this section, we will demonstrate how to add an image from the free **Art of Reading** image gallery from SIL International. (If you do not have the Art of Reading installed, you can find instructions on how to install it in [Installing Bloom on Windows](https://www.notion.so/009fad3932c449249d310a7f3ccf410f).) 
 
-1. **In the Image Toolbox, click on the** **`Image Galleries`** **tab.**
-2. **Type a keyword into the search box.**
-3. **Use the drop-down arrow next to the name of the search language to set the search language to match your search term.** For instance, if your search term is “cat”, the search term language should be “English”.
+1. In the _Image Toolbox_, click on the **`Image Galleries`** tab.
+2. Type a **keyword** into the search box.
 
 	:::note
 	
-	The _Art of Reading_ images are indexed in English, Russian, Indonesian, French, Spanish, Arabic, Hindi, Bislama, Portuguese, Thai, Swahili, and Chinese.     
+	The _Art of Reading_ images are indexed in _English, Arabic, Bislama, Chinese, French, Hindi, Indonesian, Portuguese, Russian, Spanish, Swahili,_ and _Thai_.
+	
+	Search terms can be in any of the languages listed above.
 	
 	:::
 	
 	
 
-4. **Click the search icon** **🔎** **(or press the Enter key).** Bloom will show you all the images that have been tagged with that keyword.
-5. **Select an image from the results returned.**
-6. **Click** **`OK`** **to insert the image into your book.**
+3. To change the language you are using to search, click the **drop-down arrow next to the name of the search language**. For instance, if your search term is _“cat”_, the search term language should be _“English”_.
+4. Click the **search icon** **🔎** (or press the **Enter** key). Bloom will show you all the images that have been tagged with that keyword.
+5. **Select an image** from the results returned.
+6. Click **`OK`** to insert the image into your book.
 
 ![](./1829009832.png)
 
@@ -155,15 +157,15 @@ You can use the Image Toolbox to browse to any location on your computer where a
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
-1. **Click** **`File`** **in the Image Toolbox.** Bloom will open a standard file browsing window.
+1. Click **`File`** in the _Image Toolbox_. Bloom will open a standard file browsing window.
 
-2. **Navigate to where the picture is stored.** (In this example, the image is in the Pictures folder.)
+2. Go to the **folder** where the picture is stored. (In this example, the image is in the Pictures folder.)
 
-3. **Click on the image to select it.**
+3. Click on the **image** to select it.
 
-4. **Click** **`Open`**. Bloom will show the image in the Image Toolbox.
+4. Click **`Open`**. Bloom will show the image in the Image Toolbox.
 
-5. **Click** **`OK`** **to add the image to your book.**
+5. Click **`OK`** to add the image to your book.
 
 
 </div><div className='notion-spacer'></div>
@@ -186,7 +188,7 @@ You can use the Image Toolbox to browse to any location on your computer where a
 </div>
 
 
-## The Image Control Buttons {#ec7bd93c590f4cc38606caf32c974b08}
+## The Image Control Buttons {#a567f57468934a7f82b850a60eca3310}
 
 
 When you place your cursor over an image, three buttons appear in the corners of the **image container** (the box on the page that holds the image). 
@@ -195,18 +197,18 @@ When you place your cursor over an image, three buttons appear in the corners of
 ![](./1912188804.png)
 
 
-| **❶** | **Upper left corner:** **`Edit Image Credits, Copyright, & License`**. Clicking this will call up the image copyright and license dialog box (see [Including copyright and license information for images](/working-with-images#2247254aae9d456b9867c70031438bcc) below).  |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **❷** | **Upper right corner:** **`Change Image`**. Clicking this will call up the Image Toolbox (as seen in [Invoking the Image Toolbox ](/working-with-images#4b49a0c6adbc4d338522f7fd1fa1bb20)above).                                                                           |
+| **❶** | **Upper left corner:** **`Edit Image Credits, Copyright, & License`**. Clicking this will open the image copyright and license dialog box (see [Including copyright and license information for images](/working-with-images#2247254aae9d456b9867c70031438bcc) below).  |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **❷** | **Upper right corner:** **`Change Image`**. Clicking this will open the Image Toolbox (as seen in [Using the Image Toolbox](/working-with-images#4b49a0c6adbc4d338522f7fd1fa1bb20) above).                                                                              |
 
 
 The last three buttons are combined in one block in the lower right corner: 
 
 
-| **❸** | **`Cut Image`**. Clicking this will remove the image from the image container and place it in your computer’s clipboard.           |
+| **❸** | **`Cut Image`**: Clicking this will remove the image from the image container and place it in your computer’s clipboard.           |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **❹** | **`Copy Image`**. Clicking this will leave the image in its place, and also put a copy of the image on your computer’s clipboard,  |
-| ❺     | **`Paste Image`**. Paste an image on your computer’s clipboard into the image container.                                           |
+| **❹** | **`Copy Image`**: Clicking this will leave the image in its place, and also put a copy of the image on your computer’s clipboard,  |
+| ❺     | **`Paste Image`**: Paste an image on your computer’s clipboard into the image container.                                           |
 
 
 ## The Image Information Panel {#75d9722d1f454776b0669b142d26221e}
@@ -218,7 +220,7 @@ After you insert an image into a page, Bloom can show you a panel of information
 ![](./844033991.png)
 
 
-| **❶** | **Information about the image: its filename, disk size, and dimensions.**                                                                                                                                                                                                                                                                                                       |
+| **❶** | **Information about the image:** its filename, disk size, and dimensions.                                                                                                                                                                                                                                                                                                       |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **❷** | **Information about the image container:** The image container is the box on the page that is filled by the image. In this example, the image container is 408 dots (pixels) wide and 197 dots (pixels) high. (Note that the image container size is specific to the paper size: if you increase the paper size, Bloom will make the image container larger to fill the page.)  |
 | **❸** | **Information about the image in the image container:** Bloom reminds you that for print publications, the image should print at 300-600 dots per inch (DPI). Bloom also tells you the resolution at which this image will be printed, and the optimal pixel size for the image.                                                                                                |
@@ -280,18 +282,18 @@ Bloom does not provide any other tools for editing images. If you need to edit y
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
 
-1. **Click the Crop button on the left side of your Image Toolbox.** Bloom will highlight the image, with four grey _crop bars_ along the borders.
+1. Click the **`Crop`** button on the left side of your _Image Toolbox_. Bloom will highlight the image, with four grey _crop bars_ along the borders.
 
-2. **Click and drag these crop bars toward the center of the image to change how much of the image will show in your book.**
+2. **Click and drag** the **four crop bars** toward the center of the image to change how much of the image will show in your book.
 
-3. **Click** `OK` **to add the image to your book.**
+3. Click `OK` to add the image to your book.
 
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./345135118.png)
+![](./288776994.png)
 
 
 
@@ -309,7 +311,7 @@ Bloom lets you record copyright and licensing information for each image in your
 
 It is very important that each image in your book have accurate copyright and licensing information! This is <u>especially</u> important if you want to share your book with others or publish it on Bloom Library. 
 
-For more information on copyright and licensing, see [Permission to Publish](/permission-to-publish). 
+For more information on copyright and licensing, see [Permission to Publish](https://www.notion.so/984651c9bcd9465ca181ccdf16cac34a). 
 
 :::
 
@@ -324,7 +326,10 @@ If an image does not have copyright and licensing information, Bloom will show a
 
 To add copyright and license information to an image, do the following: 
 
-1. **Hover your mouse over the red question mark. Then click on the green button that appears.** Bloom will show you the copyright and license dialog box.
+1. Hover your mouse over the **red question mark ❓**. Then click on the **green button** that appears. Bloom will show you the _Copyright and License_ dialog box.
+
+	![](./1199510042.png)
+
 
 	:::note
 	
@@ -334,28 +339,12 @@ To add copyright and license information to an image, do the following:
 	
 	
 
-2. **Type the name of the illustrator or photographer into the** **`Illustrator/Photographer`** **field (optional).**
-3. **Type the name of the copyright holder into the** **`Copyright Holder`** **field.**
-4. **Click on the** **`LICENSE`** **tab and fill in the license information.** (This is optional: Blook adds a Creative Commons CC-BY license by default.)
-5. **Click** **`OK`** **to add the information to your image.**
-
-<div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
-
-![](./1199510042.png)
-
-
-</div><div className='notion-spacer'></div>
-
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
+2. Type the name of the **illustrator or photographer** into the `Illustrator/Photographer` field (optional).
+3. Type the name of the **copyright holder** into the `Copyright Holder` field.
+4. Click on the **`LICENSE`** tab and fill in the license information. (This is optional: Bloom adds a Creative Commons CC-BY license by default.)
+5. Click **`OK`** to add the information to your image.
 
 ![](./1834753857.png)
-
-
-</div><div className='notion-spacer'></div>
-</div>
 
 
 <div class='notion-row'>
@@ -380,25 +369,12 @@ Bloom will ask you if you want to apply the same copyright and license informati
 ### Adding image credits to your book's Title Page {#f21c5a3809954b64b7cd34c7da5d880a}
 
 
-You can easily add a summary of the copyright and license information for all the images in your book to the Title Page. 
+You can easily add a summary of the copyright and license information for all the images in your book to the Title Page.
 
+1. Go to the **Title Page** for the book.
+2. Click on the information ℹ tab in the _Contributions bubble_ (on the right-hand side).
+3. Click on the **`Paste Image Credits`** link.
+4. Bloom will gather the image credit information you have provided for all the images in the book and put it in this box in summary form.
 
-<div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
-
-- **Look in one of the bubbles on the right-hand side of the Title Page for a** **`Paste Image Credits`** **link.**
-
-</div><div className='notion-spacer'></div>
-
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
-
-
-![](./1216188065.png)
-
-
-</div><div className='notion-spacer'></div>
-</div>
-
-
-Bloom will gather the image credit information you have provided for all the images in the book and put it in this box in summary form.
+![](./1704725658.png)
 

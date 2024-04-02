@@ -1,6 +1,6 @@
 ---
 title: WebView2 Trouble
-sidebar_position: 4
+sidebar_position: 5
 slug: /wv2trouble
 keywords: [troubleshoot]
 ---
@@ -58,7 +58,13 @@ Click “Modify”, then “Repair”:
 ![](./1601555847.png)
 
 
-## 4) Tell Bloom to use Edge instead {#f275483d6cd94e20a669424e17cc7b61}
+## 4) Update Edge {#983e2fdbe56c4746b0bd50e887e42999}
+
+
+Try [updating Microsoft Edge](/webview2).
+
+
+## 5) Tell Bloom to use Edge instead {#f275483d6cd94e20a669424e17cc7b61}
 
 
 :::tip

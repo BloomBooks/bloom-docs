@@ -34,5 +34,5 @@ Click [here ](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)for
 # When manually installing WebView2 Fails {#ae2d3121622c454ba4445d914f71f889}
 
 
-We have a report of a computer which refused to allow manual updating of WebView2. It was stuck on an old version. The user reported that he fixed this by running Microsoft Edge and let _it_ update, and this then fixed things so that Bloom could run. This doesn’t exactly make sense to us, but we’re passing it on just in case. It’s possible that this only helped because the user had told Bloom to [use Edge instead of WebView2](/wv2trouble#f275483d6cd94e20a669424e17cc7b61).
+We have a report of a computer which refused to allow manual updating of WebView2. It was stuck on an old version. The user reported that he fixed this by running Microsoft Edge and let _it_ update, and this then fixed things so that Bloom could run. See [Updating Microsoft Edge](/webview2).
 

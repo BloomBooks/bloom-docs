@@ -18,6 +18,9 @@ However, this powerful feature comes with an important caution because once peop
 For this reason, _before_ publishing original works to the Bloom Library, you should ensure that everything in the book is absolutely perfect: spelling, formatting, logos, copyright, licensing, credits, acknowledgments, audio, etc.
 
 
+# Mark a Book as a Draft {#d647347fb5b54acfa2e7aa7e12fec8ce}
+
+
 If your book is _not_ yet ready to show to the entire world, but you need some way to share the book with others for review, you may consider uploading it to Bloom Library, and marking the book as a draft:
 
 

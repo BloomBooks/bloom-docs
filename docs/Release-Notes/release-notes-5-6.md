@@ -195,3 +195,4 @@ In previous versions, there was a menu command in the Collection tab that you co
 - We improved vertical alignment with overflow in device layouts, but only somewhat. If you are putting large amounts of text in a box such that it doesn’t all fit, we recommend changing the vertical alignment to “Top”.
 - We added a message box that invites users to join the [Bloom Community Forum](https://community.software.sil.org/c/bloom/5).
 - If you send us an error report we will now receive more information, including your Windows 11 info, drive space, and WebView2 version.
+- .bloomSource files now include the .bloomCollectionSettings file, making for a more complete archive.

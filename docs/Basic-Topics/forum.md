@@ -1,15 +1,21 @@
 ---
 title: Join our Forum and Mailing List
-sidebar_position: 3
+sidebar_position: 2
 slug: /forum
 ---
 
 
 
+:::tip
+
 The [Bloom Community Forum](https://community.software.sil.org/c/bloom/5) is the place to get announcements, ask for help, share ideas, and vote on new features.
 
+:::
 
-# Step 1: Sign Up to the Web Forum {#64aeca2190ba4906b40e4fb455d12ce0}
+
+
+
+# Step 1: Sign Up for the Web Forum {#64aeca2190ba4906b40e4fb455d12ce0}
 
 
 <div class='notion-row'>
@@ -57,17 +63,10 @@ The [Bloom Community Forum](https://community.software.sil.org/c/bloom/5) is the
 # Step 3: Turn on email notifications for Bloom Topics {#ed958ead95e640f5872bdaa8875d9978}
 
 
-Finally, in order to get emails of announcements and discussions, 
+Finally, in order to get emails of announcements and discussions:
 
-
-1) Click on the bell icon
-
-
-2) Select “Watching”
-
+1. Click on the **bell** icon
+2. Select **“Watching”**
 
 ![](./1952105052.png)
-
-
-[Why share on Bloom Library?](/why-share-on-blorg)
 

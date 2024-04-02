@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting Dropbox
-sidebar_position: 6
+sidebar_position: 8
 slug: /dropbox-trouble
 keywords: [Dropbox Troubleshooting]
 ---

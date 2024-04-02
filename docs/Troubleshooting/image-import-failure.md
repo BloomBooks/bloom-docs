@@ -1,6 +1,6 @@
 ---
 title: Unable to import image
-sidebar_position: 7
+sidebar_position: 9
 slug: /image-import-failure
 ---
 

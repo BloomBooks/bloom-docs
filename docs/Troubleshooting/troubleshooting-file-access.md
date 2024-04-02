@@ -1,6 +1,6 @@
 ---
 title: When Bloom is prevented from changing its image files
-sidebar_position: 0
+sidebar_position: 1
 slug: /troubleshooting-file-access
 ---
 
