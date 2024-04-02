@@ -62,5 +62,9 @@
   "sidebar.defaultSidebar.category.In-progress Docs for Future Features": {
     "message": "In-progress Docs for Future Features",
     "description": "The label for category In-progress Docs for Future Features in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Installing Bloom": {
+    "message": "Installing Bloom",
+    "description": "The label for category Installing Bloom in sidebar defaultSidebar"
   }
 }
