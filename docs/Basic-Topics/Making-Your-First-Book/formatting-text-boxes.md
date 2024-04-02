@@ -63,7 +63,7 @@ If you want a text box to **always** be in a specific language, you can do that 
 
 3. Choose **Normal** to let this field be controlled by the language settings in the Collection settings.
 	1. (Note: This is distinct from the “Normal” [text style](/formatting-text-styles#feb4fb1700e64099b661c721f9195918): this setting in the Language tab will say “Normal” even if you have the text box set to a different style.)
-4. If you want this text box to always display a certain language, choose Language 1, Language 2, or Language 3. (These are the same languages that are listed in the [Collection settings](/8ebe7814-fc9f-4c6f-8890-809347af6dde#cb9073a21d7b4b04be0aaba5884a00e7).)
+4. If you want this text box to always display a certain language, choose Language 1, Language 2, or Language 3. (These are the same languages that are listed in the Collection settings.)
 
 	![](./1394361731.png)
 
