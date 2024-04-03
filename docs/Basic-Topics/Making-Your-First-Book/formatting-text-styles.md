@@ -42,7 +42,7 @@ All text boxes in Bloom have a **style** that defines the appearance for all of 
 **Heading 1:**
 
 
-	![](./2106697281.png)
+![](./2106697281.png)
 
 
 ## Changing the style for a text box {#bdee63934ba74c7884a283f2a07e6315}
@@ -60,15 +60,7 @@ To change the style for a text box:
 
 	![](./172675501.png)
 
-
-	:::tip
-	
-	To exit the _Format_ styles dialog box, click anywhere outside the dialog box. 
-	
-	:::
-	
-	
-
+	1. To exit the _Format_ styles dialog box, click anywhere outside the dialog box.
 5. Click on the **Style drop-down**.
 6. Choose a different style from the list of styles.
 

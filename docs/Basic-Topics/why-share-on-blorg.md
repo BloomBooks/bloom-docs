@@ -53,7 +53,7 @@ Even though Bloom Library is an excellent source of books that can be translated
 It’s fine to share books that you might improve in the future. Consider putting a note in the book summary alerting users that more work is planned. You might even want to give them a way to contact you for feedback. Then, as you progress, Bloom makes it easy to upload an updated version.
 
 
-If the book isn’t ready for the public, it can still be great to put the book where you can get feedback while keeping it from being seen by the public. By marking your book as a "[draft](/9d91c078-909d-4a89-848f-4ed1eac5674d#d647347fb5b54acfa2e7aa7e12fec8ce)," you can keep it private—accessible only to you and the trusted individuals you share the link with. This allows you to maintain complete control over your book and decide when it's ready for the world to see.
+If the book isn’t ready for the public, it can still be great to put the book where you can get feedback while keeping it from being seen by the public. By marking your book as a "[draft](/draft-books#d647347fb5b54acfa2e7aa7e12fec8ce)," you can keep it private—accessible only to you and the trusted individuals you share the link with. This allows you to maintain complete control over your book and decide when it's ready for the world to see.
 
 
 ## **“What if my books cannot be shared outside of the country?”** {#4d3bffa070ec42c78f373dcffce986fc}
