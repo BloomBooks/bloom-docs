@@ -21,7 +21,7 @@ When you open a Team Collection, the first thing you will notice is a “Team Co
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./620339863.png)
+![](./working-with-team-collections.ea4a5d3e-ccae-434a-9c22-bc0715a06e78.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -46,7 +46,7 @@ In the example below, team member Awa Issa sees that the book “**آس**” is 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./1264926347.png)
+![](./working-with-team-collections.28e2dce7-4783-46ab-8c34-8d3fc11d90be.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -65,7 +65,7 @@ The book’s status immediately changes to **This book is checked out to you**, 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./1631292437.png)
+![](./working-with-team-collections.d4d42d66-c9d0-44d7-8ab2-d93d20f2e66b.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -84,7 +84,7 @@ While Awa has this book checked out, other team members will see in the book’s
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./66832944.png)
+![](./working-with-team-collections.93ffdcf3-fcb9-4051-b803-14c69dba483e.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -103,7 +103,7 @@ When Awa is finished editing the book, she can check it back in. First, she type
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./1265980460.png)
+![](./working-with-team-collections.bb4b87c2-5e9f-4386-837e-e74972b4fa22.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -140,7 +140,7 @@ Bloom marks the thumbnails of books in a Team Collection with an initial letter 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./792123266.png)
+![](./working-with-team-collections.f4c9c6cb-d021-4a5d-90ff-0fe3de2a899a.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -163,7 +163,7 @@ Make sure each user has a correct and unique email. From that, Bloom can generat
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./923826545.png)
+![](./working-with-team-collections.b1e8a42d-bea7-485b-a9a7-31871dc144d6.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -185,7 +185,7 @@ If another team member checks in a book, the Team Collections badge may say **Up
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./2061270918.png)
+![](./working-with-team-collections.9cb2565e-aa20-4432-9d5c-819dd4b8978a.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -207,7 +207,7 @@ Clicking on the Team Collection badge in the toolbar lets you see a history of c
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./819161077.png)
+![](./working-with-team-collections.938c9684-d9e2-4bfd-b962-efb495888c28.png)
 
 
 </div><div className='notion-spacer'></div>

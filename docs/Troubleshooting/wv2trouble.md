@@ -40,7 +40,7 @@ Please get in contact with us ([issues@bloomlibrary.org](mailto:issues@bloomlibr
 In File Explorer, navigate to you temp director and delete “Bloom WebView2”:
 
 
-![](./1478022081.png)
+![](./wv2trouble.6c7db046-cb8e-4e11-a733-648bc1bb6f58.png)
 
 
 Delete the contents of that folder. Now run Bloom again.
@@ -49,13 +49,13 @@ Delete the contents of that folder. Now run Bloom again.
 ## 3) Repair WebView2 {#99638cbf03324e9580368a5cd90c4e31}
 
 
-![](./1735398459.png)
+![](./wv2trouble.5f610f5c-b737-4862-8a45-053d712c6612.png)
 
 
 Click “Modify”, then “Repair”:
 
 
-![](./1601555847.png)
+![](./wv2trouble.5f3214ed-e213-4192-837a-909da6d847e4.png)
 
 
 ## 4) Update Edge {#983e2fdbe56c4746b0bd50e887e42999}
@@ -82,7 +82,7 @@ We have seen a situation where the above does not fix the problem, and have prep
 First, run Edge and make sure its version is at least that of Bloom’s minimum WebView2 Version (which is 112 as of the time of this writing):
 
 
-![](./2039540903.png)
+![](./wv2trouble.8ca88bb0-589c-440d-83ac-dd55ca7d681d.png)
 
 
 If Edge’s version is too low, update it.
@@ -103,10 +103,10 @@ The following has only been tested successfully with Windows 11. For other versi
 To do this, create an environment variable named “BloomWV2Path” and set it to “edge”:
 
 
-![](./266899542.png)
+![](./wv2trouble.f8ae990d-3b6d-4b25-b6fc-de61cf97d377.png)
 
 
-![](./1139571278.png)
+![](./wv2trouble.95d4a716-5172-4f20-bbe4-8427467107e7.png)
 
 
 Close these windows and run Bloom again. If this doesn’t work, or even if it does, please get in contact with us ([issues@bloomlibrary.org](mailto:issues@bloomlibrary.org)).

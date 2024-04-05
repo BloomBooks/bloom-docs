@@ -39,7 +39,7 @@ To access this advanced feature, open Bloom Settings, then:
 3. Please ensure you have ticked the box **Automatically Update Bloom**
 4. Click to **Restart** Bloom
 
-![](./1696093206.png)
+![](./spreadsheet-import-export.eb00c88c-4bb7-41d6-ba7b-ba48c7c07ebc.png)
 
 
 # 3. Exporting a book to a Spreadsheet {#81e60f28cc2c4c44addb3a3153ebada8}
@@ -48,7 +48,7 @@ To access this advanced feature, open Bloom Settings, then:
 2. Click **More**
 3. Click **Export to Spreadsheet**…
 
-![](./1913369858.png)
+![](./spreadsheet-import-export.c3682645-80f6-4a72-915a-b6d748b6e682.png)
 
 
 # 4. Importing a Spreadsheet into Bloom {#e9eeb69676084a158f4facc492136401}
@@ -63,7 +63,7 @@ You can also into a spreadsheet into a new blank book. In this case, however, th
 2. Click **More**
 3. Click **Import Content from Spreadsheet**…
 
-![](./739111849.png)
+![](./spreadsheet-import-export.26194fc6-6efb-4d6e-b170-bf5ed274a487.png)
 
 
 A progress dialogue will appear. Note, a backup of your original book will be placed in a temporary folder in case there is a problem. 
@@ -90,7 +90,7 @@ The rows and columns that are hidden from view should generally _not_ be edited 
 Generally speaking, the rows of the spreadsheet progress through the translatable pages of the book, while the columns contain the content of the corresponding pages in various languages. 
 
 
-![](./1479757622.png)
+![](./spreadsheet-import-export.981f1408-1f0a-4e82-95f2-07eb01592727.png)
 
 
 By default, the following are hidden;

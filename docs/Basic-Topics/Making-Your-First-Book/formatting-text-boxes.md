@@ -6,15 +6,27 @@ slug: /formatting-text-boxes
 
 
 
-Bloom lets you control the formatting for text boxes.
+Bloom lets you control the formatting for text boxes on basic book pages.
 
-1. Click the `Change Layout` button at the **top right-hand corner** of a page.
+
+:::note
+
+Note: You can NOT change the layout for these types of pages:
+- Front or Back Cover pages
+
+- Title or Credits page
+
+:::
+
+
+
+1. Click the `Change Layout` toggle switch at the **top right-hand corner** of a page.
 	1. Bloom will make any text in the text box gray, and show a **gray gear icon** ⚙ in the center of the text box.
 2. Click the **gray gear icon** ⚙ to show the _Text Box Properties_ dialog box.
 3. Make whatever changes you like to the text box settings.
-4. Click the `Change Layout` button to return to editing the page.
+4. Click the `Change Layout` toggle switch to return to editing the page.
 
-![](./48777320.gif)
+![](./formatting-text-boxes.e7393508-9e5e-4201-8c40-9d67d8f9f6b8.gif)
 
 
 The _Text Box Properties_ dialog box has three separate tabs:
@@ -23,7 +35,7 @@ The _Text Box Properties_ dialog box has three separate tabs:
 - 
 - 
 
-We’ll look at each one below. 
+We’ll look at each one below.
 
 
 ## Text Box Language Settings {#6bc31bd14abe4b5ebbae22534bdb24e2}
@@ -32,7 +44,7 @@ We’ll look at each one below.
 Every text box in Bloom is labeled as belonging to a certain language. When you are editing a book in Bloom Editor, Bloom indicates the language of each text box with a light grey “language tag” located in the bottom right of each text box.
 
 
-![](./2035123588.png)
+![](./formatting-text-boxes.bd558f32-805e-4cd3-905a-9125affa45e0.png)
 
 
 When you are making books in Bloom, it is _very_ important that these language tags accurately correspond to the actual language written within each text box.
@@ -59,13 +71,13 @@ If you want a text box to **always** be in a specific language, you can do that 
 1. Click the `Change Layout` button at the **top right-hand corner** of a page.
 2. Click the **gray gear icon** ⚙ in the center of the text box that you want to edit.
 
-	![](./1736840819.png)
+	![](./formatting-text-boxes.3ae72d8b-f4f4-4936-afe6-8fe3f195a197.png)
 
 3. Choose **Normal** to let this field be controlled by the language settings in the Collection settings.
 	1. (Note: This is distinct from the “Normal” [text style](/formatting-text-styles#feb4fb1700e64099b661c721f9195918): this setting in the Language tab will say “Normal” even if you have the text box set to a different style.)
 4. If you want this text box to always display a certain language, choose Language 1, Language 2, or Language 3. (These are the same languages that are listed in the Collection settings.)
 
-	![](./1394361731.png)
+	![](./formatting-text-boxes.43bb99e3-89f3-40e8-b328-171b5008eb1a.png)
 
 
 ## The Alignment tab {#39af07a9fdfb450d9052eb7789bd2f74}
@@ -78,13 +90,13 @@ You can set text to **align vertically** within the text box.
 3. Click the **Alignment tab**.
 4. Choose one of the vertical alignments: `top`, `centered`, or `bottom`.
 
-![](./486231171.png)
+![](./formatting-text-boxes.29b337db-e198-41b7-8778-4660f251693d.png)
 
 
 :::tip
 
 The “Picture on Left” page layout uses **vertical centering** by default.
-![](./847639524.png)
+![](./formatting-text-boxes.cb4552e0-1a81-4640-ae6c-df6e1dc9be90.png)
 
 :::
 
@@ -104,5 +116,5 @@ The **Borders & Background** tab allows you to put a black or grey border around
 5. **Background:** select whether the text box will have **no background color**, or a **gray background**.
 6. **Border Sides:** choose which **sides** (if any) of your text box will have a border.
 
-	![](./1807451341.png)
+	![](./formatting-text-boxes.515f02ab-f608-4f8b-9d65-9fc52ca8d2ee.png)
 

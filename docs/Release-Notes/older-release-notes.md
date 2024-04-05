@@ -22,7 +22,7 @@ keywords: [Release Notes]
 When you upload a book, Bloom checks to see if there is already a book with the same internal ID on the library. If it finds one, it now gives you two choices. You can replace the existing book or upload your book as a new item. The latter option fixes your book’s ID to be unique.
 
 
-![](./290243588.png)
+![](./older-release-notes.8f327d20-c1aa-441b-bedd-d8783607e824.png)
 
 
 ## Team Collections (Bloom Enterprise, Experimental) {#a4bd8a1610684019a565eee6e2889090}
@@ -31,19 +31,19 @@ When you upload a book, Bloom checks to see if there is already a book with the 
 ⭐ When you check in a book, you can now type in a short note saying what you did.
 
 
-![](./1353712337.png)
+![](./older-release-notes.23fdc612-b486-4647-9229-40aa6d48c1b4.png)
 
 
 ⭐ Bloom now lists check-in notes and other operations in the collection’s history panel.
 
 
-![](./1694002585.png)
+![](./older-release-notes.8d24baef-7b28-4b91-944c-d4654c75b44c.png)
 
 
 ⭐ Team administrators can now force-unlock a book that has someone else has left checked out. This feature is helpful when a computer is lost or when the teammate who checked out the book cannot check it back in for any other reason.
 
 
-![](./1804771089.png)
+![](./older-release-notes.06c301af-e6e4-40fe-82d3-0ee6379ac6f4.png)
 
 
 ## ⭐ Export / Import Spreadsheet (Bloom Enterprise, Experimental) {#63f3b0f127ab4c92afa51bcdbd74a588}
@@ -55,7 +55,7 @@ When you upload a book, Bloom checks to see if there is already a book with the 
 You can now export a Bloom book to Excel spreadsheet format in a way that preserves text and images. (Satisfies this [Feature Request](https://community.software.sil.org/t/ability-to-export-source-text/5451))
 
 
-![](./1666871101.png)
+![](./older-release-notes.1ee0a7d0-26fa-4283-a8f1-5f957b331b07.png)
 
 
 Note that there are currently several things that Bloom does not export: Talking Book audio, Music, Video, Activities.
@@ -91,7 +91,7 @@ To enable Spreadsheet Import/Export, tick the box under `Collection Settings / A
 As the next phase of our multi-year effort to modernize the Bloom code base, we have completely rewritten the left-hand side of the Collection Tab using Web technologies. This has been a _very large_ undertaking, so we’re making it available as an experimental feature for Bloom 5.2 to give us all more time to test it. With this new interface, Team Collections get nice avatar images of their teammates over books they have checked out:
 
 
-![](./577526039.png)
+![](./older-release-notes.8774f40a-18d6-4db8-870b-61b60ad94236.png)
 
 
 Books with badges showing who has them checked out
@@ -160,7 +160,7 @@ Team Collections are a new feature that helps you safely share a collection with
 People will be naturally resistant to installing Dropbox. There are two things that may help them. First, once Dropbox is set up, you will not have to actually learn to use Dropbox, as it just sits in the background for Bloom to use, invisibly. Second, we are starting with Dropbox support because it is far superior to Google Drive in one crucial way: when you make a small change to a book, Dropbox will send just a small amount of data over the internet to your teammates. In contrast, Google Drive will send the entire book: all the text, images, recordings, videos, activities, etc. Because we want this feature to work well in environments with slow or expensive internet, we, therefore, decided to put our initial efforts into supporting Dropbox. In the near future, we will attempt to make Google Drive an option for teams with great internet.
 
 
-![](./1411806571.png)
+![](./older-release-notes.4e7fc34a-c7a0-4053-85e0-719630feb2d5.png)
 
 
 Team Collections debuted in Bloom 5.0 beta. For 5.1, we have added a few small features:
@@ -169,22 +169,22 @@ Team Collections debuted in Bloom 5.0 beta. For 5.1, we have added a few small f
 ⭐We added a basic History tab to the Team Collection dialog. It currently only tells you the history of check-ins (who edited the book, when). We will be adding more history in future versions.
 
 
-![](./333504556.jpg)
+![](./older-release-notes.effd794d-304e-4ec3-b265-913c2f1075c2.jpg)
 
 
 We added a little informational menu option that provides information about the name and “avatar” (picture) associated with books you check out. The dialog also provides links for changing (or setting) the avatar and name.
 
 
-![](./1874024501.jpg)
+![](./older-release-notes.e0de90a7-2349-4d3b-b5a0-b6aaac949131.jpg)
 
 
-![](./1387748392.png)
+![](./older-release-notes.0bbd6955-514d-472d-8de3-7c6fa09cddb0.png)
 
 
 ⭐You can now “Forget Changes & Check in Book” if you decide to abandon the changes you’ve made to a book since you checked it out.
 
 
-![](./1260531280.png)
+![](./older-release-notes.d3564742-9843-4a17-8f45-3e408227ec1e.png)
 
 
 ### Images {#b595689ddb5b444f8a006bcafb638a89}
@@ -202,13 +202,13 @@ When Bloom has trouble loading an image and you send us an error report, we now 
 We added a new tool for making it easy to create a BloomPUB of every book in a collection, with a single command. (Bloom Enterprise)
 
 
-![](./248914323.png)
+![](./older-release-notes.d28795af-1ffc-459f-b029-ad7bfc6642af.png)
 
 
 You can now also upload an entire collection or even multiple collections to the Bloom Library. (Bloom Enterprise)
 
 
-![](./498553567.png)
+![](./older-release-notes.bf4574ae-2ee6-49a2-a1b0-d39bca2d610d.png)
 
 
 ## Bloom Library {#843c55e4736b416f8d19af528fa2220d}
@@ -223,7 +223,7 @@ We added the ability for a project to list its sponsors at the bottom of the pag
 We added a new page selector for Bloom Player, the engine that powers book reading in Bloom Reader, BloomLibrary.org, and embedded Reading App Builder books.
 
 
-![](./1361491915.png)
+![](./older-release-notes.f5ab055f-a1f9-44bd-86f9-665369e18145.png)
 
 
 ## Other Good Stuff {#7805422b888141989091e2d74847e899}
@@ -253,7 +253,7 @@ We made hovering over a book thumbnail show the folder name of the book. This is
 In collection settings, Bloom Enterprise projects that have bookshelves on Bloom Library can now choose the bookshelf that corresponds to the collection. Then when books are uploaded to BloomLibrary.org, they automatically go to the correct bookshelf. This setting also can now be used to automatically choose a back-cover image to show where the book fits in the overall curriculum and choose a cover color based on the grade (this is used for a large MOE project in Kyrgyzstan).
 
 
-![](./1902830761.png)
+![](./older-release-notes.2e4a3bb7-bd4f-450e-9c72-f17fa471dfd1.png)
 
 
 ## Edit Tab {#8b1ea1b1c6a442a8a3ef53a890c33736}
@@ -271,7 +271,7 @@ The Comic Tool is now the “Overlay Tool”. We made this change because this t
 ⭐You can now control the transparency of overlayed text elements and make corners round. You can also show a line that you can use to point to something in a diagram:
 
 
-![](./2045011375.png)
+![](./older-release-notes.a651b6ed-44f4-4240-acdd-29e21e0990d2.png)
 
 
 ⭐You can now make circle text elements. [Feature Request](https://community.software.sil.org/t/circular-comic-captions/3121)
@@ -292,7 +292,7 @@ We’ve made it easier to add HTML5 widgets from [Active Presenter](https://atom
 There is now a “Widget Page” that gives you a full-screen page to host your html5 interactive widgets. (Widgets are part of Bloom Enterprise).
 
 
-![](./1227934907.png)
+![](./older-release-notes.06a29c0c-0ed9-453b-be03-056b9d4d704f.png)
 
 
 ### Leveled Reader {#e54292d592f648f3b128d2523a6458e3}
@@ -322,10 +322,10 @@ Text on Simple Quiz pages is no longer counted when computing whole-book statist
 Recently we spent weeks improving Bloom’s ability to deal with large books and long Bloom sessions without running out of memory. As part of that effort, we’ve added a tool for watching what happens to available memory and speed as Bloom does various things. This is mostly for our own use, but it’s also available to you, in case you suspect that Bloom is eating memory or slowing down as you use it.
 
 
-![](./1223989195.png)
+![](./older-release-notes.fa379d35-b8d1-4d4f-8f40-c6cb569cc888.png)
 
 
-![](./257371461.png)
+![](./older-release-notes.0ad19a2a-507c-4099-9064-3f9036af1487.png)
 
 
 ## BloomLibrary.org {#6063ef811ea94bc89f311047208bd70f}
@@ -337,10 +337,10 @@ When you download books from BloomLibrary.org that have audio, Bloom will now do
 We’ve improved what you see when you look at [template books on BloomLibrary.org](https://bloomlibrary.org/create/create-templates). It is now easier to understand what the template pages are for:
 
 
-![](./1419664420.png)
+![](./older-release-notes.479ba2dd-32f1-448d-b195-bac230bd8bc6.png)
 
 
-![](./1223995595.png)
+![](./older-release-notes.d6f72e28-4e79-451f-a5d3-31f8cf2e4b5c.png)
 
 
 # 4.9 {#2dab991be0924600b15056df087bb940}

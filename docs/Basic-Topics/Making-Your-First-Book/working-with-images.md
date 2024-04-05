@@ -34,7 +34,7 @@ The placeholder image is never printed in the published form of a book. If you d
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1998336499.png)
+![](./working-with-images.21d499b7-8808-487f-91cf-17f5d622946f.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -75,7 +75,7 @@ You can invoke the Image Toolbox by clicking the Change Image button even if you
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./944341938.png)
+![](./working-with-images.0ea44320-24e1-419d-90ce-3ec44565af50.png)
 
 
 
@@ -89,7 +89,7 @@ You can invoke the Image Toolbox by clicking the Change Image button even if you
 The Image Toolbox gives you several methods for inserting images. 
 
 
-![](./1362747431.png)
+![](./working-with-images.829433e3-0a06-4724-9b2e-0efe544a795d.png)
 
 
 | **❶** | **Image Galleries** are searchable collections of images in a special format that Bloom understands. You can install the free _Art of Reading_ collection from SIL International, or you may have another image collection available to you.  |
@@ -125,7 +125,7 @@ In this section, we will demonstrate how to add an image from the free **Art of 
 5. **Select an image** from the results returned.
 6. Click **`OK`** to insert the image into your book.
 
-![](./1829009832.png)
+![](./working-with-images.9b444e56-1b21-4ac8-a663-6a3b481fa786.png)
 
 
 <div class='notion-row'>
@@ -141,7 +141,7 @@ Bloom automatically changes the size of the image so that it fills up the box wh
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1350794278.png)
+![](./working-with-images.1e41838c-9826-4c77-b47e-5ad624aa7ee8.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -173,15 +173,15 @@ You can use the Image Toolbox to browse to any location on your computer where a
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./1504301912.png)
+![](./working-with-images.fecd432b-bddb-42d5-8d68-a1204bad2614.png)
 
 
 
-![](./909562260.png)
+![](./working-with-images.09e7868e-209d-4a19-807c-ac7154346b74.png)
 
 
 
-![](./313674964.png)
+![](./working-with-images.911db9b1-7a82-4b77-b6fc-9454e5395792.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -194,7 +194,7 @@ You can use the Image Toolbox to browse to any location on your computer where a
 When you place your cursor over an image, three buttons appear in the corners of the **image container** (the box on the page that holds the image). 
 
 
-![](./1912188804.png)
+![](./working-with-images.48920792-074f-4c26-bdd6-1f11c7e8d421.png)
 
 
 | **❶** | **Upper left corner:** **`Edit Image Credits, Copyright, & License`**. Clicking this will open the image copyright and license dialog box (see [Including copyright and license information for images](/working-with-images#2247254aae9d456b9867c70031438bcc) below).  |
@@ -217,7 +217,7 @@ The last three buttons are combined in one block in the lower right corner:
 After you insert an image into a page, Bloom can show you a panel of information about the picture and the image container it fills. To see the image information panel, hover your mouse over the image. 
 
 
-![](./844033991.png)
+![](./working-with-images.79b8e519-4e8a-4ce1-9a37-06f28363a848.png)
 
 
 | **❶** | **Information about the image:** its filename, disk size, and dimensions.                                                                                                                                                                                                                                                                                                       |
@@ -257,7 +257,7 @@ Bloom helps you choose a consistent size for the image box by making it easy to 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 
-![](./2105964401.gif)
+![](./working-with-images.18e37cee-e833-4957-8153-8877198255f3.gif)
 
 
 </div><div className='notion-spacer'></div>
@@ -293,7 +293,7 @@ Bloom does not provide any other tools for editing images. If you need to edit y
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./288776994.png)
+![](./working-with-images.dd88ccc1-dc81-4f41-8cd0-db5ce719c92b.png)
 
 
 
@@ -321,14 +321,14 @@ For more information on copyright and licensing, see [Permission to Publish](htt
 If an image does not have copyright and licensing information, Bloom will show a red question mark in the image's upper left-hand corner. 
 
 
-![](./109298361.png)
+![](./working-with-images.6f560f47-c864-4ecc-9a6f-e643d7f74847.png)
 
 
 To add copyright and license information to an image, do the following: 
 
 1. Hover your mouse over the **red question mark ❓**. Then click on the **green button** that appears. Bloom will show you the _Copyright and License_ dialog box.
 
-	![](./1199510042.png)
+	![](./working-with-images.ffdc515f-a515-4a1d-b6b6-61b4513c6452.png)
 
 
 	:::note
@@ -344,7 +344,7 @@ To add copyright and license information to an image, do the following:
 4. Click on the **`LICENSE`** tab and fill in the license information. (This is optional: Bloom adds a Creative Commons CC-BY license by default.)
 5. Click **`OK`** to add the information to your image.
 
-![](./1834753857.png)
+![](./working-with-images.81d881a1-9330-4405-86f8-0c7f31bb1c9a.png)
 
 
 <div class='notion-row'>
@@ -359,7 +359,7 @@ Bloom will ask you if you want to apply the same copyright and license informati
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./669067253.png)
+![](./working-with-images.ba186003-b334-449b-a1a5-28786b790cf1.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -376,5 +376,5 @@ You can easily add a summary of the copyright and license information for all th
 3. Click on the **`Paste Image Credits`** link.
 4. Bloom will gather the image credit information you have provided for all the images in the book and put it in this box in summary form.
 
-![](./1704725658.png)
+![](./working-with-images.2a8209ae-ad4e-456c-96e6-56ca31a2e106.png)
 

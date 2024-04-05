@@ -31,7 +31,7 @@ The [Bloom Community Forum](https://community.software.sil.org/c/bloom/5) is the
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1069721348.png)
+![](./forum.33d250db-0808-47fb-8925-def8e49d2031.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -53,7 +53,7 @@ The [Bloom Community Forum](https://community.software.sil.org/c/bloom/5) is the
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./600036027.png)
+![](./forum.acb64f8f-23f7-4fde-8b99-6354b17e9916.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -68,5 +68,5 @@ Finally, in order to get emails of announcements and discussions:
 1. Click on the **bell** icon
 2. Select **“Watching”**
 
-![](./1952105052.png)
+![](./forum.66a14672-3d96-4797-9232-6b865e5471f4.png)
 

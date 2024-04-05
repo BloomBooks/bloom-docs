@@ -31,7 +31,7 @@ Bloom has two methods for recording audio narration for a book: **by sentence** 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1002154726.png)
+![](./installing-aeneas.03ed04c6-1eab-4b02-a751-b22ed2ebea95.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -55,7 +55,7 @@ To enable recording by text box, tick the check box that says **Record by whole 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1160559479.png)
+![](./installing-aeneas.694ea562-7668-491a-af7e-ee2f43bb5488.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -74,7 +74,7 @@ If you do not have the aeneas software package installed on your computer, Bloom
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./2231245.png)
+![](./installing-aeneas.21e364e8-fcd0-40e7-a492-826e5a33b22a.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -95,7 +95,7 @@ If you do not have the aeneas software package installed on your computer, Bloom
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./929714417.png)
+![](./installing-aeneas.ce6b3d2a-23ef-4283-a4d7-ce313fc8831c.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -114,7 +114,7 @@ The aeneas tools setup wizard will start.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./78045525.png)
+![](./installing-aeneas.7c056bf8-4cfb-4977-a3e2-eadef8604d39.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -131,7 +131,7 @@ The aeneas tools setup wizard will start.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./2145079537.png)
+![](./installing-aeneas.c83a3c34-8880-4bf9-8264-a04cca2d21d0.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -148,11 +148,11 @@ The aeneas tools setup wizard will start.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1431606412.png)
+![](./installing-aeneas.54bac4f2-16b0-497c-8e65-0cab45e3fcf9.png)
 
 
 
-![](./1110641972.png)
+![](./installing-aeneas.6b04800f-c0bb-4ff8-8bec-e23e8852f5db.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -171,7 +171,7 @@ Eventually, you will see a “Completing the aeneas tools Setup Wizard” screen
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./86068752.png)
+![](./installing-aeneas.9e46ee10-2a24-4453-963c-c0e883109d9a.png)
 
 
 </div><div className='notion-spacer'></div>

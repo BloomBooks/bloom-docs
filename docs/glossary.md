@@ -26,7 +26,7 @@ This page is a work in progress.
 One example in Bloom where a right-click is needed is when you want to Duplicate or Delete a Book. To access these commands in Bloom, you need to right-click on the book’s thumbnail. Doing so will reveal these commands (and others).
 
 
-![](./2142947944.png)
+![](./glossary.9f898f79-0c63-4a62-a5f3-2429336bac03.png)
 
 
 ## Shell Book {#a9855df550204e1caffc0d245164ab11}
@@ -47,7 +47,7 @@ The Bloom Editor is designed to work well with Shell Books.
 When you explore Bloom Library and you see a book that you like, there is a very high chance that you will see a button like this:
 
 
-![](./1204430029.png)
+![](./glossary.9461d252-d7c7-4b07-a10c-dc8ce434c0a1.png)
 
 
 This button means this is a Shell Book and can be translated into your language. 
@@ -56,11 +56,11 @@ This button means this is a Shell Book and can be translated into your language.
 When you click on this button, the shell book will be downloaded into the Bloom Editor. Once it is downloaded, you can choose to make a new book from that shell book by clicking the button “MAKE A BOOK USING THIS SOURCE”:
 
 
-![](./319832590.png)
+![](./glossary.b831f9f9-b48d-4ae0-ba50-47bc257a0e2e.png)
 
 
 On each page of this shell book, you will see the original text in some majority language (the example below has English), as well as an empty space for you to type in your translation:
 
 
-![](./1771206510.png)
+![](./glossary.e44a1633-7cee-4f92-8288-52f556ce17c7.png)
 

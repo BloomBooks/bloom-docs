@@ -17,7 +17,7 @@ Chetana, for example, is an active user of Bloom. Most of their original titles 
 Here is a sampling of [Chetana’s home page](https://bloomlibrary.org/chetana) on Bloom:
 
 
-![](./1271721441.png)
+![](./adaptations.40424d67-1249-49bd-852d-aae821be5fdd.png)
 
 
 In the following, we will present the steps for setting up the Bloom Collections for the Chetana project.
@@ -31,7 +31,7 @@ After your “parent” collection is established and you are ready to start mak
 1. **In the bottom left quadrant of Bloom, scroll to the bottom of the screen.**
 2. **Click on** **SHOW ANOTHER COLLECTION…**
 
-![](./1367602357.png)
+![](./adaptations.433b35a4-f0f5-4697-89f1-692d6bd1dc77.png)
 
 
 Bloom will open **Windows Explorer** to the Bloom folder. There you will find all of your Bloom collections.
@@ -40,7 +40,7 @@ Bloom will open **Windows Explorer** to the Bloom folder. There you will find al
 2. **Find the file ending with** **`.bloomCollection`** **and click on it.**
 3. **Click** **Open****.**
 
-![](./204384334.png)
+![](./adaptations.120a8909-09e6-47bb-95a3-d7376ddab83f.png)
 
 
 Your chosen “parent” collection will now appear in the bottom left quadrant under **Sources For New Books**. It will be listed after the section **Books From BloomLibrary.org**. 
@@ -55,7 +55,7 @@ To make an adaptation of one of your books:
 2. **Select the book.**
 3. **Click** **MAKE A BOOK USING THIS SOURCE**.
 
-![](./193378309.png)
+![](./adaptations.21c2f879-c8e8-4a50-8446-08d3dadb6911.png)
 
 
 :::tip
@@ -100,19 +100,19 @@ Once a collection of original titles are ready to be translated, Bloom does offe
 Click the arrow beside your collection name:
 
 
-![](./1662008181.png)
+![](./adaptations.805385b1-671e-43c9-84aa-2e3f90cb3080.png)
 
 
 And then choose **Make Bloom Pack of Shell Books…**
 
 
-![](./1575640529.png)
+![](./adaptations.06bcf2fa-65e1-4b3b-8e48-44a4e6c20941.png)
 
 
 Distribute the `.BloomPack` file to your colleagues to copy to their computer. They should then click on that file. Bloom will then install that Source collection on their computer.
 
 
-![](./877570578.png)
+![](./adaptations.b5083022-12d6-4f85-a009-30c09029f668.png)
 
 
 Once installed, that collection will appear in the Source For New Shells section, and they can begin the translation process.

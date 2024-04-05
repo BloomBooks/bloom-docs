@@ -26,7 +26,7 @@ There are two bad habits that violate best practices:
 ## Using Spaces to Center or Indent Text {#78392b559be3468ca66edc6b5b128560}
 
 
-![](./1329966447.png)
+![](./bloom-editor-best-practices.97b360ea-59c9-4902-a67e-bbfd05b58498.png)
 
 
 Often users need to center text or indent the first line of a paragraph. Bloom provides a way to do this, but new users sometimes miss this and attempt to center or indent text using spaces. 
@@ -41,7 +41,7 @@ The trouble with this approach is that doing any of the following will cause the
 For example, increasing the font size results in the text shifting to the right making it no longer fit on one line:
 
 
-![](./1095565929.png)
+![](./bloom-editor-best-practices.9555bb0a-79c1-4264-87f9-2def23ff6ab6.png)
 
 
 Likewise, changing the paper size will break the perfect centeredness of the text.
@@ -50,7 +50,7 @@ Likewise, changing the paper size will break the perfect centeredness of the tex
 Also, if you upload your book to Bloom Library and then later someone downloads the book in order to translate it into their language, the translation bubble will retain those spaces:
 
 
-![](./630195828.png)
+![](./bloom-editor-best-practices.40a5c4e1-55eb-4386-9d40-5806b99b633e.png)
 
 
 This could be confusing for people.
@@ -65,7 +65,7 @@ Conclusion: Do not use spaces to center text or to indent text.  Instead, use a 
 
 
 
-![](./2022340528.png)
+![](./bloom-editor-best-practices.7becff2e-8b11-4f94-b801-c0aeee2b9eb4.png)
 
 
 ## Formatting the entire text box using _character_ formatting instead of using a style {#db922f79470c42baa2dc8fa8d06e427b}
@@ -74,13 +74,13 @@ Conclusion: Do not use spaces to center text or to indent text.  Instead, use a 
 Bloom allows you to select certain words in a text box and make them bold, italic etc.. This is useful for highlighting particular words, e.g.: 
 
 
-![](./837725460.png)
+![](./bloom-editor-best-practices.9f4b6d93-cc9f-401b-b654-5023cdd98190.png)
 
 
 But if want an entire text box to be (say) Bold, you should set that formatting using the text box style, e.g.:
 
 
-![](./893089497.png)
+![](./bloom-editor-best-practices.52e4406e-2f17-475e-af50-a0e5d8d7f48b.png)
 
 
 :::tip
@@ -95,7 +95,7 @@ Key principle: use character formatting to highlight particular words or phrases
 If you need a new Style for a text box, Bloom provides a simple way to create one:
 
 
-![](./409758586.gif)
+![](./bloom-editor-best-practices.c68603ab-be1d-440d-b3d0-49a041b516d4.gif)
 
 
 ## Accurate Language Tagging {#2adf286cde6349c18b2445cef0e96a9e}
@@ -113,7 +113,7 @@ Key principle: the actual text typed in any text box needs to accurately corresp
 When you are editing a book in Bloom Editor, Bloom indicates the language which should go in each text box using a light grey “language tag” located in the bottom right of each text box:
 
 
-![](./2096481155.png)
+![](./bloom-editor-best-practices.ef8dae53-f98d-4f13-9823-04eec27fd104.png)
 
 
 When you are making books in Bloom, it is _very_ important that these language tags _accurately_ correspond to the actual language written contained within each text box. 
@@ -125,13 +125,13 @@ If you are simply printing your book, then having inaccurate language tagging wi
 However, if you want your book to participate in Bloom’s “ecosystem”, i.e. the Bloom Platform, then accurate language tagging is absolutely crucial so that books on Bloom Library can be found in the correct language category:
 
 
-![](./1689979575.png)
+![](./bloom-editor-best-practices.302e4df0-62d1-44f9-8ab8-699335877406.png)
 
 
 In addition, if someone downloads the book to translate it into another language, the language displayed in the “translation bubble” is also accurate:
 
 
-![](./1672424362.png)
+![](./bloom-editor-best-practices.3b5f879f-f1f8-4a84-9db0-c9074d20e584.png)
 
 
 Typically, this won’t be a problem since whatever language you specified as your main language will also be the same one used for any text box your add to your book.
@@ -140,13 +140,13 @@ Typically, this won’t be a problem since whatever language you specified as yo
 Where the need does arise to pay attention to accurate language tagging is you are making a bilingual or trilingual book. Now, typically, when you specify you want to show two or three languages in your book, Bloom will show the 2 or 3 languages _stacked_ one upon each other like this example:
 
 
-![](./2070825830.png)
+![](./bloom-editor-best-practices.a7ff03c1-8743-4c32-a9f3-8bf1f8c7f954.png)
 
 
 But you may wish to deviate from the above “stacked” orientation for your bilingual (or trilingual) book. For example, you might want a layout that has one language on the left, and another on the right:
 
 
-![](./1311532285.png)
+![](./bloom-editor-best-practices.c5a05938-c278-48d7-954c-3476a0483b98.png)
 
 
 To achieve this specialized layout like the above, you will (1) slide the Change Layout slider across, (2) click on the gear icon of the text box, and (3) choose the desired language:
@@ -155,7 +155,7 @@ To achieve this specialized layout like the above, you will (1) slide the Change
  
 
 
-![](./2092903332.png)
+![](./bloom-editor-best-practices.446bdd30-288f-47f4-8f11-1f6fc9aefd15.png)
 
 
 ## Image Credits {#3cb0b242b33c4573b78eeefdbf5092e6}

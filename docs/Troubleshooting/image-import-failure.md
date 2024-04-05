@@ -9,7 +9,7 @@ slug: /image-import-failure
 If you try to import an image into your Bloom book but the image is _corrupt_, Bloom will show you an error message similar to this one:
 
 
-![](./696747852.png)
+![](./image-import-failure.9e9714fb-1040-4e7e-9af8-09201e0edb74.png)
 
 
 Any number of things could cause image corruption, but the most likely cause is that the image was downloaded from a dubious (unreliable) source on the internet. 

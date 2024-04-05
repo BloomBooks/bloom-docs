@@ -23,7 +23,7 @@ keywords: [Release Notes]
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./368682374.png)
+![](./release-notes-5-6.5e55a087-8ab5-4597-8c3c-764e1ed8169d.png)
 
 
 
@@ -45,7 +45,7 @@ keywords: [Release Notes]
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./747340239.png)
+![](./release-notes-5-6.9b72aadf-764e-4a76-89fa-cf8d26fbc823.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -57,7 +57,7 @@ keywords: [Release Notes]
 - You can now hold down Ctrl+Shift+space to see all “invisible” characters, such as non-breaking spaces.
 - We added a new Book Settings dialog. For now, it lets you control the maximum image size used in eBooks that you create from a book.  The default is HD, but you can shrink that or increase it up to 4k resolution. This setting affects BloomPUBs, ePUBs, and books when they are viewed on BloomLibrary.org.
 
-![](./1262207980.png)
+![](./release-notes-5-6.07c1ee1a-0149-41d7-9b21-557d13064f66.png)
 
 
 ## Team Collections  {#1ffc2657146a4019ac6a17bc5fefe2c7}
@@ -73,7 +73,7 @@ keywords: [Release Notes]
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./721143519.png)
+![](./release-notes-5-6.c1141e56-9825-4de6-8fd4-a0abe3ba5b42.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -100,7 +100,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./368082680.png)
+![](./release-notes-5-6.ff9ed93d-de9f-49f5-89f9-add34ee3cb16.png)
 
 
 
@@ -122,7 +122,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./2024340246.png)
+![](./release-notes-5-6.89f923a1-217c-4c1a-896e-bd32123604f4.png)
 
 
 
@@ -138,7 +138,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
 
-![](./737300697.png)
+![](./release-notes-5-6.5b4b7500-09ed-4d02-b266-b5cab2cd60b3.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -146,7 +146,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![](./1376326105.png)
+![](./release-notes-5-6.f5294fb9-779f-4858-a953-df45099b6424.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -163,7 +163,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./843966622.png)
+![](./release-notes-5-6.5e66fdf0-b264-4f30-9816-69eee773d9e0.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -181,7 +181,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1777735017.png)
+![](./release-notes-5-6.9ad9259b-5d08-485c-9c3f-9c0e0c793cd6.png)
 
 
 </div><div className='notion-spacer'></div>

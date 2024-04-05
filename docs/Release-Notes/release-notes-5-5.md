@@ -36,7 +36,7 @@ Starting with this version, Bloom does not work with Linux and Windows 7, 8, or 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./906504899.png)
+![](./release-notes-5-5.3d2861a2-c566-453a-87cd-e6aaaa879276.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -59,7 +59,7 @@ Starting with this version, Bloom does not work with Linux and Windows 7, 8, or 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./552360354.png)
+![](./release-notes-5-5.b0ac0504-69e9-4225-9870-2c16362237b8.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -76,7 +76,7 @@ Starting with this version, Bloom does not work with Linux and Windows 7, 8, or 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1731335791.png)
+![](./release-notes-5-5.e8222805-e27e-4639-a3be-c4520b1f058c.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -93,7 +93,7 @@ Starting with this version, Bloom does not work with Linux and Windows 7, 8, or 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./589860057.png)
+![](./release-notes-5-5.204a3607-f1dd-4b5f-b7a8-d6512fcfbc44.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -115,7 +115,7 @@ Starting with this version, Bloom does not work with Linux and Windows 7, 8, or 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1082030715.png)
+![](./release-notes-5-5.02ac2efe-379b-47d8-92b3-8e354512a250.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -132,7 +132,7 @@ Starting with this version, Bloom does not work with Linux and Windows 7, 8, or 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1836475877.png)
+![](./release-notes-5-5.0c0563bf-cfce-41e1-8f95-937f214cc579.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -190,11 +190,11 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./886328300.png)
+![](./release-notes-5-5.f9334a6e-7aa1-481f-9965-886005485515.png)
 
 
 
-![](./574158110.png)
+![](./release-notes-5-5.451a1cbb-6b82-4eb1-b36a-ba3e18f4bb64.png)
 
 
 
@@ -214,7 +214,7 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./889517787.png)
+![](./release-notes-5-5.3b2996e9-212b-444a-aa37-a5e76cf0272d.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -295,7 +295,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./147992031.png)
+![](./release-notes-5-5.21643337-2472-4888-bff6-673f9cef5a75.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -320,7 +320,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1709629312.png)
+![](./release-notes-5-5.43a1a6d4-0642-4fbb-bf4c-710c058ee8af.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -340,7 +340,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1358431497.png)
+![](./release-notes-5-5.48fb165f-d8b0-4efc-8cf3-2ccd2641d8bf.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -362,7 +362,7 @@ Note that for technical/cost reasons, this scrollbar actually takes up some of t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./394177586.png)
+![](./release-notes-5-5.62b65967-e199-404c-952f-bf18a3567450.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -395,7 +395,7 @@ Bloom’s default font has always been Andika New Basic (ANB), and before this v
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./709482134.png)
+![](./release-notes-5-5.54dd1361-995d-4aee-89ce-a701d01b8433.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -424,7 +424,7 @@ The _idea_ of "Source Collections" may have had merit, but in practice, too many
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./315900342.png)
+![](./release-notes-5-5.33266257-8a93-4602-a236-fa8cd0c296d9.png)
 
 
 </div><div className='notion-spacer'></div>

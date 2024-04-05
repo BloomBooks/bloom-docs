@@ -6,7 +6,7 @@ slug: /Creating-Accessible-Books
 
 
 
-![Recording a Talking Book alt text box](./1760295598.png)
+![Recording a Talking Book alt text box](./Creating-Accessible-Books.caae873b-543b-4de2-86b8-e103397e7a3c.png)
 
 
 ## Creating Accessible Books in Bloom {#84b69f618d77465ea850d78a72029ed9}
@@ -47,7 +47,7 @@ The toolbar will open. If the Image Description Tool is not listed at the top, c
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./2039978613.png)
+![](./Creating-Accessible-Books.eb2780f5-2f42-44e6-82bf-69b2e2e7cdc6.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -67,7 +67,7 @@ Then activate the **Image Description Tool** by clicking in the check box.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1.0625)'}}>
 
 
-![](./1869683335.png)
+![](./Creating-Accessible-Books.9f1e2b93-708f-4ac7-a06e-4a470ff835ac.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -90,7 +90,7 @@ Now that the Image Description Tool is open, a space will be created next to the
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./2056205524.png)
+![](./Creating-Accessible-Books.ee6bad90-5b77-4295-a92d-dddfcfbdf794.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -128,7 +128,7 @@ If needed, use the Next and Back button to change from one text box to another. 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./850996196.png)
+![](./Creating-Accessible-Books.01827797-e1aa-4a7a-add4-d7103bb8d6c2.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -153,7 +153,7 @@ Bloom allows you to record one sentence at a time, or to record the whole text b
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./1701967193.png)
+![](./Creating-Accessible-Books.54c6c1e8-1f0e-4a3c-9242-75a01164df2d.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -198,7 +198,7 @@ When you are ready to record, click on and hold down the **Speak** button and st
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./1830205513.png)
+![](./Creating-Accessible-Books.34072a3a-a0a3-4a4b-beca-26fbb0c3fae7.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -229,7 +229,7 @@ Activate this tool by clicking on More... in the Tool Panel and selecting Impair
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./2028270830.png)
+![](./Creating-Accessible-Books.f04d8fee-f9b1-482c-80a5-afae10ad9eb4.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -250,7 +250,7 @@ Using this tool, you can evaluate whether an image should be modified so that it
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./2083622234.png)
+![](./Creating-Accessible-Books.39054fed-e98a-4e32-8ac3-03cf67c15679.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -275,7 +275,7 @@ The first choice shows what the image might look like to someone with cataracts.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./938620240.png)
+![](./Creating-Accessible-Books.d718b9bb-8f42-46cb-8121-edea4f0ded66.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -297,7 +297,7 @@ For color blindness, there are three possibilities. The first shows what the ima
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./1435977174.png)
+![](./Creating-Accessible-Books.cdb158d7-f937-490f-85f4-54745636e28d.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -319,7 +319,7 @@ The second option shows what the image might look like to someone with blue-yell
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./305669585.png)
+![](./Creating-Accessible-Books.3d8d3f88-c10e-493c-8573-17a854055308.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -341,7 +341,7 @@ The third option shows what the image might look like to someone with complete c
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./1799625050.png)
+![](./Creating-Accessible-Books.f5b574dc-1fb0-4de2-a531-9d65bd7c7a78.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -382,7 +382,7 @@ For example, the Images with less detail on the left, rather than the images wit
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./711681117.png)
+![](./Creating-Accessible-Books.ee34412e-b450-49c3-8233-523e52af1182.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -401,7 +401,7 @@ Here are some additional examples of images with less detail on the left and mor
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./367766188.png)
+![](./Creating-Accessible-Books.f6cd5a28-7584-4f83-9b4a-fbeea83665fc.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -426,7 +426,7 @@ The images on the left have thicker, solid lines, and the images on the right ha
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./1473610249.png)
+![](./Creating-Accessible-Books.31b8f23c-8746-4aa4-8794-ae9fbe292858.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -445,7 +445,7 @@ Here are some additional examples of images with thicker, solid lines on the lef
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./418679652.png)
+![](./Creating-Accessible-Books.0ebb5bf9-cf93-4dae-99f6-70246f0bba55.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -470,7 +470,7 @@ The images on the left are simpler, while the ones on the right are more complex
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./431581502.png)
+![](./Creating-Accessible-Books.8b07aefc-fb31-4b19-8e1f-dc69b61d0037.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -489,7 +489,7 @@ Additional examples of simpler images on the left and more complex images on the
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./2115603098.png)
+![](./Creating-Accessible-Books.d9fff587-d7ea-41f9-9e4b-8421206e626e.png)
 
 
 </div><div className='notion-spacer'></div>

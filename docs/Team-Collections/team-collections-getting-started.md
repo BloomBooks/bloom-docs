@@ -105,7 +105,7 @@ If your project is funded entirely by a local community, you can enable Bloom En
 **Restart** Bloom ❸.
 
 
-![](./1179410017.png)
+![](./team-collections-getting-started.c13321e6-f4ab-4d7e-8b07-28dbd90a2f14.png)
 
 
 ### 2.3 Enable Team Collections {#06325dc8841a41ca951ef5c67281d42b}
@@ -120,7 +120,7 @@ Tick the **Team Collections** box ❹.
 **Restart** Bloom **❺**. 
 
 
-![](./2039122407.png)
+![](./team-collections-getting-started.e9b0c7a4-d685-463b-9b7b-1d1be4600d9b.png)
 
 
 ### 2.4 Create the Team Collection  {#4e59155062ed4f5ebde71045b8ed20c8}
@@ -135,7 +135,7 @@ After Bloom restarts, return to the Collection Settings. This time, you will see
 Click the **CREATE A TEAM COLLECTION** button **❻.**
 
 
-![](./276398341.png)
+![](./team-collections-getting-started.a1d76e15-540e-4a78-84d9-730a759703f3.png)
 
 
 Now Bloom will present another dialog box titled “Create a Team Collection”, with two sections.  
@@ -173,7 +173,7 @@ Next, take a moment to read and make sure you understand the three items in the 
 If you are satisfied that everything is correct, click **CREATE & RESTART** **❾**. 
 
 
-![](./1821166026.png)
+![](./team-collections-getting-started.6035d899-8d5d-42a4-b66a-19e86590d845.png)
 
 
 Bloom will create a special “shadow folder” in your shared Dropbox folder and begin to add the books in your Collection to it. Be aware that if your collection of books is very large, this may take some time.
@@ -182,7 +182,7 @@ Bloom will create a special “shadow folder” in your shared Dropbox folder an
 After Bloom has finished creating the cloud collection folder, Bloom will restart. Now you should see the Team Collection notice in the tab bar:
 
 
-![](./1131537463.png)
+![](./team-collections-getting-started.0c49b0ee-2dbc-45a8-b934-2e39051d8fdb.png)
 
 
 ## 3. The Administrator shares the Team Collection with the other team members {#fc32002511f04c6fad08415be980e85b}
@@ -191,7 +191,7 @@ After Bloom has finished creating the cloud collection folder, Bloom will restar
 For others to collaborate on your Team Collection, you need to share your Team Collection folders with them. You do this by sharing with them the synchronized folder that contains your cloud collection folder. Assuming you are using Dropbox on Windows, you can do this by [right-clicking ](/glossary#ed2779a32ce246d79050e7f2b39374d9)the team collection shadow folder _in Windows File Explorer_ (10a) and then clicking **Share…**. (10b).
 
 
-![](./782809012.png)
+![](./team-collections-getting-started.8e992e19-72f0-4bf8-adcd-1b087eda14c5.png)
 
 
 :::note
@@ -206,7 +206,7 @@ The [shadow collection folder](/team-collections-intro#013b2b088f3d4b98a03331c39
 :::note
 
 If you are using Windows 11, you will probably need to choose **Show more options** (10b) from the right-click context menu, then choose **Share…** (10c) from the larger menu. 
-![](./2019501647.png)
+![](./team-collections-getting-started.0f210856-44ca-46fc-b0b5-39c4f9699e73.png)
 
 :::
 
@@ -216,7 +216,7 @@ If you are using Windows 11, you will probably need to choose **Show more option
 Enter the email address of each person you want to invite. Make sure the recipient will have **editing** privileges for the folder. (This is the default setting.) You can also type an introductory message **(11)**. Then Click **Share** **(12)**. Each team member will receive an email notification from the Administrator about the shared folder. (If the recipient has the Dropbox app installed on their computer, there will also be a pop-up message.)
 
 
-![](./1357356141.png)
+![](./team-collections-getting-started.edec4266-613c-47b3-88fc-858d5bb74f9d.png)
 
 
 ## 4. Other team members join the Team Collection {#f2aa79dfaa414d9f8f188d1c7ef62e52}
@@ -229,7 +229,7 @@ To join a Team Collection, other team members do the following:
 	:::note
 	
 	If the user’s Bloom installation is not registered, he or she can register it by clicking the **Registration…** line under the Bloom Help menu (marked with a **(?)** icon).  
-	![](./1411203935.png)
+	![](./team-collections-getting-started.0d9dfb04-9d45-4580-869f-4ae2076edcbf.png)
 	
 	:::
 	
@@ -252,7 +252,7 @@ It is essential to double-click `Join this Team Collection.JoinBloomTC` **in Win
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./819152526.png)
+![](./team-collections-getting-started.a3e766ad-7161-44f9-a876-038fc5ff27d7.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -260,7 +260,7 @@ It is essential to double-click `Join this Team Collection.JoinBloomTC` **in Win
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1457207837.png)
+![](./team-collections-getting-started.b6411cd3-9da7-4531-9785-a7fa3d115495.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -276,19 +276,19 @@ The Administrator may have changed the name of the file, but it will still have 
 
 
 
-![](./1905124911.png)
+![](./team-collections-getting-started.03ca46be-0274-443d-900c-4909e14fbdf8.png)
 
 
 Next, Bloom will present a dialogue box allowing the user to join the team collection. Click **Join** **(14)****.**
 
 
-![](./1189174502.png)
+![](./team-collections-getting-started.b275b217-cdf3-411f-b09a-06bb803187a4.png)
 
 
 Next, Bloom will launch itself and copy the working files from the shadow directory into a new working directory.
 
 
-![](./1376068363.png)
+![](./team-collections-getting-started.2569a5e2-b7c6-46ba-a06a-134282f37ac7.png)
 
 
 :::note
@@ -296,7 +296,7 @@ Next, Bloom will launch itself and copy the working files from the shadow direct
 If the user already has a collection with the same name as the Team Collection, Bloom will present a dialogue box allowing the user to _Join and Merge_ the Team Collection_._ This action will cause this team member’s private collection to be merged with the Administrator's team collection. Note that during the merge process, the Administrator’s settings will overwrite the member’s collection settings.
 
 
-![](./678915175.png)
+![](./team-collections-getting-started.f471af6a-d103-41ef-82cb-604e0812eb7f.png)
 
 :::
 
@@ -306,7 +306,7 @@ If the user already has a collection with the same name as the Team Collection, 
 After Bloom has copied all the files into a working collection, Bloom will restart and open the new collection. All the team members should see the Team Collection badge in the toolbar. 
 
 
-![](./999881425.png)
+![](./team-collections-getting-started.bd72383d-2e14-4eb5-b878-bacfffe2b56e.png)
 
 
 ## What next?  {#c33b6d8a90f64a82aa6a83911a6d4e10}

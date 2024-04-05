@@ -25,7 +25,7 @@ To start the process, you must:
 2. Click the **`?`** in the top-right corner.
 3. Click **`Report a Problem`**.
 
-![](./535153799.png)
+![](./report-problem.d8c3674d-2351-4110-89c3-5d3e6f54df35.png)
 
 
 # Report the Problem {#bf297e526e6440b69c0788cd0bdf86e8}
@@ -39,7 +39,7 @@ Following this, the **Report a Problem** dialogue will appear.
 4. Ensure these **boxes are ticked.**
 5. Click **`Submit`**.
 
-![](./460702887.png)
+![](./report-problem.6560313b-5a69-4f53-beaf-7886dac0b742.png)
 
 
 Depending on the speed of your internet, and the size of your book, it may take some time to send your book to Bloom’s error-reporting system.
@@ -48,7 +48,7 @@ Depending on the speed of your internet, and the size of your book, it may take 
 Eventually, you will see a message like this:
 
 
-![](./1778190899.png)
+![](./report-problem.2aaaa866-a607-4a3f-8d9c-154dc945c9cd.png)
 
 
 You can close the message.
@@ -60,7 +60,7 @@ You can close the message.
 If you open your email program, you should see a message confirming that your error report was received by the Bloom team. The message will look something like this:
 
 
-![](./1002172445.png)
+![](./report-problem.8621b6bc-8cf8-488c-a9b5-e9c1d0cd10f1.png)
 
 
 If you do _not_ receive an email, there are two possible causes:

@@ -15,7 +15,7 @@ In a “customer interview,” Richard said
 # Summary {#b0e5acd8a00642c885a4608952bfd96b}
 
 
-![](./316840438.png)
+![](./br-analytics.c1d02cb6-1524-494c-8885-9eeede9c78c3.png)
 
 
 | **❶** | The analytics page opens with the **Overview** selected. For greater specificity, click on the arrow to access a dropdown list of other analytics for your organisation.  |
@@ -118,11 +118,11 @@ If the user is not connected to the internet, Bloom Reader will cache their even
 To prompt Bloom Reader to send all of its events _right now,_ open the menu:
 
 
-![](./475455318.png)
+![](./br-analytics.d1a0f157-98cf-4b9d-98e4-6484fc4b5db7.png)
 
 
 At the bottom of this screen, you will see Bloom Reader’s progress in sending the events:
 
 
-![](./383791442.png)
+![](./br-analytics.c0efd0ed-abb1-45b0-9158-1a2a64ddf92b.png)
 

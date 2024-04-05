@@ -2,20 +2,42 @@ project_id: "515854"
 api_token_env: SIL_BLOOM_DOCS_CROWDIN_TOKEN
 preserve_hierarchy: true
 files: [
-    # JSON site files
-    # - source: /i18n/en/**/*
-    #   translation: /i18n/%two_letters_code%/**/%original_file_name%
-    #   ignore:
-    #     - "/**/*.png"
-    #     - "/**/*.jpg"
-    #     - "/**/*.gif"
-    # Docs files
+    # docs files (not images)
     {
       "source": /docs/**/*.*,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%,
-      # doesn't skip untranslated parts of our MD files like we would expect: "skip_untranslated_strings": true,
+
+      # doesn't skip untranslated parts of MD files (https://support.crowdin.com/enterprise/project-settings/#export):
+      # [AP (Apr 2024): I'm not sure why we would want to do that for markdown anyway.]
+      # "skip_untranslated_strings": true,
+
+      # This only downloads completely translated files.
+      # i.e. It prevents displaying pages with some English and some translated content.
+      # Instead, the page will be completely in English.
+      # Note, a setting in the Crowdin UI for this project also requires strings to be approved.
       "skip_untranslated_files": true,
-      # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
+
+      # images are handled separately below.
+      # We don't want _category_.json files because those get localized via current.json.
       "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif", "**/_category_.json"],
+    },
+    # For all the image files, we can't set skip_untranslated_files to true or we won't get the source images
+    #  for cases where we don't have a localized image. And docusaurus will fail to build.
+    #  I suppose another option would be to handle the missing files locally by copying them from the source
+    #  directories. That would be more performant, too. But we just need to get this working for now.
+    # png files
+    {
+      "source": "/docs/**/*.png",
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%,
+    },
+    # jpg files
+    {
+      "source": "/docs/**/*.jpg",
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%,
+    },
+    # gif files
+    {
+      "source": "/docs/**/*.gif",
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%,
     },
   ]

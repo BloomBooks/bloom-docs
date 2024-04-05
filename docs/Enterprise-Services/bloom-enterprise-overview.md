@@ -51,7 +51,7 @@ Bloom Enterprise customers may also request custom covers and front-matter pages
 
 
 
-![](./439744059.png)
+![](./bloom-enterprise-overview.1a07485f-4edc-434b-8a8d-25c0b6ec5922.png)
 
 
 ## Overlay Tool {#c420f5ea3d97478998101e3c5b79aa8c}
@@ -60,7 +60,7 @@ Bloom Enterprise customers may also request custom covers and front-matter pages
 The **Overlay Tool** allows the user to place text, images, or video over a partial or full-page image. This allows more complex page layouts, including Digital and Paper Comic Book Templates.
 
 
-![](./796523994.png)
+![](./bloom-enterprise-overview.0bbe392d-37d9-41e6-ba58-6973fb2bcabd.png)
 
 
 ## Activity pages {#5014d1f2248e479787c21b45850417e8}
@@ -81,7 +81,7 @@ Bloom supports two kinds of **activity pages** in digital books: Comprehension Q
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1667521162.png)
+![](./bloom-enterprise-overview.5881d640-62fd-4abd-8f33-c9fbd4a98707.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -141,7 +141,7 @@ To view just one example of a Bloom book with a widget, click the link below and
 Enterprise customers can request a dedicated page on [bloomlibrary.org](http://bloomlibrary.org/) that features their books. The page can also feature a logo, a short blurb about the project or organization, and a link for more information. Bloom Library pages can also be embedded on your own website.
 
 
-![](./703657715.png)
+![](./bloom-enterprise-overview.8c54e673-e98a-4cde-9cdc-03a04a6fbedf.png)
 
 
 ## Uploading collections to Bloom Library {#9f527fedf9a54915bc595948fab91aae}
@@ -162,7 +162,7 @@ Bloom Enterprise users can upload all the books in a collection—or even severa
 Bloomlibrary.org collects anonymized analytics data from books read online, in Bloom Reader, or in other apps that use Bloom books. Enterprise customers can monitor the usage of their books through this dashboard, including reading activity, location data, and responses to comprehension questions. 
 
 
-![](./1797662949.png)
+![](./bloom-enterprise-overview.310cc17d-b0ed-4c52-b3dc-908de718709d.png)
 
 
 For an additional charge, customers can also be given access to the SQL database of analytic events for their collection for more detailed analysis or presentation.

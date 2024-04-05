@@ -21,7 +21,7 @@ When you do this action for the very first time, the “[Firewall](https://en.wi
 For example, Windows Defender Firewall will show the following alert:
 
 
-![](./131673066.png)
+![](./bloom-firewall.5a2a91d3-cecc-4ab9-a919-b42c267d2281.png)
 
 
 To allow Bloom to share books over Wi-Fi to devices (phones or tablets), you need to click the “Allow access” button. 

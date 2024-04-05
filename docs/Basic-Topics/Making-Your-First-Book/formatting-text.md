@@ -38,7 +38,7 @@ Bloom lets you easily make a character, word, or phrase **bold**, _italic_, <u>u
 	2. Put your cursor next to the portion of text you want to select, then **click and drag** the mouse over the text**.**
 2. When you select some text, six buttons will appear.
 
-	![](./802938539.png)
+	![](./formatting-text.d7a10e3b-114a-4869-9a89-2ccf4b564bb1.png)
 
 3. Click the **button** for the **formatting option** you want.
 
@@ -48,7 +48,7 @@ Bloom lets you easily make a character, word, or phrase **bold**, _italic_, <u>u
 The first three buttons are typical character formatting buttons. These buttons also have keyboard shortcuts.
 
 
-![](./1340320898.png)
+![](./formatting-text.25079d54-e1ae-419e-96ea-bdb8399908ba.png)
 
 
 | ❶ | Click the **B** button to make the text **bold**                   | `Ctrl + B` |
@@ -60,7 +60,7 @@ The first three buttons are typical character formatting buttons. These buttons 
 There are three additional buttons: 
 
 
-![](./774918726.png)
+![](./formatting-text.0769a8d4-10a8-4d06-a4ea-38e879cdea49.png)
 
 
 | ❹ | **Click the** **`A²`** **button** to make the text superscript. <br/>(Bloom does not currently provide a subscript option.) |

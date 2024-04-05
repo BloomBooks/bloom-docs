@@ -17,13 +17,13 @@ We will show you how to:
 ## Step 1: On the [CREATE](https://bloomlibrary.org/create) tab of Bloom Library, click [DOWNLOAD BLOOM](https://bloomlibrary.org/page/create/downloads) {#5881a5521a2f4c1abd978bf3a0681d76}
 
 
-![](./1025636758.png)
+![](./bloompub-viewer.b7e06c06-5ed7-45a9-a23a-3ae852ec9976.png)
 
 
 ## Step 2: Click the link for “[BloomPUB Viewer for Windows](https://github.com/BloomBooks/bloompub-viewer/releases)” under “Related Software” {#909fcd17fc7e4f84a2ee782d9c9b6d18}
 
 
-![](./1276478062.png)
+![](./bloompub-viewer.e3468326-b79e-4962-8522-db7faf4065ca.png)
 
 
 Your browser will open up a webpage on github.com. This page contains links to _all_ versions of the BloomPUB Viewer program (current and previous versions). 
@@ -32,7 +32,7 @@ Your browser will open up a webpage on github.com. This page contains links to _
 Typically, you will want to install the _latest_ version. The latest version will always be listed at the top of the page. It will be marked “**Latest**”:
 
 
-![](./952539402.png)
+![](./bloompub-viewer.fa55d1d0-d6c4-4acf-b544-efe24df17c2d.png)
 
 
 ## Step 3: Click the arrow beside “Assets” {#791db2e4af094ecaa6d9b3b6487f4ae1}
@@ -47,7 +47,7 @@ The arrow will change from ► to ▼.
 ## Step 4: Click on the very first setup file in the list {#e1266c95309a4153bc81a9dc7050788f}
 
 
-![](./108308895.png)
+![](./bloompub-viewer.22fdfa43-0b33-4de0-8635-aa60c64ce0b6.png)
 
 
 :::caution
@@ -62,7 +62,7 @@ Your browser may now present a File Explorer dialogue so you can Save the progra
 After the program has finished downloading, typically, it will show up at the bottom of your screen like this: 
 
 
-![](./867671182.png)
+![](./bloompub-viewer.458a633c-72db-4b32-aab2-e3f1dd23fa9b.png)
 
 
 In the picture above, the exclamation mark **`!`** is indicating that the installer program for BloomPUB Viewer is potentially dangerous. Remember, this is only because BloomPUB Viewer is not used by many people. The program is safe.
@@ -77,13 +77,13 @@ If your browser marked the BloomPUB Viewer installer as potentially dangerous, t
 To do so, click on the arrow beside the “Discard” button, and choose “Keep”:
 
 
-![](./169758570.png)
+![](./bloompub-viewer.7f0f3fe3-ed71-45bf-a805-36f33abad31e.png)
 
 
 Now, the downloaded program will now no longer show the red `!` mark:
 
 
-![](./186022396.png)
+![](./bloompub-viewer.32bfb140-b21c-4865-98b7-b558cd46a2a6.png)
 
 
 :::tip
@@ -122,7 +122,7 @@ Remember, if you download some other program which you are not 100% sure is a sa
 Since you know that “BloomPUB Viewer” is a safe program, you can click on “More info”:
 
 
-![](./316900518.png)
+![](./bloompub-viewer.7cca2517-a157-4acd-a011-f11898566854.png)
 
 
 ## Step 8: Click on “Run anyway” {#03ba8d156fc144ec9209027d313c26a8}
@@ -134,11 +134,11 @@ Windows Defender now shows an additional button, “Run anyway.”
 Click on this.
 
 
-![](./1251976739.png)
+![](./bloompub-viewer.7e28d5d2-33e4-4bb3-8688-bd39c70e50db.png)
 
 
 The program will now install and launch:
 
 
-![](./28645733.png)
+![](./bloompub-viewer.8559c64d-9125-44ea-86c0-75d7bbf47137.png)
 

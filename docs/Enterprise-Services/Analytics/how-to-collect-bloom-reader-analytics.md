@@ -21,7 +21,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 	1. Tap the menu item three times.
 4. The following form will then allow you to enter the project ID and device ID:
 
-	![](./791099226.png)
+	![](./how-to-collect-bloom-reader-analytics.72cfaca3-69c9-4f66-b2cb-de8a0b3d4282.png)
 
 5. Save.
 	1. You may change the IDs using this form, but the only way to remove them completely is to clear the app settings (from the Android settings) or uninstall.

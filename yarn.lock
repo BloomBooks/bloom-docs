@@ -1243,10 +1243,10 @@
   resolved "https://registry.yarnpkg.com/@colors/colors/-/colors-1.5.0.tgz#bb504579c1cae923e6576a4f5da43d25f97bdbd9"
   integrity sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==
 
-"@crowdin/cli@3.19.1":
-  version "3.19.1"
-  resolved "https://registry.yarnpkg.com/@crowdin/cli/-/cli-3.19.1.tgz#2c83889cc55ec64f02e22c62a86faa14addcce9f"
-  integrity sha512-Xmhl4FoDsRCFHjftC/Pl+Nlv/5dIdhWNNVK82OHTgAhfKq+9SpoSrUVf2e+zC4iOe5idsRtMvvQhBn2jYlgbJA==
+"@crowdin/cli@3.19.2":
+  version "3.19.2"
+  resolved "https://registry.yarnpkg.com/@crowdin/cli/-/cli-3.19.2.tgz#d81d85c78d7235c6c273bae72c93631dc0aedab6"
+  integrity sha512-eO/BFcLl2m96dRlEth3hsbbPJNsiTZaLqsAkot27eE4DS5+IpkV0NbcBgMsja+t0ugPAPYQ7Crc+AruO5ywvmg==
   dependencies:
     command-exists-promise "^2.0.2"
     node-fetch "2.7.0"
@@ -2053,10 +2053,10 @@
   resolved "https://registry.yarnpkg.com/@sideway/pinpoint/-/pinpoint-2.0.0.tgz#cff8ffadc372ad29fd3f78277aeb29e632cc70df"
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
-"@sillsdev/docu-notion@0.14.0-alpha.13":
-  version "0.14.0-alpha.13"
-  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.14.0-alpha.13.tgz#e570323bc7e8354924aa18d0219541487ea21efe"
-  integrity sha512-zCxsxRlH6R64cvdzKGVk4Vg+ZngjimaBUqvZLXXaiadb41jy5Y08b7P5aAoE4fQBLa8lrKBwm8cUogacK9x1vA==
+"@sillsdev/docu-notion@0.14.0-alpha.15":
+  version "0.14.0-alpha.15"
+  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.14.0-alpha.15.tgz#b43fae186a986ca43c16b616fdf79e97972eee5d"
+  integrity sha512-CHCtXiU9cJu0JvQSq4U4mEvUexxg+DTtqxwz0pMxzCajckUwj1ppaKQiulPsfE2OaMpjXaXBESgsc1WZXi7V1A==
   dependencies:
     "@notionhq/client" "2.2.3"
     axios "^1.6.8"

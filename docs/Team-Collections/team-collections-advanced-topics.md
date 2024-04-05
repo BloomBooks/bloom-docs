@@ -67,7 +67,7 @@ When you [create a Team Collection](/team-collections-getting-started#6035d8998d
 	:::note
 	
 	You may get a notice from Dropbox warning you that moving the folder will “remove it for the members of” the folder you are moving it out of. This happens when you rely on the sharing settings of a higher-level folder to share the shadow collection folder with your teammates. 
-	![](./1594235164.png)
+	![](./team-collections-advanced-topics.82d7bd6b-edd5-4630-8b5d-1a927218c219.png)
 	
 	If you see this notice, click the **Move anyway** button. Then re-share the shadow collection folder (or a higher-level folder) with your teammates.
 	
@@ -78,14 +78,14 @@ When you [create a Team Collection](/team-collections-getting-started#6035d8998d
 3. **In Windows Explorer,** re-join the Team Collection by double-clicking the `Join this Team Collection.JoinBloomTC`. (This will alert Bloom to the new location of the shadow collection folder.)
 4. **Bloom** will start, and will show this message:
 
-	![](./1087074606.png)
+	![](./team-collections-advanced-topics.49df2df6-5768-4e51-afb8-2b76be3c08dc.png)
 
 5. Click **JOIN**. Bloom should proceed to open the Team Collection.
 
 :::note
 
 If you try to open a Team Collection whose Dropbox folder has been moved, Bloom will show a “disconnected” state in the Team Collection status badge, and display a message which outlines the above steps.  
-![](./650651236.png)
+![](./team-collections-advanced-topics.eb664e12-cdd1-48a2-a1d6-693517f1f933.png)
 
 :::
 

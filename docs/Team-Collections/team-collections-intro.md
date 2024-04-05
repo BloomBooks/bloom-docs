@@ -63,7 +63,7 @@ For example, let’s say Awa has a collection of books on her computer (Figure 1
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Figure 1: Awa’s computer](./1498310619.png)
+![Figure 1: Awa’s computer](./team-collections-intro.a5aec484-1e2f-4041-a5dd-37ce9015dbcb.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -82,7 +82,7 @@ Awa’s collection is a Team Collection, so Bloom creates a shadow collection fo
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Figure 2: Awa’s computer, with a shadow collection folder synchronized to Dropbox.](./561722303.png)
+![Figure 2: Awa’s computer, with a shadow collection folder synchronized to Dropbox.](./team-collections-intro.3e5de6a8-3332-4c2d-adae-89b40ae2bf55.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -101,7 +101,7 @@ Awa shares the shadow collection folder with her teammate Barkari using Dropbox.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000002)'}}>
 
 
-![Figure 3: Awa’s computer, and the shadow collection synchronized to Barkari’s computer](./1676446137.png)
+![Figure 3: Awa’s computer, and the shadow collection synchronized to Barkari’s computer](./team-collections-intro.5dd7715f-d395-49d9-8ef3-85264e126a48.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -120,7 +120,7 @@ When Barkari launches a special file in the shadow collection folder, Bloom copi
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Figure 4: Awa’s computer, and Barkari’s computer with a working collection from the synchronized shadow collection](./1234625758.png)
+![Figure 4: Awa’s computer, and Barkari’s computer with a working collection from the synchronized shadow collection](./team-collections-intro.3e8b9c43-bdbe-464b-9b18-81a7a16d5a1d.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -146,7 +146,7 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 
-![](./1747722979.png)
+![](./team-collections-intro.550f4967-e707-4292-a422-0cd7ac438465.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -164,7 +164,7 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 
-![](./662682535.png)
+![](./team-collections-intro.3416e074-6723-4ea3-bcac-6b72156055eb.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -181,7 +181,7 @@ In a Team Collection, each book has a **status**. There are three possibilities 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 
-![](./1040791527.png)
+![](./team-collections-intro.9de5de38-6bc2-4d57-bd5b-cdba70c421aa.png)
 
 
 </div><div className='notion-spacer'></div>

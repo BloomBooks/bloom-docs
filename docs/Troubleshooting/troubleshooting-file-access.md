@@ -51,7 +51,7 @@ About once a year, we work with someone whose Windows computer won’t let Bloom
 9. Click OK.
 10. Click OK.
 
-![](./2063379169.png)
+![](./troubleshooting-file-access.bec4636b-121d-46ab-8a04-7a8650744b1d.png)
 
 
 ## Interference from a backup program {#e95f6a7b22304626878a8b6375b75004}

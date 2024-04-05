@@ -15,31 +15,31 @@ In this guide, we’ll walk through the process of installing the Dropbox app on
 When you sign into Dropbox initially, you may see this dialogue box. Click on the Download button to get started.
 
 
-![](./783186023.png)
+![](./team-collections-setting-up-dropbox.67c49273-457d-42ba-8c9c-930263cd831e.png)
 
 
 If you don’t see that sign, then from your web interface in Dropbox, click on your account icon (1), then click on “install Dropbox app”(2).
 
 
-![](./591187620.png)
+![](./team-collections-setting-up-dropbox.f5b1a902-f92f-477b-861d-1970ae3cd742.png)
 
 
 You’ll see:
 
 
-![](./1526969932.png)
+![](./team-collections-setting-up-dropbox.fbb0150d-718f-4c64-b59d-212343e31f5b.png)
 
 
 `DropboxInstaller.exe` will download. After download, double-click on the file to install it. You may need to register a phone number to your account. After that you should see:
 
 
-![](./1722600509.png)
+![](./team-collections-setting-up-dropbox.3bbb32bb-b61a-4b89-a029-011743fa8ad0.png)
 
 
 Other steps may be presented. Eventually, you’ll get to:
 
 
-![](./1558791629.png)
+![](./team-collections-setting-up-dropbox.0763f434-3e4c-4b63-b26a-50b766f95273.png)
 
 
 If you only have a basic Dropbox account, you must choose the first option.
@@ -48,19 +48,19 @@ If you only have a basic Dropbox account, you must choose the first option.
 Next, Dropbox will want to add several large folders to be automatically backed up. It is very likely that the space requirements for backing up these folders will surpass the allotment of a Basic Dropbox account.
 
 
-![](./1622806150.png)
+![](./team-collections-setting-up-dropbox.143fbd2f-6c9e-43b6-96db-b6f724b6f3a9.png)
 
 
 If you only have a Basic Dropbox account, uncheck those boxes and click “Not now” to proceed.
 
 
-![](./500312035.png)
+![](./team-collections-setting-up-dropbox.57339b58-4644-4347-a686-61758b9abb87.png)
 
 
 You’ll see a warning:
 
 
-![](./854441115.png)
+![](./team-collections-setting-up-dropbox.36474053-f634-40d8-82d9-37d90fa0371c.png)
 
 
 Click to **Continue to Dropbox**.

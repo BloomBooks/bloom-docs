@@ -24,7 +24,7 @@ Bloom works great with the antivirus program that is built into Windows, which i
 However, some people choose to add a second antivirus program. These programs often wrongly say that Bloom is a problem. Bloom has a small audience, so these programs don’t recognize it. They assume the worst and start interfering with it. For example, you might see:
 
 
-![](./1156867626.png)
+![](./antivirus-general.b4d90bcd-f5cd-4068-b9e4-e278b5088f79.png)
 
 
 If your antivirus program is complaining about Bloom, do not write to us about it — there is nothing we can do. Instead, if you trust Bloom, you can tell your program that Bloom is OK. This is sometimes called “whitelisting”.
