@@ -27,13 +27,13 @@ Bloom can import any of the following widget formats
 To add a widget, Click “Add Page” and then select one of the template pages. These have an image of a puzzle piece:
 
 
-![](./407199131.png)
+![](./html5-widgets.1cb55c74-29c0-40d6-8534-1fa29c61cfbb.png)
 
 
 Then click on the button in the corner of the widget:
 
 
-![](./431553782.png)
+![](./html5-widgets.24634a13-3697-4648-ae9b-bda55b9193ef.png)
 
 
 In the file chooser dialog, you can either choose a .wdgt file, an .htm file, or an .html file. A “.wdgt” file is just a zip file containing all the files of the widget. If you instead choose an HTML file, Bloom will gather up and import all of the files in that same folder.
@@ -45,7 +45,7 @@ In the file chooser dialog, you can either choose a .wdgt file, an .htm file, or
 Normally, when Bloom Player shows a widget, it also shows page navigation buttons:
 
 
-![](./346919601.png)
+![](./html5-widgets.a755a8c5-c91c-4786-8744-cb0b11d6a03f.png)
 
 
 If you want to hide these navigation buttons, follow these steps:
@@ -57,7 +57,7 @@ If you want to hide these navigation buttons, follow these steps:
 In Bloom (version 5.1 or later)  when you choose “Add Page”, you should see a “Captive Widget” page:
 
 
-![](./729849789.png)
+![](./html5-widgets.5fe003ff-d7c6-4fa7-84a1-fdcd56a17c62.png)
 
 
 Bloom Player will not give the user any way to navigate away from this page except by leaving the book entirely. It will be up to your widget to tell Bloom Player when you want the user to leave this page and go forward or backward in the book.

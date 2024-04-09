@@ -46,13 +46,13 @@ Here are some examples of front and back matter pages that have been customized 
 ### Cover Page {#3682c0756f9a4f8a89f4910659868324}
 
 
-![](./1391013552.png)
+![](./what-branding-can-do.316dbe85-4cc4-434f-a56c-0cca29ffc51d.png)
 
 
 ### Title Page {#f3f1446f6c664f8c9b2e4ab8e193d0b1}
 
 
-![](./1388812775.png)
+![](./what-branding-can-do.d4e1675e-a5b6-4583-a589-67af4f9e9a1a.png)
 
 
 ### Credits Page Top {#0303656344fd4e7a81d9dc1f619bdef2}
@@ -63,7 +63,7 @@ Here are some examples of front and back matter pages that have been customized 
 </div>
 
 
-![](./1685747876.png)
+![](./what-branding-can-do.abc0b8b3-df06-41df-8441-4eec641b1ff2.png)
 
 
 ### Credit Page default license & license notes {#b06f70e834b24b2d836daa994b082d16}
@@ -74,13 +74,13 @@ Here are some examples of front and back matter pages that have been customized 
 </div>
 
 
-![](./1126047446.png)
+![](./what-branding-can-do.2e2b8121-ebf7-4924-bd3c-8180df7b6ff2.png)
 
 
 (from Suluh-INOVASI)
 
 
-![](./796665851.png)
+![](./what-branding-can-do.9f264fdd-a831-40cf-b2d7-4b6559d0dfa2.png)
 
 
 (from GRN-REACH)
@@ -89,22 +89,22 @@ Here are some examples of front and back matter pages that have been customized 
 ### Credits Page Bottom {#01d0830a711f4a85b2c7d9efae7a1716}
 
 
-![](./1221891027.png)
+![](./what-branding-can-do.5e354b02-12ee-4017-9c56-a10e20278226.png)
 
 
 ### Back Cover Top {#0eada8b87fad45e98bfa0877dbc9907e}
 
 
-![](./841236590.png)
+![](./what-branding-can-do.d22a455f-bc19-4d0a-9b53-dcee9155a223.png)
 
 
 ### Back Cover Bottom {#65799ef379854ba8b8b4bd3701bc6b26}
 
 
-![](./1092284197.png)
+![](./what-branding-can-do.dd7228f5-1346-421e-81b2-4a669b929453.png)
 
 
-![](./1498537535.png)
+![](./what-branding-can-do.7effb353-18f8-4740-abc8-9174b7be43b4.png)
 
 
 (Suluh-INOVAS)

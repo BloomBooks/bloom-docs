@@ -10,7 +10,7 @@ keywords: [Bloom Library]
 When you re-upload a book to Bloom Library, Bloom will first ask you to confirm that this is an update to an existing book, and not a brand new book:
 
 
-![](./1522099457.png)
+![](./browser-caching.911edf31-4e81-434d-b25d-7f3fca08bc85.png)
 
 
 :::tip

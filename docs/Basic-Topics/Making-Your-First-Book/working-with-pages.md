@@ -38,7 +38,7 @@ Alternately, you can **double-click** the thumbnail image of the book in the Col
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./1458712021.png)
+![](./working-with-pages.386a3c11-8a57-407c-8c1b-706a0537bc3c.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -59,7 +59,7 @@ In the **Edit view:**
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![es  fr](./131531486.png)
+![es  fr](./working-with-pages.e7c4fa88-fbdc-426a-91ec-63c5caada2b2.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -83,7 +83,7 @@ Next, Bloom will display the **Add Page...** **dialog box** with a choice of **p
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./1697709627.png)
+![](./working-with-pages.36d8cb59-b8c6-4a7b-85bf-b3ef0536c1a6.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -114,7 +114,7 @@ You can reorder a page by **clicking and dragging** its thumbnail icon in the Pa
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![](./1467022563.gif)
+![](./working-with-pages.3f14ce12-da07-4dda-820e-c4e38a8d7814.gif)
 
 
 </div><div className='notion-spacer'></div>
@@ -150,7 +150,7 @@ Sometimes you may want to duplicate a page. Perhaps it has a picture that you wa
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![](./772625644.png)
+![](./working-with-pages.aec1ae55-9609-4acc-94ab-93edebed92d0.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -184,11 +184,11 @@ You can also duplicate a page by copying and pasting it.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![](./1043375543.png)
+![](./working-with-pages.84c731f0-b197-43bc-88c1-6b5e1a6fbae2.png)
 
 
 
-![](./799961327.png)
+![](./working-with-pages.54129332-6c54-436f-a633-115057c2c7c3.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -236,7 +236,7 @@ You can copy a page from one book using this method:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![](./838861558.png)
+![](./working-with-pages.9dd19da9-647b-4159-90eb-cefe134c42d0.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -260,7 +260,7 @@ Alternately, you can use the page’s context menu:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![](./595507236.png)
+![](./working-with-pages.917d8f63-c6ef-4478-91f6-2899d909fab1.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -301,7 +301,7 @@ To choose a different page layout for the selected page:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./235892091.png)
+![](./working-with-pages.b72489c1-b020-44b0-93a2-f497130bc6ca.png)
 
 
 </div><div className='notion-spacer'></div>

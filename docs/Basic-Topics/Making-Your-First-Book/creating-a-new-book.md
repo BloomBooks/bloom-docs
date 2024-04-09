@@ -18,7 +18,7 @@ Creating a new book is a two-part process.
 1. Select a template in the **Sources for New Books** pane by clicking its icon. Here, we use the **Basic Book** template, but you can explore the other templates Bloom provides.
 2. Click the **`MAKE A BOOK USING THIS SOURCE`** button in the upper part of the right-hand side of the Bloom window.
 
-	![](./1030892351.png)
+	![](./creating-a-new-book.1d3d93d1-da99-4b9a-b1da-519748275b10.png)
 
 
 ### The Edit tab {#421144f36dd94c6880857ff45ae3f576}
@@ -30,7 +30,7 @@ When you click **`MAKE A BOOK USING THIS SOURCE`**, Bloom adds a new book based 
 Let’s look at some of the parts of the Edit tab window and the front cover. 
 
 
-![](./892672860.png)
+![](./creating-a-new-book.70c75e9a-81c5-498f-ba9b-f0e82fb03669.png)
 
 
 | **❶** | On the LEFT side of the window are small images (called **”thumbnails”**) of each page in your book.                                                                                            |
@@ -49,7 +49,7 @@ When you first create a new book, you need to give it a title.
 
 - **Type the title of the book in the title box.**
 
-	![](./989912986.png)
+	![](./creating-a-new-book.0ce7a7b4-222a-4ad0-ab9f-fbf67a345eaf.png)
 
 
 You can also add a picture to the front cover. We'll look at that next.
@@ -80,7 +80,7 @@ To add a picture, hover the mouse over the flower. Two buttons will appear (see 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./199594747.png)
+![](./creating-a-new-book.b75f3662-2b87-447a-9831-0acf71fdde3f.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -95,7 +95,7 @@ Next, Bloom will show the **Image Toolbox**. The Image Toolbox lets you choose f
 4. **Select an image from the results returned.**
 5. **Click** **`OK`** **to insert the image into your book.**
 
-![](./1269559090.png)
+![](./creating-a-new-book.05568532-9358-46eb-8d30-23ac7f35d141.png)
 
 
 For more details about the Image Toolbox, see [Working with Images](https://www.notion.so/40a8207cca6640399187dcd37eaafa00) 
@@ -127,7 +127,7 @@ Whenever we make a book, it is important to acknowledge those who contributed to
 1. **Type the names of the book’s authors or illustrators into the second text box.**
 2. **Use the third box to acknowledge any funders.**
 
-![](./1472033963.png)
+![](./creating-a-new-book.91b1382e-09c5-4ff8-a50f-053a64a99438.png)
 
 
 ### The Credits page {#41dcdea0eacc4435bd8525afec354c6c}
@@ -140,7 +140,7 @@ The **Credits Page** lets you add three kinds of information: copyright and lice
 3. **Add additional acknowledgments in the text boxes:** for instance, to a translator, or to the source of the original book.
 4. **Add an ISBN (International Standard Book Number)**, if your book has one.
 
-![](./1643174434.png)
+![](./creating-a-new-book.ca5e690d-3f5c-425a-bbf7-ad1288e4b059.png)
 
 
 ### Adding Copyright and Licensing information {#e967f6bf24924b7496a3b25e2ead3551}
@@ -169,7 +169,7 @@ After you click on the **Click to Edit Copyright & License** link, a small **Cop
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 
-![](./1621948006.png)
+![](./creating-a-new-book.d6ff41ca-b252-4923-842e-b9ffe1b314e2.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -192,7 +192,7 @@ After you click on the **Click to Edit Copyright & License** link, a small **Cop
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./1140171894.png)
+![](./creating-a-new-book.44a10f04-103a-4e83-bbfc-5ff1fb7b83a1.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -208,7 +208,7 @@ After you have finished your book’s front matter, you can start adding pages.
 2. **Select a page layout for your new page.**
 3. **Click the** **`ADD PAGE`** **button.**
 
-![](./740261842.png)
+![](./creating-a-new-book.3ae05182-a2cf-46c1-adc3-7cc56a797ae3.png)
 
 
 See [Working with Pages](https://www.notion.so/2e85e1313ca147b4a198188af61f8286) for more directions on how to add and remove pages, change page layouts, and more.
@@ -225,7 +225,7 @@ When you want to work on your book another time, do the following
 1. **Click the book’s image in the Collection pane.**
 2. **Click** **`EDIT THIS BOOK`**.
 
-![](./462169170.png)
+![](./creating-a-new-book.824b00d5-c63a-4c8b-a3d8-e709d02579d5.png)
 
 
 :::note

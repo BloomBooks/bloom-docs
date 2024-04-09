@@ -21,7 +21,7 @@ This material is for Bloom clients holding a Bloom Enterprise subscription.
 Organizations holding a Bloom Enterprise subscription can organize their books into different bookshelves (book collections). For example, below is a sampling of the Bloom Library bookshelves for the organization _Education for Life_:
 
 
-![](./1966485960.png)
+![](./bloom-bookshelves.54bb3b72-79f0-4e68-8be6-d44e965671e1.png)
 
 
 Bloom provides two different bulk operations to its Enterprise clients: 
@@ -43,7 +43,7 @@ There are two essential steps before initiating either of these bulk processing 
 The first essential step is to select the **Bloom Library Bookshelf**. This is selected from a drop-down list in the **Book Making** tab of Bloom Editor Settings:
 
 
-![](./1777870164.png)
+![](./bloom-bookshelves.5e121b7d-814d-4834-9931-4a9d7d25d42b.png)
 
 
 :::caution
@@ -85,13 +85,13 @@ There are three options for uploading:
 The third option is rarely used and will not be discussed further in this article. To access bulk uploading of a single collection, click the arrow beside **UPLOAD BOOK** and choose **Upload this Collection**.
 
 
-![](./2003777731.png)
+![](./bloom-bookshelves.59382732-bad0-47ed-8796-17e6cf08db09.png)
 
 
 After making this selection, click the button to initiate the operation:
 
 
-![](./810165495.png)
+![](./bloom-bookshelves.7b599ae1-2b38-42c4-8760-2dfeffb9732c.png)
 
 
 The bulk-uploader program will open in a separate window and begin its operation. 
@@ -112,7 +112,7 @@ Bloom editor also provides a means to bulk publish BloomPUBs and prepare a speci
 Here again is a sampling of Education for Life’s viewed from the Bloom Reader app:
 
 
-![](./1416984979.png)
+![](./bloom-bookshelves.ee2b0c52-0319-4060-9106-c1d491ba1812.png)
 
 
 When a Bloom Reader app is loaded Bloom bookshelves, each bookshelf’s name will appear beside a bookshelf icon in a specific color (left-side image). Tapping on a specific bookshelf will open it, thus displaying its books (right-side image).
@@ -130,7 +130,7 @@ See also [How to distribute Bloom books on SD Cards or Phones](/BR-distribution)
 To bulk publish all BloomPUBs in a single operation: 
 
 
-![](./834300152.png)
+![](./bloom-bookshelves.140a73c7-e15a-4b86-90fa-91e6dac5fd6f.png)
 
 
 | **❶** | Click on the **Publish** tab.                  |
@@ -142,7 +142,7 @@ To bulk publish all BloomPUBs in a single operation:
 A **Make All BloomPUBs from Collection** dialog will appear with a number of options:
 
 
-![](./1466890969.png)
+![](./bloom-bookshelves.5a06535e-96d7-490f-9f74-6862444af239.png)
 
 
 | **❶** | Tick this box to produce the special .bloomshelf file needed to group the BloomPUBs together into separate bookshelves on the Bloom Reader app.                                                                                                                                |

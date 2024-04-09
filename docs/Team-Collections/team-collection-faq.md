@@ -12,7 +12,7 @@ slug: /team-collection-faq
 If you already have the book checked out, you can edit it. If you do not have the book already checked out, you cannot check it out or edit it. 
 
 
-![](./228753637.png)
+![](./team-collection-faq.62c2e7a8-0d6f-464b-b6ab-ba30148a8a27.png)
 
 
 ## Does everyone on the team have to have the same version of Bloom? {#93f287362b554f04b0ce4830039dd33d}
@@ -36,7 +36,7 @@ To remove a book from a Team Collection, do the following:
 2. **In Bloom:** _While the book is still checked out to you,_ right-click on the book’s thumbnail and choose **Delete Book**.
 3. **Dropbox** will ask whether you want to “Remove (book title) from your Dropbox account and all devices?” Click “Move out of Dropbox”. If you do not want to see such notices in the future, you can tick the box “Don’t ask me this again”.
 
-![](./420186854.png)
+![](./team-collection-faq.8a6746c9-8438-45e2-b83b-25cab6b051a5.png)
 
 
 ## What happens if I rename a book in a Team Collection? {#3ccf1796c5f94e21a96ff85e69be1407}

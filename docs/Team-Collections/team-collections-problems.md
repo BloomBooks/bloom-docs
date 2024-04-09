@@ -27,7 +27,7 @@ You can join a Team Collection using multiple computers. To do this, use the sam
 Be aware that you can check out a book for editing _on only a single computer at a time._ If you have a book checked out on one computer and look at the same book on a different computer, Bloom will inform you that “This book is checked out to you, but on a different computer. You cannot edit the book on this computer, until you have checked it in on [the other computer’s name].”
 
 
-![](./885919069.png)
+![](./team-collections-problems.ad0649aa-33e0-42ca-96fc-4bc34f6f5fe9.png)
 
 
 ### What happens if someone checks out a book but then becomes unreachable for a long time, and the team wants to edit that book? {#260920d95fbb4b4f94c7868e39b510b3}
@@ -46,7 +46,7 @@ When the administrator force-unlocks a book, any changes made by the user who or
 
 
 
-![](./1322981045.png)
+![](./team-collections-problems.0b6f8ce5-01b1-41b5-a626-3ad637dfeabc.png)
 
 
 ### What happens when the long-lost team member comes back online? {#cc80df6c942a450c855966547a2bfe11}

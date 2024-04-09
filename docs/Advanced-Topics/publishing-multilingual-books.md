@@ -75,7 +75,7 @@ Click Publish, then Web. Under Upload Text, select the check boxes for each lang
 If, at a later date, you need to update your book for any reason, you will need to upload the book again. When you do so, Bloom will present a screen showing the book already in Bloom Library compared with the one you are uploading. If the thumbnail and title match, then click on “Yes, this is an update of my book”.
 
 
-![](./841887422.png)
+![](./publishing-multilingual-books.b6a10d5f-53fe-4a92-aa2e-e87258bed321.png)
 
 
 ## Workflow for Method 2 {#88e2a0b4e5884abcbf57a5f6ba1d7563}

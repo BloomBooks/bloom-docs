@@ -45,7 +45,7 @@ Gather all the books you want to distribute. These books will have an extension 
 From [Bloom Library](https://bloomlibrary.org/read), click on the book you desire and look for the Download section. Then click on the BloomPUB icon; for example:
 
 
-![](./452718725.png)
+![](./BR-distribution.04754ffb-dbe2-4a3f-9908-7c3869ac0f3d.png)
 
 
 ### Publishing BloomPUBs from the Bloom Editor {#b093d5a5e4bf4898856275c3b81aacc6}
@@ -54,7 +54,7 @@ From [Bloom Library](https://bloomlibrary.org/read), click on the book you desir
 Using the Bloom Editor, you can make a BloomPUB file of any book in your collection by choosing the Publishing tab ❶, selecting the Bloom Reader button ❷, selecting the **Save Bloom Reader File** button ❸, then clicking the **Save…** button ❹**:**
 
 
-![](./1079617681.png)
+![](./BR-distribution.7655f554-2809-45a0-afb3-9c7ef640e1c2.png)
 
 
 ## 1.2. **Create the folder on your SD card** {#f659de0a085545d8b4da927d7ab5a670}
@@ -123,7 +123,7 @@ To pre-load your books onto a phone, you will need to connect the phone through 
 Here’s an example:
 
 
-![](./230174364.png)
+![](./BR-distribution.65fbb89b-4a66-4504-9ebc-95ae4a574eba.png)
 
 
 If you cannot see the connected phone, you will need to open your phone’s settings and find “USB settings.” There will be an option to allow you to transfer files. 
@@ -132,7 +132,7 @@ If you cannot see the connected phone, you will need to open your phone’s sett
 Here’s an example:
 
 
-![](./944926195.png)
+![](./BR-distribution.db1e484d-3a28-4822-9501-a3e0c32845c2.png)
 
 
 ## 2.2. **Create a folder called “Bloom”** {#92368b010e454501b8da712f357cfc9c}
@@ -159,13 +159,13 @@ To “side-load” the Bloom Reader app, you will need to grant permissions. For
  
 
 
-![](./1974495263.png)
+![](./BR-distribution.697771dc-1c05-4c1a-b6de-93d9ac1cceee.png)
 
 
 Click Settings to modify the permissions for installing unknown apps. Grant permission to your file manager by sliding the slider to the right ❶. Then click to Install Bloom Reader ❷:
 
 
-![](./564483735.png)
+![](./BR-distribution.d90936a3-5de7-4b0a-9b28-692dbcd90305.png)
 
 
 ## 2.5. Check for Lost Books {#82336487e50e48279aae17f2a4a4842a}
@@ -177,19 +177,19 @@ When Bloom Reader opens and detects the folder “Bloom” in the internal stora
 Click on “Check for Lost Books”:
 
 
-![](./1015633594.png)
+![](./BR-distribution.497f6518-16a8-4497-ba47-5dced945f11c.png)
 
 
 Click **OK** to the following prompt:
 
 
-![](./837317395.png)
+![](./BR-distribution.eb980bff-9eb9-4992-9922-5e86b81718e9.png)
 
 
 The file manager will then show the Bloom folder. Click on the blue button, “USE THIS FOLDER”:
 
 
-![](./1689556252.png)
+![](./BR-distribution.44eece5e-7e1f-4a4a-9c72-0d195a77e4ae.png)
 
 
 Finally, another prompt to confirm access will appear. Click ALLOW:
@@ -198,7 +198,7 @@ Finally, another prompt to confirm access will appear. Click ALLOW:
  
 
 
-![](./1450232031.png)
+![](./BR-distribution.3832a581-ee94-4271-99c1-787e0d5c8b73.png)
 
 
 Bloom Reader will transfer all the BloomPUBs from the Bloom folder into its private folder.

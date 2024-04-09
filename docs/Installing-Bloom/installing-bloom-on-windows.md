@@ -66,7 +66,7 @@ You may also need a special **keyboard layout** to let you type the characters
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1824787836.png)
+![](./installing-bloom-on-windows.551e3c1f-13be-47e0-bac3-7778479379fa.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -91,7 +91,7 @@ You can download Bloom  installation program from the Bloom Library at [bloomlib
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./625671864.png)
+![](./installing-bloom-on-windows.f708c2a2-1e20-4181-ae0d-7a0a0be6dea0.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -113,7 +113,7 @@ Double-click the installer program to install Bloom on your computer. While the 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![](./961234876.png)
+![](./installing-bloom-on-windows.8969648d-9190-4f34-ac91-0e3e43b6c07a.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -140,7 +140,7 @@ For more details on how to create a collection, see **Creating a new collection*
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![](./811927764.png)
+![](./installing-bloom-on-windows.dd09dfd6-5805-476c-9fd4-4b9eebf6afca.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -162,7 +162,7 @@ _The Art of Reading_ is an collection of black and white line drawings from SIL
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./979073911.png)
+![](./installing-bloom-on-windows.8d548e18-c933-4e80-af57-a5134b3757e9.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -182,7 +182,7 @@ To download _The Art of Reading__,_ click on **The Art of Reading illustratio
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./145447604.png)
+![](./installing-bloom-on-windows.31c3e885-83cc-4dc6-a629-fa449b6169ff.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -201,7 +201,7 @@ Next, double-click _The Art of Reading_ installer to install the image library.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![](./895106733.png)
+![](./installing-bloom-on-windows.35418f06-0acd-444e-ba89-a582ad8bb506.png)
 
 
 </div><div className='notion-spacer'></div>

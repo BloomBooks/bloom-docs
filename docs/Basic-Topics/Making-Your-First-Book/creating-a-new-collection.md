@@ -45,7 +45,7 @@ You can have more than one collection of books on your computer. Bloom stores al
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1559368876.png)
+![](./creating-a-new-collection.71b39c12-5524-4215-8f89-ed420d78e7f2.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -68,13 +68,13 @@ When you start Bloom for the first time, Bloom will show you a window that lets 
 
 - Click **`Create New Collection`**.
 
-![](./189155919.png)
+![](./creating-a-new-collection.4974314b-e0d0-490f-970c-5e34692446fc.png)
 
 
 :::note
 
 If this is your first time running Bloom, Bloom will also show you a welcome screen. 
-![](./1192204652.png)
+![](./creating-a-new-collection.c383c117-2e72-4ea8-af7e-03ca76d71e48.png)
 
 If you see this welcome screen, click **`Next`**.
 
@@ -107,7 +107,7 @@ Bloom will show you a long list of languages.
 5. If you can’t find your language in the list, click **`Can’t find your language?`** for more help.
 6. Click **`Next`**.
 
-![](./882563412.png)
+![](./creating-a-new-collection.78f425b3-4aaf-4211-9399-c1b2c9b83685.png)
 
 
 ### Select the font to use for the main language (optional) {#5bef2bd549244665987d586bdd788586}
@@ -129,7 +129,7 @@ Bloom versions prior to 5.5 use Andika New Basic as their default font.
 3. **If** the language’s script uses stacked diacritics, **tick the checkbox next to** **`Use Special line spacing`**. Then select the **`Default line spacing`** (or a taller spacing) from the drop-down list.
 4. **Click** **`Next`**.
 
-	![](./1439350978.png)
+	![](./creating-a-new-collection.0ded4e00-67ed-4783-a99b-93246b850bd3.png)
 
 
 ### Add language location information (optional) {#6997d5fc0d0b40488a0427e710294aff}
@@ -160,7 +160,7 @@ The language location will appear on the title page of books in this collection.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./164655305.png)
+![](./creating-a-new-collection.fbb3327a-8649-4621-b8af-18296e2b8826.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -183,7 +183,7 @@ The language location will appear on the title page of books in this collection.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./750938554.png)
+![](./creating-a-new-collection.32e33ca2-840a-48c4-a021-2d24448e7814.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -193,7 +193,7 @@ The language location will appear on the title page of books in this collection.
 :::note
 
 The collection name is the name that Bloom will give the folder for your collection’s books, so it must be different than all your other project names. If you choose a collection name that already exists on your computer, Bloom will prompt you to choose a different name.  
-![](./162318.png)
+![](./creating-a-new-collection.8abf97ec-3e8d-4e38-9167-5c3f5d362fbd.png)
 
 :::
 
@@ -216,7 +216,7 @@ Now you are _Ready To Create Your New Collection_**.**
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./2031005153.png)
+![](./creating-a-new-collection.b5016b34-e715-4293-9f2a-26a9f2379df2.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -245,7 +245,7 @@ The Collection pane (in the upper left corner of the screen) is empty — ready 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
 
 
-![](./1658464996.png)
+![](./creating-a-new-collection.2cbd605c-a74e-40e1-9b7e-94d4b9a8bbd0.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -259,7 +259,7 @@ If you are already running Bloom, you use the **Other Collections** button to cr
 
 - **Click on the** **Other** **collections** **button in the Bloom toolbar.**
 
-![](./197277042.png)
+![](./creating-a-new-collection.d7dade63-222e-4a0a-a770-6bd74ab08572.png)
 
 
 Next you will see a window that lets you **`Create a new collection`** or **`Browse for another collection on this computer.`** 
@@ -270,7 +270,7 @@ If you are already running Bloom, you use the **Other Collections** button to cr
 
 - **Click on the** **Other collections** **button in the Bloom toolbar.**
 
-![](./197277042.png)
+![](./creating-a-new-collection.6711607a-63ea-42fe-9c19-274e5144beb4.png)
 
 
 Next you will see a window that lets you **`Create a new collection`** or **`Browse for another collection on this computer.`** 

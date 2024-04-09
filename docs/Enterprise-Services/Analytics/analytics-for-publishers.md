@@ -13,23 +13,23 @@ keywords: [analytics, statistics]
 Bloom Enterprise subscribers get a URL that gives them analytics on the reach of the books in their collection, updated once a day.
 
 
-![](./1927773425.png)
+![](./analytics-for-publishers.7f64b5af-c629-41b5-977b-94291a270a33.png)
 
 
 There are various reports:
 
 
 
-![](./1754124601.png)
+![](./analytics-for-publishers.4d327fb3-1b9b-4f5f-a8b5-95f67c808a1a.png)
 
 
-![](./1222756585.png)
+![](./analytics-for-publishers.d8534a68-978c-48df-88b2-f925ee2d3529.png)
 
 
 Each report comes with buttons to get an image or a spreadsheet file of that data:
 
 
-![](./1240082884.png)
+![](./analytics-for-publishers.240891df-ba33-44a2-9839-59c090f09abe.png)
 
 
 ## Advanced low level access to analytics data {#6607be6ec44f4c78bb9620e9d319af94}
@@ -144,11 +144,11 @@ If the user is not connected to the internet, Bloom Reader will cache their even
 To prompt Bloom Reader to send all of its events _right now_, open the menu:
 
 
-![](./672205938.png)
+![](./analytics-for-publishers.62cb793a-d517-4adf-af98-b65de8d8fe7f.png)
 
 
 At the bottom of this screen, you will see Bloom Reader’s progress in sending the events:
 
 
-![](./736622608.png)
+![](./analytics-for-publishers.e4eee362-ceb8-4d50-9b43-58b8c1d339f3.png)
 

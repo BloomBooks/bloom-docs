@@ -18,7 +18,7 @@ The Bloom Platform is an integrated approach to book-making which provides a rob
 ## Bloom Editor {#070f565a9a73475790b49a7ccd258ace}
 
 
-![Copyright © 2014, Naskapi Development Corporation & Elizabeth Jancewicz Naskapi](./749601441.png)
+![Copyright © 2014, Naskapi Development Corporation & Elizabeth Jancewicz Naskapi](./bloom-platform.690583ea-a11a-479a-b66d-b566eb1a52aa.png)
 
 
 [Bloom Editor](https://bloomlibrary.org/page/create/downloads) is a software program for authoring, translating, and publishing books and sharing those books with your community through Bloom Library. Bloom Editor runs on the Windows and Linux operating systems. 
@@ -36,7 +36,7 @@ To view all of Bloom Editor’s features, see [this page ](https://bloomlibrary.
 ## Bloom Library {#9d03d5c0220e48129b86b0958ff59386}
 
 
-![](./912047487.png)
+![](./bloom-platform.abec701d-3e70-456b-b192-df5f9818b2c7.png)
 
 
 [Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than 17,000 free books in 690+ languages. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
@@ -52,7 +52,7 @@ Uploaded books are displayed using a “book card”. The book card shows a thum
 3. First paragraphs
 4. Longer paragraphs
 
-![](./55130788.png)
+![](./bloom-platform.205c671f-030c-49c7-8331-56c7a8366abf.png)
 
 
 Special book features and the list of languages represented in the book are also indicated on the book card.
@@ -73,7 +73,7 @@ Special book features and the list of languages represented in the book are also
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./121665725.png)
+![](./bloom-platform.737972c1-9676-4550-890e-4bec984d61fd.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -101,7 +101,7 @@ Organizations interested in mass distribution of Bloom books to a people group c
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
 
-![](./1497594810.png)
+![](./bloom-platform.bfb1cdd5-b3e4-458a-a56c-bdbe8da519ec.png)
 
 
 </div><div className='notion-spacer'></div>

@@ -15,7 +15,7 @@ There are two recording modes in Bloom’s **Talking Book Tool**:
 - recording **By Sentence**
 - recording **By Whole Text Box**
 
-![](./1082217313.png)
+![](./edit-timings.7254ca9a-1331-4b85-84ef-c546836e1342.png)
 
 
 When a user records their Bloom book using the **By Whole Text Box** recording mode, typically, they also choose to **Split** the text using the [Aeneas](/installing-aeneas) software. In this way, Bloom can highlight sentences during audio playback.
@@ -51,11 +51,11 @@ With the Talking Book Tool open:
 2. Click **Split** the audio.
 3. The button **Edit Timings File** will illuminate. Click this button.
 
-	![](./174084097.png)
+	![](./edit-timings.4004a8ac-64c8-4ea7-a159-09a8f4c307a0.png)
 
 4. A message will display (example shown below). Click **OK**.
 
-![](./851082364.png)
+![](./edit-timings.0b2706dc-8ae6-491e-98fc-edddd679c00d.png)
 
 
 ## The timings file {#d3fd21b8b9bf439980bec34665709f8b}
@@ -81,7 +81,7 @@ The timings file is composed of three columns. These columns show the start time
 For example:
 
 
-![](./1336877018.png)
+![](./edit-timings.1ece5c9b-ada2-421e-b7b8-4aacadbcf617.png)
 
 
 This file can be edited directly, but doing this work in Audacity is often much easier.
@@ -112,10 +112,10 @@ This section assumes you already have a good grasp of using the program Audacity
 	
 
 
-	![](./2019935925.png)
+	![](./edit-timings.5e119feb-a5f8-4e27-a4eb-ef094f3576e8.png)
 
 5. Export the labels file (File &gt; Export &gt; Labels) and _overwrite_ the old timings file.
 
-	![](./1862658726.png)
+	![](./edit-timings.8dd34ba3-ad25-432c-b062-cd78d11ee32c.png)
 
 6. Back in Bloom, click **Apply Timings File**, select your newly edited timings file, and click Open.

@@ -24,7 +24,7 @@ When you record an entire SL book, and then playback the recording, all is well.
 But if you select a portion of the book:
 
 
-![](./238036519.png)
+![](./publish-audio-video-notes.e7a2ff4f-2eb3-480c-a614-cee31f187a65.png)
 
 
 _and_ if the first page you specify contains a sign language video, then that sign language video won't be included in the final video recording of the book.  

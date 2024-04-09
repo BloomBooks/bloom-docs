@@ -30,7 +30,7 @@ The problem will surface when you upload the two books sharing the same ID to Bl
 You will see a dialogue like this:
 
 
-![](./1104955153.png)
+![](./derivatives.de65f92c-83b1-427a-af2e-2bc4c2feec2e.png)
 
 
 In this example, based on the two _different_ thumbnail images and the _different_ titles of these two books, we can safely determine that they are indeed different books. So, we select the second option, “No, these are different books”. In other cases, however, it may not be so obvious that they are different books. 

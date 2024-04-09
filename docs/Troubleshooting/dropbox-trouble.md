@@ -27,7 +27,7 @@ This situation could be due to a number of issues:
 	1. Type “dropbox” in your Search bar.
 	2. If you see the Dropbox App on the left side as in the picture below, then Dropbox has been installed.
 
-		![](./1157050924.png)
+		![](./dropbox-trouble.bb067b09-7bba-41f3-b9d1-ed765bb927ce.png)
 
 	- If you don’t see Dropbox, you’ll need to install it first. See [Setting up Dropbox on your computer](/team-collections-setting-up-dropbox).
 - **Some part of Dropbox isn’t running**
@@ -35,11 +35,11 @@ This situation could be due to a number of issues:
 	- If Bloom _still_ gives you the error that brought you to this page, you may need to restart the Dropbox service.
 		- Type “services” in your Search bar and choose the **Services** app.
 
-			![](./275146683.png)
+			![](./dropbox-trouble.683b5f72-0193-4582-8dab-f1534df4c600.png)
 
 		- You should see something similar to this:
 
-			![](./238603763.png)
+			![](./dropbox-trouble.d922db63-2458-4803-98df-ab88fa7d9ea5.png)
 
 
 		If you find “**DbxSvc**” under the **Name** column (1), and it does not say “**Running**” under the **Status** column, then you should click on the word “<u>Start</u>” in “<u>Start</u> the service” (2).
@@ -54,13 +54,13 @@ This situation could be due to a number of issues:
 		If the title of your book has an unusual combination of Unicode characters, Dropbox _may_ have difficulty synching these files to the cloud. Under the Activity tab, your Dropbox app will show a message like this: 
 
 
-		![](./463678924.png)
+		![](./dropbox-trouble.6c671980-5e02-4df7-b9aa-44b2cd6a7706.png)
 
 
 		If this occurs, the solution is to rename the book without renaming its title. To rename a book, right-click on the book’s thumbnail, and choose rename:
 
 
-		![](./1915223153.png)
+		![](./dropbox-trouble.501010c8-9b7b-4600-9ae0-93c1d1cbaf60.png)
 
 
 		Then, type in a simplified name for your book and press Enter. 

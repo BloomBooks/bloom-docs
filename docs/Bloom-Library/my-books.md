@@ -16,7 +16,7 @@ When you are logged into your Bloom Library account, there is a convenient way t
 First, you must **Sign In** to your Bloom Library account:
 
 
-![](./1025630581.png)
+![](./my-books.2ffa5075-d5c0-497a-aeff-2fbdc0c1a113.png)
 
 1. **Click on the blank avatar symbol in the top right corner.**
 2. **Click on** **`Sign In / Sign Up`**.
@@ -24,13 +24,13 @@ First, you must **Sign In** to your Bloom Library account:
 Bloom Library will present two options: you can **`Sign In with Google`** , or you can **`Sign In with email`**: 
 
 
-![](./1299683426.png)
+![](./my-books.6de83e63-d7b1-4c0b-b12c-475b7f9d44d2.png)
 
 
 After signing in, your avatar will be displayed in the top right corner.
 
 
-![](./751475009.png)
+![](./my-books.671876a9-ddfa-4a43-9f5d-acc7558d084b.png)
 
 1. Click on your avatar.
 2. Click on **`My Books`**.
@@ -44,7 +44,7 @@ Following this, all of your books will be presented. Click on any book to view t
  If you click on a book you uploaded, you will see something like this:
 
 
-![](./1956869705.png)
+![](./my-books.842fc375-65f2-4074-ac11-1e640d5db5c6.png)
 
 
 |   |                                                                                                                                                                                                                                                                                      |

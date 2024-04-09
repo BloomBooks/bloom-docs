@@ -28,5 +28,5 @@ We don’t know what causes that, but this fix has sometimes been helpful:
 9. Click OK.
 10. Click OK.
 
-![](./2016549597.png)
+![](./windows-file-permissions.cdc9a396-32d9-4827-8e72-ce583bd74a17.png)
 

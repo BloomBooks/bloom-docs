@@ -24,5 +24,5 @@ For this reason, _before_ publishing original works to the Bloom Library, you sh
 If your book is _not_ yet ready to show to the entire world, but you need some way to share the book with others for review, you may consider uploading it to Bloom Library, and marking the book as a draft:
 
 
-![](./1530339854.png)
+![](./draft-books.69914ec6-5f06-4712-baa2-13c812a2c1e5.png)
 

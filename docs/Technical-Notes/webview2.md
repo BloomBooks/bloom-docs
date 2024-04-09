@@ -28,7 +28,7 @@ Click [here](https://go.microsoft.com/fwlink/p/?LinkId=2124703) to get a small p
 Click [here ](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)for a page that will let you download a large (~140mb) installer that you can share with others. When you get that page, click the one that says “x64”:
 
 
-![](./1026406943.png)
+![](./webview2.c9c4df91-e7d9-4f94-8d77-eb926321413e.png)
 
 
 # When manually installing WebView2 Fails {#ae2d3121622c454ba4445d914f71f889}
