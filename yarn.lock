@@ -2053,10 +2053,10 @@
   resolved "https://registry.yarnpkg.com/@sideway/pinpoint/-/pinpoint-2.0.0.tgz#cff8ffadc372ad29fd3f78277aeb29e632cc70df"
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
-"@sillsdev/docu-notion@0.14.0-alpha.15":
-  version "0.14.0-alpha.15"
-  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.14.0-alpha.15.tgz#b43fae186a986ca43c16b616fdf79e97972eee5d"
-  integrity sha512-CHCtXiU9cJu0JvQSq4U4mEvUexxg+DTtqxwz0pMxzCajckUwj1ppaKQiulPsfE2OaMpjXaXBESgsc1WZXi7V1A==
+"@sillsdev/docu-notion@0.14.0-alpha.16":
+  version "0.14.0-alpha.16"
+  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.14.0-alpha.16.tgz#1babe202edd7b9f278766b5530c15ba5018f1c25"
+  integrity sha512-Y5D7TNyMX2Qq4Wv7f7J7bsNTizWg+4nD0fWTCE0KHjHhiByaeMtzhLyuVvoHtBIm1XSjq5yeDcmfXI/RGNnNfQ==
   dependencies:
     "@notionhq/client" "2.2.3"
     axios "^1.6.8"
