@@ -1,6 +1,6 @@
 ---
-title: Updating a Book on Bloom Library
-sidebar_position: 1
+title: Update a Book on Bloom Library
+sidebar_position: 10
 slug: /browser-caching
 keywords: [Bloom Library]
 ---

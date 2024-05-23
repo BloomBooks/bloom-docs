@@ -1,6 +1,6 @@
 ---
 title: How to distribute Bloom books on SD Cards or Phones
-sidebar_position: 0
+sidebar_position: 2
 slug: /BR-distribution
 ---
 
@@ -17,11 +17,11 @@ An alternative is to sell phones pre-loaded with the Bloom Reader app already in
 
 In this article, we will provide step-by-step instructions for both methods. 
 
-1. [Distributing Bloom books on SD Cards](/BR-distribution#58616141ac10471481495e18570fb619)
-2. [Distributing Books via Pre-loaded Phones](/BR-distribution#aff5473a55cc4f2e8922622ce4e44d00)
+1. [Distribute Bloom books on SD Cards](/BR-distribution#58616141ac10471481495e18570fb619)
+2. [Distribute Books via Pre-loaded Phones](/BR-distribution#aff5473a55cc4f2e8922622ce4e44d00)
 3. [Advanced Options](/BR-distribution#ab53b94bfff44b448917d311bde496a0)
 
-# 1. Distributing Bloom books on SD Cards {#58616141ac10471481495e18570fb619}
+# 1. Distribute Bloom books on SD Cards {#58616141ac10471481495e18570fb619}
 
 
 When **Bloom Reader** starts, it automatically looks for an SD card and for certain private folders reserved for the app. If it finds such a folder, it includes the books it finds there in the list of available books to read. If it finds `.`[`bloomshelf`](https://docs.google.com/document/u/0/d/1UUvwxJ32W2X5CRgq-TS-1HmPj7gCKH9Y9bxZKbmpdAI/edit) files, Bloom Reader also organizes the books according to those _shelves_.
@@ -111,7 +111,7 @@ Beginning with **Bloom Reader** 3.0, you can organize this folder using subfolde
 `Android\data\org.sil.bloom.reader\files\Books\FooGrade2\animals.bloompub`
 
 
-# 2. Distributing Books via Pre-loaded Phones {#aff5473a55cc4f2e8922622ce4e44d00}
+# 2. Distribute Books via Pre-loaded Phones {#aff5473a55cc4f2e8922622ce4e44d00}
 
 
 ## 2.1. Connect the phone to your computer {#75205fc2c349426283f460d0bd98eae2}
