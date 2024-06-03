@@ -146,5 +146,33 @@
   "sidebar.defaultSidebar.category.Bloom Enterprise - Technical Notes": {
     "message": "Bloom Enterprise - Technical Notes",
     "description": "The label for category Bloom Enterprise - Technical Notes in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Install Bloom Products": {
+    "message": "Install Bloom Products",
+    "description": "The label for category Install Bloom Products in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Make Your First Book": {
+    "message": "Make Your First Book",
+    "description": "The label for category Make Your First Book in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Text in Bloom": {
+    "message": "Text in Bloom",
+    "description": "The label for category Text in Bloom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Images in Bloom": {
+    "message": "Images in Bloom",
+    "description": "The label for category Images in Bloom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Publish Your Book": {
+    "message": "Publish Your Book",
+    "description": "The label for category Publish Your Book in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Interactive Features": {
+    "message": "Interactive Features",
+    "description": "The label for category Interactive Features in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Accessible Books for the Visually Impaired": {
+    "message": "Accessible Books for the Visually Impaired",
+    "description": "The label for category Accessible Books for the Visually Impaired in sidebar defaultSidebar"
   }
 }
