@@ -1,5 +1,5 @@
 ---
-title: Get Started with Team Collections
+title: Get Started With Team Collections
 sidebar_position: 1
 slug: /team-collections-getting-started
 ---
@@ -11,15 +11,15 @@ To create a Team Collection, you start with an existing Bloom collection and con
 
 The basic steps are:
 
-1. [The team designates a Team Collection Administrator](/team-collections-getting-started#c66469a5defd4920adc51e3a43af9dac)
-2. [The Administrator converts a Collection into a Team Collection](/team-collections-getting-started#d29740fcdcfd40d7804294b33f66c04d)
-3. [The Administrator shares the Team Collection with the other team members](/team-collections-getting-started#fc32002511f04c6fad08415be980e85b)
-4. [Other team members join the Team Collection](/team-collections-getting-started#f2aa79dfaa414d9f8f188d1c7ef62e52)
+1. [The Team Designates a Team Collection Administrator](/team-collections-getting-started#c66469a5defd4920adc51e3a43af9dac)
+2. [The Administrator Converts the Collection Into a Team Collection](/team-collections-getting-started#d29740fcdcfd40d7804294b33f66c04d)
+3. [The Administrator Shares the Team Collection With the Other Team Members](/team-collections-getting-started#fc32002511f04c6fad08415be980e85b)
+4. [Other Team Members Join the Team Collection](/team-collections-getting-started#f2aa79dfaa414d9f8f188d1c7ef62e52)
 
 Let’s look at each step in detail.
 
 
-## Before you begin {#e90273e0a5624c619c271d35d943aa0f}
+## Before You Begin {#e90273e0a5624c619c271d35d943aa0f}
 
 
 Before you begin, make sure:
@@ -27,7 +27,7 @@ Before you begin, make sure:
 - The latest version of Bloom is installed on your computer, **and** you have registered it with a distinct email address.
 - You have a Bloom Collection that you want to convert to be a Team Collection.
 - You have a Dropbox account.
-- The Dropbox app is installed on your computer. If the Dropbox app is not installed on your computer, see [Setting Up Dropbox on Your Computer](/team-collections-setting-up-dropbox).
+- The Dropbox app is installed on your computer. If the Dropbox app is not installed on your computer, see [Set up Dropbox on your computer](/team-collections-setting-up-dropbox).
 
 	:::note
 	
@@ -38,7 +38,7 @@ Before you begin, make sure:
 	
 
 
-## 1. The team designates a Team Collection Administrator {#c66469a5defd4920adc51e3a43af9dac}
+## 1. The Team Designates a Team Collection Administrator {#c66469a5defd4920adc51e3a43af9dac}
 
 
 Your team must decide who will be the Team Collection’s _Administrator_. The Administrator is the one who will convert the collection into a Team Collection and share it with the other team members. 
@@ -53,7 +53,7 @@ In addition to setting up the Team Collection and sharing it with the other team
 
 
 
-## 2. The Administrator converts the Collection into a Team Collection {#d29740fcdcfd40d7804294b33f66c04d}
+## 2. The Administrator Converts the Collection Into a Team Collection {#d29740fcdcfd40d7804294b33f66c04d}
 
 
 The next step for our Administrator is to convert the "regular" Collection into a Team Collection. The collection can be an existing one with books already in it, or it can be a newly created, empty collection. 
@@ -71,7 +71,7 @@ If your team has multiple copies of the exact same book or even multiple copies 
 Once you have the base collection prepared, there are four steps to the process:
 
 1. [Open the Collection Settings in Bloom](/team-collections-getting-started#e0cdf1c10f91453ba596fe6b5657cd58)
-2. [Enable Bloom Enterprise features](/team-collections-getting-started#e20fb62f9ba44e5e944a477dd3d60204)
+2. [Enable Bloom Enterprise Features](/team-collections-getting-started#e20fb62f9ba44e5e944a477dd3d60204)
 3. [Enable Team Collections](/team-collections-getting-started#06325dc8841a41ca951ef5c67281d42b)
 4. [Create the Team Collection](/team-collections-getting-started#4e59155062ed4f5ebde71045b8ed20c8)
 
@@ -84,7 +84,7 @@ Let's look at each step in detail.
 Open the Collection in Bloom, and click on **Settings** in the "Collections" toolbar (make sure you are in the “Collections” mode, not "Edit" or "Publish").
 
 
-### 2.2 Enable Bloom Enterprise features {#e20fb62f9ba44e5e944a477dd3d60204}
+### 2.2 Enable Bloom Enterprise Features {#e20fb62f9ba44e5e944a477dd3d60204}
 
 
 Team Collections is a Bloom Enterprise feature. Navigate to the **Bloom Enterprise** tab of the Collection Settings. 
@@ -191,10 +191,10 @@ After Bloom has finished creating the cloud collection folder, Bloom will restar
 ![](./team-collections-getting-started.0c49b0ee-2dbc-45a8-b934-2e39051d8fdb.png)
 
 
-## 3. The Administrator shares the Team Collection with the other team members {#fc32002511f04c6fad08415be980e85b}
+## 3. The Administrator Shares the Team Collection With the Other Team Members {#fc32002511f04c6fad08415be980e85b}
 
 
-For others to collaborate on your Team Collection, you need to share your Team Collection folders with them. You do this by sharing with them the synchronized folder that contains your cloud collection folder. Assuming you are using Dropbox on Windows, you can do this by [right-clicking ](/glossary#ed2779a32ce246d79050e7f2b39374d9)the team collection shadow folder _in Windows File Explorer_ (10a) and then clicking **Share…**. (10b).
+For others to collaborate on your Team Collection, you need to share your Team Collection folders with them. You do this by sharing with them the synchronized folder that contains your cloud collection folder. Assuming you are using Dropbox on Windows, you can do this by [right-clicking](/glossary#ed2779a32ce246d79050e7f2b39374d9) the team collection shadow folder _in Windows File Explorer_ (10a) and then clicking **Share…**. (10b).
 
 
 ![](./team-collections-getting-started.8e992e19-72f0-4bf8-adcd-1b087eda14c5.png)
@@ -225,7 +225,7 @@ Enter the email address of each person you want to invite. Make sure the recipie
 ![](./team-collections-getting-started.edec4266-613c-47b3-88fc-858d5bb74f9d.png)
 
 
-## 4. Other team members join the Team Collection {#f2aa79dfaa414d9f8f188d1c7ef62e52}
+## 4. Other Team Members Join the Team Collection {#f2aa79dfaa414d9f8f188d1c7ef62e52}
 
 
 To join a Team Collection, other team members do the following: 
@@ -315,8 +315,8 @@ After Bloom has copied all the files into a working collection, Bloom will resta
 ![](./team-collections-getting-started.bd72383d-2e14-4eb5-b878-bacfffe2b56e.png)
 
 
-## What next?  {#c33b6d8a90f64a82aa6a83911a6d4e10}
+## What Next?  {#c33b6d8a90f64a82aa6a83911a6d4e10}
 
 
-Working with a Team Collection is like working with a regular Bloom Collection, but you need to check books out in order to edit them. When you’re finished making edits, check them in again so that your teammates can work on them. For more details, see [Working with Team Collections](/working-with-team-collections). 
+Working with a Team Collection is like working with a regular Bloom Collection, but you need to check books out in order to edit them. When you’re finished making edits, check them in again so that your teammates can work on them. For more details, see [Working with Team Collections](/working-with-team-collections).
 

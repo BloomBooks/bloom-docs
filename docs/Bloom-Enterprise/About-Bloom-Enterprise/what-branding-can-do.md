@@ -1,6 +1,6 @@
 ---
 title: Custom Branding
-sidebar_position: 3
+sidebar_position: 4
 slug: /what-branding-can-do
 ---
 

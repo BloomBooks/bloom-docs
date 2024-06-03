@@ -1,5 +1,5 @@
 ---
-title: Working with Page Layouts
+title: Page Layouts in Bloom
 sidebar_position: 1
 slug: /working-with-page-layouts
 ---
@@ -9,7 +9,7 @@ slug: /working-with-page-layouts
 In most circumstances, you will add one of the standard page layouts to your book. But if you want something that looks a little different, there are several ways to customize a page. You can change the sizes of text boxes and images, and you can also add or remove boxes from any page. Finally, you can add a Custom Page and create the boxes that you want on it.
 
 
-## Choosing a different layout for a page {#d1ee5d7a3bb742998048fc04ce028015}
+## Choose a Different Layout for a Page {#d1ee5d7a3bb742998048fc04ce028015}
 
 
 :::note
@@ -21,7 +21,7 @@ Coming soon…
 
 
 
-## Changing the size of page sections {#c25724c33e0a4fc5ae36d53d0f0f1361}
+## Changing the Size of Page Sections {#c25724c33e0a4fc5ae36d53d0f0f1361}
 
 
 You can customize a page by changing the size of the sections. To do this, place your mouse cursor over the **gap between the two sections**. You will see the mouse pointer change to a **double headed** **arrow**. Click and drag the line to change the sizes of your sections.
@@ -30,7 +30,7 @@ You can customize a page by changing the size of the sections. To do this, place
 ![](./working-with-page-layouts.256ce507-cb6d-4ec1-b96e-19c136150b6d.gif)
 
 
-## Edit a page layout: change, add, and delete page sections {#cc6864f50f4841778838e1da5d6722e5}
+## Edit a Page Layout: Change, Add, and Delete Page Sections {#cc6864f50f4841778838e1da5d6722e5}
 
 
 You can use the **`Change Layout`** button to add and remove text boxes, image boxes, and boxes for videos and HTML widgets. 
@@ -57,7 +57,7 @@ When you click the "**+"** symbol, the new section is added. Once you have added
 
 :::note
 
-[Bloom Enterprise](/bloom-enterprise-overview) subscribers can also insert an HTML widget block. HTML widgets are small, self-contained programs that users can interact with. 
+[Bloom Enterprise](/about-bloom-enterprise) subscribers can also insert an HTML widget block. HTML widgets are small, self-contained programs that users can interact with. 
 
 ![](./working-with-page-layouts.74d53493-1c4f-464b-badd-af51dca54854.png)
 
@@ -78,7 +78,7 @@ You can delete a section by clicking the red **X** button in the top right-hand 
 When you have finished customizing the page, turn off the **Change Layout** mode.  To do this, click the **Change Layout** "slider" button.  Now you can edit the page as usual.
 
 
-## Duplicating a custom page {#e35588fa93d4455096cc521d2e796d74}
+## Duplicating a Custom Page {#e35588fa93d4455096cc521d2e796d74}
 
 
 If you want to re-use your layout within your book, click the **down** **arrow** shown below the page on the left, then click **`Duplicate Page`**. (If you want to make multiple copies of your page, you can click **`Duplicate Page Many Times…`**.Bloom will make a copy of your page. Then you can drag the new page and place it where you want it in the book.
@@ -97,7 +97,7 @@ You can also duplicate the page by clicking on the icon to “Insert a new page 
 
 
 
-## Creating a custom page layout {#304da51136e548e9b86b8d41597e8ae3}
+## Create a Custom Page Layout {#304da51136e548e9b86b8d41597e8ae3}
 
 
 A third way to customize a page is to choose the **Custom Page** layout when you add a new page. This is an entirely blank page that you can customize using the **Change Layout** controls you have learned how to use.

@@ -23,7 +23,7 @@ Here are the steps and processes to embed a Bloom Library collection.
 - Links for people to learn more
 - And, of course, a set of books
 
-We offer these collections as part of our [Bloom Enterprise](/bloom-enterprise-overview), you can embed your collection on your own website.
+We offer these collections as part of our [Bloom Enterprise](/about-bloom-enterprise), you can embed your collection on your own website.
 
 
 ## 2) Get Your Embedding URL {#e43af9d1c65f4e9c97c81181ba208dc0}

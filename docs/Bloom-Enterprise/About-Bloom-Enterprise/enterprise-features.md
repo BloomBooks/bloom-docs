@@ -12,7 +12,7 @@ slug: /enterprise-features
 # Enterprise Book Features {#750fd0291c824f4b8affe185c92e8617}
 
 
-## Branding and custom page layouts {#8193915c093b4da99004038e38fe09dc}
+## Branding and Custom Page Layouts {#8193915c093b4da99004038e38fe09dc}
 
 
 Bloom can automatically display your logo(s) on the cover, title page, or back cover of your books. Enterprise customers can also specify the copyright and license that each book will contain. For further details on Bloom branding, see [Custom Branding](/what-branding-can-do).
@@ -39,7 +39,7 @@ The **Overlay Tool** allows the user to place text, images, or video over a part
 ![](./enterprise-features.0bbe392d-37d9-41e6-ba58-6973fb2bcabd.png)
 
 
-## Activity pages {#5014d1f2248e479787c21b45850417e8}
+## Activity Pages {#5014d1f2248e479787c21b45850417e8}
 
 
 Bloom supports two kinds of **activity pages** in digital books: Comprehension Questions and Simple Choice Activities.’ 
@@ -80,7 +80,7 @@ Bloom supports two kinds of **activity pages** in digital books: Comprehension Q
 </div>
 
 
-## HTML5 widgets {#b4debe07f92845dea1d78cffbbbef385}
+## HTML5 Widgets {#b4debe07f92845dea1d78cffbbbef385}
 
 
 **HTML5 widgets** are JavaScript apps that are programmed outside of Bloom and can be embedded in Bloom book pages. These widgets open up many options for making books interactive.
@@ -102,10 +102,10 @@ To view just one example of a Bloom book with a widget, go to page 9 below:
 Team Collections enable a team to collaborate on a single collection of books. Team members check books in and out as they work on them, and use the Dropbox file-sharing service to synchronize files between their computers.
 
 
-See **[Problem Internal Link]** to learn more.
+See [Team Collections : Introduction](/team-collections-intro) to learn more.
 
 
-## Spreadsheet import/export {#04fd63f5a0fa443bb635115674b580a2}
+## Spreadsheet Import/Export {#04fd63f5a0fa443bb635115674b580a2}
 
 
 **Spreadsheet export/import** allows you to export the contents of a Bloom book to a specially formatted Excel spreadsheet, and import the content back into a Bloom book. While there are some limitations on what can be exported and imported, this can be a convenient way to add translations into one or more new languages to a Bloom book.
@@ -157,6 +157,9 @@ Bloomlibrary.org collects anonymized analytics data from books read online, in B
 
 
 ![](./enterprise-features.11e558d5-e2e8-4ce9-8e6f-3a540483d831.png)
+
+
+## Analytics for Publishers {#ae770d7a09f34b598f3db3b811de476d}
 
 
 See [Bloom Analytics For Publishers](/analytics-for-publishers) to learn more.

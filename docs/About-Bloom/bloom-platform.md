@@ -80,7 +80,7 @@ Organizations interested in mass distribution of Bloom books to a people group c
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-**Bloom Enterprise** is a special service for organizations that need additional program and publishing features. For more information about Bloom Enterprise, see [About Bloom Enterprise](/bloom-enterprise-overview).
+**Bloom Enterprise** is a special service for organizations that need additional program and publishing features. For more information about Bloom Enterprise, see [About Bloom Enterprise Index](/about-bloom-enterprise).
 
 
 
