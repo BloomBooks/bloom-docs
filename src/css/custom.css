@@ -41,6 +41,15 @@
      border-top: solid white thin; */
 }
 
+/* Change from docusaurus default of roman numerals to letters */
+ol ol {
+  list-style-type: lower-alpha;
+}
+
+/* Add bold to the heading part of the expandable details (e.g. the question of an FAQ) */
+details summary {
+  font-weight: var(--ifm-font-weight-bold);
+}
 
 
 @media print {
