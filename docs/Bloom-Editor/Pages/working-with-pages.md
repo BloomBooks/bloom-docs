@@ -1,5 +1,5 @@
 ---
-title: Pages in Bloom
+title: Working with Pages
 sidebar_position: 0
 slug: /working-with-pages
 ---
@@ -303,5 +303,5 @@ To choose a different page layout for the selected page:
 </div>
 
 
-Bloom lets you customize your page layout beyond the templates provided in the page layout chooser. See [Page Layouts in Bloom](/working-with-page-layouts) to learn more.
+Bloom lets you customize your page layout beyond the templates provided in the page layout chooser. See [Working with Page Layouts](/working-with-page-layouts) to learn more.
 

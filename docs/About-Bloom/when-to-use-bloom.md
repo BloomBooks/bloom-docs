@@ -47,5 +47,5 @@ Bloom is not good for every purpose. Here are a number of needs that Bloom does 
 - Custom branding and book designs
 - A dedicated collection on the Bloom Library website
 
-To learn more about Bloom Enterprise, see [Bloom Enterprise Service Overview](/about-bloom-enterprise). 
+To learn more about Bloom Enterprise, see [Bloom Enterprise Service Overview](/bloom-enterprise-overview). 
 

@@ -1,6 +1,6 @@
 ---
 title: Set up Dropbox on your computer
-sidebar_position: 2
+sidebar_position: 3
 slug: /team-collections-setting-up-dropbox
 ---
 

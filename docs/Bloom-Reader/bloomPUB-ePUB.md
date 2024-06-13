@@ -1,6 +1,6 @@
 ---
 title: BloomPUB vs. ePUB- What’s the Difference
-sidebar_position: 2
+sidebar_position: 1
 slug: /bloomPUB-ePUB
 ---
 
@@ -18,7 +18,7 @@ BloomPUB files faithfully display Bloom books exactly as they appear in Bloom, i
 ePUB is a [digital book standard](https://www.w3.org/publishing/epub32/epub-spec.html) widely used in the book industry and by other organizations developing digital books for communities. It is a distribution and interchange format for digital publications and documents. ePUB files can be read in a variety of e-readers on various platforms. Bloom can export books to the ePUB format.
 
 
-# Strengths and Weaknesses {#993a27b05d384a018b59c058d50bafd7}
+# Strengths and weaknesses {#993a27b05d384a018b59c058d50bafd7}
 
 
 ePUB’s strength (distribution and interchange) is also its weakness: ePUB files can be used in a wide range of platforms and apps, but the features available in ePUB books are not as rich as what is available within Bloom using BloomPUB files. Since different apps implement the ePUB standard in different ways, there is no way to be sure that more complex elements of an ePUB will be faithfully rendered on any given platform. One important issue is that some ePUB readers will play back recorded audio while others only use a ‘text-to-speech’ function to play audio. If the Bloom book is a Talking Book, it is essential that the e-reader play back the recorded narration.
@@ -36,7 +36,7 @@ There are also some things that can be done in ePUB that Bloom does not support 
 - **Side-by-side content**. It is easy in Bloom to create custom pages with content that is side-by-side. The ePUB standard allows for such layout, and other ePUB creation tools enable you to do that, but any side-by-side layout is lost when a Bloom book is exported to ePUB. Instead, all of the page content appears in a column, one below the other.
 - **Landscape orientation books**. ePUB supports both portrait and landscape orientations as does Bloom, but Bloom landscape books are exported to ePUB in portrait orientation.
 
-# Why Use ePUB? {#e4a7241b51f14827aaf5cc2a60c23966}
+# Why use ePUB? {#e4a7241b51f14827aaf5cc2a60c23966}
 
 
 If Bloom books are richer in features and there are free BloomPUB readers available, why would you use ePUB? The primary reason to use ePUB is so that your books can be exchanged with other platforms and read on a wider range of devices. 
