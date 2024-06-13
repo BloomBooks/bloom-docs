@@ -25,7 +25,7 @@ In addition, a branding pack can declare:
 - Default license notice
 - Default license notes
 
-Creating a custom branding pack is a paid service. If you think you need a custom Xmatter pack, contact the Bloom team at [info@bloomlibrary.org](mailto:info@bloomteam.org). 
+Creating a custom branding pack is a paid service. If you think you need a custom Xmatter pack, contact the Bloom team at [enterprise@bloomlibrary.org](mailto:enterprise@bloomlibrary.org). 
 
 
 :::note
@@ -116,5 +116,5 @@ _(from Suluh-INOVAS)_
 Making a branding pack in Bloom is like decorating a house: it’s easy, but there are limits. In contrast, making a custom **Front/Back Matter pack** is like moving walls or adding on new rooms. With a custom front/back matter pack (called an **Xmatter pac**k), you can add new front and back matter pages and new branding slots. Custom Xmatter packs must be created by a Bloom developer.
 
 
-Creating custom Xmatter packs is a paid service. If you think you need a custom Xmatter pack, contact the Bloom team at [info@bloomlibrary.org](mailto:info@bloomteam.org). 
+Creating custom Xmatter packs is a paid service. If you think you need a custom Xmatter pack, contact the Bloom team at [enterprise@bloomlibrary.org](mailto:enterprise@bloomlibrary.org). 
 

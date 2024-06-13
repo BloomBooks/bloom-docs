@@ -191,6 +191,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 
 ## Other Improvements {#058e8f3eee2a41dd8852d755b5b8d789}
 
+- We retired the “Spiritual” topic and added a “Bible” topic. Books with a copyright matching the most common Bible-material books will automatically be changed. Others will lose their topic. We recommend the “Culture” topic if “Bible” isn’t a good descriptor.
 - We Improved our OPDS API.
 - We improved vertical alignment with overflow in device layouts, but only somewhat. If you are putting large amounts of text in a box such that it doesn’t all fit, we recommend changing the vertical alignment to “Top”.
 - We added a message box that invites users to join the [Bloom Community Forum](https://community.software.sil.org/c/bloom/5).
