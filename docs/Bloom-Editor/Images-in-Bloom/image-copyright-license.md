@@ -32,7 +32,7 @@ If an image does not have copyright and licensing information, Bloom will show a
 To add copyright and license information to an image, do the following: 
 
 1. Hover your mouse over the **red question mark ❓**.
-	- Then click on the **green button** that appears. Bloom will show you the _Copyright and License_ dialog box.
+	- Then click on the **green button** that appears. Bloom will show you the `Copyright and License` dialog box.
 
 	![](./image-copyright-license.ffdc515f-a515-4a1d-b6b6-61b4513c6452.png)
 
@@ -46,7 +46,7 @@ To add copyright and license information to an image, do the following:
 	
 	
 
-3. `Copyright Year`: Type the for this image.
+3. `Copyright Year`: Type the **copyright year** for this image.
 4. `Copyright Holder`: Type the name of the **copyright holder**.
 
 	![](./image-copyright-license.81d881a1-9330-4405-86f8-0c7f31bb1c9a.png)
@@ -62,26 +62,28 @@ To add copyright and license information to an image, do the following:
 
 :::note
 
-License information is optional: Bloom adds a **All Rights Reserved** license by default.
+License information is optional: Bloom adds an **All Rights Reserved** license by default.
 
 :::
 
 
 
-1. Select the appropriate license information for this image.
-	1. For example, sharing with a Creative Commons CC-BY license:
 
-		![](./image-copyright-license.d484992f-5340-45fc-95c0-41b302db5f3d.png)
+There are multiple license options for images:
 
-	2. You can also restrict this image from being shared:
 
-	![](./image-copyright-license.86457cb0-3f12-4dfe-8d77-915ba3d8fe10.png)
+![](./image-copyright-license.8eb16610-bd52-4b17-98e3-15dd0986668b.png)
 
+1. To let anyone use this image freely, choose `Anyone can use it however they want.`
+2. You can also share with a [Creative Commons CC-BY](https://creativecommons.org/share-your-work/cclicenses/) license.
+	1. Check/uncheck the checkboxes to customize the Creative Commons license for this image.
+3. By **default**, Bloom will **restrict** this image from being modified or copied.
+4. `Other`: You can also set your own license, but this is discouraged because they are difficult to write, interpret, and enforce.
 
 ### Apply Copyright and License Information to All Images? {#f60e051f9b7c48f1b368d945c9a16ada}
 
 
-After you click OK, Bloom will ask you if you want to apply the same copyright and license information to all the images in your book:
+After you click `OK`, Bloom will ask you if you want to apply the same copyright and license information to **all** the images in your book:
 
 
 ![](./image-copyright-license.ba186003-b334-449b-a1a5-28786b790cf1.png)
@@ -92,10 +94,10 @@ After you click OK, Bloom will ask you if you want to apply the same copyright a
 # Add Image Credits to Your Book’s Title Page {#f21c5a3809954b64b7cd34c7da5d880a}
 
 
-You can easily add a summary of the copyright and license information for all the images in your book to the Title Page.
+You can easily add a summary of the copyright and license information for **all** the images in your book to the Title Page.
 
 1. Go to the **Title Page** for the book.
-2. Click on the information ℹ tab in the _Contributions bubble_ (on the right-hand side).
+2. Click on the information ℹ tab in the **Contributions bubble** (on the right-hand side).
 3. Click on the `Paste Image Credits` link.
 4. Bloom will gather the image credit information you have provided for all the images in the book and put it in this box in summary form.
 
