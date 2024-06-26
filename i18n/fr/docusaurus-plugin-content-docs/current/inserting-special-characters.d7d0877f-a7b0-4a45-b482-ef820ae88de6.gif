@@ -5,7 +5,7 @@
         <meta http-equiv="content-type" content="text/html;charset=utf-8" />
         <meta name="copyright" content="Copyright 2024 Imgur, Inc." />
         <meta id="viewport" name="viewport" content="width=840, user-scalable=yes" />
-        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1712675137" />
+        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1719243246" />
 
         <style type="text/css">
             #content, #video {
@@ -56,26 +56,9 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-M6N38SF');</script>
 <!-- End Google Tag Manager -->
-<!-- Facebook Tag -->
-<script type="text/javascript">
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-    fbq('init', '742377892535530');
-    fbq('track', 'PageView');
-
-    if (document.location.search === '?reg') {
-        fbq('track', 'CompleteRegistration');
-    }
-</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=742377892535530&ev=PageView&noscript=1"/></noscript>
-<!-- End Facebook tag -->
 
 
-        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1712675137"></script>
+        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1719243246"></script>
 <![endif]-->
     </head>
     <body id="body">
@@ -127,7 +110,7 @@
             </div>
             <progress value="0" max="100" min="0"></progress>
             <div class="video-loader"></div>
-            <script id="scriptP6Z8jUS" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1712675137"></script>
+            <script id="scriptP6Z8jUS" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1719243246"></script>
 
             <meta itemprop="thumbnailUrl" content="https://i.imgur.com/P6Z8jUSh.jpg" />
             <meta itemprop="contentURL" content="https://i.imgur.com/P6Z8jUS.mp4" />
@@ -156,7 +139,7 @@
                 <div class="clear"></div>
             </div>
         </div>
-        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1712675137"></script>
+        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1719243246"></script>
 
         <!-- Firebase -->
 <script type="module">
