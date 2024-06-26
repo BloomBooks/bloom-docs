@@ -66,5 +66,97 @@
   "sidebar.defaultSidebar.category.Installing Bloom": {
     "message": "Installing Bloom",
     "description": "The label for category Installing Bloom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.About Bloom": {
+    "message": "About Bloom",
+    "description": "The label for category About Bloom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bloom Editor": {
+    "message": "Bloom Editor",
+    "description": "The label for category Bloom Editor in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Install Bloom Products": {
+    "message": "Install Bloom Products",
+    "description": "The label for category Install Bloom Products in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Make Your First Book": {
+    "message": "Make Your First Book",
+    "description": "The label for category Make Your First Book in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Pages in Bloom": {
+    "message": "Pages in Bloom",
+    "description": "The label for category Pages in Bloom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Page Layouts": {
+    "message": "Page Layouts",
+    "description": "The label for category Page Layouts in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Text in Bloom": {
+    "message": "Text in Bloom",
+    "description": "The label for category Text in Bloom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Images in Bloom": {
+    "message": "Images in Bloom",
+    "description": "The label for category Images in Bloom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Multilingual Books": {
+    "message": "Multilingual Books",
+    "description": "The label for category Multilingual Books in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Publish Your Book": {
+    "message": "Publish Your Book",
+    "description": "The label for category Publish Your Book in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Interactive Features": {
+    "message": "Interactive Features",
+    "description": "The label for category Interactive Features in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Talking Books": {
+    "message": "Talking Books",
+    "description": "The label for category Talking Books in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Accessible Books for the Visually Impaired": {
+    "message": "Accessible Books for the Visually Impaired",
+    "description": "The label for category Accessible Books for the Visually Impaired in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Sign Language Books": {
+    "message": "Sign Language Books",
+    "description": "The label for category Sign Language Books in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bloom Enterprise": {
+    "message": "Bloom Enterprise",
+    "description": "The label for category Bloom Enterprise in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.About Bloom Enterprise": {
+    "message": "About Bloom Enterprise",
+    "description": "The label for category About Bloom Enterprise in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Embedding Books": {
+    "message": "Embedding Books",
+    "description": "The label for category Embedding Books in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bulk Book Processing": {
+    "message": "Bulk Book Processing",
+    "description": "The label for category Bulk Book Processing in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Book Analytics": {
+    "message": "Book Analytics",
+    "description": "The label for category Book Analytics in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Using Bloom for Large Projects": {
+    "message": "Using Bloom for Large Projects",
+    "description": "The label for category Using Bloom for Large Projects in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Help": {
+    "message": "Help",
+    "description": "The label for category Help in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Page Formatting": {
+    "message": "Page Formatting",
+    "description": "The label for category Page Formatting in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bloom Enterprise - Technical Notes": {
+    "message": "Bloom Enterprise - Technical Notes",
+    "description": "The label for category Bloom Enterprise - Technical Notes in sidebar defaultSidebar"
   }
 }
