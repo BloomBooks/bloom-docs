@@ -28,17 +28,17 @@ In the following, we will present the steps for setting up the Bloom Collections
 
 After your “parent” collection is established and you are ready to start making adaptations of those books into other languages, you need to make your parent collection visible to these other collections.
 
-1. **In the bottom left quadrant of Bloom, scroll to the bottom of the screen.**
-2. **Click on** **SHOW ANOTHER COLLECTION…**
+1. In the bottom left quadrant of Bloom, scroll to the bottom of the screen.
+2. Click on **SHOW ANOTHER COLLECTION…**
 
 ![](./adaptations.433b35a4-f0f5-4697-89f1-692d6bd1dc77.png)
 
 
 Bloom will open **Windows Explorer** to the Bloom folder. There you will find all of your Bloom collections.
 
-1. **Open the collection folder you want to become visible.**
-2. **Find the file ending with** **`.bloomCollection`** **and click on it.**
-3. **Click** **Open****.**
+1. Open the collection folder you want to become visible.
+2. Find the file ending with `.bloomCollection` and click on it.
+3. Click Open.
 
 ![](./adaptations.120a8909-09e6-47bb-95a3-d7376ddab83f.png)
 
@@ -51,16 +51,16 @@ Your chosen “parent” collection will now appear in the bottom left quadrant 
 
 To make an adaptation of one of your books:
 
-1. **In the bottom right quadrant, scroll down past Templates, past Sample Shells, and past any books in the Books From** [**BloomLibrary.org**](http://bloomlibrary.org/)**, until you see your parent collection and its books.**
-2. **Select the book.**
-3. **Click** **MAKE A BOOK USING THIS SOURCE**.
+1. In the bottom right quadrant, scroll down past Templates, past Sample Shells, and past any books in the Books From [BloomLibrary.org](http://bloomlibrary.org/), until you see your parent collection and its books.
+2. Select the book.
+3. Click MAKE A BOOK USING THIS SOURCE.
 
 ![](./adaptations.21c2f879-c8e8-4a50-8446-08d3dadb6911.png)
 
 
 :::tip
 
-Warning: If you use Windows file explorer to create a copy of a Bloom book, that will lead to many problems; that copy will _not_ be a “Bloom-approved” copy of your original book.
+Warning: If you use Windows File Explorer to create a copy of a Bloom book, that will lead to many problems; that copy will _not_ be a “Bloom-approved” copy of your original book.
 
 :::
 
@@ -79,7 +79,7 @@ There are two different workflows depending on whether or not you have reliable 
 Organizations with reliable internet and an Enterprise subscription will want to use Bloom’s powerful collaborative tool: [Team Collections](/team-collections-intro).
 
 
-Team Collections enables multiple people to collaborate together on Bloom books in a convenient, disciplined, and safe way using Dropbox’s cloud services. In a Team Collection, team members can “sign out” books. When they do so, they indicate to the rest of the team that they are working on the book, and while the book is signed out, other team members are prevented from accidentally editing that book, thus erasing their work. In this way, the Team Collection system allows books to be edited in a safe and disciplined way.
+Team Collections enables multiple people to collaborate on Bloom books in a convenient, disciplined, and safe way using Dropbox’s cloud services. In a Team Collection, team members can “sign out” books. When they do so, they indicate to the rest of the team that they are working on the book, and while the book is signed out, other team members are prevented from accidentally editing that book, thus erasing their work. In this way, the Team Collection system allows books to be edited in a safe and disciplined way.
 
 
 Please refer to [Working with Team Collections](/working-with-team-collections) for further details. 
@@ -94,7 +94,7 @@ The above is the typical workflow for organizations with reliable internet and a
 If the internet is unreliable for your team, Bloom’s Team Collections will not be a viable option. In this case, the project coordinator will need to carefully manage by various other means (USB keys, external hard drives, zip files, etc.) the creation, checking, revision, and publishing of new book titles.
 
 
-Once a collection of original titles are ready to be translated, Bloom does offer a means to bundle those files together in a package. 
+Once a collection of original titles is ready to be translated, Bloom does offer a means to bundle those files together in a package. 
 
 
 Click the arrow beside your collection name:

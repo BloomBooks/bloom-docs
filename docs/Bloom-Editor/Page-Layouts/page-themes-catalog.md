@@ -30,7 +30,7 @@ The _default_ page theme is a reasonable choice for all books.
 
 
 
-This theme uses larger margins for large layout sizes and narrower margins for smaller ones.
+This theme uses [larger margins](/margins) for large layout sizes and narrower margins for smaller ones.
 
 
 
