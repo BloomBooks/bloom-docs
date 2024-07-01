@@ -62,7 +62,7 @@ The HTML page then applies these stylesheets in this order (last wins, all other
 A challenge in modern Bloom is that there are a number of things that each influence the final display of a page. These things may even be wanting opposite things to happen. What happens if the Book Settings Dialog is used to turn something on, but a custom css is used to turn it off? Who wins?
 
 
-Since ultimately CSS is involved, the answer is complicated by CSS specificity rules. But given the same specificity, here is the order of precendance for the various sources ( `>>` here means “has precendence over”):
+Since ultimately CSS is involved, the answer is complicated by CSS specificity rules. But given the same specificity, here is the order of precedence for the various sources ( `>>` here means “has precedence over”):
 
 
 :::note
@@ -74,7 +74,7 @@ xmatter HTML &gt;&gt; customBookStyles.css &gt;&gt;  xmatter.json &gt;&gt; brand
 
 
 
-Why is xMatter pug the ultimate winner? This is because, if an xMatter doesn’t have an HTML elemetn for something, it can’t be CSS’ed or JSON’ed into existence.
+Why is xMatter pug the ultimate winner? This is because, if an xMatter doesn’t have an HTML element for something, it can’t be CSS’ed or JSON’ed into existence.
 
 
 Notice that Theme’s position in the list. Not only is it last, but actually any property that appears in Book Settings will win over that described in the Theme, unless CSS specificity rules cause it to overcome the Book Settings.
@@ -101,7 +101,7 @@ If you cannot get what you need using the Book Settings UI or by choosing a them
 
 
 
-If it doesn’t already exist, create a `customBookStyles.css`  in the root of the book folder. **Use an editor that understands CSS** will show you any errors. We highly recommend  [Visual Studio Code](https://code.visualstudio.com/download) (it is free). The basic template is:
+If it doesn’t already exist, create a `customBookStyles.css`  in the root of the book folder. **Use an editor that understands CSS** will show you any errors. We highly recommend [Visual Studio Code](https://code.visualstudio.com/download) (it is free). The basic template is:
 
 
 ```css
@@ -203,7 +203,7 @@ For a long time, highly technical Bloom users have been able to go “under the 
 | --multilingual-editable-vertical-gap                         |                                                                                                                                                                                                                                          |                                                                                                                                                | The space between the different language sections of each block when Bloom is configured to show each block of text in more than one language. [default is _10px_]                                                                                                                                                                                                                                                                                                          | 6.0                      |                     |
 | --page-background-color                                      |                                                                                                                                                                                                                                          |                                                                                                                                                | _background-color_ for the full content of all pages. [default is _white]_                                                                                                                                                                                                                                                                                                                                                                                                  | 6.0                      |                     |
 | --page-gutter                                                |                                                                                                                                                                                                                                          |                                                                                                                                                | additional inner margin for pages of a book. [default is _0mm_ since most Bloom books are too small to need a gutter, or are published as e-books that inherently don’t need a gutter]                                                                                                                                                                                                                                                                                      | 6.0                      |                     |
-| --page-margin                                                |                                                                                                                                                                                                                                          |                                                                                                                                                | margin for all pages. Aspects can be overriden by the more specific --page-margin-* properties.                                                                                                                                                                                                                                                                                                                                                                             | 6.0                      |                     |
+| --page-margin                                                |                                                                                                                                                                                                                                          |                                                                                                                                                | margin for all pages. Aspects can be overriden by the more specific --page-margin-* and —cover-margin-* properties.                                                                                                                                                                                                                                                                                                                                                         | 6.0                      |                     |
 | --page-margin-bottom                                         |                                                                                                                                                                                                                                          |                                                                                                                                                | _padding-bottom_ for inner pages, i.e., not outside cover pages, but including inside cover pages. [default is _12mm_]                                                                                                                                                                                                                                                                                                                                                      | 6.0                      |                     |
 | --page-margin-left                                           |                                                                                                                                                                                                                                          |                                                                                                                                                | basic _padding-left_ for all pages.  It is added to **--page-gutter** for left-side pages.  Also used for _padding-right_ for pages which are inherently symmetrical left vs right.  These include outside cover pages, calendar pages, Device16x9… sized pages, etc. [default is _12mm_]                                                                                                                                                                                   | 6.0                      |                     |
 | --page-margin-right                                          |                                                                                                                                                                                                                                          |                                                                                                                                                | basic _padding-right_ for all pages.  It is added to **--page-gutter** for right-side pages. [default is _12mm_]                                                                                                                                                                                                                                                                                                                                                            | 6.0                      |                     |
@@ -291,4 +291,61 @@ For a long time, highly technical Bloom users have been able to go “under the 
 | .bloom-page:not([class*="Device"]) | Apply only to non-Device layouts |
 | .bloom-page[class*="Landscape"]    | Apply only to Landscape layouts  |
 | .bloom-page[class*="Portrait"]     | Apply only to Portrait layouts   |
+
+
+## Migrating old custom CSS {#93cc6fe2fca8440094dff51b91ebfe60}
+
+
+If you have existing customBookStyles.css files, here are some of the main considerations for moving to the Appearance system. First, just try opening your book in Bloom 6.0 (or later). Go to the book settings dialog and see whether the page theme is Default, Legacy (Bloom 5.6), or something else. If it’s something other than Legacy (Bloom 5.6), you’re lucky… we already did the migration for you. It would be good to check that you like the results and see if there’s anything you want to tweak, but you shouldn’t need to do any more, unless you want to clean up padding, as described in the release notes.
+
+
+If you see “Legacy 5.6” then your book is, for the moment, stuck in the old days. It is using custom CSS that’s not compatible with the Appearance system. Some things in the Book Settings dialog are already disabled, and it’s likely that more new capabilities won’t work over time. We would encourage you to switch over.
+
+
+The first thing to try is just to change the theme to Default. (You could also try some of the others.) This will disable your custom CSS and give you one of the new layouts. One of them might be close enough, especially if you make use of the new Book Settings! Then you can just discard your custom CSS. (Or if you or colleagues are still using 5.6 to work on this book, you may want to keep it until 6.0 moves from Beta to Release.)
+
+
+If you still want custom CSS, we encourage you to see what you can do by setting the variables described above. If you want to do something that can’t be done with them, we’d like to know about it… maybe we can add some more variables.
+
+
+In particular, books get locked into the legacy theme mainly if their customBookStyles.css sets the position and size of the margin box. You can replace such rules using the Appearance system… usually much more easily. For example, if you want just 2mm of margin around your page, and 5mm more on the bottom to show page numbers, in the old system you’d need something like
+
+
+```css
+.Device16x9Portrait .marginBox {
+	top: 2mm;
+	left: 2mm;
+	width: ?mm; /* width of a Device16x9 portrait page minus 4mm */
+	height: ?mm; /* height of a Device16x9 portrait page minus 9mm */
+}
+/* and maybe */
+.Device16x9Portrait.titlePage,
+.Device16x9Portrait.creditgsPage {
+	height: ?mm; /* height of a Device16x9 portrait page minus 4mm, not leaving room for page number */
+}
+.A5Portrait .marginBox {
+	/* ...needs different width and height for a different page size */
+}
+
+/* And similarly for any other page sizes you care about */
+```
+
+
+In the Appearance system, you can just do
+
+
+```css
+.bloom-page {
+	--page-margin: 2mm;
+	--pageNumber-extra-height: 5mm;
+}
+
+/* if you want a bigger margin on A4 you can do it, but the above will work for all sizes where you want 2mm. */
+```
+
+
+You could also set `--page-margin-bottom` to 7mm, but the above is better: it will do the right thing on pages that don’t have numbers and if you use book settings to turn off page numbers.
+
+
+Other things like padding don’t _have_ to be changed; but see [Bloom 6.0 Beta Release Notes](/release-notes-6-0) for how padding has been improved and may make awkward ways of doing things unnecessary. The more you can do with the documented variables, the better your chances for compatibility with future Bloom versions and features.
 
