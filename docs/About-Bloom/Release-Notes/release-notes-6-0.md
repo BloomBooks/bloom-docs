@@ -59,7 +59,11 @@ In previous versions of Bloom, the default margins were rather large, especially
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 5.6 had large margins and always showed a page number.](./release-notes-6-0.c8f6cbea-13b4-4c09-b29e-b49a098b1048.png)
+![](./release-notes-6-0.c8f6cbea-13b4-4c09-b29e-b49a098b1048.png)
+
+
+
+Bloom 5.6 had large margins and always showed a page number.
 
 
 </div><div className='notion-spacer'></div>
@@ -67,7 +71,11 @@ In previous versions of Bloom, the default margins were rather large, especially
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 6.0 ebook with default theme](./release-notes-6-0.b6d4a925-92b1-4170-8e06-c1bd9dafc931.png)
+![](./release-notes-6-0.b6d4a925-92b1-4170-8e06-c1bd9dafc931.png)
+
+
+
+Bloom 6.0 ebook with default theme
 
 
 </div><div className='notion-spacer'></div>
@@ -78,7 +86,11 @@ In previous versions of Bloom, the default margins were rather large, especially
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 6.0 ebook with the “Zero Margin” theme](./release-notes-6-0.ad3c3977-6676-42aa-9a73-0c44dcd10f51.png)
+![](./release-notes-6-0.ad3c3977-6676-42aa-9a73-0c44dcd10f51.png)
+
+
+
+Bloom 6.0 ebook with the “Zero Margin” theme
 
 
 </div><div className='notion-spacer'></div>
@@ -86,7 +98,11 @@ In previous versions of Bloom, the default margins were rather large, especially
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 6.0 with the “Zero Margin” theme](./release-notes-6-0.c96e5fc3-1312-4b3d-8c78-d912404cd93f.png)
+![](./release-notes-6-0.c96e5fc3-1312-4b3d-8c78-d912404cd93f.png)
+
+
+
+Bloom 6.0 with the “Zero Margin” theme
 
 
 </div><div className='notion-spacer'></div>
@@ -112,7 +128,11 @@ The smaller default page margins affect the front and back covers as well as the
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 5.6](./release-notes-6-0.de0bb84e-6e63-4477-a3c4-2077f081a283.png)
+![](./release-notes-6-0.de0bb84e-6e63-4477-a3c4-2077f081a283.png)
+
+
+
+Bloom 5.6
 
 
 </div><div className='notion-spacer'></div>
@@ -120,7 +140,11 @@ The smaller default page margins affect the front and back covers as well as the
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 6.0](./release-notes-6-0.de773b31-cecd-45b5-869e-1c4e3c204c50.png)
+![](./release-notes-6-0.de773b31-cecd-45b5-869e-1c4e3c204c50.png)
+
+
+
+Bloom 6.0
 
 
 </div><div className='notion-spacer'></div>
@@ -143,7 +167,11 @@ In previous versions of Bloom, text was often very close to images:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 5.6, text is too close to the image and edge of page.](./release-notes-6-0.3cffffc1-dcb6-4a14-a131-8f0ab7ba1ce5.png)
+![](./release-notes-6-0.3cffffc1-dcb6-4a14-a131-8f0ab7ba1ce5.png)
+
+
+
+Bloom 5.6, text is too close to the image and edge of page.
 
 
 </div><div className='notion-spacer'></div>
@@ -159,12 +187,12 @@ Bloom can now add padding to text boxes so that they will look a lot better. Thi
 
 1. It considers page margins so that less padding is added if it's not needed to separate the text from the edge of the page.
 
-2. It grows as the font size grows*.
+2. It grows as the font size grows.
 
 
 :::note
 
-Note that in multilingual books, the padding will be based on the font size of the first language.
+In multilingual books, the padding will be based on the font size of the first language.
 
 :::
 
@@ -176,7 +204,11 @@ Note that in multilingual books, the padding will be based on the font size of t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 6.0, Bloom adds padding around the text. It can tell that there is no page margin here, so it adds padding next to the edge of the page, too.](./release-notes-6-0.9035a424-1fd2-481d-aca7-775195d9d141.png)
+![](./release-notes-6-0.9035a424-1fd2-481d-aca7-775195d9d141.png)
+
+
+
+Bloom 6.0, Bloom adds padding around the text. It can tell that there is no page margin here, so it adds padding next to the edge of the page, too.
 
 
 </div><div className='notion-spacer'></div>
@@ -196,7 +228,11 @@ You can now click in the dark area outside of the page in order to hide all the 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![In Bloom 6.0, if you click outside of the page, all the extra editing markup disappears so that you can evaluate how your page will look to readers.](./release-notes-6-0.a67f53fe-3fd3-41b1-9d4e-d1332bfb2c02.png)
+![](./release-notes-6-0.a67f53fe-3fd3-41b1-9d4e-d1332bfb2c02.png)
+
+
+
+In Bloom 6.0, if you click outside of the page, all the extra editing markup disappears so that you can evaluate how your page will look to readers.
 
 
 </div><div className='notion-spacer'></div>
@@ -258,7 +294,11 @@ We’ve made Bloom smarter about where to wrap text, leading to a more balanced 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 6.0 makes titles look more balanced.](./release-notes-6-0.bced1037-a798-4707-9a9b-0f0eb2e2ae37.png)
+![](./release-notes-6-0.bced1037-a798-4707-9a9b-0f0eb2e2ae37.png)
+
+
+
+Bloom 6.0 makes titles look more balanced.
 
 
 </div><div className='notion-spacer'></div>
@@ -269,7 +309,11 @@ We’ve made Bloom smarter about where to wrap text, leading to a more balanced 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Previously, a single word could be stranded on its own.](./release-notes-6-0.26fdf0f8-da54-4475-94a7-436dde0c642c.png)
+![](./release-notes-6-0.26fdf0f8-da54-4475-94a7-436dde0c642c.png)
+
+
+
+Previously, a single word could be stranded on its own.
 
 
 </div><div className='notion-spacer'></div>
@@ -277,7 +321,11 @@ We’ve made Bloom smarter about where to wrap text, leading to a more balanced 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Bloom 6.0 uses smarter text wrapping.](./release-notes-6-0.a2cf52af-e2b2-4130-a411-f34a8ed0fc2a.png)
+![](./release-notes-6-0.a2cf52af-e2b2-4130-a411-f34a8ed0fc2a.png)
+
+
+
+Bloom 6.0 uses smarter text wrapping.
 
 
 </div><div className='notion-spacer'></div>
