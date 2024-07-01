@@ -49,11 +49,19 @@ If you turn off page numbering in the “Default” Page Theme, the page automat
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A5 Landscape Page using the Default Page Theme, with page numbering on.](./page-themes-catalog.3d1f361d-08ce-49bd-9bfe-7a1bd1bf11dd.png)
+![](./page-themes-catalog.3d1f361d-08ce-49bd-9bfe-7a1bd1bf11dd.png)
 
 
 
-![A5 Portrait Page using the Default Page Theme, with page numbering on.](./page-themes-catalog.ea8c05a8-d51d-4ba1-8503-09cd5c68ad5b.png)
+A5 Landscape Page using the Default Page Theme, with page numbering on.
+
+
+
+![](./page-themes-catalog.ea8c05a8-d51d-4ba1-8503-09cd5c68ad5b.png)
+
+
+
+A5 Portrait Page using the Default Page Theme, with page numbering on.
 
 
 </div><div className='notion-spacer'></div>
@@ -99,11 +107,19 @@ When you use the Zero Margin theme, it is important that you adjust the image si
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Device16x9 landscape page using the “Zero Margin” Page Theme, page numbering off.](./page-themes-catalog.cc7905c9-6100-440f-ab1b-c55dc41717f0.png)
+![](./page-themes-catalog.cc7905c9-6100-440f-ab1b-c55dc41717f0.png)
 
 
 
-![Device16x9 portrait page using the “Zero Margin” Page Theme, page numbering off.](./page-themes-catalog.74d7a150-bf85-43fa-9ba4-eee64325772a.png)
+Device16x9 landscape page using the “Zero Margin” Page Theme, page numbering off.
+
+
+
+![](./page-themes-catalog.74d7a150-bf85-43fa-9ba4-eee64325772a.png)
+
+
+
+Device16x9 portrait page using the “Zero Margin” Page Theme, page numbering off.
 
 
 </div><div className='notion-spacer'></div>

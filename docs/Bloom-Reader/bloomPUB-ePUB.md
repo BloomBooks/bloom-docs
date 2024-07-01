@@ -12,7 +12,7 @@ slug: /bloomPUB-ePUB
 Bloom supports two digital book formats — BloomPUB and ePUB. 
 
 
-BloomPUB files faithfully display Bloom books exactly as they appear in Bloom, including audio, video, motion, background music, overlays, etc. If you can do it in Bloom, you can see it in a BloomPUB. BloomPUB files can be read online in [BloomLibrary.org](http://bloomlibrary.org/) or offline using [Bloom Reader](https://play.google.com/store/apps/details?id=org.sil.bloom.reader) (Android) and the [BloomPUB Viewer for Windows](https://github.com/BloomBooks/bloompub-viewer/releases).
+BloomPUB files faithfully display Bloom books exactly as they appear in Bloom, including audio, video, motion, background music, overlays, etc. If you can do it in Bloom, you can see it in a BloomPUB. BloomPUB files can be read online in [BloomLibrary.org](http://bloomlibrary.org/) or offline using [Bloom Reader](https://bloomlibrary.org/bloom-reader) (Android) and the [BloomPUB Viewer for Windows](https://bloomlibrary.org/bloompub-viewer).
 
 
 ePUB is a [digital book standard](https://www.w3.org/publishing/epub32/epub-spec.html) widely used in the book industry and by other organizations developing digital books for communities. It is a distribution and interchange format for digital publications and documents. ePUB files can be read in a variety of e-readers on various platforms. Bloom can export books to the ePUB format.

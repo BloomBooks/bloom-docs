@@ -61,7 +61,7 @@ Special book features and the list of languages represented in the book are also
 ## Bloom Reader {#e383b07bf8834fb494a7f7cd4a6268eb}
 
 
-[Bloom Reader](https://play.google.com/store/apps/details?id=org.sil.bloom.reader) is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features: edge-to-edge images, synchronized audio narration, language switching (for books published with multiple languages), sign language video, audio image descriptions, and page navigation.
+[Bloom Reader](https://bloomlibrary.org/bloom-reader) is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features: edge-to-edge images, synchronized audio narration, language switching (for books published with multiple languages), sign language video, audio image descriptions, and page navigation.
 
 
 ![](./bloom-platform.737972c1-9676-4550-890e-4bec984d61fd.png)

@@ -62,7 +62,7 @@ In the **Edit view:**
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
-![es  fr](./pages.e7c4fa88-fbdc-426a-91ec-63c5caada2b2.png)
+![](./pages.e7c4fa88-fbdc-426a-91ec-63c5caada2b2.png)
 
 
 </div><div className='notion-spacer'></div>

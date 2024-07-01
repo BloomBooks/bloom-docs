@@ -63,7 +63,11 @@ For example, let’s say Awa has a collection of books on her computer (Figure 1
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Figure 1: Awa’s computer](./team-collections-intro.a5aec484-1e2f-4041-a5dd-37ce9015dbcb.png)
+![](./team-collections-intro.a5aec484-1e2f-4041-a5dd-37ce9015dbcb.png)
+
+
+
+Figure 1: Awa’s computer
 
 
 </div><div className='notion-spacer'></div>
@@ -82,7 +86,11 @@ Awa’s collection is a Team Collection, so Bloom creates a shadow collection fo
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Figure 2: Awa’s computer, with a shadow collection folder synchronized to Dropbox.](./team-collections-intro.3e5de6a8-3332-4c2d-adae-89b40ae2bf55.png)
+![](./team-collections-intro.3e5de6a8-3332-4c2d-adae-89b40ae2bf55.png)
+
+
+
+Figure 2: Awa’s computer, with a shadow collection folder synchronized to Dropbox
 
 
 </div><div className='notion-spacer'></div>
@@ -101,7 +109,11 @@ Awa shares the shadow collection folder with her teammate Barkari using Dropbox.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000002)'}}>
 
 
-![Figure 3: Awa’s computer, and the shadow collection synchronized to Barkari’s computer](./team-collections-intro.5dd7715f-d395-49d9-8ef3-85264e126a48.png)
+![](./team-collections-intro.5dd7715f-d395-49d9-8ef3-85264e126a48.png)
+
+
+
+Figure 3: Awa’s computer, and the shadow collection synchronized to Barkari’s computer
 
 
 </div><div className='notion-spacer'></div>
@@ -120,7 +132,11 @@ When Barkari launches a special file in the shadow collection folder, Bloom copi
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Figure 4: Awa’s computer, and Barkari’s computer with a working collection from the synchronized shadow collection](./team-collections-intro.3e8b9c43-bdbe-464b-9b18-81a7a16d5a1d.png)
+![](./team-collections-intro.3e8b9c43-bdbe-464b-9b18-81a7a16d5a1d.png)
+
+
+
+Figure 4: Awa’s computer, and Barkari’s computer with a working collection from the synchronized shadow collection
 
 
 </div><div className='notion-spacer'></div>

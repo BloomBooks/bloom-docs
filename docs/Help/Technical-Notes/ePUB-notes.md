@@ -24,7 +24,7 @@ Starting with Bloom 5.4, you have the option of publishing ePUBs in either **Fix
 
 :::tip
 
-Note that for dependable What You See Is What You Get digital Bloom books, we recommend readers that handle our **BloomPUB** format. Currently, these are: [Bloom Reader](https://bloomlibrary.org/page/create/bloom-reader), [BloomPUB Viewer](https://github.com/BloomBooks/bloompub-viewer/releases), and apps created with [Reading App Builder](https://software.sil.org/readingappbuilder/). These readers also supply analytics back to [BloomLibrary.org](http://bloomlibrary.org/) so that you can see how your books are doing.
+Note that for dependable What You See Is What You Get digital Bloom books, we recommend readers that handle our **BloomPUB** format. Currently, these are: [Bloom Reader](https://bloomlibrary.org/bloom-reader), [BloomPUB Viewer](https://bloomlibrary.org/bloompub-viewer), and apps created with [Reading App Builder](https://software.sil.org/readingappbuilder/). These readers also supply analytics back to [BloomLibrary.org](http://bloomlibrary.org/) so that you can see how your books are doing.
 
 :::
 

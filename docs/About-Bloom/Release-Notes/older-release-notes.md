@@ -804,7 +804,7 @@ At this time, video does not support sound. We know there will be requests for t
 ## 4.0 {#490d6063ca284046a04192a42cdac9d5}
 
 - Publish Tab
-	- Publish Book to [**Bloom Reader**](https://play.google.com/store/search?q=bloom%20reader&c=apps) Android app, which can get from the Play store or another user who has it installed.
+	- Publish Book to [**Bloom Reader**](https://bloomlibrary.org/bloom-reader) Android app, which can get from the Play store or another user who has it installed.
 	- **PDFs are now automatically compressed**, so they are often a small fraction of their previous size.
 	- When you save a PDF, you can now choose CMYK coloring to satisfy some print shops.
 - Collection Tab
