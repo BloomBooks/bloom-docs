@@ -25,7 +25,7 @@ You can now control what information to show on the cover page:
 ### Content Page Settings: Page Themes {#bd291e96f2d2400d860d1c6636cd8df8}
 
 
-Previously, _very_ advanced Bloom users could customize Bloom pages using CSS stylesheets. They could also publish template books using these to share their work with others (see [EFL templates](https://bloomlibrary.org/EFL-education-for-life-org/EFL-Bloom%20templates)). Bloom 6.0 makes this much easier by letting you choose from a small number _Page Themes._  Page Themes are a bundle of margins, borders, and other page settings that work together to shape the look of a book.
+Previously, _very_ advanced Bloom users could customize Bloom pages using CSS stylesheets. They could also publish template books using these to share their work with others (see [EFL templates](https://bloomlibrary.org/EFL-education-for-life-org/EFL-Bloom%20templates)). Bloom 6.0 makes this much easier by letting you choose from a small number of _Page Themes._  Page Themes are a bundle of margins, borders, and other page settings that work together to shape the look of a book.
 
 
 ![](./release-notes-6-0.39beadde-10be-458e-a643-71346b2a97ee.png)

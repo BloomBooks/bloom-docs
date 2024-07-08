@@ -18,7 +18,7 @@ After you have installed Bloom, you can start making books!
 First you’ll need to make a **Collection**. Bloom organizes books as Collections. A collection is a group of books that all share certain characteristics, especially the languages in the books.  
 
 
-[Create a New Collection](/creating-a-new-collection)
+[Create a New Collection](/create-a-new-collection)
 
 
 ## Make a New Book {#4a61ea07b00548198a6c2001b1ecbd27}

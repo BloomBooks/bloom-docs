@@ -87,7 +87,7 @@ You can download Bloom installation program from the [Bloom Library Downloads pa
 :::note
 
 When you open Bloom the first time, Bloom will ask you to create a **collection**. You may do so at this point, or you can create your initial collection later.
-For more details on how to create a collection, see [Create a New Collection](/creating-a-new-collection).
+For more details on how to create a collection, see [Create a New Collection](/create-a-new-collection).
 
 :::
 

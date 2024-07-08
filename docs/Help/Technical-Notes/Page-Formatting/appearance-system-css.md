@@ -54,7 +54,7 @@ The HTML page then applies these stylesheets in this order (last wins, all other
 
 1. `basePage.css` or `basePage-legacy.css`
 2. `appearance.css`
-3. `customBookStyles.css` or `customBookStyles2.css`
+3. `customBookStyles.css`, `customBookStyles2.css`
 
 # Precedence {#c9d68b5d2da14105bb698e7fe97fd3ce}
 
@@ -151,6 +151,12 @@ What if we need something special in Device16x9Portrait versions of the book? Fo
     --marginBox-border-style: solid;
 }
 ```
+
+
+If you set a variable that is a dimension, like `--page-margin` or `--page-gutter`, it must have some unit, such as `px` or `em` or `mm` or `in`. Contrary to usual CSS advice, you _must_ give a unit even if setting the variable to zero. Although it seems redundant (0px = 0em = 0mm = 0in), the browser fails when doing any arithmetic with variables that are supposed to be dimensions but lack a unit, so setting such a variable to zero can have unexpected results that are difficult to diagnose, such as rules that appear to apply but don’t do anything.
+
+
+We are trying to standardize on `mm` as the unit for measurements that should not related to font size, and `em` for ones that should. Following this convention may help with future compatibility if we add a UI control for the variable you are using.
 
 
 As before, it is still possible to write arbitrary CSS rules based on what you find in Bloom HTML. However, we really need to move away from that practice. Instead:
@@ -296,10 +302,10 @@ For a long time, highly technical Bloom users have been able to go “under the 
 ## Migrating old custom CSS {#93cc6fe2fca8440094dff51b91ebfe60}
 
 
-If you have existing customBookStyles.css files, here are some of the main considerations for moving to the Appearance system. First, just try opening your book in Bloom 6.0 (or later). Go to the book settings dialog and see whether the page theme is Default, Legacy (Bloom 5.6), or something else. If it’s something other than Legacy (Bloom 5.6), you’re lucky… we already did the migration for you. It would be good to check that you like the results and see if there’s anything you want to tweak, but you shouldn’t need to do any more, unless you want to clean up padding, as described in the release notes.
+If you have existing customBookStyles.css files, here are some of the main considerations for moving to the Appearance system. First, just try opening your book in Bloom 6.0 (or later). Go to the book settings dialog and see whether the page theme is Default, Legacy (Bloom 5.6), or something else. If it’s something other than Legacy (Bloom 5.6), you’re lucky… we already did the migration for you. It would be good to check that you like the results and see if there’s anything you want to tweak, but you shouldn’t need to do any more, unless you want to clean up padding, as described in the [release notes](/release-notes-6-0).
 
 
-If you see “Legacy 5.6” then your book is, for the moment, stuck in the old days. It is using custom CSS that’s not compatible with the Appearance system. Some things in the Book Settings dialog are already disabled, and it’s likely that more new capabilities won’t work over time. We would encourage you to switch over.
+If you see “Legacy (Bloom 5.6)” then your book is, for the moment, stuck in the old days. It is using custom CSS that’s not compatible with the Appearance system. Some things in the Book Settings dialog are already disabled, and it’s likely that more new capabilities won’t work over time. We would encourage you to switch over.
 
 
 The first thing to try is just to change the theme to Default. (You could also try some of the others.) This will disable your custom CSS and give you one of the new layouts. One of them might be close enough, especially if you make use of the new Book Settings! Then you can just discard your custom CSS. (Or if you or colleagues are still using 5.6 to work on this book, you may want to keep it until 6.0 moves from Beta to Release.)
