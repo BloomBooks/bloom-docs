@@ -57,7 +57,7 @@ The Image Toolbox gives you several methods for inserting images:
 3. A **digital camera** directly attached to your computer.
 4. A **file** in your computer’s file system.
 
-We will focus on the **Image Galleries** and **File** methods below. 
+We will focus on the **Image Galleries** and **File** methods below.
 
 
 ## Add an Image From an Image Gallery {#de4d254b555a4c378a635319b1973cc1}
@@ -65,7 +65,7 @@ We will focus on the **Image Galleries** and **File** methods below.
 
 In this section, we will show how to add an image from the free **Art of Reading** image gallery from SIL International. (If you do not have the Art of Reading installed, you can find instructions on how to install it in [Install Art of Reading](/install-art-of-reading).)
 
-1. In the _Image Toolbox_, click on the **`Image Galleries`** tab.
+1. In the `Image Toolbox`, click on the `Image Galleries` tab.
 2. Type a **keyword** into the search box.
 
 	:::note
