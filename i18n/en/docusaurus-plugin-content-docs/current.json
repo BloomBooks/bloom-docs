@@ -162,5 +162,9 @@
   "sidebar.defaultSidebar.category.The Main Bloom Window": {
     "message": "The Main Bloom Window",
     "description": "The label for category The Main Bloom Window in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bloom Reader App": {
+    "message": "Bloom Reader App",
+    "description": "The label for category Bloom Reader App in sidebar defaultSidebar"
   }
 }
