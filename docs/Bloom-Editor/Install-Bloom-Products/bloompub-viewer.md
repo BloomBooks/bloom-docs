@@ -1,5 +1,5 @@
 ---
-title: Install & Use BloomPUB Viewer
+title: Install BloomPUB Viewer
 sidebar_position: 2
 slug: /bloompub-viewer
 ---
@@ -15,9 +15,6 @@ BloomPUB Viewer is a Windows program that allows you to view BloomPUB files on y
 
 
 
-## Install BloomPUB Viewer {#af52be2640204e52943fa6aefb612b27}
-
-
 To install BloomPUB Viewer:
 
 1. Go to the [BloomPUB Viewer download page](https://bloomlibrary.org/page/create/page/bloompub-viewer).
@@ -29,19 +26,4 @@ To install BloomPUB Viewer:
 4. The program will install and open:
 
 	![](./bloompub-viewer.8559c64d-9125-44ea-86c0-75d7bbf47137.png)
-
-
-## Use BloomPUB Viewer {#820ea236bc25473d93275a5563de0c76}
-
-
-Follow these steps to use BloomPUB Viewer:
-
-
-:::note
-
-Content coming soon.
-
-:::
-
-
 

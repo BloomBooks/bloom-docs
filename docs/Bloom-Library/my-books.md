@@ -1,6 +1,6 @@
 ---
 title: My Books
-sidebar_position: 7
+sidebar_position: 4
 slug: /my-books
 keywords: [Bloom Library]
 ---

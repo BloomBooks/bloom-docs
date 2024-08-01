@@ -66,7 +66,7 @@ To create a collection, Bloom needs to gather some basic information about the b
 
 When you start Bloom for the first time, Bloom will show you a window that lets you `Open/Create Collections`_._ 
 
-- Click `Create New Collection`.
+- Click **`Create New Collection`**.
 
 ![](./create-a-new-collection.4974314b-e0d0-490f-970c-5e34692446fc.png)
 
@@ -140,7 +140,7 @@ Bloom versions prior to 5.5 use Andika New Basic as their default font.
 You may add details about the Language Location (`Country`, `Province`, and/or `District`).
 
 
-This step is optional, and you can also add this information later in the **Collection Settings**.
+This step is optional. You can also add this information later in the Collection Settings.
 
 
 :::note
@@ -162,17 +162,17 @@ The language location will appear on the **title page** of books in this collect
 ### Name the Collection {#79d1ab39f9ef4b5fb6b41e5401e60b15}
 
 
-You need to give each collection a name. The `Collection Name` is used for the folder that contains your collection’s books.
+The collection name is the name that Bloom will give the folder for your collection’s books.
 
 
 ![](./create-a-new-collection.32e33ca2-840a-48c4-a021-2d24448e7814.png)
 
-1. Type a `Collection Name` for your collection.
+1. Provide a `Collection Name` for your collection.
 2. Click `Next`.
 
 :::note
 
-The `Collection Name` must be different than all your other project names. If you choose a collection name that already exists on your computer, Bloom will prompt you to choose a different name.
+The collection name must be different than all your other project names. If you choose a collection name that already exists on your computer, Bloom will prompt you to choose a different name.
 ![](./create-a-new-collection.8abf97ec-3e8d-4e38-9167-5c3f5d362fbd.png)
 
 :::
@@ -190,22 +190,39 @@ Now you are `Ready To Create Your New Collection`.
 
 - Click `Finish`.
 
-Bloom will create your collection.
+Bloom will create your new collection.
 
 
 ## Now You Are Ready To Make a Book! {#c8dab090b53045d287c08826526bcd44}
 
 
-After Bloom creates your collection, Bloom will show you the **Bloom Editor** window.
+After Bloom creates your new collection, Bloom will show you the Bloom Editor window. 
 
 
-The **Collection pane** (in the upper-left corner of the screen) is empty — ready for you to fill it with books!
+The Collection pane (in the upper-left corner of the screen) is empty — ready for you to fill it with books!
 
 
 ![](./create-a-new-collection.2cbd605c-a74e-40e1-9b7e-94d4b9a8bbd0.png)
 
 
 See [Create a New Book](/creating-a-new-book) to learn about creating books.
+
+
+## Open or Create a Different Collection {#d99e8fe85cff4e22b4371f8dbfa77dae}
+
+
+If you are already using the Bloom Editor and you want to **open** or **create** a **different** collection:
+
+1. Click the the `Other Collection` button:
+
+	![](./create-a-new-collection.d7dade63-222e-4a0a-a770-6bd74ab08572.png)
+
+2. A window will open with multiple options:
+	1. `Create New Collection`: Click to create a brand new collection (see
+	2. **Open a different collection**: If available, click to open a different collection in Bloom.
+	3. `Browser for another collection on this computer`: Click to search for another collection somewhere else on your computer.
+
+		![](./create-a-new-collection.1b994465-f60e-4351-afd4-241912f05abf.png)
 
 
 ## Learn More About Collections {#f0459dea41314721be50cf07647e463e}
