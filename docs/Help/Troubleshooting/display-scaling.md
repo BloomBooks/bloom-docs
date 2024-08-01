@@ -1,6 +1,6 @@
 ---
 title: How to Disable Display Scaling When Creating a Video
-sidebar_position: 13
+sidebar_position: 14
 slug: /display-scaling
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Team Collections - Troubleshooting
-sidebar_position: 10
+sidebar_position: 11
 slug: /team-collections-problems
 ---
 

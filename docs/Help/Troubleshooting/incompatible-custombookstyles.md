@@ -1,6 +1,6 @@
 ---
 title: Incompatible customBookStyles.css
-sidebar_position: 11
+sidebar_position: 12
 slug: /incompatible-custombookstyles
 ---
 

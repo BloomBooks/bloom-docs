@@ -1,6 +1,6 @@
 ---
 title: Is Bloom right for my project?
-sidebar_position: 3
+sidebar_position: 4
 slug: /when-to-use-bloom
 ---
 

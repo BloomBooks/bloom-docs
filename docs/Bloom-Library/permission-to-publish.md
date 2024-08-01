@@ -1,6 +1,6 @@
 ---
 title: Permission to Publish- Copyrights, licensing, and attribution in Bloom Library
-sidebar_position: 3
+sidebar_position: 6
 slug: /permission-to-publish
 keywords: [publish, copyright, license, creative commons]
 ---
