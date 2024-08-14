@@ -6,6 +6,30 @@ slug: /image-license-problem
 
 
 
+# Oops! There's a Problem with Your Picture {#9aa0ba0b1cc24b1bab0c8d1578228153}
+
+
+Sometimes Bloom can't add special information to your picture. When this happens, we need your help to fix it.
+
+
+Here's what to do:
+
+1. Find the picture that didn't work on your computer or phone.
+2. Open the picture with any program that lets you see pictures.
+3. Save the picture again.
+4. Choose "Save As" or "Export".
+5. Pick a new name for the picture (like adding "fixed" to the end).
+6. Save it
+
+That's it! You've helped fix the problem. Now try importing your new picture to our app again. If you still have trouble, let us know and we'll help you out!
+
+
+# Technical Details for the Curious {#ca704c77e0e04805b58fa680d7f88c88}
+
+
+If you require some background information, please read on.
+
+
 Occasionally, Bloom has a problem “reading” the copyright and license from an image file when importing it.  When this happens, Bloom will import the image, but the copyright and license information will not be imported.  
 
 
@@ -16,12 +40,6 @@ Note: some images have the copyright and license locked so that they cannot be c
 :::
 
 
-
-
-To jump straight to solutions to this problem, please click [here](/image-license-problem#c08da31e538f4ef8bfbe511a2d29cd5b).
-
-
-If you require some background information, please read on…
 
 
 ## How image files are structured {#8e7965ff1b56479ea419fd139657dbac}
