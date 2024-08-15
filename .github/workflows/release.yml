@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - name: Setup Node.js
@@ -33,7 +33,7 @@ jobs:
       - name: copy-static-docs
         run: yarn copy-static-docs
       - name: Commit New Source Material
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: GHAction - Commit content changes pulled from notion
       - name: Crowdin
@@ -41,7 +41,7 @@ jobs:
         env:
           SIL_BLOOM_DOCS_CROWDIN_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_CROWDIN_TOKEN }}
       - name: Commit New Translations
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: GHAction - Commit incoming translations from Crowdin
       - name: Build Docusaurus instance
