@@ -1,6 +1,6 @@
 ---
 title: Overview of the Bloom Platform
-sidebar_position: 3
+sidebar_position: 2
 slug: /bloom-platform
 ---
 
