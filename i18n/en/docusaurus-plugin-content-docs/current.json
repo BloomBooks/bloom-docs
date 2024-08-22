@@ -162,5 +162,25 @@
   "sidebar.defaultSidebar.category.The Main Bloom Window": {
     "message": "The Main Bloom Window",
     "description": "The label for category The Main Bloom Window in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Collections and Books": {
+    "message": "Collections and Books",
+    "description": "The label for category Collections and Books in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Decodable Readers": {
+    "message": "Decodable Readers",
+    "description": "The label for category Decodable Readers in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Leveled Readers": {
+    "message": "Leveled Readers",
+    "description": "The label for category Leveled Readers in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bloom Reader App": {
+    "message": "Bloom Reader App",
+    "description": "The label for category Bloom Reader App in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Team Collection - Technical Notes": {
+    "message": "Team Collection - Technical Notes",
+    "description": "The label for category Team Collection - Technical Notes in sidebar defaultSidebar"
   }
 }
