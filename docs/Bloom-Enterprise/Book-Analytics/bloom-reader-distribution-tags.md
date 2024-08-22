@@ -12,7 +12,7 @@ Please refer to the following:
 [How to Collect Bloom Reader Analytics by Device](/how-to-collect-bloom-reader-analytics)
 
 
-[Measuring Your Reach with Bloom Analytics](/br-analytics)
+[Measure Your Reach with Bloom Analytics](/br-analytics)
 
 
 [Analytics Fields](/analytic-fields) 

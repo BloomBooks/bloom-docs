@@ -1,28 +1,28 @@
 ---
-title: Measuring Your Reach with Bloom Analytics
+title: Measure Your Reach with Bloom Analytics
 sidebar_position: 1
 slug: /br-analytics
 ---
 
 
 
-In a “customer interview,” Richard said
+In a “customer interview,” a user communicated that:
 
 
-> It’s a bit confusing sometimes for clients like us, the idea of tagging and branding books. Perhaps their kind of documentation around that could be clearer. We recently suggested it would be useful to know what the analytics fields are so that a new client will know exactly what the app is able to report and not able to report. A more user-friendly approach with the documentation around the product. (**Tagging/branding books: does that have to do with the types of books, like biography or fiction?)** No, tagging is more to do with saying who owns the books. Who PAID for the project? In PNG where we’ve had two phases of the Rise Project plus two other projects, we need to differentiate those books in the database so those users can brand the books in different ways so that you know these books were from a particular project. [It’s a] nice problem to have because we’re using it in more places for different projects for different donors, different provinces. They need to improve the documentation around it so it’s clearer. At the moment we rely on SIL-PNG to do all of that. We don’t do it in-house. We give them the books; say it's for this project. But then when we have to extract the data from the database, we need to say okay, these books are for Rise 1; these books are for Rise 2. These users are for that other project; so we're kind of still feeling our way with that.
+> It's sometimes confusing for clients like us to understand tagging and branding books. The documentation could be clearer. We suggested that it would be helpful to know what analytics fields are available so new clients know what the app can and can't report. Tagging isn’t about book genres like biography or fiction; it's about identifying who owns the books or who funded the project. In PNG, we have different projects like the Rise Project, and we need to differentiate the books in the database based on these projects. We currently rely on SIL-PNG to manage this, but clearer documentation would help us handle it better on our own.
 
 
 # Summary {#b0e5acd8a00642c885a4608952bfd96b}
 
 
+Below is an overview of the statistics you will see when you view statistics for a collection:
+
+
 ![](./br-analytics.c1d02cb6-1524-494c-8885-9eeede9c78c3.png)
 
-
-| **❶** | The analytics page opens with the **Overview** selected. For greater specificity, click on the arrow to access a dropdown list of other analytics for your organisation.  |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **❷** | By default, analytics are shown for **ALL TIME**. To see analytics for a particular date range. click the calendar button and choose a start and end date.                |
-| **❸** | To download a PNG image of the page, or a detailed CSV file, click the corresponding icon.                                                                                |
-
+1. The analytics page opens with the `Overview` selected. For greater specificity, click the drop-down arrow to access a list of other analytics for your organization.
+2. By default, analytics are shown for `ALL TIME`. To see analytics for a particular date range, click the calendar button and choose a start and end date.
+3. To download a PNG image of the page, or a detailed CSV file, click the corresponding icon.
 
 ### Events that we measure {#6731ec339fee41c5b10a3848d3035992}
 

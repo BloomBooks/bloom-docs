@@ -1,6 +1,6 @@
 ---
 title: How to distribute Bloom books on SD Cards or Phones
-sidebar_position: 3
+sidebar_position: 4
 slug: /BR-distribution
 ---
 

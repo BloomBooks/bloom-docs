@@ -41,7 +41,7 @@ Each report comes with buttons to get an image or a spreadsheet file of that dat
 ![](./analytics-for-publishers.240891df-ba33-44a2-9839-59c090f09abe.png)
 
 
-## Advanced low level access to analytics data {#6607be6ec44f4c78bb9620e9d319af94}
+## Advanced Low Level Access to Analytics Data {#6607be6ec44f4c78bb9620e9d319af94}
 
 
 We can also supply the raw data to your project through access to our SQL database. You can use this with your own custom dashboards.
@@ -53,7 +53,7 @@ See [Available SQL Fields](https://docs.google.com/spreadsheets/d/1jvO_YHpcoYQyO
 Example dashboards using this data: [PNG RISE](https://www.inclusiveducation.com/rise), [PNG Western Province E-Learning](https://www.inclusiveducation.com/wp-elearning)
 
 
-## Events that we measure {#f82b211cce6b401dab71e5368e8cc91e}
+## Events We Measure {#f82b211cce6b401dab71e5368e8cc91e}
 
 
 All Bloom Player contexts (Bloom Library, Bloom Reader, BloomPUB Viewer, RAB apps)
@@ -79,7 +79,7 @@ No events at this time:
 - Share Link to app on Play Store
 - EPUB
 
-## User Information that we collect {#8291b5519b604551adbc11fa7ba51112}
+## User Information We Collect {#8291b5519b604551adbc11fa7ba51112}
 
 
 Web
@@ -103,7 +103,7 @@ Bloom Reader only:
 - Hardware info
 - Android version?
 
-## Difficulties getting analytics {#02b92e05ad0b4d3bbe7ca3e26fefbad4}
+## Difficulties Getting Analytics {#02b92e05ad0b4d3bbe7ca3e26fefbad4}
 
 - Getting analytics from devices that are normally offline
 - No internet
@@ -122,13 +122,13 @@ Bloom Reader only:
 # Analytics Fields {#4b18c83470b04991ac20fb5d9eed2854}
 
 
-> View field documentation
+See [Analytics Fields](/analytic-fields) 
 
 
 # Internet Connection Issues {#68ca19aacadc4babbddfca08ca13acb4}
 
 
-## How much bandwidth? {#6a6891fae43f4140ba3109de49c4ae52}
+## How Much Bandwidth? {#6a6891fae43f4140ba3109de49c4ae52}
 
 
 These are the most common analytics events sent by Bloom Reader:
@@ -141,20 +141,19 @@ These are the most common analytics events sent by Bloom Reader:
 Each event is less than 3KB. So a person who runs Bloom Reader, reads 2 books, then quits will send less than 18KB.
 
 
-## What if the user is not connected to the internet? {#60d35172533f4104baaa59efc2b2baa8}
+## What if the User Is Not Connected to the Internet? {#60d35172533f4104baaa59efc2b2baa8}
 
 
 If the user is not connected to the internet, Bloom Reader will cache their events. The cache is limited to 1000 events.
 
 
-To prompt Bloom Reader to send all of its events _right now_, open the menu:
+To prompt Bloom Reader to send all of its events right now:
 
+1. Open the Bloom Reader menu:
 
-![](./analytics-for-publishers.62cb793a-d517-4adf-af98-b65de8d8fe7f.png)
+	![](./analytics-for-publishers.62cb793a-d517-4adf-af98-b65de8d8fe7f.png)
 
-
-At the bottom of this screen, you will see Bloom Reader’s progress in sending the events:
-
+2. At the bottom of this screen, you will see Bloom Reader’s progress in sending the events:
 
 ![](./analytics-for-publishers.e4eee362-ceb8-4d50-9b43-58b8c1d339f3.png)
 

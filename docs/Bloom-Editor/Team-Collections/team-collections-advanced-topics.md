@@ -6,7 +6,7 @@ slug: /team-collections-advanced-topics
 
 
 <details>
-<summary>Moving a book from one collection to another</summary>
+<summary>Move a book from one collection to another</summary>
 
 Sometimes a book needs to be moved from one collection to another. For example, suppose you have multiple Team Collections organized according to grade levels or difficulty. After reassessing a book’s level of difficulty, you decide it needs to be moved to a different collection.
 
@@ -20,7 +20,7 @@ The procedure to do this is as follows:
 </details>
 
 <details>
-<summary>Locking down a book to prevent further modifications</summary>
+<summary>Lock down a book to prevent further modifications</summary>
 
 There are several ways you can “lock down” a book to prevent further modification: 
 
@@ -34,7 +34,7 @@ There are several ways you can “lock down” a book to prevent further modific
 </details>
 
 <details>
-<summary>Retiring a Team Collection</summary>
+<summary>Retire a Team Collection</summary>
 
 The team collection Administrator may wish to “retire” a particular Team Collection in order to prevent accidental book modification or deletions. This might happen if a team has completed work on a book collection, or if collaboration on the book collection is no longer needed or desired. 
 
@@ -52,19 +52,15 @@ The team collection Administrator can change the Team Collection back into a reg
 </details>
 
 <details>
-<summary>Changing the name of a Team Collection</summary>
+<summary>Change the name of a Team Collection</summary>
 
-When you [create a Team Collection](/team-collections-getting-started#6035d8998d5d42a4b66a19e86590d845), you are warned that you will not be able to change the name of the collection later. This is not _exactly_ true: it is possible to change the name, but it’s painful. If you find yourself in dire circumstances and must change the Team Collection name, here is how you can do it: 
+When you [create a Team Collection](/team-collections-getting-started#6035d8998d5d42a4b66a19e86590d845), you are warned that you will not be able to change the name of the collection later. This is not _exactly_ true: it is possible to change the name, but it’s painful. If you find yourself in dire circumstances and must change the Team Collection name, see [Change a Team Collection Name](/change-team-collection-name).
 
-1. The Team Collection Administrator “retires” the Team Collections, following the instructions in [Retiring a Team Collection](/team-collections-advanced-topics#3a6243f616134809b5b9c06e5748094f) above. (Note that this requires that all books be checked in.)
-2. The Team Collection Administrator deletes shadow folder, so that it is removed from all team members’ computers. If for some reason the Administrator cannot delete the shadow collection from the team members’ computers, the team members should be sure they have removed the shadow collection from their computers.
-3. The Team Collection Administrator renames the retired Team Collection (which is now a “regular” Bloom collection).
-4. The Team Collection Administrator follows the regular instructions to create a Team Collection from the collection (see [Getting Started with Team Collections](/team-collections-getting-started)).
 
 </details>
 
 <details>
-<summary>Moving a Team Collection’s shadow collection folder to a different location</summary>
+<summary>Move a Team Collection’s shadow collection folder to a different location</summary>
 
 When you [create a Team Collection](/team-collections-getting-started#6035d8998d5d42a4b66a19e86590d845), you choose a Dropbox (or LAN) folder for the Team Collection’s shadow collection folder. If you later decide you need to move the shadow collection folder to a different location, here is how you can do it:
 
@@ -102,7 +98,7 @@ If you try to open a Team Collection whose Dropbox folder has been moved, Bloom 
 </details>
 
 <details>
-<summary>Retrieving a book from “Lost and Found”</summary>
+<summary>Retrieve a book from “Lost and Found”</summary>
 
 There are a number of situations where conflicts arise between books on different team members’ computers and Bloom cannot decide which one it should treat as authoritative. In these cases, Bloom chooses one version as the “winner” and saves the other one in a special folder called “Lost and Found”. (The Lost and Found folder exists only in the synchronized team collection “shadow folder”, not in your working files.) 
 

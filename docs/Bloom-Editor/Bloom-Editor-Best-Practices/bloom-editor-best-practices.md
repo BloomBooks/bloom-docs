@@ -23,7 +23,7 @@ There are two bad habits that violate best practices:
 - Using spaces to center or indent text.
 - Formatting entire text boxes using _character_ formatting instead of using the text box style.
 
-## Using Spaces to Center or Indent Text {#78392b559be3468ca66edc6b5b128560}
+## Do not use spaces to center or indent Text {#78392b559be3468ca66edc6b5b128560}
 
 
 ![](./bloom-editor-best-practices.97b360ea-59c9-4902-a67e-bbfd05b58498.png)
@@ -68,7 +68,7 @@ Conclusion: Do not use spaces to center text or to indent text.  Instead, use a 
 ![](./bloom-editor-best-practices.7becff2e-8b11-4f94-b801-c0aeee2b9eb4.png)
 
 
-## Formatting the entire text box using _character_ formatting instead of using a style {#db922f79470c42baa2dc8fa8d06e427b}
+## Do not format the entire text box using _character_ formatting instead of using a style {#db922f79470c42baa2dc8fa8d06e427b}
 
 
 Bloom allows you to select certain words in a text box and make them bold, italic etc.. This is useful for highlighting particular words, e.g.: 

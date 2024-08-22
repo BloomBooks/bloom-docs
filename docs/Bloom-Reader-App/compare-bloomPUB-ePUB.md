@@ -1,7 +1,7 @@
 ---
 title: BloomPUB vs. ePUB- What’s the Difference
-sidebar_position: 2
-slug: /bloomPUB-ePUB
+sidebar_position: 3
+slug: /compare-bloomPUB-ePUB
 ---
 
 

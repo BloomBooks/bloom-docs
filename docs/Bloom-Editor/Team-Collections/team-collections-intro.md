@@ -6,31 +6,16 @@ slug: /team-collections-intro
 
 
 
-A **Bloom Team Collection** is a normal Bloom Collection that is shared among team members through the synchronized cloud storage service [Dropbox](https://www.dropbox.com/) or a local area network. By synchronizing files across computers, each person who works on a book has the latest version available. **We recommend this system for any project where more than one person touches a book before it is published, and where everyone has adequate internet access.** 
+A **Bloom Team Collection** is a normal Bloom Collection that is shared among team members through the synchronized cloud storage service [Dropbox](https://www.dropbox.com/) or a local area network. By synchronizing files across computers, each person who works on a book has the latest version available.
 
 
-## System Requirements for Using a Team Collection {#898b75ce07734a0891bf3512030894b4}
+:::tip
 
-- A Bloom Enterprise subscription, **OR** you can affirm that your project is fully funded by a local community
-- Bloom 5.1 or greater. (It is recommended, but not required, that all the team members use the same version of Bloom.)
+We recommend Team Collections for any project where more than one person touches a book before it is published, and where everyone on the team has adequate internet access.
 
-	:::caution
-	
-	Each team member must register his or her copy of Bloom with a unique email address.  
-	
-	:::
-	
-	
+:::
 
-- A [Dropbox](https://www.dropbox.com/) account. The [free version of Dropbox](https://www.dropbox.com/basic), which provides 2GB of storage space, should be sufficient for 100–1000 typical Bloom books.
 
-	:::note
-	
-	These instructions focus on using Dropbox to synchronize Team Collection files. If you want to use a local network share instead of Dropbox, contact the Bloom team at [experimental@bloomlibrary.org](mailto:experimental@bloomlibrary.org). 
-	
-	:::
-	
-	
 
 
 ## How Team Collections Work {#013b2b088f3d4b98a03331c3953ed52f}
@@ -180,6 +165,30 @@ You do not need continuous internet access to use Bloom team collections. You on
 
 
 Team Collections works with Dropbox because we have found that it works more reliably and efficiently for this purpose than other commercial filesharing services do. In particular, Dropbox lets other team collection users know when a teammate has updated a book more reliably than Google Drive does. Even more important, when you change part of a book, Dropbox transmits only the parts of the book that have changed rather than the entire book. This is helpful in places with less than super-fast internet.
+
+
+## System Requirements for Using a Team Collection {#898b75ce07734a0891bf3512030894b4}
+
+- A Bloom Enterprise subscription, **OR** you can affirm that your project is fully funded by a local community
+- Bloom 5.1 or greater. (It is recommended, but not required, that all the team members use the same version of Bloom.)
+
+	:::caution
+	
+	Each team member must register his or her copy of Bloom with a unique email address.  
+	
+	:::
+	
+	
+
+- A [Dropbox](https://www.dropbox.com/) account. The [free version of Dropbox](https://www.dropbox.com/basic), which provides 2GB of storage space, should be sufficient for 100–1000 typical Bloom books (less with larger books).
+
+	:::note
+	
+	These instructions focus on using Dropbox to synchronize Team Collection files. If you want to use a local network share instead of Dropbox, contact the Bloom team at [experimental@bloomlibrary.org](mailto:experimental@bloomlibrary.org). 
+	
+	:::
+	
+	
 
 
 ## For More Information {#941774967d44426fb364b298f1d498ce}
