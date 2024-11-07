@@ -1,7 +1,7 @@
 ---
-title: Make Leveled Books Index
+title: Leveled Readers Index
 sidebar_position: 0
-slug: /making-leveled-books
+slug: /leveled-readers
 ---
 
 
@@ -41,7 +41,7 @@ In the Collections Tab, look in the **Sources for New Books.** Scroll down until
 1. **Select the template you want to use** (in this case, “Level 3”)
 2. **Click** **`Make a book using this source`****.**
 
-![](./making-leveled-books.73a6ebce-f688-4789-836e-cd6a5a23019f.png)
+![](./leveled-readers.73a6ebce-f688-4789-836e-cd6a5a23019f.png)
 
 
 Bloom adds a new book to your collection and opens it, ready for editing.

@@ -25,7 +25,7 @@ You can now control what information to show on the cover page:
 ### Content Page Settings: Page Themes {#bd291e96f2d2400d860d1c6636cd8df8}
 
 
-Previously, _very_ advanced Bloom users could customize Bloom pages using CSS stylesheets. They could also publish template books using these to share their work with others (see [EFL templates](https://bloomlibrary.org/EFL-education-for-life-org/EFL-Bloom%20templates)). Bloom 6.0 makes this much easier by letting you choose from a small number of _Page Themes._  Page Themes are a bundle of margins, borders, and other page settings that work together to shape the look of a book.
+Previously, _very_ advanced Bloom users could customize Bloom pages using CSS stylesheets. They could also publish template books using these to share their work with others. Bloom 6.0 makes this much easier by letting you choose from a small number of _Page Themes._  Page Themes are a bundle of margins, borders, and other page settings that work together to shape the look of a book.
 
 
 ![](./release-notes-6-0.39beadde-10be-458e-a643-71346b2a97ee.png)
@@ -47,6 +47,33 @@ Very advanced users can still create custom CSS stylesheets if they need to. In 
 
 
 You can now control whether page numbers are visible. Note that with some combinations of book layouts and ebook themes, long texts could collide with page numbers.
+
+
+### Content Page Settings: Text Padding {#1044bb19df12809a8369dbee37f0234e}
+
+
+Smart text padding is a new feature in Bloom 6.1. You can see examples of it later in these Release Notes. 
+
+
+![](./release-notes-6-0.1044bb19-df12-804b-beff-f15ab8bc0815.png)
+
+
+:::tip
+
+The default padding setting from the Default Theme is “1em”, which means it grows in proportion to your font size ( approximately the width of the font’s “m” character). Normally this looks great but if you have really large characters, it can be a problem. In that case, choose one of the millimetre (mm) choices.
+
+:::
+
+
+
+
+:::caution
+
+If you have a custom page layout where Bloom isn’t getting the padding right, you can use this control to turn padding off by setting it to “0mm”.
+
+:::
+
+
 
 
 ## Margins {#ad8a99c4ae414b74aa742f70491b7e75}
@@ -239,6 +266,24 @@ In Bloom 6.0, if you click outside of the page, all the extra editing markup dis
 </div>
 
 
+You can control the size of the padding in the Text Padding control:
+
+
+![](./release-notes-6-0.46c1699d-2d2a-4771-ae06-5c88abffb5c3.png)
+
+
+:::caution
+
+While Bloom tries to be “smart” about applying padding, it’s actually quite fragile. It often fails to apply padding to text boxes that have been added via “Change Layout”. If this happens to you, you have a couple options:
+1. Turn Text Padding off by opening the Book Settings and set “Text Padding” to “0mm”.
+
+2. If you are an Enterprise Subscription customer and you have a template page that needs to work with padding, create a Problem Report showing the problem and we’ll fix Bloom to handle your template page.
+
+:::
+
+
+
+
 ## Edit Tab {#7989dbabeb354bffb02132c00ae8a4af}
 
 
@@ -421,6 +466,7 @@ BloomPUB Viewer versions 1.0.7 and 1.0.8 had a bug that prevented them from upda
 	- **Incomplete upload protection**: previously, a book upload that didn’t fully complete could leave a book missing some files. Now, a new book won’t appear until all the files have been uploaded successfully. Similarly, an update of a book won’t take effect until all changed files have made it to our server.
 	- **Improved security:** We improved security around uploading and deleting books.
 - We added some new messages to help when Microsoft OneDrive appears to be causing problems.
+- A page can now have multiple Sign Language videos. One will start when other is finished. There is no way to change the order, so please create the videos in the order you want them to play.
 - In the Edit tab, Bloom has a chooser that lets you control which languages are shown in text boxes that are set to “auto”. To clarify what this chooser does a bit, it is now disabled when it won’t affect anything on the current page.
 - We added a place to enter one or more administrator emails in Collection Settings: **Team Collection**.
 

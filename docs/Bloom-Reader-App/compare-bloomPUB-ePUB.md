@@ -56,7 +56,7 @@ Bloom works great within its own ‘ecosystem’ but needs ePUB to work with oth
 For most needs, you can work within the Bloom ‘ecosystem’ — BloomLibrary.org, Bloom Reader, BloomPUB Viewer, Bloom Editor, etc. Everything you can create in the Bloom Editor you can read in other parts of the ecosystem. But if you need to exchange books with other partners who use ePUB, you need to keep that in mind.
 
 
-If you plan to exchange books with such partners, you need to carefully consider whether you want to use any of the Bloom features that do not work with ePUB. That can include only using portrait orientation, not using side-by-side layout, or not using motion or background music. 
+In particular, if you plan to exchange books with partners needing ePUBs, you should briefly conduct some research to determine if the Bloom features you desire to use can be faithfully viewed in a currently available ePUB reader. As a starting point for your research, we have provided a “snapshot” of the state of ePUB readers in [this article](/ePUB-notes). Since that article was written several years ago, and since ePUB readers are constantly being updated, users are advised to conduct their own research in this matter.
 
 
 Also, if you did not plan to export to ePUB when you created your books but now want to export them to ePUB, you need to review your books for features that do not export to ePUB well or at all. It may be necessary in some cases to duplicate a book and edit the copy in ways that work better when you export to ePUB.

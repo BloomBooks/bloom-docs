@@ -1,9 +1,12 @@
 ---
-title: Make Decodable Books Index
+title: Decodable Readers Index
 sidebar_position: 0
 slug: /decodable-readers
 ---
 
+
+
+# About Decodable Readers {#634b0fba4160457b86f34db01c337b83}
 
 
 A **Decodable Reader** is a special kind of leveled reader. A decodable reader is carefully written so that it uses only the letters a student has already learned. Decodable readers are designed to fit what a new reader has learned and is ready to read.

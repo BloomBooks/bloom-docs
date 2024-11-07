@@ -20,49 +20,42 @@ The Motion Tool in Bloom allows you to add simple motion to an otherwise still p
 
 ## Steps to Use the Motion Tool {#9f534c83eafe4eedbbfc8dc8c6faa98b}
 
+1. To show the **Motion tool**, open the book you want to work on in the Edit tab.
+2. On the far right of the Bloom window, click on the Menu button.
 
-### Show the Motion Tool {#4fade19eba8045c78091d23ec87f14bb}
+	![](./motion-tool.eb0818e1-cb2b-4a9d-be5a-c141863eb6b8.png)
 
-1. **Open the book** you want to work on in the Edit tab.
-2. Look at the right side of the Bloom window and then follow these steps:
+3. Click the **More** tab to bring up more options
 
-	![](./motion-tool.34eead65-e79a-4db4-8885-62147a353019.png)
+	![](./motion-tool.e13f91a3-4705-4a73-b6b6-89ced1931c60.png)
 
-	1. If you see the button, click it to expand (open) the toolbox.
-	2. If you do not see the Motion Tool tab, click the More tab.
+4. Select the **Motion Tool**.
 
-		![](./motion-tool.f936acd2-34f3-49ea-bbf5-a931e963b2af.png)
-
-	- Select () Motion Tool.
-	- Click the Motion Tool tab.
-
-### Using the Motion Tool {#79a2e1c95c454e438a81044ab4f533ac}
+**Using the Motion Tool**
 
 1. **In the Pages pane, click an inside page** that has a picture on it.
-2. **Click the Motion Tool tab** in the tool box.
+2. **Click the Motion Tool tab** in the toolbox.
 3. **In the Motion Tool tab**, do one of these steps:
-	- Clear () the Enable Motion on this page check box if you do not want to add motion to the picture on the current page. Then, click another inside page and repeat these steps.
-	- Select () the Enable Motion on this page check box if you want to add motion to the picture on the current page. Then, proceed with the following steps.
+	1. Clear the check box on the **Enable Motion on this page** if you do not want to add motion to the picture on the current page. Then, click another inside page and repeat these steps.
+	2. Select the check box on the **Enable Motion on this page** if you want to add motion to the picture on the current page. Then, proceed with the following steps.
 
-	![](./motion-tool.4b0a8318-f897-480e-99bc-0ab26e29358f.png)
+		![](./motion-tool.834c2ce7-c7e5-48d3-8f3f-c5ae657e0620.png)
 
 4. **Click the picture** that shows the rectangles.
-	- Rectangle 1 indicates the area in focus when the motion begins.
-	- Rectangle 2 indicates the area in focus when the motion finishes.
+	1. Rectangle 1 indicates the area in focus when the motion begins.
+	2. Rectangle 2 indicates the area in focus when the motion finishes.
 
 	![](./motion-tool.fdaa1703-28c3-4c2d-8b9e-f89391f6cbc4.png)
 
-5. **Reposition and resize** these rectangles as desired:
-	- **Reposition:** Click and drag a rectangle by a numbered corner.
-	- **Resize:** Click and drag the lower right corner, or move your mouse pointer over a line, then click and drag the double-headed arrow.
+5. **Reposition** and **resize** these rectangles as desired. To **reposition,** click and drag a rectangle by a numbered corner. To **resize, c**lick and drag the lower right corner, or move your mouse pointer over a line, then click and drag the double-headed arrow.
 6. **Preview the motion**:
-	- Select () Voice if you want to hear the recorded audio during the preview.
-	- Select () Music if you want to hear the music during the preview.
-	- Click (Preview) to start a preview. The Preview button changes to a pause button.
+	1. Select the **Voice** checkbox if you want to hear the recorded audio during the preview.
+	2. Select **Music** checkbox if you want to hear the music during the preview.
+	3. Click **Preview** to start a preview. The Preview button changes to a pause button.
 
-	![](./motion-tool.7e564426-97f6-4d4e-b8b6-fa2e851c1915.png)
+		![](./motion-tool.75324b24-77ee-4e4a-9787-4d98526b75c1.png)
 
-	- Reposition or resize the rectangles as needed.
+	4. Reposition or resize the rectangles as needed.
 7. **Click another page** until all of them have motion or a cleared () Enable Motion on this page check box.
 
 ### Tips for Using the Motion Tool {#b2b2cd9be37b4eb2a89613e268181632}

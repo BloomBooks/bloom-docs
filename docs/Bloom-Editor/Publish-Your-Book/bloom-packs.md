@@ -41,7 +41,7 @@ A Basic Bloom Pack contains shell books (template books) that others can transla
 ### 2. Reader Template Bloom Pack {#e75ebe7d9b87401490e1da579907131a}
 
 
-A Reader Template Bloom Pack includes **settings** for [Make Decodable Books Index](/decodable-readers) or [Level Readers](/making-leveled-books), as well as the shell books.
+A Reader Template Bloom Pack includes **settings** for [Decodable Readers Index](/decodable-readers) or [Level Readers](/leveled-readers), as well as the shell books.
 
 
 **How to Make a Reader Template Bloom Pack:**

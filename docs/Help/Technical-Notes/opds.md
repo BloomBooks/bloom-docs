@@ -88,7 +88,7 @@ The following parameters are our additions the OPDS spec:
 `ref`: string, optional. The referrer tag, used internally for recording who is doing the query
 
 
-`tag`: string, optional. Limit search to books with this tag
+`tag`: string, optional. Limit search to books with this tag. Example `tag=`[`bookshelf:LZB-OtherLang-Afrikaans`](https://api.bloomlibrary.org/v1/opds?key=fraser_bennett%40sil-lead.org%3AoxYccdqoM4&tag=bookshelf%3ALZB-OtherLang-Afrikaans)
 
 
 `organizeby`:  string, optional. If defined, the only option is “language”.
@@ -106,7 +106,9 @@ The following parameters are our additions the OPDS spec:
 To get a list of languages, use a URL like this:
 
 
-[`https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY`](https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT%3AYOURKEY)
+```xml
+https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY
+```
 
 
 This will return a large result that looks like this:
