@@ -38,8 +38,8 @@ If you have a set of leveled book templates, you can use one of them to start ma
 
 In the Collections Tab, look in the **Sources for New Books.** Scroll down until you find the reader templates. In this example, we have a set of templates for various reading levels**.** 
 
-1. **Select the template you want to use** (in this case, “Level 3”)
-2. **Click** **`Make a book using this source`****.**
+1. **Select the template you want to use** (in this case, “Level 3”).
+2. **Click** **`Make a book using this source`** .
 
 ![](./leveled-readers.73a6ebce-f688-4789-836e-cd6a5a23019f.png)
 
@@ -47,7 +47,7 @@ In the Collections Tab, look in the **Sources for New Books.** Scroll down until
 Bloom adds a new book to your collection and opens it, ready for editing.
 
 
-:::✅
+:::tip
 
 Remember that a level should include not only criteria for word length and sentence length, but also targets for font size and other formats. In many large book projects, a book designer creates a Bloom template with the characteristics for each level. 
 

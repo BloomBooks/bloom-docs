@@ -6,16 +6,7 @@ slug: /motion-tool
 
 
 
-:::note
-
-Content coming soon.
-
-:::
-
-
-
-
-The Motion Tool in Bloom allows you to add simple motion to an otherwise still picture in your book. This tool enables you to create a **pan and zoom effect** from one rectangle to another on the image. You can add motion to the first picture on each inside page of your book. This tool is particularly useful for creating engaging and dynamic content that can be viewed using the Bloom Reader app.
+The Motion Tool in Bloom allows you to add simple motion to an otherwise still picture in your book. This tool enables you to create a **pan and zoom effect** from one part of the image to another. You can add motion to the first picture on each inside page of your book. This tool is particularly useful for creating engaging and dynamic content that can be viewed using the Bloom Reader app.
 
 
 ## Steps to Use the Motion Tool {#9f534c83eafe4eedbbfc8dc8c6faa98b}
@@ -25,7 +16,7 @@ The Motion Tool in Bloom allows you to add simple motion to an otherwise still p
 
 	![](./motion-tool.eb0818e1-cb2b-4a9d-be5a-c141863eb6b8.png)
 
-3. Click the **More** tab to bring up more options
+3. Click the **More…** tab to bring up more options
 
 	![](./motion-tool.e13f91a3-4705-4a73-b6b6-89ced1931c60.png)
 
@@ -36,8 +27,8 @@ The Motion Tool in Bloom allows you to add simple motion to an otherwise still p
 1. **In the Pages pane, click an inside page** that has a picture on it.
 2. **Click the Motion Tool tab** in the toolbox.
 3. **In the Motion Tool tab**, do one of these steps:
-	1. Clear the check box on the **Enable Motion on this page** if you do not want to add motion to the picture on the current page. Then, click another inside page and repeat these steps.
-	2. Select the check box on the **Enable Motion on this page** if you want to add motion to the picture on the current page. Then, proceed with the following steps.
+	1. Clear the check box for **Enable motion on this page** if you do not want to add motion to the picture on the current page. Then, click another inside page and repeat these steps.
+	2. Select the check box for **Enable motion on this page** if you want to add motion to the picture on the current page. Then, proceed with the following steps.
 
 		![](./motion-tool.834c2ce7-c7e5-48d3-8f3f-c5ae657e0620.png)
 
@@ -56,7 +47,7 @@ The Motion Tool in Bloom allows you to add simple motion to an otherwise still p
 		![](./motion-tool.75324b24-77ee-4e4a-9787-4d98526b75c1.png)
 
 	4. Reposition or resize the rectangles as needed.
-7. **Click another page** until all of them have motion or a cleared () Enable Motion on this page check box.
+7. **Click another page** until all of them have motion or a cleared **Enable motion on this page** check box.
 
 ### Tips for Using the Motion Tool {#b2b2cd9be37b4eb2a89613e268181632}
 

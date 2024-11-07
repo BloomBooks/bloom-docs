@@ -60,7 +60,7 @@ Smart text padding is a new feature in Bloom 6.1. You can see examples of it lat
 
 :::tip
 
-The default padding setting from the Default Theme is “1em”, which means it grows in proportion to your font size ( approximately the width of the font’s “m” character). Normally this looks great but if you have really large characters, it can be a problem. In that case, choose one of the millimetre (mm) choices.
+The default padding setting from the Default Theme is “1em”, which means it grows in proportion to your font size (approximately the width of the font’s “m” character). Normally this looks great but if you have really large characters, it can be a problem. In that case, choose one of the millimetre (mm) choices.
 
 :::
 

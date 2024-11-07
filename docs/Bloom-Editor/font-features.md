@@ -31,16 +31,12 @@ To enable a non-standard/special style in a Bloom collection, you must edit the 
 The instructions you give are language-specific. For example, to select the “double-story” letter “a” for French, you would add the following code to this file: 
 
 
-`[lang=”fr”]`
-
-
-`{` 
-
-
-   `font-feature-settings: “ss13” 1;`
-
-
-`}` 
+```javascript
+[lang="fr"]
+{
+   font-feature-settings: "ss13" 1;
+}
+```
 
 
 # Identifying Feature Settings {#a0192887860b49fca94fb2b696ae1802}
@@ -49,18 +45,21 @@ The instructions you give are language-specific. For example, to select the “d
 To find out which feature setting(s) you need, you must research and find the documentation for the specific font you are planning to use in your books. If you are using an [SIL font](https://software.sil.org/fonts/), look for that information on the page for the font in a bolded link saying “font features” or “smart font features”.
 
 
-Multiple font features can specified in the custom css file on separate lines. 
+Multiple font features can be specified in the custom CSS file on separate lines. 
 
 
 For example:
 
 
-`[lang="fr"]
+```javascript
+[lang="fr"]
 {
    font-feature-settings: "cv56" 1;
    font-feature-settings: "smcp" 1;
-   font-feature-settings: "ss04" 1;`
+   font-feature-settings: "ss04" 1;
+}
+```
 
 
-`}` 
+ 
 
