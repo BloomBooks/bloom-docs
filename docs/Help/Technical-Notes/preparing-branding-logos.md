@@ -222,6 +222,48 @@ USAID.png (138KB)    Compressed using [https://recompressor.com/](https://recomp
 
 
 
+### Side-Note: Preventing Figma from downgrading PNGs {#1474bb19df1280db8d45dde39e1064fa}
+
+
+If you use Figma as part of the process, beware that if you export an SVG that contains PNGs, they get downgraded. Here’s are three work-arounds:
+
+
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+1. Use Affinity Publisher or Designer instead  (has a generous trial period)
+
+
+— OR —
+
+
+1. In Figma, export as PDF instead of SVG
+!! This will already introduce unwanted artifacts over PNGs !!!
+
+2. Open the PDF in Affinity Publisher
+
+3. Export to SVG using high DPI settings
+
+4. Check the resulting file size. Remember that you are shipping that to every user of Bloom, whether they use this branding or not.
+
+
+— OR —
+
+
+1. In Figma, grow or 2x,3x,4x export way more pixels than you think. Save as PNG.
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
+![Export from Affinity](./preparing-branding-logos.1494bb19-df12-807a-9a35-c6e65db655ba.png)
+
+
+</div><div className='notion-spacer'></div>
+</div>
+
+
 ## Wrapping Up {#12a4bb19df128081bb0ae9102790f3d5}
 
 

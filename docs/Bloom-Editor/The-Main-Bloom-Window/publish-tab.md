@@ -28,11 +28,20 @@ When you open up Publish, you will see this window with 5 different ways to publ
 
 2. **Web:** Here, you can publish your book to the BloomLibrary after which you can download the book to the Bloom Reader App for reading or to the Bloom Editor for translation into another language.
 
-3. **BloomPUB**:
+3. **BloomPUB**: BloomPUB is Bloom’s own digital publishing format. It faithfully reproduces all the features of your book.
 
-4. **ePUB**:
+4. **ePUB**: ePUB is a widely used digital publishing format, but it cannot reliably present some Bloom book features.
 
-5. **Audio or Video**:
+	:::note
+	
+	For a comparison between the BloomPUB and ePUB formats see [BloomPUB vs. ePUB: What’s the Difference](/compare-bloomPUB-ePUB). 
+	
+	:::
+	
+	
+
+
+5. **Audio or Video**: You can save your book to  a video of a talking book or sign language book.
 
 
 </div><div className='notion-spacer'></div>

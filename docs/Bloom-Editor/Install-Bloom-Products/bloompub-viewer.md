@@ -26,22 +26,29 @@ To install BloomPUB Viewer:
 	![](./bloompub-viewer.adfd325f-f96f-4a52-b8f4-5271c5aa2378.png)
 
 3. Once downloaded, open the `BloomPUB-Viewer-Setup…exe` file to install it.
-4. The program will install and open:
 
-	![](./bloompub-viewer.8559c64d-9125-44ea-86c0-75d7bbf47137.png)
+The program will install and open. 
 
 
 ## Use BloomPUB Viewer {#820ea236bc25473d93275a5563de0c76}
 
 
-Follow these steps to use BloomPUB Viewer:
+To use BloomPUB Viewer, 
+
+1. **Click** **`Chooose BloomPUB book on this computer`** **to open a BloomPUB file;** 
+or:
+2. **Click** **`Get BloomPUB books on`** [**`BloomLibrary.org`**](http://bloomlibrary.org/) **to open your web browser and navigate to** [**bloomlibrary.org**](https://bloomlibrary.org/)**,** where you can download thousands of BloomPUB files.
+
+![](./bloompub-viewer.3510b733-d4aa-4237-b292-c25c3fec5cb7.png)
 
 
-:::note
+After you open a BloomPUB file with BloomPub Viewer, you can: 
 
-Content coming soon.
+1. **Click on the forward arrow control to page forward through the book.**
+2. **Click on the backward arrow control to page backward through the book.**
+3. **Click and drag the page slider to go to a specific page.**
+4. **If the BloomPUB file contains more than one language, click the globe icon to choose which language to display**
+5. **If the BloomPUB is a Talking Book, click the start/pause button to play the audio.**
 
-:::
-
-
+![](./bloompub-viewer.b977ff2d-b129-4414-98a6-90e6697e1b19.png)
 
