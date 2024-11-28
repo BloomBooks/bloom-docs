@@ -1,6 +1,6 @@
 ---
 title: Edit Aeneas Timings
-sidebar_position: 5
+sidebar_position: 4
 slug: /edit-timings
 keywords: [Aeneas, Talking Book Tool]
 ---

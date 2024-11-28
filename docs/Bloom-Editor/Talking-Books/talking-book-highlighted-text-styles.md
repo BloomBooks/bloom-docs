@@ -1,6 +1,6 @@
 ---
 title: Highlighted Text Styles in Talking Books
-sidebar_position: 6
+sidebar_position: 5
 slug: /talking-book-highlighted-text-styles
 ---
 
