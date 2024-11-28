@@ -45,7 +45,7 @@ By default, Bloom records audio sentence-by-sentence. You can also record (or im
 To split a text-box recording into sentence-sized chunks, you must first install a helper program called Aeneas. 
 
 
-[Install Aeneas](/installing-aeneas) 
+[Install aeneas](/installing-aeneas) 
 
 
 ### Fine-Tune Audio Timings {#f17df1454d8d466ca03d21c3ddd2cf9c}

@@ -61,7 +61,7 @@ Bloom will divide your recording into sentence-sized chunks.
 :::note
 
 Bloom relies on an extra software program called [Aeneas](https://www.readbeyond.it/aeneas/) to split your recording into sentences. If Aeneas is not installed on your computer, please follow the instructions here: 
-[Install Aeneas](/installing-aeneas)
+[Install aeneas](/installing-aeneas)
 
 :::
 
