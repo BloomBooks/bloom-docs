@@ -23,7 +23,7 @@ The ePUB format is widely used, but many ePUB reader applications are of low qua
 1. **Open the Publish Tab.**
 2. **Select ePUB.**
 3. **Click the** **`PREVIEW`** **button** to see a preview of your book (optional).
-4. **Click the** **`ePUB mode`** control and choose between **`Fixed`** or **`Flowable`** mode.
+4. **Click the** **`ePUB Mode`** control and choose between **`Fixed`** or **`Flowable`** mode.
 	- **Fixed** mode displays pages exactly as seen in Bloom and requires ePUB readers that support ePUB3.
 	- **Flowable** mode allows the ePUB reader to adjust the layout, which can be useful for readers who want to change font size.
 5. **Include Image Descriptions (optional)**

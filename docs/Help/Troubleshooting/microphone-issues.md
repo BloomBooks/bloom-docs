@@ -6,7 +6,7 @@ slug: /microphone-issues
 
 
 
-To record audio using Bloom’s [Talking Book Tool](/talking-books), you may need to change the privacy settings for your microphone.
+To record audio using Bloom’s [Talking Books Index](/talking-books), you may need to change the privacy settings for your microphone.
 
 
 To do so, please:

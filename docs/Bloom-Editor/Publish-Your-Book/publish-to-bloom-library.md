@@ -6,6 +6,9 @@ slug: /publish-to-bloom-library
 
 
 
+## Publish to the Web on Bloom Library {#1e0f14666f3a4162bb084dcb87c4d883}
+
+
 Bloom was made for sharing! By sharing your work on [BloomLibrary.org](http://bloomlibrary.org/), you can make your content accessible to anyone with an internet connection. Whether you're sharing educational resources, stories, or instructional materials, publishing to the web makes your book available in multiple formats, increasing its impact.
 
 
@@ -14,7 +17,6 @@ Bloom was made for sharing! By sharing your work on [BloomLibrary.org](http://bl
 - Ensure you have an active internet connection.
 - Ensure that you have an account on [bloomlibrary.org](https://bloomlibrary.org/)
 - Check your Bloom Enterprise Status if you want your book to appear in a specific Bloom Library collection.
-- **[Problem Internal Link]** for your book (optional)
 
 ## **How To Publish Your Book to Bloom Library** {#1dc76e9180f94dc4a07c1cebcc5759df}
 

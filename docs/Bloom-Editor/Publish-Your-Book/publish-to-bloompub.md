@@ -101,7 +101,7 @@ You can connect an Android device to your computer with a USB cable and save you
 
 :::caution
 
-The Android device should have the **[Problem Internal Link]** installed. Not all Android devices allow you to easily transfer files by USB cable: whether a USB connection works well depends on the specific drivers installed on your computer, and the on the Android device’s settings. 
+The Android device should have the [Bloom Reader App](https://bloomlibrary.org/page/resources/bloom-reader) installed. Not all Android devices allow you to easily transfer files by USB cable: whether a USB connection works well depends on the specific drivers installed on your computer, and the on the Android device’s settings. 
 
 :::
 

@@ -1,6 +1,6 @@
 ---
 title: Install Aeneas
-sidebar_position: 3
+sidebar_position: 4
 slug: /installing-aeneas
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Record audio
+title: Record Audio
 sidebar_position: 1
 slug: /record-audio
 ---
@@ -182,5 +182,5 @@ There are two additional controls in the main section of the Talking Book Tool.
 See [Import Audio](/import-audio) for directions on how to import pre-recorded audio files into Bloom. 
 
 
-See **[Problem Internal Link]** for directions on how to record an entire text box at once, and then split the recording into sentences. 
+See [Record and Split Audio](/record-and-split-audio) for directions on how to record an entire text box at once, and then split the recording into sentences. 
 

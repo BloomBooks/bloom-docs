@@ -6,7 +6,7 @@ slug: /compare-bloomPUB-ePUB
 
 
 
-# Introduction {#de5322c6ad764ca7b4918a91539545c4}
+# BloomPUB vs. ePUB: What’s the Difference? {#de5322c6ad764ca7b4918a91539545c4}
 
 
 Bloom supports two digital book formats — BloomPUB and ePUB. 

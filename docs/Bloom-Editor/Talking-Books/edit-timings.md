@@ -1,13 +1,13 @@
 ---
 title: Edit Aeneas Timings
-sidebar_position: 3
+sidebar_position: 5
 slug: /edit-timings
 keywords: [Aeneas, Talking Book Tool]
 ---
 
 
 
-## Introduction {#0f1ab59b97584e72bd3d0ebb7c29436d}
+## HEdit Aeneas Timings {#0f1ab59b97584e72bd3d0ebb7c29436d}
 
 
 There are two recording modes in Bloom’s **Talking Book Tool**: 
@@ -18,7 +18,7 @@ There are two recording modes in Bloom’s **Talking Book Tool**:
 ![](./edit-timings.7254ca9a-1331-4b85-84ef-c546836e1342.png)
 
 
-When a user records their Bloom book using the **By Whole Text Box** recording mode, typically, they also choose to **Split** the text using the [Aeneas](/installing-aeneas) software. In this way, Bloom can highlight sentences during audio playback.
+When a user records their Bloom book using the **By Whole Text Box** recording mode, typically, they also choose to **Split** the text using the Aeneas sHHoftware. In this way, Bloom can highlight sentences during audio playback.
 
 
 After splitting the text, you can **Listen to the whole page** and evaluate how well Aeneas has done in determining where sentence boundaries should be placed in your recorded audio. 
