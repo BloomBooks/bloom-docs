@@ -58,9 +58,9 @@ You can make an existing book into a leveled reader. Open the book in Edit mode.
 4. Click the “Book is not leveled” switch. Bloom will assign the book to a level and start showing word and sentence statistics for the book.
 5. If you want to set the book to a different level, click the arrow to the right of the levels to increase the level, and the arrow to the left of the level to decrease the level.
 
-	:::✅
+	:::note
 	
-	Note: if the Leveled Reader Tool says that this book is “Level 0 of 0”, close Bloom. Then restart Bloom and open the book again.  
+	If the Leveled Reader Tool says that this book is “Level 0 of 0”, close Bloom. Then restart Bloom and open the book again.  
 	
 	:::
 	
