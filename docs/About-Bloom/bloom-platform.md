@@ -1,6 +1,6 @@
 ---
 title: Overview of the Bloom Platform
-sidebar_position: 3
+sidebar_position: 2
 slug: /bloom-platform
 ---
 
@@ -9,7 +9,7 @@ slug: /bloom-platform
 # The Bloom Platform {#955ffbdd4f3a467580fc005bcf18b218}
 
 
-[Bloom ](/bloom-platform#070f565a9a73475790b49a7ccd258ace)[**Editor**](/bloom-platform#070f565a9a73475790b49a7ccd258ace), [Bloom ](/bloom-platform#9d03d5c0220e48129b86b0958ff59386)[**Library**](/bloom-platform#9d03d5c0220e48129b86b0958ff59386), and [Bloom ](/bloom-platform#e383b07bf8834fb494a7f7cd4a6268eb)[**Reader**](/bloom-platform#e383b07bf8834fb494a7f7cd4a6268eb) comprise the Bloom **Platform**. 
+[**Bloom Editor**](/bloom-platform#070f565a9a73475790b49a7ccd258ace), [**Bloom Library**](/bloom-platform#9d03d5c0220e48129b86b0958ff59386), [**Bloom Reader**](/bloom-platform#e383b07bf8834fb494a7f7cd4a6268eb)**,** and [**Bloom Enterprise**](/bloom-platform#eea85bb74a564973bd5c70b2e90f1504) comprise the Bloom **Platform**. 
 
 
 The Bloom Platform is an integrated approach to book-making which provides a robust and sustainable means for language communities to author, translate, publish, and distribute books for themselves in the language they speak or sign.
@@ -39,7 +39,7 @@ To view all of Bloom Editor’s features, see [this page](https://bloomlibrary.o
 ![](./bloom-platform.abec701d-3e70-456b-b192-df5f9818b2c7.png)
 
 
-[Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than 19,000 free books in 800+ languages. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
+[Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than 20,000 free books in 900+ languages. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
 
 
 Key to Bloom’s success is the generosity of local authors and organizations who freely share their openly-licensed books with the world, so others, in turn, can benefit from these materials and translate them into their languages.
@@ -61,7 +61,7 @@ Special book features and the list of languages represented in the book are also
 ## Bloom Reader {#e383b07bf8834fb494a7f7cd4a6268eb}
 
 
-[Bloom Reader](https://bloomlibrary.org/bloom-reader) is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features: edge-to-edge images, synchronized audio narration, language switching (for books published with multiple languages), sign language video, audio image descriptions, and page navigation.
+[Bloom Reader](/about-bloom-reader) is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features: edge-to-edge images, synchronized audio narration, language switching (for books published with multiple languages), sign language video, audio image descriptions, and page navigation.
 
 
 ![](./bloom-platform.737972c1-9676-4550-890e-4bec984d61fd.png)

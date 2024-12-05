@@ -1,6 +1,6 @@
 ---
 title: BloomPUB Bundles
-sidebar_position: 5
+sidebar_position: 1
 slug: /bloomPUB-bundles
 keywords: [BloomPUB]
 ---
@@ -10,7 +10,7 @@ keywords: [BloomPUB]
 # About BloomPUB Bundles {#a1ec0c39ac42454495332f5063d73100}
 
 
-A BloomPUB Bundle is a collection of BloomPUB files along with a “bookshelf” file all “bundled up” into a single file. 
+A **BloomPUB Bundle** is a collection of BloomPUB files along with a “bookshelf” file all “bundled up” into a single file.
 
 
 BloomPUB Bundles are used in connection with the [Bloom Reader](https://bloomlibrary.org/page/create/bloom-reader) app. The purpose is to provide an easy way to share a large number of BloomPUBs with interested readers of your books. 

@@ -28,11 +28,11 @@ The Bloom editor supports the use of Font Features. In this way, Bloom users can
 To enable a non-standard/special style in a Bloom collection, you must edit the file `customCollectionStyles.css` and add specific instructions for the features you require for the language you need. This file is located in the main folder for your book collection and must be edited using a plain text editor such as Windows Notepad.
 
 
-The instructions you give are language-specific. For example, to select the “double-story” letter “a” for French, you would add the following code to this file: 
+The instructions you give are language-specific. For example, to select the “double-story” letter “a” for English, French, and Portuguese, you would add the following code to this file: 
 
 
 ```javascript
-[lang="fr"]
+[lang="en"], [lang="fr"], [lang="pt"]
 {
    font-feature-settings: "ss13" 1;
 }
@@ -45,21 +45,25 @@ The instructions you give are language-specific. For example, to select the “d
 To find out which feature setting(s) you need, you must research and find the documentation for the specific font you are planning to use in your books. If you are using an [SIL font](https://software.sil.org/fonts/), look for that information on the page for the font in a bolded link saying “font features” or “smart font features”.
 
 
-Multiple font features can be specified in the custom CSS file on separate lines. 
-
-
-For example:
+Multiple font features can be specified in the custom CSS file on separate lines separated by commas, for example:
 
 
 ```javascript
-[lang="fr"]
+[lang="tsp"]
 {
-   font-feature-settings: "cv56" 1;
-   font-feature-settings: "smcp" 1;
-   font-feature-settings: "ss04" 1;
+   font-feature-settings: "cv56" 1, "smcp" 1, "ss04" 1;
 }
 ```
 
 
- 
+Similarly, multiple languages are separated by commas:
+
+
+```javascript
+[lang="tuz"], [lang="fr"] 
+
+{
+   font-feature-settings: "ss01" 0, "ss04" 0;
+}
+```
 

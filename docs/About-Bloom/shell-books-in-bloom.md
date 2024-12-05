@@ -1,6 +1,6 @@
 ---
 title: Shell Books in Bloom
-sidebar_position: 2
+sidebar_position: 5
 slug: /shell-books-in-bloom
 ---
 
@@ -71,39 +71,19 @@ You can change the file extension to *.zip if needed. The recipient can change i
 
 
 
-### Related Topics {#aba9893a664945779e070d99e3e2c855}
-
-
-Here are some suggested related topics:
-
-- Basic Tasks Overview
-- Collections Tab Tasks
-- Edit Tab Tasks
-- Create Shell Books for Others to Use
-- Publish to BloomLibrary
-- Make a Bloom Pack
-- Make a Reader Template Bloom Pack
-
-:::note
-
-This is an info note.
-
-:::
-
-
-
-
 ### Install a Basic Bloom Pack from Others {#f7b8e6bc0c4e453eb186a20630567674}
 
 1. **Copy** the Bloom Pack file onto your computer (e.g., into the Bloom folder under My Documents or another convenient folder).
 2. **Double-click** the file to install the shell books and templates. A message will appear stating, "The &lt;name&gt; Collection is now ready to use on this computer". Click `OK`.
 3. **Close and restart** Bloom. The new sources will appear below **Sources for New Books** on the **Collections tab**.
 
-&lt;aside&gt;
-💡 You can change the file extension to *.zip if needed. The recipient can change it back to *.BloomPack.
+:::tip
+
+You can change the file extension to `.zip` if needed. The recipient can change it back to `.BloomPack`.
+
+:::
 
 
-&lt;/aside&gt;
 
 
 ### Related Topics {#6b82b8bd2cef4954876c749a66e67e08}
@@ -118,10 +98,3 @@ Here are some suggested related topics:
 - Publish to BloomLibrary
 - Make a Bloom Pack
 - Make a Reader Template Bloom Pack
-
-&lt;aside&gt;
-ℹ️ This is an info note.
-
-
-&lt;/aside&gt;
-

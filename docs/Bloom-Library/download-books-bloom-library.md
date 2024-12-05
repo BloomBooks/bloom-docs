@@ -71,7 +71,7 @@ Here are the steps to download a book from Bloom Library:
 
 	![](./download-books-bloom-library.172fc141-a84a-4d55-8798-fd7a5e7e71c1.png)
 
-	1. **BloomPub**: For reading in the Bloom Reader app or BloomPub Viewer.
+	1. **BloomPub**: For reading in the [Bloom Reader app](/download-books-bloom-library#12eedfff286a469eaf12ad1dbb672962) or BloomPub Viewer.
 	2. **PDF**: For reading on a computer, sharing via email, etc, or printing.
 	3. **EPUB**: For reading using an e-Reader.
 
@@ -81,7 +81,7 @@ You may see multiple windows while the book downloads:
 
 	![](./download-books-bloom-library.31c5b28c-450c-4b8d-a7cd-008f69bcdc81.png)
 
-	1. **Optional**: `Click I get it. Don’t show me this again`.
+	1. **Optional**: Click `I get it. Don’t show me this again`.
 	2. Click `Download Book`.
 2. If you see this window:
 
@@ -115,5 +115,5 @@ You may see multiple windows while the book downloads:
 	1. Click on the book thumbnail.
 	2. Click `MAKE A BOOK USING THIS SOURCE`.
 
-## Download to Read in Bloom Reader {#12eedfff286a469eaf12ad1dbb672962}
+## Download BloomPUB to Read in Bloom Reader {#12eedfff286a469eaf12ad1dbb672962}
 

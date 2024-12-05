@@ -1,6 +1,6 @@
 ---
 title: BloomPUB vs. ePUB- What’s the Difference
-sidebar_position: 3
+sidebar_position: 1
 slug: /compare-bloomPUB-ePUB
 ---
 
@@ -53,7 +53,7 @@ Bloom works great within its own ‘ecosystem’ but needs ePUB to work with oth
 # Recommendations {#2a6c40ce2bc34e26af7313c2aacda817}
 
 
-For most needs, you can work within the Bloom ‘ecosystem’ — BloomLibrary.org, Bloom Reader, BloomPUB Viewer, Bloom Editor, etc. Everything you can create in the Bloom Editor you can read in other parts of the ecosystem. But if you need to exchange books with other partners who use ePUB, you need to keep that in mind.
+For most needs, you can work within the Bloom Ecosystem — Bloom Editor, BloomLibrary.org, Bloom Reader, BloomPUB Viewer, etc. Everything you can create in the Bloom Editor you can read in other parts of the ecosystem. But if you need to exchange books with other partners who use ePUB, you need to keep that in mind.
 
 
 In particular, if you plan to exchange books with partners needing ePUBs, you should briefly conduct some research to determine if the Bloom features you desire to use can be faithfully viewed in a currently available ePUB reader. As a starting point for your research, we have provided a “snapshot” of the state of ePUB readers in [this article](/ePUB-notes). Since that article was written several years ago, and since ePUB readers are constantly being updated, users are advised to conduct their own research in this matter.

@@ -1,6 +1,6 @@
 ---
-title: Setting the image resolution in BloomPUBs
-sidebar_position: 6
+title: Set the Image Resolution in BloomPUBs
+sidebar_position: 2
 slug: /bloomPUB-image-resolution
 ---
 
