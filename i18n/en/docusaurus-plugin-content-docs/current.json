@@ -182,5 +182,17 @@
   "sidebar.defaultSidebar.category.Team Collection - Technical Notes": {
     "message": "Team Collection - Technical Notes",
     "description": "The label for category Team Collection - Technical Notes in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.About Bloom Reader and BloomPUBs": {
+    "message": "About Bloom Reader and BloomPUBs",
+    "description": "The label for category About Bloom Reader and BloomPUBs in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Use Bloom Reader": {
+    "message": "Use Bloom Reader",
+    "description": "The label for category Use Bloom Reader in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Publish and Distribute Bloom Reader Books": {
+    "message": "Publish and Distribute Bloom Reader Books",
+    "description": "The label for category Publish and Distribute Bloom Reader Books in sidebar defaultSidebar"
   }
 }
