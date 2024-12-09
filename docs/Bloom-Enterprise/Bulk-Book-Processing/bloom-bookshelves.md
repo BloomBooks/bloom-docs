@@ -37,14 +37,20 @@ _Both_ bulk operations depend on grouping books into particular “bookshelves�
 
 There are two essential steps before initiating either of these bulk processing operations.
 
-1. Set the **Bloom Library Bookshelf** for the book collection to set the bookshelf.
-2. Ensure the publishing settings for each book are correct.
+1. Set the [Bloom Library Bookshelf](/bloom-bookshelves#8874d41827394c69a5ef00d4508fda2a) for the book collection to set the bookshelf.
+2. Ensure the [publishing settings](/bloom-bookshelves#0ef8e2f1272c4ea88040940a6cdcce56) for each book are correct.
 
-The first essential step is to select the **Bloom Library Bookshelf**. This is selected from a drop-down list in the **Book Making** tab of Bloom Editor Settings:
+**Set Bloom Library Bookshelf**
+
+
+Here are the steps to select the **Bloom Library Bookshelf**:
 
 
 ![](./bloom-bookshelves.5e121b7d-814d-4834-9931-4a9d7d25d42b.png)
 
+1. Choose the `Book Making` tab of Bloom Editor Settings.
+2. Select the **bookshelf** from the `Bloom Library Bookshelf` drop-down.
+3. Click `OK`.
 
 :::caution
 
@@ -55,18 +61,24 @@ Setting up bookshelves is something done in coordination with the Bloom Libraria
 
 
 
+**Check Publishing Settings**
+
+
 Once the **Bloom Library Bookshelf** has been selected for the collection of books, the second essential step is to carefully set the publishing settings for _each_ individual book in the collection. 
 
+1. Click on the `Publish` tab.
+	1. Click the `Web` option:
 
-To do this, in **Publish to Web** for _each_ book, ensure the following are correct:
+		![](./bloom-bookshelves.e116ff50-edf9-49bb-a2ac-a09a7b75b49c.png)
 
-- Selection of **Text Languages**.
-- Selection of **Talking Book Languages**.
-- Selection of book **Features**.
-- **Cover Color**.
-- **Visibility**.
-- Book **Summary**.
-- Book Copyright.
+2. For **each** book, ensure the following are correct:
+	- Book **Copyright**.
+	- Book **Summary**.
+	- Selection of **Text Languages**.
+	- Selection of **Talking Book Languages**.
+	- Selection of book **Features** (for example: `Talking Book`, `Sign Language`, `Motion Book`, etc)
+	- **Cover Color**
+	- **Visibility**
 
 ## Bulk Uploading to Web {#9db147e9949e425cb73cb3b013f07c55}
 
@@ -128,31 +140,27 @@ See also [How to distribute Bloom books on SD Cards or Phones](/BR-distribution)
 ## Make All BloomPUBs {#9eaab0ca96f44e25ae8a2cae05f545e5}
 
 
-To bulk publish all BloomPUBs in a single operation: 
+Here are the **steps to bulk publish all BloomPUBs** in a single operation:
 
 
 ![](./bloom-bookshelves.140a73c7-e15a-4b86-90fa-91e6dac5fd6f.png)
 
-
-| **❶** | Click on the **Publish** tab.                  |
-| ----- | ---------------------------------------------- |
-| **❷** | Choose **BloomPUB**.                           |
-| **❸** | Click **Make All BloomPUBs from Collection**.  |
-
+1. Click on the **Publish** tab.
+2. Choose **BloomPUB**.
+3. Click **Make All BloomPUBs from Collection**.
 
 A **Make All BloomPUBs from Collection** dialog will appear with a number of options:
 
 
 ![](./bloom-bookshelves.5a06535e-96d7-490f-9f74-6862444af239.png)
 
-
-| **❶** | Tick this box to produce the special .bloomshelf file needed to group the BloomPUBs together into separate bookshelves on the Bloom Reader app.                                                                                                                                |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **❷** | Click the color chooser to select a color for this bookshelf.                                                                                                                                                                                                                  |
-| **❸** | If your organization wants to track particular Bloom Reader campaigns, choose a specific Distribution Tag to identify that campaign. See also [this document](https://docs.google.com/document/d/1Hm7apUH1KV3I_GCCOVkh-aiCtq5O_1ILcne074r_w-g/preview#heading=h.u0vc4ok5rukm). |
-| **❹** | Tick this box if you need the books bundled together into a single `.bloombundle` file. <br/>See also [BloomPUB Bundles](/bloomPUB-bundles).                                                                                                                   |
-| **❺** | Click the MAKE button to start the process.                                                                                                                                                                                                                                    |
-
+1. Tick this box to produce the special **.bloomshelf file** needed to group the BloomPUBs together into separate bookshelves on the Bloom Reader app.
+2. Click the color chooser to select a color for this bookshelf.
+3. If your organization wants to track particular Bloom Reader campaigns, choose a specific Distribution Tag to identify that campaign.
+	1. See also [Measuring the Impact of your Bloom Reader Campaigns with Distribution Tags](/bloom-reader-distribution-tags).
+4. Tick this box if you need the books bundled together into a single `.bloombundle` file.
+	1. See also [BloomPUB Bundles](/bloomPUB-bundles).
+5. Click the `MAKE` button to start the process.
 
 Bloom will make these BloomPUBs in a temporary folder called:
 
@@ -162,8 +170,17 @@ C:\Users\YOUR NAME\AppData\Local\Temp\BloomPubs
 ```
 
 
-After the operation is complete, Bloom will open an instance of Windows File Explorer and show you the results which can be copied to a phone which has Bloom Reader installed.
+After the operation is complete, Bloom will open a **File Explorer** window and show you the file(s) created.
 
 
-If you are preparing multiple bookshelves for distribution on an SD card, or prepaid phones, you will need to copy the files over to a separate folder set aside to house all of the Bloom Reader bookshelves. Once all of the required materials are gathered, they can be copied to an SD for mass distribution.
+Share the file(s) to a phone which has Bloom Reader installed. See [Other Sharing Methods](/get-books-bloom-reader#e35d8c2330514305aa5622eebaeb57b4) for suggestions how to share these files.
 
+
+### Make and Distribute Multiple Bookshelves {#e0819367b8814d6d93330669772f903b}
+
+
+If you are preparing multiple bookshelves for distribution on an SD card, or prepaid phones:
+
+1. Create a separate folder to store all of the Bloom Reader bookshelves.
+2. After each bookshelf is created, copy the files over to the separate folder.
+3. Once all of the required materials are gathered, copy all bookshelf files to an SD card for mass distribution.

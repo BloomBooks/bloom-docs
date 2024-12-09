@@ -33,16 +33,22 @@ If your Android device is connected to the internet, Bloom Reader also provides 
 ![](./about-bloom-reader.2d8294f9-9846-498d-988a-1f26704164a0.png)
 
 
+For instructions to download books into Bloom Reader, see [Get Books in Bloom Reader](/get-books-bloom-reader).
+
+
 ## Send Books to Bloom Reader {#cc1a6dc032b84ca8b04d3f66fe92a507}
 
 
-Books from Bloom Editor can be transferred to the Bloom Reader app through:
+Books from **Bloom Editor** can be transferred to the Bloom Reader app through:
 
 1. A shared Wi-Fi connection
 OR
 2. A connected USB cable:
 
 ![](./about-bloom-reader.f08f4559-0e92-4a4d-8b1a-f058ddbe09d6.png)
+
+
+For instructions how to share books from Bloom Editor, see [Get Books from Bloom Editor](/get-books-bloom-reader#1524bb19df1281b49db4e08540d499fe).
 
 
 ## Share Books from Bloom Reader {#d126c4bbd5ee491c8f7c75d5619eec7b}
@@ -61,6 +67,9 @@ Bloom Reader can import books from your Android device’s storage, or an extern
 
 
 ![](./about-bloom-reader.560b251f-f422-4cbc-bbbf-0c3847a2696f.png)
+
+
+See [Get books from a folder on your Android device](/get-books-bloom-reader#0c2e2d830dcd4b769af3d29c24ac0e3c) for more details.
 
 
 ## BloomPUB Books {#703db164da8a4d57ba0661fadbd88f95}

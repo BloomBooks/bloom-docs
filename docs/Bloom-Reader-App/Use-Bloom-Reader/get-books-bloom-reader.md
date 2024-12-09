@@ -231,7 +231,7 @@ If you have a BloomPUB file on computer or Android device, you can share it with
 - Messaging apps: WhatsApp, Skype, Facebook Messenger, etc.
 - File Sharing apps: DropBox, Google Drive, One Drive, etc.
 - Email: Gmail, Outlook, Yahoo mail, etc.
-- File Transfer: Bluetooth, Wi-Fi transfer, etc.
+- File Transfer: Bluetooth, Wi-Fi transfer, USB cable transfer, etc.
 
 **Steps to share a Bloom book with others:**
 
@@ -239,5 +239,5 @@ If you have a BloomPUB file on computer or Android device, you can share it with
 	1. [Publish to BloomPUB](/publish-to-bloompub) from Bloom Editor
 	2. [Share a Book from Bloom Reader](/share-book-bloom-reader)
 2. Send the BloomPUB book to an Android device using your preferred sharing method.
-3. Save the file to the Android device
+3. Save the file to the Android device.
 4. Use the steps listed in  to open the file in Bloom Reader.

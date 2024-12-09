@@ -19,14 +19,14 @@ BloomPUB Bundles are used in connection with the [Bloom Reader](https://bloomlib
 When a person opens a BloomPUB Bundle on an Android device with Bloom Reader installed, Bloom Reader will “unpack” the file and add all of its books and bookshelves to its book list.
 
 
-The normal way to make a BloomPUB bundle is to use the “Make all BloomPUBs from Publish to BloomPUB screen in Bloom’s desktop editor. For more information, see [Bloom Bulk Book Processing](/bloom-bookshelves).
+The normal way to make a BloomPUB bundle is to use the [Make All BloomPUBs](/bloom-bookshelves#9eaab0ca96f44e25ae8a2cae05f545e5) feature in Bloom’s desktop editor.
 
 
 :::caution
 
 The Samsung File Manager does not handle `.bloombundle` (or `.bloomPUB`) files. 
 
-Unfortunately, we have determined that we can do nothing about this.
+The best option is to use [Google File Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files). It is able to use Bloom Reader to open `.bloombundle` and `.bloomPUB`) files.
 
 :::
 
