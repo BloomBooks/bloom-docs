@@ -1,6 +1,6 @@
 ---
 title: Bloom Reader Menu
-sidebar_position: 4
+sidebar_position: 5
 slug: /bloom-reader-menu
 ---
 
@@ -19,8 +19,11 @@ Most Android apps have a menu that gives you access to various functions within 
 
 There are three main sections in the Bloom Reader menu:
 
+- [Bloom Reader Info](/bloom-reader-menu#22fda01340074515a368a6b8d4f646a8)
+- [Bloom Reader Actions](/bloom-reader-menu#be8da1f335114674a7f5a07cf4a0c654)
+- [About Bloom Reader](/bloom-reader-menu#bd286e201c194e3dbccf39788dc2e6d6)
 
-## Bloom Reader **version** {#22fda01340074515a368a6b8d4f646a8}
+## Bloom Reader Info {#22fda01340074515a368a6b8d4f646a8}
 
 
 ![](./bloom-reader-menu.4835c712-fc1e-4adf-a487-1f17b1a38c16.png)

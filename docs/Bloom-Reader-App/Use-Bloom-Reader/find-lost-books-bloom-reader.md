@@ -1,33 +1,17 @@
 ---
 title: Find Lost Books in Bloom Reader
-sidebar_position: 6
+sidebar_position: 8
 slug: /find-lost-books-bloom-reader
 ---
-
-
-
-:::note
-
-`Find lost books` was designed for **older Android phones** to be able to locate Bloom books that were once visible from within Bloom Reader, but are no longer visible in Bloom Reader.
-
-:::
-
-
-
-
-:::note
-
-Contents being revised.
-
-:::
-
 
 
 
 ## Updated Method {#279c7626699e4f91b1d7d9ac619dda60}
 
 
-:::info
+:::caution
+
+`Find lost books` was designed for **older Android phones** to be able to locate Bloom books that were once visible from within Bloom Reader, but are no longer visible in Bloom Reader.
 
 `Find lost books` has been replaced by [Open BloomPUB file](/get-books-bloom-reader#0c2e2d830dcd4b769af3d29c24ac0e3c).
 

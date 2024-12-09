@@ -40,11 +40,11 @@ A shell book is a template used to create other books. It sets the page layout, 
 4. Complete the book:
 	- Fill in the appropriate **metadata**.
 	- Add all the intended pages.
-	- Add a **Translation Instructions** page, if needed.
+	- Add a **Translation Instructions** page found in the **Special** section of pages, if needed.
 	- Type in all the **source text** in one or more languages.
 	- Configure all the intended **styles**.
 	- Choose all the **pictures** that you want to appear in the published book.
-5. **Share** the shell book:
+5. **Share** the shell book in one of the following ways:
 	- Publish to **BloomLibrary**.
 	- Make a **Bloom Pack**.
 	- Make a **Reader Template Bloom Pack**.
