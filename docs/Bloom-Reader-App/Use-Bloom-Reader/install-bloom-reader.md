@@ -59,7 +59,7 @@ You can also install directly from an APK file:
 
 	2. Tap `Install unknown apps` and enable the appropriate setting.
 
-## Share Bloom Reader Install File With a Friend {#8ab53c9a433f4abab815facafd4f20d4}
+## Share Bloom Reader Install File With Your Community {#8ab53c9a433f4abab815facafd4f20d4}
 
 
 If you already have Bloom Reader installed on your phone, you can share the **APK installation file** with them. It can be shared by Bluetooth, messaging app, email, or other sharing methods.

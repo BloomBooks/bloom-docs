@@ -23,8 +23,8 @@ For more information on BloomPUB and how it differs from the widely-used ePUB st
 
 To make and share a BloomPUB of a book, select the book you want to publish. Then: 
 
-1. **Click the** Publish **tab.**
-2. **Click** **`BloomPUB`** **in the left-hand pane.**
+1. Click the Publish tab.
+2. Click `BloomPUB` in the left-hand pane.
 
 ![](./publish-to-bloompub.5e4440af-ab0a-4c94-a88c-9ca57a035722.png)
 
@@ -78,15 +78,21 @@ You may be in a setting where other users can connect to a temporary wi-fi netwo
 
 	![](./publish-to-bloompub.c7d3cb49-5124-45f6-9f1d-2e20d6996fc5.png)
 
+	1. Important Note:
 
-:::caution
+		:::caution
+		
+		If your computer’s firewall software prevents you from sharing by Wi-Fi, see [Share a BloomPUB Over Wi-Fi (Firewall Permissions)](/bloom-firewall).
+		
+		:::
+		
+		
 
-If your computer’s firewall software prevents you from sharing by Wi-Fi, see [Share a BloomPUB via Wi-Fi (Firewall Permissions)](/bloom-firewall).
+3. You should see a window like this:
 
-:::
+	![](./publish-to-bloompub.6b95c176-86f0-43f2-829a-fd8cfc4e7ed8.png)
 
-
-
+4. Follow the steps in [Receive books via Wi-Fi](/get-books-bloom-reader#9fce48475dce400ba9ff71c9870976d7) to receive the book on your Android device.
 
 ### Share a BloomPub over a USB cable {#ceafe81bd00f47e4be62323b7581e8a9}
 
@@ -96,14 +102,17 @@ You can connect an Android device to your computer with a USB cable and save you
 1. Click `Send over USB Cable`
 2. Click `CONNECT WITH USB CABLE`
 
-![](./publish-to-bloompub.46adb216-6e1c-414f-80db-d75c0b3b468a.png)
+	![](./publish-to-bloompub.46adb216-6e1c-414f-80db-d75c0b3b468a.png)
 
+	1. Important notes:
 
-:::caution
+		:::caution
+		
+		The Android device must have the [Bloom Reader App](https://bloomlibrary.org/page/resources/bloom-reader) installed.
+		Some Android phones do not allow file transfer with a USB cable. If you are unable to transfer via USB, check the drivers on your computer, the settings on your phone, or try to transfer the BloomPUB file another way.
+		
+		:::
+		
+		
 
-The Android device should have the [Bloom Reader App](https://bloomlibrary.org/page/resources/bloom-reader) installed. Not all Android devices allow you to easily transfer files by USB cable: whether a USB connection works well depends on the specific drivers installed on your computer, and the on the Android device’s settings. 
-
-:::
-
-
-
+3. Follow the steps in [Receive books via USB](/get-books-bloom-reader#06a74e83b8f54577b359ee12885f45eb) to receive the book on your Android device.
