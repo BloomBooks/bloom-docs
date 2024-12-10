@@ -21,7 +21,7 @@ The Bloom Platform is an integrated approach to book-making which provides a rob
 [Bloom Editor](https://bloomlibrary.org/page/create/downloads) is a software program for authoring, translating, and publishing books and sharing those books with your community through Bloom Library. Bloom Editor runs on Windows and Linux.
 
 
-![Copyright © 2014, Naskapi Development Corporation & Elizabeth Jancewicz Naskapi](./bloom-platform.690583ea-a11a-479a-b66d-b566eb1a52aa.png)
+![](./bloom-platform.690583ea-a11a-479a-b66d-b566eb1a52aa.png)
 
 
 Bloom Editor is designed for ease of use. Bloom is so simple that if you can type and use a mouse, then you can make a book!
@@ -61,16 +61,8 @@ Special book features and the list of languages represented in the book are also
 ## Bloom Reader {#e383b07bf8834fb494a7f7cd4a6268eb}
 
 
-[Bloom Reader](/about-bloom-reader-and-bloompubs) is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features:
+[Bloom Reader](/about-bloom-reader) is a free Android app that allows readers with Android devices to enjoy Bloom books offline.
 
-- Talking Books
-- Multilingual books
-- Sign language videos
-- Interactive games and quizzes
-- Comic books
-- Audio-image descriptions
-- Edge-to-edge images
-- Page navigation
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
@@ -89,6 +81,21 @@ Special book features and the list of languages represented in the book are also
 
 </div><div className='notion-spacer'></div>
 </div>
+
+
+### Special Features {#da72cfe19f144bbe8f3c085258735d33}
+
+
+Books published to Bloom Reader can also include all of Bloom Editor’s special features:
+
+- Talking Books
+- Multilingual books
+- Sign language videos
+- Interactive games and quizzes
+- Comic books
+- Audio-image descriptions
+
+### Get Books on Bloom Reader {#c9368a920a83452eb57d4e25e19dc409}
 
 
 To get books onto a device that has Bloom Reader installed, users can either download from Bloom Library, transfer books directly from the Bloom Editor to their devices, or share from one device to another.

@@ -1,6 +1,6 @@
 ---
 title: Delete a Book from Bloom Reader
-sidebar_position: 7
+sidebar_position: 8
 slug: /delete-book-bloom-reader
 ---
 

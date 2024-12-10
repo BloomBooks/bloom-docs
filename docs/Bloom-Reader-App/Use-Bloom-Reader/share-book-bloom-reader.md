@@ -1,6 +1,6 @@
 ---
 title: Share a Book in Bloom Reader
-sidebar_position: 6
+sidebar_position: 7
 slug: /share-book-bloom-reader
 ---
 
