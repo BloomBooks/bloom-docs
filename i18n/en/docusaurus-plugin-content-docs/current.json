@@ -194,5 +194,9 @@
   "sidebar.defaultSidebar.category.Publish and Distribute Bloom Reader Books": {
     "message": "Publish and Distribute Bloom Reader Books",
     "description": "The label for category Publish and Distribute Bloom Reader Books in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.About Bloom Reader": {
+    "message": "About Bloom Reader",
+    "description": "The label for category About Bloom Reader in sidebar defaultSidebar"
   }
 }
