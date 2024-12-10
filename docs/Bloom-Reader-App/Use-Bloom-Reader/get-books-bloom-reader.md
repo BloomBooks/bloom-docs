@@ -158,7 +158,7 @@ You can download use Bloom Reader to download books directly from the Bloom Libr
 ## Get books from Bloom Library in a Web Browser {#97e727473fd04b87bc53936b3855c523}
 
 
-Getting books from Bloom Library within the Bloom Reader only provides one simple search filter: the language you are interested in. This works well when there are only a smaller number of books for the language of your interest.
+Getting books from Bloom Library within the Bloom Reader only provides one simple search filter: the language you are interested in. This works well when there are only a small number of books for the language of your interest.
 
 
 If there are very many books for that particular language, then it is probably better to download books through a web browser on your device. By doing this, you can look for books by topic, by specialized bookshelves, and by searching for keywords.
@@ -206,7 +206,7 @@ If there are very many books for that particular language, then it is probably b
 ## Get books from a folder on your Android device {#0c2e2d830dcd4b769af3d29c24ac0e3c}
 
 
-To import a book on your device’s internal storage or an external SD card:
+To import a book that is already on your device’s internal storage or an external SD card:
 
 1. On your Android device, open the **Bloom Reader menu**:
 
@@ -236,8 +236,8 @@ If you have a BloomPUB file on computer or Android device, you can share it with
 **Steps to share a Bloom book with others:**
 
 1. Generate/share a BloomPUB file. You can use either of these methods:
-	1. [Publish to BloomPUB](/publish-to-bloompub) from Bloom Editor
-	2. [Share a Book from Bloom Reader](/share-book-bloom-reader)
+	1. [Publish to BloomPUB](/publish-to-bloompub) from Bloom Editor.
+	2. [Share a Book in Bloom Reader](/share-book-bloom-reader).
 2. Send the BloomPUB book to an Android device using your preferred sharing method.
 3. Save the file to the Android device.
 4. Use the steps listed in  to open the file in Bloom Reader.
