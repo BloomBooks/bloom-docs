@@ -18,7 +18,7 @@ This material is for Bloom clients holding a Bloom Enterprise subscription.
 ## Overview {#df0855b964e24b7394027fff9c54cea3}
 
 
-Organizations holding a Bloom Enterprise subscription can organize their books into different bookshelves (book collections). For example, below is a sampling of the Bloom Library bookshelves for the organization _Education for Life_:
+Organizations holding a Bloom Enterprise subscription can organize their books into different bookshelves (book collections). For example, below is a sampling of the Bloom Library bookshelves for the organization **Education for Life**:
 
 
 ![](./bloom-bookshelves.54bb3b72-79f0-4e68-8be6-d44e965671e1.png)
@@ -29,7 +29,7 @@ Bloom provides two different bulk operations to its Enterprise clients:
 1. Bulk uploading an entire collection of books to **Bloom Library**, and
 2. Making BloomPUBs for an entire collection for distribution to the **Bloom Reader** app.
 
-_Both_ bulk operations depend on grouping books into particular “bookshelves” similar to those shown above for _Education for Life_.
+Both bulk operations depend on grouping books into particular “bookshelves” similar to those shown above for Education for Life.
 
 
 ### Essential Steps for Setup {#129a30f7be7b45e59c5b7e6be3b3ae75}
@@ -113,7 +113,7 @@ The bulk-uploader program will open in a separate window and begin its operation
 There are a number of very important things to keep in mind about the bulk-uploader program. This bulk-uploader program will :
 
 - Upload all new books (i.e. any book that had not been previously uploaded to Bloom Library).
-- Upload (and _overwrite_) any previously uploaded book that has changed.
+- Upload (and overwrite) any previously uploaded book that has changed.
 - Skip uploading any previously uploaded book that has _not_ changed.
 
 ## Bloom Reader and Bloom Library Bookshelves {#a0bda0de7ece4067ae3ab1dcbca98bd6}

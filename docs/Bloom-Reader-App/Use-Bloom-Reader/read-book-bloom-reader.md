@@ -9,7 +9,7 @@ slug: /read-book-bloom-reader
 ## Read a Book in Bloom Reader {#f0535137300b431c8df943d3d6e3cfd6}
 
 
-Reading a book in Bloom Reader is similar to using other electronic reading apps.
+Reading a book in Bloom Reader is similar to using other reading apps.
 
 1. Download the book(s) that you want to read in Bloom Reader.
 
@@ -39,6 +39,15 @@ Reading a book in Bloom Reader is similar to using other electronic reading apps
 2. Swipe to the **left** to go to the **previous** page:
 
 	![](./read-book-bloom-reader.be3f2782-1f8c-480f-9479-d43eda702063.png)
+
+
+:::tip
+
+Note: For **Right-to-Left** languages, the swipe direction is **reversed**.
+
+:::
+
+
 
 
 ### Move Between Pages Quickly {#136955af92434bbea0ded50bf03a6655}
@@ -95,6 +104,9 @@ If a book was written in **multiple languages**, you can **change the language**
 
 ## Exit Book {#42677df631914ac592bfc3e5e5a798f2}
 
+
+When you are done reading a book, you can exit back to the Bloom Reader home screen.
+
 1. Tap on a page in the book:
 
 	![](./read-book-bloom-reader.7a0ea021-8e64-4fe6-8138-27bc83d94fbe.jpg)
@@ -106,13 +118,4 @@ If a book was written in **multiple languages**, you can **change the language**
 3. This will open the Bloom Reader home screen again:
 
 	![](./read-book-bloom-reader.468f7af1-a121-4c43-b695-15ff4cc7aec2.png)
-
-
-:::note
-
-Additional content coming soon.
-
-:::
-
-
 
