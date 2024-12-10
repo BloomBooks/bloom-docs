@@ -18,10 +18,10 @@ The Bloom Platform is an integrated approach to book-making which provides a rob
 ## Bloom Editor {#070f565a9a73475790b49a7ccd258ace}
 
 
+[Bloom Editor](https://bloomlibrary.org/page/create/downloads) is a software program for authoring, translating, and publishing books and sharing those books with your community through Bloom Library. Bloom Editor runs on Windows and Linux.
+
+
 ![Copyright © 2014, Naskapi Development Corporation & Elizabeth Jancewicz Naskapi](./bloom-platform.690583ea-a11a-479a-b66d-b566eb1a52aa.png)
-
-
-[Bloom Editor](https://bloomlibrary.org/page/create/downloads) is a software program for authoring, translating, and publishing books and sharing those books with your community through Bloom Library. Bloom Editor runs on the Windows and Linux operating systems. 
 
 
 Bloom Editor is designed for ease of use. Bloom is so simple that if you can type and use a mouse, then you can make a book!
@@ -36,10 +36,10 @@ To view all of Bloom Editor’s features, see [this page](https://bloomlibrary.o
 ## Bloom Library {#9d03d5c0220e48129b86b0958ff59386}
 
 
+[Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than **21****,000 FREE books** in **900+ languages**. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
+
+
 ![](./bloom-platform.abec701d-3e70-456b-b192-df5f9818b2c7.png)
-
-
-[Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than 20,000 free books in 900+ languages. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
 
 
 Key to Bloom’s success is the generosity of local authors and organizations who freely share their openly-licensed books with the world, so others, in turn, can benefit from these materials and translate them into their languages.
@@ -61,10 +61,34 @@ Special book features and the list of languages represented in the book are also
 ## Bloom Reader {#e383b07bf8834fb494a7f7cd4a6268eb}
 
 
-[Bloom Reader](/about-bloom-reader) is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features: edge-to-edge images, synchronized audio narration, language switching (for books published with multiple languages), sign language video, audio image descriptions, and page navigation.
+[Bloom Reader](/about-bloom-reader-and-bloompubs) is a free Android app that allows readers with Android devices to enjoy Bloom books offline. Books published to Bloom Reader can include all of Bloom Editor’s advanced features:
+
+- Talking Books
+- Multilingual books
+- Sign language videos
+- Interactive games and quizzes
+- Comic books
+- Audio-image descriptions
+- Edge-to-edge images
+- Page navigation
+
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./bloom-platform.737972c1-9676-4550-890e-4bec984d61fd.png)
+![](./bloom-platform.fe0f54bc-b30d-4ad5-8dd1-b6697db31876.png)
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
+![](./bloom-platform.127137a6-c3cd-491d-af33-5bda23e85791.png)
+
+
+</div><div className='notion-spacer'></div>
+</div>
 
 
 To get books onto a device that has Bloom Reader installed, users can either download from Bloom Library, transfer books directly from the Bloom Editor to their devices, or share from one device to another.
@@ -81,7 +105,6 @@ Organizations interested in mass distribution of Bloom books to a people group c
 
 
 **Bloom Enterprise** is a special service for organizations that need additional program and publishing features. For more information about Bloom Enterprise, see [About Bloom Enterprise Index](/about-bloom-enterprise).
-
 
 
 </div><div className='notion-spacer'></div>

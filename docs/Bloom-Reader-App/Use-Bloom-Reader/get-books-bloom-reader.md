@@ -1,6 +1,6 @@
 ---
 title: Get Books in Bloom Reader
-sidebar_position: 2
+sidebar_position: 3
 slug: /get-books-bloom-reader
 keywords: [Bloom Reader]
 ---

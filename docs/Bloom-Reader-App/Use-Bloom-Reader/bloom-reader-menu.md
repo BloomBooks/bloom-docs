@@ -1,6 +1,6 @@
 ---
 title: Bloom Reader Menu
-sidebar_position: 5
+sidebar_position: 2
 slug: /bloom-reader-menu
 ---
 
