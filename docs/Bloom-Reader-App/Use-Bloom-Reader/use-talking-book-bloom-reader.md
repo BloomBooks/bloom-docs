@@ -4,15 +4,10 @@ sidebar_position: 5
 slug: /use-talking-book-bloom-reader
 ---
 
+import video1 from "./Talking_Book_Demo_720p.mp4";
 import ReactPlayer from "react-player";
 
-:::tip
-
-In Bloom Library and Bloom Reader, audio is available for book with a **speaker icon** 🔊 below the title:
-
-:::
-
-
+In **Bloom Library** and **Bloom Reader**, audio is available for books with a **speaker icon** 🔊:
 
 
 <div class='notion-row'>
@@ -51,7 +46,7 @@ Bloom books can have audio content.
 Audio automatically plays when you change pages:
 
 
-<ReactPlayer controls url="https://prod-files-secure.s3.us-west-2.amazonaws.com/d9a2b712-cf69-4bd6-9d65-87a4ceeacca2/7aa1de07-c164-496b-a5ad-e65cb4ead7f9/Talking_Book_Demo_720p.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T231421Z&X-Amz-Expires=3600&X-Amz-Signature=e63a956b29a760b14fb4f59aa0045e85d20b62ad0d6012b9286d85a5561772e2&X-Amz-SignedHeaders=host&x-id=GetObject" />
+<ReactPlayer controls url={video1} />
 
 
 ### Pause/Stop Audio {#295cba92d6a54c7cb40d415159e419cc}
@@ -112,9 +107,6 @@ Audio will continue playing unless you [**pause**](/use-talking-book-bloom-reade
 
 
 
-![](./use-talking-book-bloom-reader.3a1b49e1-9a19-43ef-8c9b-49f58df6e8ec.png)
-
-
 ## Change Audio Language {#8257e59c442244c7925cfc102a0f7e13}
 
 
@@ -125,4 +117,13 @@ Many Bloom books are multilingual. Languages with a speaker icon next to them ha
 
 
 To change the audio language of the book, follow the instructions for [Change Book Language](/read-book-bloom-reader#7a826cbbfc2a4ac19a84c5327fcaad8a).
+
+
+:::note
+
+**Please note:** Some languages in a book may now have audio available. If you would like to add audio to a book, see [Talking Books](/talking-books).
+
+:::
+
+
 

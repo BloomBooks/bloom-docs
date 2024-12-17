@@ -55,11 +55,11 @@ Note: For **Right-to-Left** languages, the swipe direction is **reversed**.
 
 You can also change between multiple pages at once:
 
-1. Tap on a page in the book:
+1. Tap on a **page** in the book:
 
 	![](./read-book-bloom-reader.d50960c1-4f5a-4053-ba2a-4bc7384b675d.jpg)
 
-2. A slider will appear below the page:
+2. A **slider** will appear below the page:
 
 	![](./read-book-bloom-reader.e4848c3e-287b-44d4-bd60-b007be3a81f2.png)
 
@@ -73,7 +73,7 @@ You can also change between multiple pages at once:
 
 If a book was written in **multiple languages**, you can **change the language** in Bloom Reader.
 
-1. Tap on a page in the book:
+1. Tap on a **page** in the book:
 
 	![](./read-book-bloom-reader.1e343316-f283-4d75-909b-0f6bbb3ce316.png)
 
@@ -81,7 +81,7 @@ If a book was written in **multiple languages**, you can **change the language**
 
 	![](./read-book-bloom-reader.943be3d3-8e5a-4b79-a52b-abd7185abf88.png)
 
-3. Tap on the language you want to use:
+3. Tap on the **language** you want to use:
 
 	![](./read-book-bloom-reader.612f0b2e-939b-48a7-8513-583400139f73.png)
 
@@ -93,7 +93,7 @@ If a book was written in **multiple languages**, you can **change the language**
 
 	![](./read-book-bloom-reader.04c22da3-da05-45ac-bd9f-1e2c2e113190.jpg)
 
-5. Tap on the screen to return to fullscreen mode:
+5. Tap on the **page** to return to fullscreen mode:
 
 	![](./read-book-bloom-reader.a371579a-7948-4546-aa18-74ff48b0ddd3.png)
 
@@ -109,7 +109,7 @@ When you are done reading a book, you can exit back to the Bloom Reader home scr
 
 1. Tap on a page in the book:
 
-	![](./read-book-bloom-reader.7a0ea021-8e64-4fe6-8138-27bc83d94fbe.jpg)
+	![](./read-book-bloom-reader.9b97db3a-34c5-496f-9e76-ffe9121f9e2f.jpg)
 
 2. Tap the back button:
 

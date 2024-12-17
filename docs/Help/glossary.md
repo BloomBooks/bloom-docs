@@ -59,3 +59,6 @@ On each page of this shell book, you will see the original text in some majority
 
 ![](./glossary.e44a1633-7cee-4f92-8288-52f556ce17c7.png)
 
+
+# BloomPUB {#f89e2ff182c3471a9cbabefaad5fe4f6}
+
