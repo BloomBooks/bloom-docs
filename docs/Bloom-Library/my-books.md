@@ -7,7 +7,7 @@ keywords: [Bloom Library]
 
 
 
-# Accessing your books {#352f7432fae64d5f9cb4ba4cad5c4ed6}
+# Access your books {#352f7432fae64d5f9cb4ba4cad5c4ed6}
 
 
 When you are logged into your Bloom Library account, there is a convenient way to view all of the books you have uploaded to the library. 

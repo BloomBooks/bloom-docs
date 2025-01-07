@@ -1,6 +1,6 @@
 ---
 title: Record Video in the Sign Language Tool
-sidebar_position: 2
+sidebar_position: 3
 slug: /record-video-sign-language-tool
 ---
 

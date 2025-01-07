@@ -15,10 +15,13 @@ slug: /talking-books
 ## Recording Audio in Bloom {#27a99fe5952642e6a4e14e611138ee1b}
 
 
-You can record an audio recording of your book directly in Bloom. 
+You can record an audio recording of your book directly in Bloom, or add audio to a book that exists but doesn’t have audio yet.
 
 
-[Record Audio](/record-audio) 
+[Record Audio](/record-audio)
+
+
+[Add Audio to an Existing Book](/add-audio-to-an-existing-book) 
 
 
 ## Importing Recordings {#edf102c96ed74ca49292c2ec1c2870a0}

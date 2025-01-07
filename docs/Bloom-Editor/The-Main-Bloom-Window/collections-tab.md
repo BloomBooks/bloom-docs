@@ -201,7 +201,7 @@ If you want to **open** or **create** a **different** collection, follow these s
 	![](./collections-tab.d7dade63-222e-4a0a-a770-6bd74ab08572.png)
 
 2. A window will open with multiple options:
-	1. `Create New Collection`: Click to create a brand new collection (see
+	1. `Create New Collection`: Click to create a brand new collection (see [Create a New Collection](/create-a-new-collection#1d6b50d3274041feaf260bfd18d07d4f)).
 	2. **Open a different collection**: If available, click to open a different collection in Bloom.
 	3. `Browser for another collection on this computer`: Click to search for another collection somewhere else on your computer.
 

@@ -7,7 +7,7 @@ slug: /use-talking-book-bloom-reader
 import video1 from "./Talking_Book_Demo_720p.mp4";
 import ReactPlayer from "react-player";
 
-In **Bloom Library** and **Bloom Reader**, audio is available for books with a **speaker icon** 🔊:
+In **Bloom Library** and **Bloom Reader**, audio is available for books with a **speaker icon**:
 
 
 <div class='notion-row'>
@@ -54,7 +54,7 @@ Audio automatically plays when you change pages:
 
 When audio is playing, you can **pause** or **stop** the audio:
 
-1. Tap on a page:
+1. Tap on a page to show the page controls:
 
 	![](./use-talking-book-bloom-reader.e8b8ecaa-57a9-4226-a226-ad911863ed02.png)
 
@@ -69,7 +69,7 @@ When audio is playing, you can **pause** or **stop** the audio:
 
 :::tip
 
-Audio will not play again until you press the [**Play button**](/use-talking-book-bloom-reader#bba54e2e2852497eb5fa0e266c96d54f).
+Audio will not play again until you press the [Play button](/use-talking-book-bloom-reader#bba54e2e2852497eb5fa0e266c96d54f).
 
 :::
 
@@ -81,7 +81,7 @@ Audio will not play again until you press the [**Play button**](/use-talking-boo
 
 If audio is paused, you can start it again:
 
-1. Tap on a page:
+1. Tap on a page to show the page controls:
 
 	![](./use-talking-book-bloom-reader.7fcdd8fc-1509-49e4-b3c3-c330db04e748.png)
 
@@ -100,7 +100,7 @@ If audio is paused, you can start it again:
 
 :::tip
 
-Audio will continue playing unless you [**pause**](/use-talking-book-bloom-reader#295cba92d6a54c7cb40d415159e419cc) it again.
+Audio will continue playing unless you [pause](/use-talking-book-bloom-reader#295cba92d6a54c7cb40d415159e419cc) it again.
 
 :::
 
@@ -119,11 +119,23 @@ Many Bloom books are multilingual. Languages with a speaker icon next to them ha
 To change the audio language of the book, follow the instructions for [Change Book Language](/read-book-bloom-reader#7a826cbbfc2a4ac19a84c5327fcaad8a).
 
 
+### Books with No Audio {#913ae137e4494d268fe002a96dfb3b02}
+
+
 :::note
 
-**Please note:** Some languages in a book may now have audio available. If you would like to add audio to a book, see [Talking Books](/talking-books).
+Some languages in a book may not have audio available. 
 
 :::
 
 
+
+
+Languages with **NO** speaker icon do **NOT** have an audio version:
+
+
+![](./use-talking-book-bloom-reader.d8c45052-513b-4b10-bb0a-3c48243524e3.png)
+
+
+If you would like to add audio to a book, see [Add Audio to an Existing Book](/add-audio-to-an-existing-book).
 

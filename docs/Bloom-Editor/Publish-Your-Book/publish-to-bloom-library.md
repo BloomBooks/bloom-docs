@@ -20,8 +20,8 @@ Bloom was made for sharing! By sharing your work on [BloomLibrary.org](http://bl
 
 ## **How To Publish Your Book to Bloom Library** {#1dc76e9180f94dc4a07c1cebcc5759df}
 
-1. **Click the** **`Publish`** **tab.**
-2. **Select** **`Web`****.**
+1. Click the `Publish` tab.
+2. Select `Web`.
 
 ![](./publish-to-bloom-library.b5d0665f-66f6-4eea-86f0-711d00f7bab1.png)
 
@@ -65,7 +65,7 @@ Finally, you can upload your book!
 1. **Confirm Metadata:** Ensure all metadata is accurate and add a book summary.
 2. **Agreements:** Read and agree to the necessary statements.
 3. **Upload**
-	- **Ensure that you are logged in to your** [**bloomlibrary.org**](https://bloomlibrary.org/) **account**
+	- Ensure that you are **logged in** to your [bloomlibrary.org](https://bloomlibrary.org/) account
 	- Click `UPLOAD BOOK`
 
 		:::note
@@ -86,8 +86,8 @@ Finally, you can upload your book!
 
 If Bloom Library already has a book with the same ID number, you must specify whether the book you are uploading is an update to the existing book, or a different book. 
 
-- Choose **Yes, I want to update this book** if your book is a new version of the book that is already in Bloom Library. Your new book will replace the older version.
-- Choose **No, these are different books** if you are uploading a different book. Bloom will assign a new ID number to your book and add it to the library. The older book will remain in the library.
+- Choose `Yes, I want to update this book` if your book is a new version of the book that is already in Bloom Library. Your new book will replace the older version.
+- Choose `No, these are different books` if you are uploading a different book. Bloom will assign a new ID number to your book and add it to the library. The older book will remain in the library.
 
 	![](./publish-to-bloom-library.fd20cdcd-c1b7-4994-91dd-ccb0f194e428.png)
 
@@ -95,7 +95,7 @@ If Bloom Library already has a book with the same ID number, you must specify wh
 ## **Managing Your Published Books on bloomlibrary.org** {#126df12515e2423e85dfdcd007702751}
 
 
- You can manage your book from the [bloomlibrary.org](https://bloomlibrary.org/) site. You can…
+ You can manage your book from the [bloomlibrary.org](https://bloomlibrary.org/) site. You can:
 
 - Set or clear the “Draft” status of a book
 - Show or hide which download formats are available to others (PDF, ePUB, or BloomPUB).
