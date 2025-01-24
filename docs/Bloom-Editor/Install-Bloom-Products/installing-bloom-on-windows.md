@@ -26,6 +26,9 @@ Bloom is designed to run on fairly modest hardware. Your computer should have at
 
 Bloom is primarily a program for the Microsoft Windows operating system. To run [Bloom 5.5](/release-notes-5-5#45d2af0275fc4ca89ae94264e38dce71) or higher, you need **Windows 10**, or **Windows 11**.
 
+
+The minimum version of Webview2 needed is version 112, but it may be best to have the most [up-to-date version](/webview2). If your computer regularly receives Windows Updates, you will already have this.
+
 <details>
 <summary>Information about older versions of Windows…</summary>
 

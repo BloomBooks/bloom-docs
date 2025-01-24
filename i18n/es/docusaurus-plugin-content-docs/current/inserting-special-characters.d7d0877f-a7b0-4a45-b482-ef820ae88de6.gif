@@ -5,7 +5,7 @@
         <meta http-equiv="content-type" content="text/html;charset=utf-8" />
         <meta name="copyright" content="Copyright 2025 Imgur, Inc." />
         <meta id="viewport" name="viewport" content="width=840, user-scalable=yes" />
-        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1734623386" />
+        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1737563237" />
 
         <style type="text/css">
             #content, #video {
@@ -58,7 +58,7 @@
 <!-- End Google Tag Manager -->
 
 
-        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1734623386"></script>
+        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1737563237"></script>
 <![endif]-->
     </head>
     <body id="body">
@@ -110,7 +110,7 @@
             </div>
             <progress value="0" max="100" min="0"></progress>
             <div class="video-loader"></div>
-            <script id="script2349yzI" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1734623386"></script>
+            <script id="script2349yzI" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1737563237"></script>
 
             <meta itemprop="thumbnailUrl" content="https://i.imgur.com/2349yzIh.jpg" />
             <meta itemprop="contentURL" content="https://i.imgur.com/2349yzI.mp4" />
@@ -139,7 +139,7 @@
                 <div class="clear"></div>
             </div>
         </div>
-        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1734623386"></script>
+        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1737563237"></script>
 
                     <!-- Firebase -->
 <script type="module">
