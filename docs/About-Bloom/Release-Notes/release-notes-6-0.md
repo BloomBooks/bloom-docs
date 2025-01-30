@@ -1,5 +1,5 @@
 ---
-title: Bloom 6.0 Beta Release Notes
+title: Bloom 6.0 Release Notes
 sidebar_position: 2
 slug: /release-notes-6-0
 keywords: [Release Notes]

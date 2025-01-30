@@ -354,5 +354,5 @@ In the Appearance system, you can just do
 You could also set `--page-margin-bottom` to 7mm, but the above is better: it will do the right thing on pages that don’t have numbers and if you use book settings to turn off page numbers.
 
 
-Other things like padding don’t _have_ to be changed; but see [Bloom 6.0 Beta Release Notes](/release-notes-6-0) for how padding has been improved and may make awkward ways of doing things unnecessary. The more you can do with the documented variables, the better your chances for compatibility with future Bloom versions and features.
+Other things like padding don’t _have_ to be changed; but see [Bloom 6.0 Release Notes](/release-notes-6-0) for how padding has been improved and may make awkward ways of doing things unnecessary. The more you can do with the documented variables, the better your chances for compatibility with future Bloom versions and features.
 
