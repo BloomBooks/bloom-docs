@@ -7,7 +7,7 @@ keywords: [Release Notes]
 
 
 
-# Improved Overlay Tool {#5fa3e7bb2b8b45af8b88ac591a80f351}
+## Improved Overlay Tool {#5fa3e7bb2b8b45af8b88ac591a80f351}
 
 
 We’ve made it easy to move, crop, an manipulate overlay items. They now operate more like you’d find in modern graphics programs such as Canva.com and Microsoft Designer. We did this work now as part of our work on “Bloom Games”, which should arrive in Bloom 6.2.
@@ -19,13 +19,7 @@ We’ve made it easy to move, crop, an manipulate overlay items. They now operat
 For a menu of options, click the “…” button or  just right-click on the element.
 
 
-# TODO about cropping {#18a4bb19df1280029cbcfb8a63c41e9d}
-
-
-TODO about a way to drag without deselecting.
-
-
-# Cover Color {#f3abdcc748d44c189b654dd489f535f1}
+## Cover Color {#f3abdcc748d44c189b654dd489f535f1}
 
 
 We moved the control for setting a custom cover color from the Publish screens to the Book Settings.
@@ -34,7 +28,7 @@ We moved the control for setting a custom cover color from the Publish screens t
 ![](./release-notes-6-1.f2715e5c-64e4-4fdb-8122-1604b883ee03.png)
 
 
-# Font Suitability {#c4fd9e98056547aa89e2df3274e52467}
+## Font Suitability {#c4fd9e98056547aa89e2df3274e52467}
 
 
 We’ve made it more obvious when a font’s license does not allow re-distribution.
@@ -49,7 +43,7 @@ In the Book Settings, you can now see all the fonts that are in a book and check
 ![](./release-notes-6-1.a6291985-96b9-4e96-af94-2621c8e9c264.png)
 
 
-# Half Folio Paper {#844989a56c0a49e1a71ca145215ea36e}
+## Half Folio Paper {#844989a56c0a49e1a71ca145215ea36e}
 
 
 You can now specify half folio paper size, which is popular in Colombia.
@@ -58,7 +52,7 @@ You can now specify half folio paper size, which is popular in Colombia.
 ![](./release-notes-6-1.7b61e80b-f755-4571-8cb0-b068fe660666.png)
 
 
-# Alpha Tiles Links {#6355bf84d8c44ce2af8ba80b253b73ef}
+## Alpha Tiles Links {#6355bf84d8c44ce2af8ba80b253b73ef}
 
 
 BloomLibrary.org can now include a link to your [Alpha Tiles](https://alphatilesapps.org/) app at the top of your language page:
@@ -67,7 +61,7 @@ BloomLibrary.org can now include a link to your [Alpha Tiles](https://alphatiles
 ![](./release-notes-6-1.dcbf47a3-fcb3-4179-8426-cc3f8ecf0935.png)
 
 
-# Language and Country Grids {#2252b625fad74e9b81a2a255ca214a0f}
+## Language and Country Grids {#2252b625fad74e9b81a2a255ca214a0f}
 
 
 We’ve added two new grids for finding and counting things on BloomLibrary.org. You can now view [books](https://bloomlibrary.org/grid/books), [languages](https://bloomlibrary.org/grid/languages), and [countries](https://bloomlibrary.org/grid/countries).  Note that where a language is found in multiple countries (e.g. English), we pick just one. Otherwise the count of languages in a country becomes unhelpful, as they include all the languages in modern use there, not just the languages that are indigenous to the country.
@@ -76,7 +70,7 @@ We’ve added two new grids for finding and counting things on BloomLibrary.org.
 ![](./release-notes-6-1.00e93853-1044-42f1-ba45-4abd7a275ecc.png)
 
 
-# Sign Language Videos {#f41a1ed868cf47d9aa37b973f31366a2}
+## Sign Language Videos {#f41a1ed868cf47d9aa37b973f31366a2}
 
 
 We’ve made a few improvements to video playback:
@@ -87,7 +81,7 @@ We’ve made a few improvements to video playback:
 Fix replay
 
 
-# Custom language names in collections with many languages {#c0a1979938414886b0a1e316420e678c}
+## Custom language names in collections with many languages {#c0a1979938414886b0a1e316420e678c}
 
 
 Bloom has a “default” name for each language, which you can customize when you pick the language. Before this version, Bloom could remember these custom languages for just the L1, L2, L3, and Sign Language. However if you’re importing more than 3 languages via Spreadsheet Import, it would forget how you want to display those other languages.
