@@ -106,7 +106,7 @@ The following parameters are our additions the OPDS spec:
 To get a list of languages, use a URL like this:
 
 
-```xml
+```text
 https://api.bloomlibrary.org/v1/opds?organizeby=language&minimalnavlinks=true&key=YOURACCOUNT:YOURKEY
 ```
 
@@ -144,7 +144,7 @@ etc...
 To get a list of books in a language, use a URL like this:
 
 
-```xml
+```text
 https://api.bloomlibrary.org/v1/opds?&minimalnavlinks=true&[key=YOURACCOUNT:YOURKEY](https://api.bloomlibrary.org/v1/opds?key=rev79_app%40sil.org%3AkCaAHOBD2r&minimalnavlinks=true&lang=hi)&lang=LANGUAGETAG
 ```
 
