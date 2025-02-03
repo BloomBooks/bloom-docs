@@ -52,7 +52,7 @@ You can now control whether page numbers are visible. Note that with some combin
 ### Content Page Settings: Text Padding {#1044bb19df12809a8369dbee37f0234e}
 
 
-Smart text padding is a new feature in Bloom 6.1. You can see examples of it later in these Release Notes. 
+We’ve added _text padding_ to better separate items on the page. Items are separated from each other and from the edge of the screen on ebooks. You can see examples of it later in these Release Notes. 
 
 
 ![](./release-notes-6-0.1044bb19-df12-804b-beff-f15ab8bc0815.png)
@@ -102,7 +102,7 @@ Bloom 5.6 had large margins and always showed a page number.
 
 
 
-Bloom 6.0 ebook with default theme
+A Bloom 6.0 ebook with default theme
 
 
 </div><div className='notion-spacer'></div>
@@ -117,7 +117,7 @@ Bloom 6.0 ebook with default theme
 
 
 
-Bloom 6.0 ebook with the “Zero Margin” theme
+A Bloom 6.0 ebook with the “Zero Margin” theme
 
 
 </div><div className='notion-spacer'></div>
@@ -129,7 +129,7 @@ Bloom 6.0 ebook with the “Zero Margin” theme
 
 
 
-Bloom 6.0 with the “Zero Margin” theme
+A Bloom 6.0 with the “Zero Margin” theme
 
 
 </div><div className='notion-spacer'></div>
@@ -148,34 +148,7 @@ Due to changes in the margins, you might need to modify the split between the im
 ### Front and Back Cover Margins {#bb5d8a2d9d934e31b88ba11637c9d67f}
 
 
-The smaller default page margins affect the front and back covers as well as the inside pages.  This results in the various cover elements such as titles, pictures, credits, and logos moving slightly and possibly becoming a bit larger.  (The changed text wrapping of the title is discussed below.)
-
-
-<div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
-
-![](./release-notes-6-0.de0bb84e-6e63-4477-a3c4-2077f081a283.png)
-
-
-
-Bloom 5.6
-
-
-</div><div className='notion-spacer'></div>
-
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
-
-![](./release-notes-6-0.de773b31-cecd-45b5-869e-1c4e3c204c50.png)
-
-
-
-Bloom 6.0
-
-
-</div><div className='notion-spacer'></div>
-</div>
+The smaller default page margins affect the front and back covers as well as the inside pages.  This results in the various cover elements such as titles, pictures, credits, and logos moving slightly and possibly becoming a bit larger.  
 
 
 ## Padding {#02bad6edddbd4ab0be35b0f744a68e1b}
@@ -226,6 +199,7 @@ In multilingual books, the padding will be based on the font size of the first l
 
 
 
+
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
@@ -246,7 +220,7 @@ Bloom 6.0, Bloom adds padding around the text. It can tell that there is no page
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-You can now click in the dark area outside of the page in order to hide all the markup. This helps you see the page just as your readers will see it.
+You can now click outside of the page in order to hide all the markup. This helps you see the page just as your readers will see it:
 
 
 
@@ -343,7 +317,7 @@ We’ve made Bloom smarter about where to wrap text, leading to a more balanced 
 
 
 
-Bloom 6.0 makes titles look more balanced.
+Bloom 6.0 improves text wrapping algorithms to ensure titles are evenly distributed across lines, avoiding awkward gaps or stranded words:
 
 
 </div><div className='notion-spacer'></div>
@@ -423,7 +397,7 @@ The person who uploaded a book always had a few extra things they could do to co
 ### “Download Into Bloom for Editing” Button {#5e996d28e7a94c07928a6f8a1e6f04dd}
 
 
-Sometimes, you may want to improve a book you or a colleague uploaded but no longer have easy access to the original Bloom files. Now, you can click “Download into Bloom for Editing.” This will open your Bloom Editor application with a new collection containing only this one book. If the book depends on a Bloom Enterprise Subscription, you will not have to re-enter it. If the subscription has expired, it will work anyway.
+Sometimes, you may want to improve a book you or a colleague uploaded but no longer have easy access to the original Bloom files. Now, you can click “Download into Bloom for Editing.” This will open your Bloom application with a new collection containing only this one book. If the book depends on a Bloom Enterprise Subscription, you will not have to re-enter it. If the subscription has expired, it will work anyway.
 
 
 ### Editing Permissions on Your Bloom Library Collections (Bookshelves) {#286550b872b54090831f78c3e11c90d4}
@@ -432,7 +406,7 @@ Sometimes, you may want to improve a book you or a colleague uploaded but no lon
 Bloom Enterprise subscribers often work in teams, with different people uploading books. Previously, only the person who uploaded a book had any control over it. We can now tell the Bloom Library who each collection’s “editors” are. The following table shows what Collection Editors will be able to do:
 
 
-|                    | 5.6                                  | 6.0 Timeframe                                                                                                                                  | 6.1 Timeframe                                                     |
+|                    | 5.6                                  | 6.0                                                                                                                                            | 6.1 Timeframe                                                     |
 | ------------------ | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Original Uploader  | Draft<br/>Delete<br/>Control Formats | Download into Bloom for Editing                                                                                                                |                                                                   |
 | Collection Editors |                                      | Delete<br/>Download into Bloom for Editing<br/>Re-upload without changing the listed “uploader”<br/>Re-upload and become the listed “uploader” | Draft<br/>Control Formats<br/>Assign to Collections (Bookshelves) |
@@ -485,4 +459,10 @@ BloomPUB Viewer versions 1.0.7 and 1.0.8 had a bug that prevented them from upda
 
 </div><div className='notion-spacer'></div>
 </div>
+
+
+Bloom 5.6
+
+
+![](./release-notes-6-0.de0bb84e-6e63-4477-a3c4-2077f081a283.png)
 
