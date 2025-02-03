@@ -56,29 +56,25 @@ Remember that a level should include not only criteria for word length and sente
 
 
 
-When you open your book, the **Leveled Reader Tool** appears. Learn more about [Use the Leveled Reader Tool](/leveled-reader-tool).
+When you open your book, the **Leveled Reader Tool** appears. Learn more about [Use the Leveled Reader Tool](/leveled-reader-tool). 
+
+
+Bloom comes with a basic set of levels. You can use this basic set, or you can change them to suit your needs. You can also define additional levels: see [Set up Leveled Reader Levels](/set-leveled-reader-levels).
 
 
 ## How Bloom helps you create leveled readers {#92ad10caace54589ba3185b7a2fc011a}
 
 
-:::note
+The Leveled Reader tool helps you as a writer in two ways: 
 
-Coming soon…
+1. The Leveled Reader Tool shows you statistics on how many words, sentences, and pages are in your book. If you type too many words in a leveled reader, the number shown in the **actual** column changes from green to orange.
+2. When there are too many words in a sentence, Bloom highlights the sentence in orange.
 
-:::
-
-
-
-
-# Getting help for creating leveled reader levels {#952d57fc85874ba48af852bdd410be2d}
+![](./leveled-readers.d6eff5f9-1bcc-42bb-a4b4-e336f5b95390.png)
 
 
-:::note
-
-Coming soon…
-
-:::
+When there are too many words on a page, Bloom highlights all sentences on the page and puts an orange border around the page. 
 
 
+![](./leveled-readers.83d09287-f739-497e-bdf4-4251c3daf2f1.png)
 

@@ -7,7 +7,7 @@ keywords: [Aeneas, Talking Book Tool]
 
 
 
-## HEdit Aeneas Timings {#0f1ab59b97584e72bd3d0ebb7c29436d}
+## Edit Aeneas Timings {#0f1ab59b97584e72bd3d0ebb7c29436d}
 
 
 There are two recording modes in Bloom’s **Talking Book Tool**: 

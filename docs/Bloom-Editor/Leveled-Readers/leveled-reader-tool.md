@@ -6,15 +6,6 @@ slug: /leveled-reader-tool
 
 
 
-:::note
-
-This page is a draft version.
-
-:::
-
-
-
-
 When you open your book, the **Leveled Reader Tool** appears on the right. As you add text to the page, the Leveled Reader Tool counts and displays the number of words you are using, and compares them to the maximum you should be using for the current level.
 
 - The **Max** column shows you how many words and sentences are allowed for this level.
@@ -114,15 +105,6 @@ The Leveled Reader Tool gives you three kinds of measures:
 		- The total number of words in the book
 		- The average number of words per page
 		- The number of unique words in the book
-
-			:::tip
-			
-			You might want to limit the number of unique words, as the repetition of the words used could be helpful to someone who is learning to read.
-			
-			:::
-			
-			
-
 		- The longest sentence in the book
 		- The average number of words per sentence
 		- The average number of words per page
