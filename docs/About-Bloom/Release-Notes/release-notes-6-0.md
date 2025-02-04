@@ -460,9 +460,3 @@ BloomPUB Viewer versions 1.0.7 and 1.0.8 had a bug that prevented them from upda
 </div><div className='notion-spacer'></div>
 </div>
 
-
-Bloom 5.6
-
-
-![](./release-notes-6-0.de0bb84e-6e63-4477-a3c4-2077f081a283.png)
-
