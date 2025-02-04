@@ -141,66 +141,11 @@ etc...
 ### Books of a language {#ca33614244c44331b981d98b15bd79ac}
 
 
-To get a list of books in a language, use a URL like this:
+:::note
+
+Directions for retrieving a list of books in a language are temporarily unavailable.
+
+:::
 
 
-```text
-https://api.bloomlibrary.org/v1/opds?&minimalnavlinks=true&[key=YOURACCOUNT:YOURKEY](https://api.bloomlibrary.org/v1/opds?key=rev79_app%40sil.org%3AkCaAHOBD2r&minimalnavlinks=true&lang=hi)&lang=LANGUAGETAG
-```
 
-
-This will return a result like this:
-
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
-   <id>https://bloomlibrary.org</id>
-   <title>Bloom Library Books</title>
-   <updated>2022-11-09T17:57:18.286Z</updated>
-   <entry>
-      <id>ee2d7092-be71-43fd-8ae8-575925539492</id>
-      <title>ต่อสู้ไวรัส!</title>
-      <summary>Virus information for children</summary>
-      <updated>2022-08-17T17:31:58.448Z</updated>
-      <dcterms:subject>health</dcterms:subject>
-      <dcterms:rights>Copyright © 2020, SH, TF</dcterms:rights>
-      <dcterms:license>cc-by-sa</dcterms:license>
-      <dcterms:language>nod</dcterms:language>
-      <link rel="http://opds-spec.org/image" href="https://api.bloomlibrary.org/v1/fs/harvest/3ccIsvrpEQ/thumbnails/thumbnail-256.png?version=2022-08-17T17:31:58.448Z" type="image/png" title="Image" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://api.bloomlibrary.org/v1/fs/upload/3ccIsvrpEQ/%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b9%89%e0%b9%84%e0%b8%a7%e0%b8%a3%e0%b8%b1%e0%b8%aa!.pdf" type="application/pdf" title="PDF" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://api.bloomlibrary.org/v1/fs/harvest/3ccIsvrpEQ/%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b9%89%e0%b9%84%e0%b8%a7%e0%b8%a3%e0%b8%b1%e0%b8%aa!.bloomd" type="application/bloompub+zip" title="bloomPUB" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://bloomlibrary.org/player/3ccIsvrpEQ" type="text/html" title="Read On Bloom Library" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://api.bloomlibrary.org/v1/fs/harvest/3ccIsvrpEQ/%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b9%89%e0%b9%84%e0%b8%a7%e0%b8%a3%e0%b8%b1%e0%b8%aa!.bloomSource" type="application/bloomSource+zip" title="bloomSource" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://bloomlibrary.org/book/3ccIsvrpEQ" type="text/html" title="Bloom Library Page" />
-   </entry>
-   <entry>
-      <id>0e5b456d-f04a-46d4-a8f6-1f61033ee9b8</id>
-      <title>หงส์หามเต่า</title>
-      <summary>เรื่องย่อ : เต่ากับหงส์เป็นเพื่อนกัน วันหนึ่ง เต่าเห็นนกบิน เต่าอยากบินได้เหมือนนก หงส์จึงอาสาพาเต่าบิน ชาวนาเห็นเต่ากับหงส์บินมาจึงร้องตะโกนว่า "เต่าบินได้" เต่าตอบว่าไม่ ไม่ ก็เลยทำให้เต่าตกลงมา</summary>
-      <updated>2022-08-17T18:00:33.564Z</updated>
-      <dcterms:rights>Copyright © 2019, มูลนิธิศุภนิมิตแห่งประเทศไทย</dcterms:rights>
-      <dcterms:license>cc-by-nc-nd</dcterms:license>
-      <dcterms:language>nod</dcterms:language>
-      <link rel="http://opds-spec.org/image" href="https://api.bloomlibrary.org/v1/fs/harvest/lweHdAjFbg/thumbnails/thumbnail-256.png?version=2022-08-17T18:00:33.564Z" type="image/png" title="Image" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://api.bloomlibrary.org/v1/fs/harvest/lweHdAjFbg/epub/%e0%b8%ab%e0%b8%87%e0%b8%aa%e0%b9%8c%e0%b8%ab%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%95%e0%b9%88%e0%b8%b2.epub" type="application/epub+zip" title="ePUB" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://api.bloomlibrary.org/v1/fs/upload/lweHdAjFbg/%e0%b8%ab%e0%b8%87%e0%b8%aa%e0%b9%8c%e0%b8%ab%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%95%e0%b9%88%e0%b8%b2.pdf" type="application/pdf" title="PDF" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://api.bloomlibrary.org/v1/fs/harvest/lweHdAjFbg/%e0%b8%ab%e0%b8%87%e0%b8%aa%e0%b9%8c%e0%b8%ab%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%95%e0%b9%88%e0%b8%b2.bloomd" type="application/bloompub+zip" title="bloomPUB" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://bloomlibrary.org/player/lweHdAjFbg" type="text/html" title="Read On Bloom Library" />
-      <link rel="http://opds-spec.org/acquisition/open-access" href="https://bloomlibrary.org/book/lweHdAjFbg" type="text/html" title="Bloom Library Page" />
-   </entry>
-</feed>
-```
-
-
-Notice that these book entries provide:
-
-- link to a thumbnail
-- link to the [BloomLibrary.org](https://bloomlibrary.org/) page for the book
-- link to read the book online
-
-Also, depending on the book, it may provide:
-
-- link to a pdf
-- link to an ePUB
-- link to a bloomPUB
