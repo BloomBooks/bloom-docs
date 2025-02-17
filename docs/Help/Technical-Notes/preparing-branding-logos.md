@@ -264,6 +264,15 @@ If you use Figma as part of the process, beware that if you export an SVG that c
 </div>
 
 
+:::tip
+
+When exporting a PNG, if you have a “Resample” option, “Nearest Neighbor”  may avoid unwanted smoothing.
+
+:::
+
+
+
+
 ## Wrapping Up {#12a4bb19df128081bb0ae9102790f3d5}
 
 
