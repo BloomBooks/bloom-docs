@@ -39,8 +39,7 @@ npx docu-pdf "$URL" \
 --coverPath "./pdf-cover.htm" \
 --pageSize "A4" \
 --outputPath "$OUTPUTPATH" \
---tocLevel 1 \
---no-sandbox
+--tocLevel 1
 
 if [ "$1" == "en" ]; then
     # Until we start generating language-specific PDFs, we'll just copy the English one to the other locales.
