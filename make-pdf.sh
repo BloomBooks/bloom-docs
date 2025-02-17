@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -e  # Exit on error
 
 # Use en for the language if not set
 if [ -z "$1" ]
@@ -38,7 +39,8 @@ npx docu-pdf "$URL" \
 --coverPath "./pdf-cover.htm" \
 --pageSize "A4" \
 --outputPath "$OUTPUTPATH" \
---tocLevel 1
+--tocLevel 1 \
+--no-sandbox
 
 if [ "$1" == "en" ]; then
     # Until we start generating language-specific PDFs, we'll just copy the English one to the other locales.
