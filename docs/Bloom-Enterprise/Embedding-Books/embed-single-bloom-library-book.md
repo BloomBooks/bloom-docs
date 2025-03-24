@@ -20,8 +20,7 @@ It is possible to embed an interactive book directly on your website, if your we
   height="500px"
   width="100%"
 	allow="fullscreen"
-	allowFullScreen={true}
-  initiallyPaused={true}
+	allowFullScreen="true"
 />
 ```
 
@@ -29,10 +28,13 @@ It is possible to embed an interactive book directly on your website, if your we
 For example, if we use:
 
 
-```html
+```javascript
 <iframe
-  src="https://embed.bloomlibrary.org/bloom-player/bloomplayer.htm?url=[https://bloomlibrary.org/player/Da5Scm1XBK](https://bloomlibrary.org/player/rFnCBRPsDs)"
-  width="100%" height="450px" allow="fullscreen" allowFullScreen={true}   initiallyPaused={true}
+  src="https://embed.bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://bloomlibrary.org/player/Da5Scm1XBK"
+  width="100%"
+  height="450px"
+  allow="fullscreen"
+  allowfullscreen="true"
 />
 ```
 
