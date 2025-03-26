@@ -29,7 +29,7 @@ We offer these collections as part of our [Bloom Enterprise](/about-bloom-enterp
 ## 2) Get Your Embedding URL {#e43af9d1c65f4e9c97c81181ba208dc0}
 
 
-We offer the ability to embed your book collections on your own website. We still supply the storage space and code; all you have to do is make room one one of your pages to show and read the books.  We offer this as a paid service to help cover our costs for developing and supporting Bloom. If you are part of SIL or one of its partner organizations, write to us at [librarian@bloomlibrary.org](mailto:librarian@bloomlibrary.org). Other organizations should contact [SIL-LEAD](https://www.sil-lead.org/contact-us).
+We offer the ability to embed your book collections on your own website. We still supply the storage space and code; all you have to do is make room on one of your pages to show and read the books.  We offer this as a paid service to help cover our costs for developing and supporting Bloom. If you are part of SIL or one of its partner organizations, write to us at [librarian@bloomlibrary.org](mailto:librarian@bloomlibrary.org). Other organizations should contact [SIL-LEAD](https://www.sil-lead.org/contact-us).
 
 
 Once you have been given the go-ahead, we will send you an iframe URL to use. The URL will look like this:
@@ -38,13 +38,13 @@ Once you have been given the go-ahead, we will send you an iframe URL to use. Th
 `https://embed.bloomlibrary.org/best-foo-books?bl-domain=foo.org`
 
 
-## 3) Add an IFRAME to Your Page {#c5e46994811b41a29ec5dc5005e01f73}
+## 3) Add an `iframe` to Your Page {#c5e46994811b41a29ec5dc5005e01f73}
 
 
 If you have access to the raw HTML of your page, add an iframe element:
 
 
-```javascript
+```html
 <iframe id="bloomlibrary" src="THE-URL-YOU-WERE-GIVEN" 
 title="our books" height="100%" width="100%"></iframe>
 ```
