@@ -41,7 +41,7 @@ We have heard a number of reasons why people may not upload their books:
 Do you have a concern that is not listed here? [Tell us](mailto:issues@bloomlibrary.org) about it!
 
 <details>
-<summary>**“What if we don’t have an Enterprise Subscription?”**</summary>
+<summary>“What if we don’t have an Enterprise Subscription?”</summary>
 
 You don’t need a subscription to upload your books to Bloom Library. Anyone can create a free account and upload their books.
 
@@ -49,7 +49,7 @@ You don’t need a subscription to upload your books to Bloom Library. Anyone ca
 </details>
 
 <details>
-<summary>**“Isn’t Bloom Library for finding books to translate? It would not make sense to translate my book.”**</summary>
+<summary>“Isn’t Bloom Library for finding books to translate? It would not make sense to translate my book.”</summary>
 
 Even though Bloom Library is an excellent source of books that can be translated and re-published, the library is _primarily_ a place where readers, educators, and local-language advocates can find vernacular materials in specific languages.
 
@@ -57,7 +57,7 @@ Even though Bloom Library is an excellent source of books that can be translated
 </details>
 
 <details>
-<summary>**“Why should I upload my book—it isn’t perfect?”**</summary>
+<summary>“Why should I upload my book—it isn’t perfect?”</summary>
 
 It’s fine to share books that you might improve in the future. Consider putting a note in the book summary alerting users that more work is planned. You might even want to give them a way to contact you for feedback. Then, as you progress, Bloom makes it easy to upload an updated version.
 
@@ -68,7 +68,7 @@ If the book isn’t ready for the public, it can still be great to put the book 
 </details>
 
 <details>
-<summary>**“What if my books cannot be shared outside of the country?”**</summary>
+<summary>“What if my books cannot be shared outside of the country?”</summary>
 
 There is a way to tell BloomLibrary.org to restrict the reading and downloading of books to a single country. [Contact us](mailto:issues@bloomlibrary.org) for help with that.
 
@@ -76,7 +76,7 @@ There is a way to tell BloomLibrary.org to restrict the reading and downloading 
 </details>
 
 <details>
-<summary>**“What if our people group doesn’t have access to the internet?”**</summary>
+<summary>“What if our people group doesn’t have access to the internet?”</summary>
 
 You can be confident that no matter how remote a language community is, they will eventually get internet access. This may be the local people, the diaspora, or even their descendants. If the books are only on paper or your personal hard drive, your books will disappear. Instead, we encourage you to put them in the Bloom Library. SIL and other organizations will keep them accessible now and for future generations. And your book on Bloom Library can still do a lot of good in the world, even while waiting for your language group to get regular, inexpensive access to the internet:
 

@@ -90,26 +90,26 @@ There is also a button that lets you copy the book statistics to your computerâ€
 The Leveled Reader Tool gives you three kinds of measures:
 
 - [Word Counts](/leveled-reader-tool#64e923fe22ed45aaab27ce6b6f4fbffb)
-- [Word lengths](/leveled-reader-tool#ef0d60ef76054b188bae27bea4f6bf74)
-- [Sentence counts](/leveled-reader-tool#f6b34e40cd09443bac749e4afbab57d3)
+- [Word Lengths](/leveled-reader-tool#ef0d60ef76054b188bae27bea4f6bf74)
+- [Sentence Counts](/leveled-reader-tool#f6b34e40cd09443bac749e4afbab57d3)
 
 ### Word Counts {#64e923fe22ed45aaab27ce6b6f4fbffb}
 
 
 **Word counts** are divided into two parts: word counts for the current page, and word counts for the entire book.  
 
-	- For the current page:
-		- The number of words per page
-		- The length (in words) of the longest sentence on the page
-	- For the entire book:
-		- The total number of words in the book
-		- The average number of words per page
-		- The number of unique words in the book
-		- The longest sentence in the book
-		- The average number of words per sentence
-		- The average number of words per page
+- For the current page:
+	- The number of words per page
+	- The length (in words) of the longest sentence on the page
+- For the entire book:
+	- The total number of words in the book
+	- The average number of words per page
+	- The number of unique words in the book
+	- The longest sentence in the book
+	- The average number of words per sentence
+	- The average number of words per page
 
-### **Word lengths** {#ef0d60ef76054b188bae27bea4f6bf74}
+### **Word Lengths** {#ef0d60ef76054b188bae27bea4f6bf74}
 
 - The maximum length (in graphemes) of words on this page
 
@@ -124,7 +124,7 @@ The Leveled Reader Tool gives you three kinds of measures:
 - The maximum length (in graphemes) of words in the book
 - The average length (in graphemes) of words in the book
 
-### **Sentence counts** {#f6b34e40cd09443bac749e4afbab57d3}
+### **Sentence Counts** {#f6b34e40cd09443bac749e4afbab57d3}
 
 - The number of sentences on this page
 - The total number of sentences in the book
