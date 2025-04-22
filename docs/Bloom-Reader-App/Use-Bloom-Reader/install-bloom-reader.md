@@ -39,7 +39,7 @@ You can also install directly from an APK file:
 
 1. Download the Bloom Reader [APK installation file](https://s3.amazonaws.com/bloomlibrary.org/bloomReader/apks/release/latest/BloomReader.apk) on your device.
 2. Open/install the APK file on your device.
-3. If the device will not install the APK file, you may need to .
+3. If the device will not install the APK file, you may need to [Enable Installation of Unknown Apps](/install-bloom-reader#c7989aba90474cd4a8b85c97708fc916).
 
 ### Enable Installation of Unknown Apps {#c7989aba90474cd4a8b85c97708fc916}
 
@@ -87,7 +87,7 @@ If you already have Bloom Reader installed on your phone, you can share the **AP
 
 6. Follow the steps to share the APK file with your friend.
 7. Once the file is transferred to your friend’s device, open the APK file on their device.
-8. If the device will not install the APK file, you may need to .
+8. If the device will not install the APK file, you may need to [Enable Installation of Unknown Apps](/install-bloom-reader#c7989aba90474cd4a8b85c97708fc916).
 
 ## Install on Older Android Versions {#71c002fa0e494057a0bd122264d997f5}
 

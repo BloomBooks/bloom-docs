@@ -11,7 +11,7 @@ When you open your book, the **Leveled Reader Tool** appears on the right. As yo
 - The **Max** column shows you how many words and sentences are allowed for this level.
 - The **Actual** column shows you how many words and sentences your book currently has.
 
-(See  for more details on these measures.)
+(See [Leveled Reader Tool Statistics](/leveled-reader-tool#419a3f12f7a4441392f6c7a1685713d8) for more details on these measures.)
 
 
 ![](./leveled-reader-tool.48e12a1c-9d4e-42bf-a42e-29a27dcc3f7e.png)
@@ -89,9 +89,9 @@ There is also a button that lets you copy the book statistics to your computerâ€
 
 The Leveled Reader Tool gives you three kinds of measures:
 
-- 
-- 
-- 
+- [Word Counts](/leveled-reader-tool#64e923fe22ed45aaab27ce6b6f4fbffb)
+- [Word lengths](/leveled-reader-tool#ef0d60ef76054b188bae27bea4f6bf74)
+- [Sentence counts](/leveled-reader-tool#f6b34e40cd09443bac749e4afbab57d3)
 
 ### Word Counts {#64e923fe22ed45aaab27ce6b6f4fbffb}
 

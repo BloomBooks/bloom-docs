@@ -36,7 +36,7 @@ To view all of Bloom Editor’s features, see [this page](https://bloomlibrary.o
 ## Bloom Library {#9d03d5c0220e48129b86b0958ff59386}
 
 
-[Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than **21****,000 FREE books** in **900+ languages**. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
+[Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than **22,000 FREE books** in **1,000+ languages**. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
 
 
 ![](./bloom-platform.abec701d-3e70-456b-b192-df5f9818b2c7.png)

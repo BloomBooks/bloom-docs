@@ -240,4 +240,4 @@ If you have a BloomPUB file on computer or Android device, you can share it with
 	2. [Share a Book in Bloom Reader](/share-book-bloom-reader).
 2. Send the BloomPUB book to an Android device using your preferred sharing method.
 3. Save the file to the Android device.
-4. Use the steps listed in  to open the file in Bloom Reader.
+4. Use the steps listed in [Get books from a folder on your Android device](/get-books-bloom-reader#0c2e2d830dcd4b769af3d29c24ac0e3c) to open the file in Bloom Reader.

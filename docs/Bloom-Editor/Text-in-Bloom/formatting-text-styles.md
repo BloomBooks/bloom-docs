@@ -92,7 +92,7 @@ To edit a style:
 
 	![](./formatting-text-styles.5a4b0f80-452d-46a3-8322-65b22aafe1e8.png)
 
-3. If you would like to create a new style, see .
+3. If you would like to create a new style, see [Create a New Style](/formatting-text-styles#d6874abf777043d2813e5ac1c6b2e831).
 4. Edit the style using the [Characters](/formatting-text-styles#8ccb26628b554d0585cec6ad4374525a), [Paragraph](/formatting-text-styles#961126a170434b8cbf320dd3c07fb580), and [Highlighting](/formatting-text-styles#1ab99823d15246fa9636cae61c07dd3a) tabs.
 
 ### The Characters Style Tab {#8ccb26628b554d0585cec6ad4374525a}

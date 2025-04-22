@@ -31,9 +31,9 @@ Note: You can NOT change the layout for these types of pages:
 
 The _Text Box Properties_ dialog box has three separate tabs:
 
-- 
-- 
-- 
+- [The Language tab](/formatting-text-boxes#807253a78d6f4355b217f2b20af6bdc5)
+- [The Alignment tab](/formatting-text-boxes#39af07a9fdfb450d9052eb7789bd2f74)
+- [The Borders & Background tab](/formatting-text-boxes#b7b2dd05956540c880ef5e5ffbd9f9d1)
 
 We’ll look at each one below.
 
@@ -60,7 +60,7 @@ If you are simply printing your book, having inaccurate language tagging will no
 
 
 
-You can change the language (or languages) used for the whole book in .
+You can change the language (or languages) used for the whole book in [Languages Tab](/collections-tab#86d7ec4a747345abbd16d80d9489181c).
 
 
 ## The Language tab {#807253a78d6f4355b217f2b20af6bdc5}
