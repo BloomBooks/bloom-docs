@@ -138,7 +138,11 @@ You can try each of these without downloading or paying.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A portion of the JPEG original](./preparing-branding-logos.12a4bb19-df12-80a0-9a10-cc8599bcf75a.png)
+![](./preparing-branding-logos.12a4bb19-df12-80a0-9a10-cc8599bcf75a.png)
+
+
+
+A portion of the JPEG original
 
 
 </div><div className='notion-spacer'></div>
@@ -146,7 +150,11 @@ You can try each of these without downloading or paying.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A portion of the SVG output by vectorizer.ai. Note the  unwanted posterization of the water.](./preparing-branding-logos.12a4bb19-df12-8001-91b3-dc83ae88eb7c.png)
+![](./preparing-branding-logos.12a4bb19-df12-8001-91b3-dc83ae88eb7c.png)
+
+
+
+A portion of the SVG output by vectorizer.ai. Note the  unwanted posterization of the water.
 
 
 </div><div className='notion-spacer'></div>
@@ -156,7 +164,29 @@ You can try each of these without downloading or paying.
 In the end, we paid for US$18 for someone advertising “vector tracing” on [Fiverr.com](http://fiverr.com/). That same day, we got back something that didn’t exactly match the original, but the client was ok with the changes:
 
 
-![A portion of what the Fiverr vendor created for us.](./preparing-branding-logos.12a4bb19-df12-80f1-8e49-ed045d24e159.png)
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5416666666666666)'}}>
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 1.2083333333333335)'}}>
+
+
+![](./preparing-branding-logos.12a4bb19-df12-80f1-8e49-ed045d24e159.png)
+
+
+
+A portion of what the Fiverr vendor created for us.
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.6666666666666667)'}}>
+
+
+</div><div className='notion-spacer'></div>
+</div>
 
 
 ### Check the outlines of the text {#12a4bb19df12805a816bfbeccc5b3c25}
@@ -165,7 +195,26 @@ In the end, we paid for US$18 for someone advertising “vector tracing” on [F
 Look carefully at the outlines of the text for any egregious errors, like the pointy bits in this “O”:
 
 
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5416666666666666)'}}>
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 1.1666666666666665)'}}>
+
+
 ![](./preparing-branding-logos.12a4bb19-df12-80aa-bb5e-d8ecd5dbda37.png)
+
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.6250000000000002)'}}>
+
+
+</div><div className='notion-spacer'></div>
+</div>
 
 
 Note that if the text is small, errors like this would not be noticeable in the final printed version.
@@ -183,7 +232,26 @@ Make sure that no gradients have been accidentally [_posterized_](https://en.wik
 
 
 
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5)'}}>
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5)'}}>
+
+
 ![](./preparing-branding-logos.12a4bb19-df12-8040-8846-cab93d6ac2bf.png)
+
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5)'}}>
+
+
+</div><div className='notion-spacer'></div>
+</div>
 
 
 At the time of this writing, we are not aware of a converter that does well with gradients. You may need to add them manually in a design tool.
@@ -257,7 +325,11 @@ If you use Figma as part of the process, beware that if you export an SVG that c
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Export from Affinity](./preparing-branding-logos.1494bb19-df12-807a-9a35-c6e65db655ba.png)
+![](./preparing-branding-logos.1494bb19-df12-807a-9a35-c6e65db655ba.png)
+
+
+
+Export from Affinity
 
 
 </div><div className='notion-spacer'></div>

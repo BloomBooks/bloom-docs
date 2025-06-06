@@ -48,13 +48,7 @@ In this training module, you will learn how to:
 	![](./sign-language-books.9604024a-a06f-43b2-8187-295221eb60d2.png)
 
 
-	:::note
-	
 	Under the **Sign Language** section, you can recognize these are sign language page templates because they contain the icon of a video camera. 
-	
-	:::
-	
-	
 
 2. Click on the thumbnail of the page template that you would like to use.
 3. A larger thumbnail of the template will appear at the right.
@@ -67,7 +61,7 @@ In this training module, you will learn how to:
 
 	![](./sign-language-books.8d47d5d1-8b59-4067-9505-649c980da82d.png)
 
-	1. Click `Allow`.
+	- Click `Allow`.
 
 ## How to Use a Page Design that Contains a Place for Video {#2b13b14a9a1c418eb9f9702029164e61}
 

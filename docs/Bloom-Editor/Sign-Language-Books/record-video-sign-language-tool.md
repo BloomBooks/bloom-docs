@@ -76,11 +76,8 @@ To begin recording video of you or the individual signing, click on the **round 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-A 3-2-1 ![](https://i.imgur.com/t4Fjlmi.gif.gif) will begin. When the countdown finishes, recording will begin. 
+A 3-2-1 countdown will begin. When the countdown finishes, recording will begin.
 
-
-
-When you are finished recording, click the record icon again to stop recording, or touch any key on the keyboard. 
 
 
 </div><div className='notion-spacer'></div>
@@ -88,7 +85,27 @@ When you are finished recording, click the record icon again to stop recording, 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./record-video-sign-language-tool.e5bd87fc-7052-480f-a70f-226d89b9aa91.png)
+![](./record-video-sign-language-tool.e5bd87fc-7052-480f-a70f-226d89b9aa91.gif)
+
+
+</div><div className='notion-spacer'></div>
+</div>
+
+
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
+When you are finished recording, click the record icon again to stop recording, or touch any key on the keyboard. 
+
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
+![](./record-video-sign-language-tool.7b4fd06a-61c4-4b9d-a0a1-ff7472bd106f.png)
 
 
 </div><div className='notion-spacer'></div>

@@ -18,7 +18,7 @@ The **Art of Reading** is a collection of black and white line drawings from SI
 
 	:::note
 	
-	If the link doesn’t work, please contact us as [issues@bloomlibrary.org](mailto:issues@bloomlibrary.org).
+	If the link doesn’t work, please contact us at [issues@bloomlibrary.org](mailto:issues@bloomlibrary.org).
 	
 	:::
 	

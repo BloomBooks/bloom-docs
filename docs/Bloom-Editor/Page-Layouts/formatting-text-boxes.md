@@ -60,7 +60,7 @@ If you are simply printing your book, having inaccurate language tagging will no
 
 
 
-You can change the language (or languages) used for the whole book in the Collection Settings’ [Languages Tab](/collections-tab#86d7ec4a747345abbd16d80d9489181c).
+You can change the language (or languages) used for the whole book in the Collection Settings’ [Languages Tab](/collection-settings#666299e09b6c4f36bd368dcbd8a20a10).
 
 
 ## The Language tab {#807253a78d6f4355b217f2b20af6bdc5}
@@ -75,7 +75,7 @@ If you want a text box to **always** be in a specific language, you can do that 
 
 3. Choose **Normal** to let this field be controlled by the language settings in the Collection settings.
 	1. (Note: This is distinct from the “Normal” [text style](/formatting-text-styles#feb4fb1700e64099b661c721f9195918): this setting in the Language tab will say “Normal” even if you have the text box set to a different style.)
-4. If you want this text box to always display a certain language, choose Language 1, Language 2, or Language 3. (These are the same languages that are listed in the [Collection settings](/collections-tab#86d7ec4a747345abbd16d80d9489181c).)
+4. If you want this text box to always display a certain language, choose Language 1, Language 2, or Language 3. (These are the same languages that are listed in the [Collection settings](/collection-settings#666299e09b6c4f36bd368dcbd8a20a10).)
 
 	![](./formatting-text-boxes.43bb99e3-89f3-40e8-b328-171b5008eb1a.png)
 

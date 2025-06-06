@@ -32,14 +32,6 @@ Also, your books on [BloomLibrary.org](http://bloomlibrary.org/) will be kept sa
 
 We have heard a number of reasons why people may not upload their books:
 
-- [I don’t have a Bloom Enterprise subscription.](/why-share-on-blorg#3d8d00b647c048f0878b3b3ab1695d99)
-- [Bloom Library is only for books to translate, and it wouldn’t make sense to translate my book.](/why-share-on-blorg#0d3bc375478c40f28f79f923ea6f9304)
-- [My book isn’t perfect.](/why-share-on-blorg#93ce579318244ad88bca648e09086cab)
-- [My books can’t be shared outside the country.](/why-share-on-blorg#4d3bffa070ec42c78f373dcffce986fc)
-- [The people who speak this language don’t have access to the internet.](/why-share-on-blorg#0d9ef48328db4575a3922ca075cd12f8)
-
-Do you have a concern that is not listed here? [Tell us](mailto:issues@bloomlibrary.org) about it!
-
 <details>
 <summary>“What if we don’t have an Enterprise Subscription?”</summary>
 
@@ -97,6 +89,9 @@ You can _embed_ your [BloomLibrary.org](http://bloomlibrary.org/) collection on 
 
 
 A third option is to embed individual books on your website. For an example, see Chetana Trust’s [online library](https://chetana.org.in/armonlinelibrary) of books for children with disabilities.
+
+
+Do you have a concern that is not listed here? [Tell us](mailto:issues@bloomlibrary.org) about it!
 
 
 </details>

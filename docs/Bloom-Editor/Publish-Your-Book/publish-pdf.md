@@ -39,13 +39,7 @@ Publishing your Bloom book as a PDF file allows you to easily print or share you
 		![](./publish-pdf.c05c6c8b-7e42-4d32-ba46-0ab582442329.png)
 
 
-		:::note
-		
 		If the page size and orientation don’t allow a booklet format, the **Booklet Cover** and **Booklet Insides** options will not be available.
-		
-		:::
-		
-		
 
 4. In the center pane, a preview of the PDF file will appear.
 
