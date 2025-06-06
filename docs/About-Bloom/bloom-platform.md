@@ -1,6 +1,6 @@
 ---
 title: Overview of the Bloom Platform
-sidebar_position: 1
+sidebar_position: 2
 slug: /bloom-platform
 ---
 
@@ -12,7 +12,7 @@ slug: /bloom-platform
 [**Bloom Editor**](/bloom-platform#070f565a9a73475790b49a7ccd258ace), [**Bloom Library**](/bloom-platform#9d03d5c0220e48129b86b0958ff59386), [**Bloom Reader**](/bloom-platform#e383b07bf8834fb494a7f7cd4a6268eb)**,** and [**Bloom Enterprise**](/bloom-platform#eea85bb74a564973bd5c70b2e90f1504) comprise the **Bloom Platform**. 
 
 
-The Bloom Platform is an integrated approach to book-making which provides a robust and sustainable means for language communities to [author](/bloom-editor-new-books), translate, adapt, publish, and distribute books for themselves in the language they speak or sign.
+The Bloom Platform is an integrated approach to book-making which provides a robust and sustainable means for language communities to author, translate, adapt, publish, and distribute books for themselves in the language they speak or sign.
 
 
 ## Bloom Editor {#070f565a9a73475790b49a7ccd258ace}
