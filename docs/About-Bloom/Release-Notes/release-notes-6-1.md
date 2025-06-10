@@ -1,5 +1,5 @@
 ---
-title: Bloom 6.1 Beta Release Notes
+title: Bloom 6.1 Release Notes
 sidebar_position: 2
 slug: /release-notes-6-1
 keywords: [Release Notes]
@@ -13,7 +13,24 @@ keywords: [Release Notes]
 We’ve made it easy to move, crop, and manipulate overlay items. They now operate more like those in modern graphics programs such as Canva.com and Microsoft Designer. We made these improvements as part of our work towards a new feature called “Bloom Games”, coming in Bloom 6.2.
 
 
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
 ![](./release-notes-6-1.7a7611e1-cf4d-4361-9bfb-db66978653c9.png)
+
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
+![](./release-notes-6-1.20e4bb19-df12-80c3-b0a3-d3f7523ba3ee.png)
+
+
+</div><div className='notion-spacer'></div>
+</div>
 
 
 For a menu of options, click the “…” button or just right-click on the element.
