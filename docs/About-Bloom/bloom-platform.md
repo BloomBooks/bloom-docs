@@ -1,6 +1,6 @@
 ---
-title: Overview of the Bloom Platform
-sidebar_position: 2
+title: Bloom Platform
+sidebar_position: 4
 slug: /bloom-platform
 ---
 
@@ -12,7 +12,7 @@ slug: /bloom-platform
 [**Bloom Editor**](/bloom-platform#070f565a9a73475790b49a7ccd258ace), [**Bloom Library**](/bloom-platform#9d03d5c0220e48129b86b0958ff59386), [**Bloom Reader**](/bloom-platform#e383b07bf8834fb494a7f7cd4a6268eb)**,** and [**Bloom Enterprise**](/bloom-platform#eea85bb74a564973bd5c70b2e90f1504) comprise the **Bloom Platform**. 
 
 
-The Bloom Platform is an integrated approach to book-making which provides a robust and sustainable means for language communities to author, translate, adapt, publish, and distribute books for themselves in the language they speak or sign.
+The Bloom Platform is an integrated approach to book-making which provides a robust and sustainable means for language communities to author, translate, adapt, and publish books for themselves in the language they speak or sign.
 
 
 ## Bloom Editor {#070f565a9a73475790b49a7ccd258ace}
@@ -104,14 +104,14 @@ To get books onto a device that has Bloom Reader installed, users can either dow
 Organizations interested in mass distribution of Bloom books to a people group can transfer books onto SD-cards.
 
 
-## Bloom Enterprise {#eea85bb74a564973bd5c70b2e90f1504}
+## Bloom Subscriptions {#eea85bb74a564973bd5c70b2e90f1504}
 
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-**Bloom Enterprise** is a special service for organizations that need additional program and publishing features. For more information about Bloom Enterprise, see [About Bloom Enterprise Index](/about-bloom-enterprise).
+**Bloom Subscriptions** are a special service for individuals and organizations that need additional program and publishing features. For more information about Bloom Subscriptions, see [About Bloom Enterprise Index](/about-bloom-enterprise) or email subscriptions@bloomlibrary.org.
 
 
 </div><div className='notion-spacer'></div>

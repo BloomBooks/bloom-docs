@@ -9,7 +9,7 @@ slug: /sign-language-books
 # Create Sign Language Books {#f5582800b9b64e1b8205b3f02c298618}
 
 
-![](./sign-language-books.09dc4d66-8b54-4881-b819-8e6f263ef7c8.png)
+![](./sign-language-books.20f4bb19-df12-80e8-96ff-e6ba550c884b.png)
 
 
 People who are Deaf* communicate using sign language. Video is one medium that is commonly used for recording sign language communication. Bloom’s Sign Language book template has a placeholder to add sign language video. A page can contain only a sign language video or a sign language video combined with images, text, and/or audio.
@@ -37,7 +37,7 @@ In this training module, you will learn how to:
 
 1. Begin by choosing the **Sign Language** book template.
 
-	![](./sign-language-books.668e8046-79e9-4d84-89f6-283dd3c7a689.png)
+	![](./sign-language-books.20f4bb19-df12-80fc-8352-df5acf280110.png)
 
 2. Then click `MAKE A BOOK USING THIS SOURCE`.
 
