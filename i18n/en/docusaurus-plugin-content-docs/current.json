@@ -202,5 +202,9 @@
   "sidebar.defaultSidebar.category.Bloom Subscriptions": {
     "message": "Bloom Subscriptions",
     "description": "The label for category Bloom Subscriptions in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Translate Books from Bloom Library": {
+    "message": "Translate Books from Bloom Library",
+    "description": "The label for category Translate Books from Bloom Library in sidebar defaultSidebar"
   }
 }
