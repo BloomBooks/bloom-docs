@@ -39,7 +39,7 @@ Bloom is designed to be easy to use even if you’re new to computers. Many feat
 See the [Feature Matrix](https://bloomlibrary.org/page/resources/page/feature-matrix) for a full comparison.
 
 
-Need help deciding which subscription is right for you? See Which **[Problem Internal Link]**?
+Need help deciding which subscription is right for you? See Which [Bloom Subscription Is Right for You](/which-subscription)?
 
 
 To start a subscription, email us at [subscriptions@bloomlibrary.org](mailto:subscriptions@bloomlibrary.org).

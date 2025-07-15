@@ -1,6 +1,6 @@
 ---
 title: Enable Bloom Subscription
-sidebar_position: 3
+sidebar_position: 4
 slug: /enable-bloom-enterprise
 ---
 
