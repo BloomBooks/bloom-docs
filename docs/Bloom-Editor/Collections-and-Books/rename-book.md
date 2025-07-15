@@ -59,11 +59,15 @@ If you wish to override the default book name, follow these steps:
 
 ![](./rename-book.2274bb19-df12-8084-9b1c-ffcb96d23294.png)
 
-1. Click on Rename Book.
+
+4. Click on Rename Book.
+
 
 ![](./rename-book.2274bb19-df12-8002-ba86-c0b9d940f42e.png)
 
-1. Type in the name of the book and press Enter.
+
+5. Type in the name of the book and press Enter.
+
 
 After renaming your book, you will see that your book’s name (A) is different from its title (B):
 

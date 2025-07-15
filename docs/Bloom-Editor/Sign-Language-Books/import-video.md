@@ -41,8 +41,8 @@ To import a video, click on **Advanced**, then click **Import**.
 Your file browser will open. Use the browser to navigate to the video that you would like to import, click on it, and then click Open. 
 
 
+![](./import-video.2314bb19-df12-8017-9713-e38de1e74f29.png)
+
+
 A thumbnail of the imported video will now appear in the video section of the page.
-
-
-![](./import-video.e773702b-6f59-499d-9b9b-57b8603c4ce7.png)
 
