@@ -54,7 +54,7 @@ Bloom is free to use for many kinds of projects. But some advanced features requ
 - Custom branding and book designs
 - A dedicated collection on the Bloom Library website
 
-If you are working on a large project, need special support, or just want extra features, you may need a **Bloom Pro** or **Bloom Enterprise** subscription. Bloom Pro is great for individuals who want more book creation features. Bloom Enterprise is perfect for teams who want to work together on books or who need more publication options.
+If you are working on a large project, require special support, or simply want additional features, you may need a **Bloom Pro** or **Bloom Enterprise** subscription. Bloom Pro is ideal for individuals who desire additional book creation features. Bloom Enterprise is ideal for teams that want to collaborate on books or require additional publication options.
 
 
 You can read more about Bloom Subscriptions here. To get started with your subscription, write to subscriptions@bloomlibrary.org.

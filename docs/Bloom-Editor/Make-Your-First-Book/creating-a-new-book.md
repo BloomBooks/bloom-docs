@@ -7,6 +7,15 @@ keywords: [new book]
 
 
 
+:::note
+
+The easiest way to create a book in Bloom is to translate 
+
+:::
+
+
+
+
 When you open Bloom, Bloom puts the **Sources for New Books** in the lower left-hand corner of the screen. We will learn how to create a book by using the **Basic Book** template.
 
 

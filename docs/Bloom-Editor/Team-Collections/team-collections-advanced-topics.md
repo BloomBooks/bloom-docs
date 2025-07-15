@@ -103,13 +103,25 @@ If you try to open a Team Collection whose Dropbox folder has been moved, Bloom 
 There are a number of situations where conflicts arise between books on different team members’ computers and Bloom cannot decide which one it should treat as authoritative. In these cases, Bloom chooses one version as the “winner” and saves the other one in a special folder called “Lost and Found”. (The Lost and Found folder exists only in the synchronized team collection “shadow folder”, not in your working files.) 
 
 
-**If you want to rescue a book from the Lost and Found, it’s best to get a Bloom expert to help you.** If you are a confident computer user and want to do the job yourself, here’s how: 
+:::note
+
+Books in the lost and found have the extension `.bloom`. By [installing BloomPUB Viewer](/bloompub-viewer), you can view and examine these books directly. 
+
+:::
+
+
+
+
+**If you want to rescue a book from the Lost and Found, it’s best to coordinate this with your Team Collection administrator.** 
+
+
+If you are a confident computer user, here is what you need to do: 
 
 1. Close Bloom.
 2. Navigate to the Dropbox (or LAN)-synchronized “shadow folder” (for instance, **`C:\Users\<your username>\Dropbox\My-collection - TC\`**).
-3. Now look for a subfolder called **`Lost and Found`**. Inside the `Lost and Found` subfolder you will find one or more files with a **`.bloom`** extension. Each of these is a compressed book folder.
-4. Copy the desired `.bloom` file to a different location on your computer, and uncompress it into a new folder. You will probably need to use a zip utility such as [7-Zip](https://7-zip.org/) to do this. (Alternately, you can change the filename extension to `.zip`, and use Windows’ built-in zip tools to uncompress the file into a new folder.)
-5. Rename the folder to something which does not match any folder name or book title in your **local** Team Collection.
+3. Now look for a subfolder called **`Lost and Found`**. Inside the `Lost and Found` subfolder you will find one or more files with a **`.bloom`** extension. Each of these is a compressed book folder that can be examined using BloomPUB Viewer.
+4. Once you have identified the book you want to rescue, copy the desired `.bloom` file to a different location on your computer, and uncompress it into a new folder. You will probably need to use a zip utility such as [7-Zip](https://7-zip.org/) to do this. (Alternately, you can change the filename extension to `.zip`, and use Windows’ built-in zip tools to uncompress the file into a new folder.)
+5. Rename the folder to something that does not match any folder name or book title in your **local** Team Collection.
 6. Copy or move your newly uncompressed folder into your **local** Team Collection folder.
 7. Launch Bloom. Bloom will recognize that a book has been added to the Team Collection. There will be a message saying, “The book ‘XX’ is no longer in the Team Collection. It has been kept in your local collection.” You may ignore this message. The book will be automatically checked out to you.
 8. Check in the book, and Bloom (with a little help from Dropbox or your LAN) will propagate the new book to the other Team Collection computers.

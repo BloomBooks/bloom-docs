@@ -28,7 +28,7 @@ There are five different tabs in the **Collection Settings** window:
 - [**Languages**](/collection-settings#666299e09b6c4f36bd368dcbd8a20a10): Set the language(s) for the books in this collection.
 - [**Book Making**](/collection-settings#ce3b078271804fad95b986b382a8d7eb):
 - [**Project Information**](/collection-settings#06fe40e899ee450686c2cf937cd56380)**:**
-- [**Bloom Enterprise**](/collection-settings#d375f428f63d4ccc9721bb4c81db0f76)**:**
+- [**Bloom Subscription**](/collection-settings#d375f428f63d4ccc9721bb4c81db0f76)**:**
 - [**Advanced Program Settings**](/collection-settings#be4f20d8ed584ed2bceb94d29da72ed7)**:**
 
 ## Languages Tab {#666299e09b6c4f36bd368dcbd8a20a10}
@@ -37,7 +37,7 @@ There are five different tabs in the **Collection Settings** window:
 In the Languages tab, you can choose the languages for the books in this collection. 
 
 
-![](./collection-settings.e67f7f62-70bb-474d-b588-870104b80005.png)
+![](./collection-settings.2164bb19-df12-80bc-ab6c-d1181fd7c288.png)
 
 
 :::note
@@ -55,7 +55,7 @@ The Collection settings tab defines the languages that are available for display
 Choosing the default fonts and numbering style for the languages in your book, plus front/back matter layouts and Bloom Library bookshelf (for Enterprise customers). 
 
 
-![](./collection-settings.cca0a0d3-e431-4e74-8895-adb8ad41931b.png)
+![](./collection-settings.2164bb19-df12-8089-976c-db375ce80751.png)
 
 
 (1) Default Fonts:
@@ -82,37 +82,38 @@ Projects that have Bloom Enterprise subscriptions can arrange for one or more bo
 ## Project Information Tab {#06fe40e899ee450686c2cf937cd56380}
 
 
-The Project Information tab lets you set the country, province, and district description. You can also change the name of the collection here (but remember that each collection on your computer must have a unique name). 
+The Project Information tab lets you set the country, province, and district description.
 
 
-![](./collection-settings.e05ef283-cd4b-4e8b-abc9-4cab7e1209ee.png)
+![](./collection-settings.2164bb19-df12-80f1-96e7-eb6297c149b0.png)
 
 
-## Bloom Enterprise Tab {#d375f428f63d4ccc9721bb4c81db0f76}
+:::note
+
+You can also **change the name** of the whole **collection** here (but remember that each collection on your computer must have a unique name).
+See [Rename a Collection](/rename-collection) for more info.
+
+:::
 
 
-[Bloom Enterprise](/about-bloom-enterprise) adds features and services that are important for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large. 
+
+
+## Bloom Subscription Tab {#d375f428f63d4ccc9721bb4c81db0f76}
+
+
+[Bloom Subscription](/about-bloom-subscriptions) offers features and services essential for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large. 
 
 
 In addition, Bloom Enterprise features are available to projects that are funded by local communities. 
 
 
-![](./collection-settings.960ca528-5f95-4038-9cea-ea303f61349d.png)
+![](./collection-settings.2164bb19-df12-8034-a7fb-cf6ed68030a8.png)
 
 
 If you have a Bloom Enterprise subscription, click the `Enterprise Subscription` tab and enter your Bloom Enterprise code there. 
 
 
-If your project is funded by the local community, you can enable Bloom Enterprise features by clicking `Funded by the local community only`. 
-
-
-:::note
-
-Books produced with the locally-funded Bloom Enterprise features will have “Bloom Local” automatically branding applied to them. 
-
-:::
-
-
+If your project is funded by the local community, please contact [subscriptions@bloomlibrary.org](mailto:subscriptions@bloomlibrary.org) to request a community subscription code.
 
 
 ## Team Collection {#c9f1df86137140738adb9c016f45158a}
@@ -133,7 +134,7 @@ Team collections are an experimental feature. Be sure the `Team Collections` box
 
 
 
-![](./collection-settings.daaea4c1-7b73-40b6-8273-5341a36df5af.png)
+![](./collection-settings.2164bb19-df12-80d6-a9e0-e7dba9a688ac.png)
 
 
 ## Advanced Program Settings Tab {#be4f20d8ed584ed2bceb94d29da72ed7}
@@ -152,10 +153,10 @@ The Advanced Program Settings has a variety of additional features. As of Bloom 
 	
 
 - `Show Experimental Book Sources`: Some sources are marked as experimental: these are available to you, but they are known to have problems. Unchecking this box will hide them.
-- `Team Collections`: This box must be checked for a collection to be made into a team collection. Team Collections are a [Bloom Enterprise feature](/enterprise-features#55c8baa318884dcf874c76f7e0dd9859).
-- `Spreadsheet Import/Export`:  This [Bloom Enterprise feature](/enterprise-features#04fd63f5a0fa443bb635115674b580a2) allows text and images from a Bloom book to be exported to a spreadsheet, and re-imported into a Bloom book. This can be useful for making translations or for troubleshooting language encodings. For more details see [Spreadsheet Import and Export](/spreadsheet-import-export).
+- `Team Collections`: This box must be checked for a collection to be made into a team collection. Team Collections are a [Bloom Enterprise feature](/advanced-bloom-features#55c8baa318884dcf874c76f7e0dd9859).
+- `Spreadsheet Import/Export`:  This [Bloom Enterprise feature](/advanced-bloom-features#04fd63f5a0fa443bb635115674b580a2) allows text and images from a Bloom book to be exported to a spreadsheet, and re-imported into a Bloom book. This can be useful for making translations or for troubleshooting language encodings. For more details see [Spreadsheet Import and Export](/spreadsheet-import-export).
 
-![](./collection-settings.6027d13a-67ce-4987-9c65-68582153d1ab.png)
+![](./collection-settings.2164bb19-df12-80e8-bf5b-f120c480be88.png)
 
 
 ## Settings Protection {#422fb5b9640a47af9841db4a7b5758c6}

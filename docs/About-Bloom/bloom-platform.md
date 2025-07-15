@@ -111,7 +111,7 @@ Organizations interested in mass distribution of Bloom books to a people group c
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-**Bloom Subscriptions** are a special service for individuals and organizations that need additional program and publishing features. For more information about Bloom Subscriptions, see [About Bloom Enterprise Index](/about-bloom-enterprise) or email subscriptions@bloomlibrary.org.
+**Bloom Subscriptions** are a special service for individuals and organizations that need additional program and publishing features. For more information about Bloom Subscriptions, see [About Bloom Subscriptions](/about-bloom-subscriptions) or email subscriptions@bloomlibrary.org.
 
 
 </div><div className='notion-spacer'></div>

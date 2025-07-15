@@ -169,3 +169,17 @@ Delete the file directly in Dropbox and choose “Delete everywhere” when prom
 
 </details>
 
+<details>
+<summary>What if something goes wrong with synchronizing changes to a book?</summary>
+
+When a book is checked out, Bloom will prevent others from editing it. If, however, multiple users try to check out the same book over a slow or unreliable internet connection, it is just possible that two people could start editing a book at the same time before the internet communications between the two users “catch up” with one another. This creates a conflict.
+
+
+When this happens, Bloom will choose one user to be the “winner,” and one user’s edits will be moved into a special folder called the “Lost and Found,” and Bloom will prevent that user from further continuing to edit the book.
+
+
+If the team needs to retrieve the version of the book currently located in the Lost and Found, they will need to follow the procedure outlined in [this article](/team-collections-advanced-topics#2488e17a8a6140bebcef068046cc57b7).  
+
+
+</details>
+

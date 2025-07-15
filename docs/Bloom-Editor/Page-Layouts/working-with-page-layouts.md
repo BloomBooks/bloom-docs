@@ -57,7 +57,7 @@ When you click the "**+"** symbol, the new section is added. Once you have added
 
 :::note
 
-[Bloom Enterprise](/about-bloom-enterprise) subscribers can also insert an HTML widget block. HTML widgets are small, self-contained programs that users can interact with. 
+[Bloom Enterprise](/about-bloom-subscriptions) subscribers can also insert an HTML widget block. HTML widgets are small, self-contained programs that users can interact with. 
 
 ![](./working-with-page-layouts.74d53493-1c4f-464b-badd-af51dca54854.png)
 
