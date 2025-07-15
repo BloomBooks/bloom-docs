@@ -198,5 +198,9 @@
   "sidebar.defaultSidebar.category.About Bloom Reader": {
     "message": "About Bloom Reader",
     "description": "The label for category About Bloom Reader in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Bloom Subscriptions": {
+    "message": "Bloom Subscriptions",
+    "description": "The label for category Bloom Subscriptions in sidebar defaultSidebar"
   }
 }
