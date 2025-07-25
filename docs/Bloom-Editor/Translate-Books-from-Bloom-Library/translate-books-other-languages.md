@@ -25,7 +25,7 @@ In addition, there are special “bookshelves” for particular publishers and o
 # Download a Book for Translation {#7b848845e61041dc930d87535f11249d}
 
 
-If you have not yet **[Problem Internal Link]**, please do so now.  
+If you have not yet [installed Bloom editor](/installing-bloom-on-windows), please do so now.  
 
 
 Once you have found a book you want to translate, simply click on the button “Translate into your language”. 

@@ -52,5 +52,5 @@ ePUBs can be published in Fixed or Flowable modes:
 In all current versions of Bloom, the default mode is Fixed, unless the user explicitly chooses Flowable in Bloom Editor before publishing to Bloom Library.
 
 
-For further technical information on these two ePUB modes, please refer to **[Problem Internal Link]**. 
+For further technical information on these two ePUB modes, please refer to [this article](/ePUB-notes). 
 
