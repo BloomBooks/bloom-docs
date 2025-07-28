@@ -7,7 +7,7 @@ keywords: [Release Notes]
 
 
 
-# New Subscription Options {#1fa4bb19df12814cac6cd6410c4e7fd2}
+## New Subscription Options {#1fa4bb19df12814cac6cd6410c4e7fd2}
 
 
 We now offer three licensing options: **Free (Bloom Basic)**, **Bloom Pro**, and **Bloom Enterprise**.
@@ -26,7 +26,7 @@ Each license includes access for a defined number of users:
 - **Bloom Pro**: 1 user
 - **Bloom Enterprise**: Organization-wide access (unlimited seats)
 
-# New Language Chooser {#1fa4bb19df128151bd8cc161aa4ba3ed}
+## New Language Chooser {#1fa4bb19df128151bd8cc161aa4ba3ed}
 
 
 Subscription Tier: Free
@@ -48,7 +48,7 @@ We’ve replaced the old language chooser with a new one that makes it easier fo
 3. You can see the language tag that will be used, based on your choices.
 4. If you need to customize the tag further, there’s a button for that.
 
-# Image Cropping and Positioning {#1fa4bb19df128148a045d4930e2629e8}
+## Image Cropping and Positioning {#1fa4bb19df128148a045d4930e2629e8}
 
 
 Subscription Tier: Free
@@ -81,7 +81,7 @@ Perfect! Bloom automatically zooms and crops the image to fill the available spa
 ![](./release-notes-6-2.1fa4bb19-df12-8177-bacb-dc17c817ebbe.png)
 
 
-# Image Alignment Guides {#1fa4bb19df1281a1af80e825a91ab915}
+## Image Alignment Guides {#1fa4bb19df1281a1af80e825a91ab915}
 
 
 Subscription Tier: Pro and Above
@@ -99,7 +99,7 @@ In Overlay pages and Games, we’ve added simple visual aids to help you align o
 	![](./release-notes-6-2.1fa4bb19-df12-8171-8450-c7f026022802.png)
 
 
-# Full-Image Covers {#1fa4bb19df1281089a9cde312ab1629c}
+## Full-Image Covers {#1fa4bb19df1281089a9cde312ab1629c}
 
 
 Subscription Tier: Pro and Above
@@ -117,7 +117,7 @@ In areas where under-resourced languages compete with dominant languages, the at
 One current limitation is that translating the book makes replacing the original title difficult. In a future version, we plan to add the overlay tools to cover pages. This will allow you to use an image without text and position the title and other information directly on top of it.
 
 
-# Easier Talking Book Alignment {#1fa4bb19df128183b7a6ddda4d9bbced}
+## Easier Talking Book Alignment {#1fa4bb19df128183b7a6ddda4d9bbced}
 
 
 Subscription Tier: Pro and Above
@@ -146,7 +146,7 @@ You can still use Aeneas or Audacity if you prefer, accessible via the “More�
 ![](./release-notes-6-2.1fa4bb19-df12-8115-94c5-f321eeb09023.png)
 
 
-# Easier Games {#1fa4bb19df128184838af0ff8348ab3f}
+## Easier Games {#1fa4bb19df128184838af0ff8348ab3f}
 
 
 Subscription Tier: Pro and Above
@@ -170,8 +170,7 @@ Bloom 6.2 includes six new template game pages, in addition to the activities fr
 ![](./release-notes-6-2.1fa4bb19-df12-81f2-9e80-c79251226de9.png)
 
 
-💡 You can try out some sample games, such as the ones below, on <iframe width="100%" height="450px" allow="fullscreen" allowFullScreen={true}
-  src="https://bloomlibrary.org/bloom-player/bloomplayer.htm?url=https://s3.amazonaws.com/bloomharvest/zpORtuVlDN/1747784078843/bloomdigital/index.htm&initiallyShowAppBar=false&paused=true&allowToggleAppBar=true&independent=false&host=docs.bloomlibrary.org"></iframe>.
+💡 You can try out some sample games, such as the ones below, on [BloomLibrary.org](https://bloomlibrary.org/book/zpORtuVlDN). (Click “READ” after loading the page.)
 
 
 For this release, the games added involve dragging one or more objects to one or more targets, like this example:
@@ -229,14 +228,14 @@ There are currently many types of games you cannot yet create in Bloom. In subse
 Let us know which ones you’d like us to prioritize!
 
 
-# Bloom Reader (Android) {#1fa4bb19df1281d09b50eb107b1f03ae}
+## Bloom Reader (Android) {#1fa4bb19df1281d09b50eb107b1f03ae}
 
 - Bloom Reader is now much smarter about how to alphabetize your books.
 - URLs found in books will now open in the default browser.
 - Images can now be used as interactive links.
 - Images can now play sounds when tapped.
 
-# BloomPUB Viewer (Windows) {#1fa4bb19df12810ea37bc24e93530bec}
+## BloomPUB Viewer (Windows) {#1fa4bb19df12810ea37bc24e93530bec}
 
 - **Recent Books Buttons:** Added buttons for quick access to recently opened books.
 - **Drag-and-Drop Support:** You can now drag and drop books directly into the BloomPUB Viewer for easier access.
@@ -244,7 +243,7 @@ Let us know which ones you’d like us to prioritize!
 - Images can now be used as interactive links.
 - Images can now play sounds when tapped.
 
-# Advanced Notes: Custom Game Themes {#1fa4bb19df12812e8089c6da344621b1}
+## Advanced Notes: Custom Game Themes {#1fa4bb19df12812e8089c6da344621b1}
 
 
 A convenient way to customize game themes from within Bloom is not yet available. In the meantime, if you’re comfortable with a bit of technical work “under the hood,” you can use [this online tool](http://tools.bloomlibrary.org/game-theme-editor) to generate custom CSS. Use the “Copy CSS” button to copy the code to your clipboard, then paste it into your `customBookStyles.css` (located in the book folder) or `customCollectionStyles.css` (in the collection folder). Reload the book (or restart Bloom) for your theme to appear as an option.
@@ -256,7 +255,7 @@ A convenient way to customize game themes from within Bloom is not yet available
 💡 If you create a theme, please share it with us!
 
 
-# Advanced Notes: Custom Codes with the New Language Chooser {#1fa4bb19df12813eabcff562c65eee50}
+## Advanced Notes: Custom Codes with the New Language Chooser {#1fa4bb19df12813eabcff562c65eee50}
 
 
 Sometimes, a language isn’t yet listed in the [Ethnologue](https://www.ethnologue.com/) database. When this happens, the new Language Chooser now provides a button for creating a valid custom code:
@@ -268,7 +267,7 @@ Sometimes, a language isn’t yet listed in the [Ethnologue](https://www.ethnolo
 2. We require you to specify a country to make the code slightly more identifiable.
 3. If absolutely necessary, this option allows you to enter a code manually, though we still ensure the custom code follows formatting rules.
 
-# Advanced Notes: Steps Towards “Bloom Apps” {#1fa4bb19df1281e1b3fdd14a150b0cfb}
+## Advanced Notes: Steps Towards “Bloom Apps” {#1fa4bb19df1281e1b3fdd14a150b0cfb}
 
 
 We are collaborating with SIL in Thailand on an experiment to create mobile apps containing collections of books and games, with a user interface configurable within Bloom itself. This project leverages the following new Bloom 6.2 features alongside SIL’s Reading App Builder to create what we hope will be useful and engaging educational tools:
