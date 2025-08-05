@@ -10,7 +10,7 @@ keywords: [Release Notes]
 ## New Subscription Options {#1fa4bb19df12814cac6cd6410c4e7fd2}
 
 
-We now offer three licensing options: **Free (Bloom Basic)**, **Bloom Pro**, and **Bloom Enterprise**.
+We now offer three subscription options: **Free (Bloom Basic)**, **Bloom Pro**, and **Bloom Enterprise**.
 
 - **Bloom Pro** is designed for individual users who need access to a few advanced features beyond the free version.
 - **Bloom Enterprise** is intended for organizations managing large-scale projects or multiple languages. It includes the most powerful tools for customizing books, managing program-specific Bloom Library pages, and accessing project analytics.
@@ -21,7 +21,7 @@ We are pleased to continue offering many Enterprise features **freely to local c
 Features that require our staff to do custom work (such as branded templates, private shelves, or custom analytics) are limited to Enterprise subscribers.
 
 
-Each license includes access for a defined number of users:
+Each subscription includes access for a defined number of users:
 
 - **Bloom Pro**: 1 user
 - **Bloom Enterprise**: Organization-wide access (unlimited seats)
@@ -226,6 +226,12 @@ There are currently many types of games you cannot yet create in Bloom. In subse
 - Matching
 
 Let us know which ones you’d like us to prioritize!
+
+
+## Improved Image Pasting  {#2464bb19df1280d8aa0ac32fb646a973}
+
+
+We’ve simplified pasting an image onto a page. If you are editing a page in Bloom and have an image on the Windows clipboard, clicking Bloom’s Paste button, or typing CTRL+V will now paste the image onto the empty page. If the page already has an image, a new overlay image will be created (if your Bloom subscription allows it).
 
 
 ## Bloom Reader (Android) {#1fa4bb19df1281d09b50eb107b1f03ae}
