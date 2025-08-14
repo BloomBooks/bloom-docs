@@ -98,6 +98,17 @@ Click the `Check` button to make sure that Bloom has properly divided the audio.
 
 
 
+## Audio Splitting Best Practices {#24f4bb19df12804d86ccf08e8cb10cb1}
+
+
+There are a number of important “best practices” to obtain the best results for splitting your audio in Bloom. 
+
+1. We strongly recommend that you finalize your text before adding audio (either recording directly or importing). Major changes to the text, particularly, any changes to sentence boundaries will necessarily cause the alignment to go off.
+2. Above all, avoid pasting in additional text from another text box into an already-split text box. This can cause major problems.
+3. Never copy text from a text box with associated audio and paste in elsewhere.
+4. In regards to character formatting -- italic or bold -- bad things can happen if character formatting crosses sentence boundaries, or segments marked by |. So, if at all possible, it would be best to apply character formatting after the text and audio is "perfect".
+5. Lastly, if you do need to adjust sentence punctuation or add/remove/move a new segment marker to text which already has audio, you will need to re-run the splitter. (But see point #1).
+
 ## Fine-tune audio splits: Edit a timing file {#a62a23674e38472e909d9a9d2d8b40bb}
 
 
