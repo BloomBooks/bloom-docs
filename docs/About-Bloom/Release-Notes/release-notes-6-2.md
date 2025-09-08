@@ -228,6 +228,40 @@ There are currently many types of games you cannot yet create in Bloom. In subse
 Let us know which ones you’d like us to prioritize!
 
 
+## The Playground Template {#2684bb19df12805eb53de8a2dd25a042}
+
+
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
+To help Basic users try out advanced features, we have added a new book template called “Playground”:
+
+
+</div><div className='notion-spacer'></div>
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+
+![](./release-notes-6-2.2684bb19-df12-8077-864e-d1582bec7df1.png)
+
+
+</div><div className='notion-spacer'></div>
+</div>
+
+
+You can use this source book to explore all the features Bloom offers with a subscription. It’s a greeat way to try out advanced tools and layout options before upgrading.
+
+
+:::note
+
+Books created with this template will include a watermark and cannot be printed, published or distributed.
+
+:::
+
+
+
+
 ## Improved Image Pasting  {#2464bb19df1280d8aa0ac32fb646a973}
 
 
