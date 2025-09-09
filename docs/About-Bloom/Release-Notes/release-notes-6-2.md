@@ -250,7 +250,7 @@ To help Basic users try out advanced features, we have added a new book template
 </div>
 
 
-You can use this source book to explore all the features Bloom offers with a subscription. It’s a greeat way to try out advanced tools and layout options before upgrading.
+You can use this source book to explore all the features Bloom offers with a subscription. It’s a great way to try out advanced tools and layout options before upgrading.
 
 
 :::note
