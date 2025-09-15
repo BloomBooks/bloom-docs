@@ -23,7 +23,7 @@ See [Publishing](/publish-tab).
 # Share for Editing {#2694bb19df1280829781c2bc578a3e5c}
 
 
-The primary method for collaborating with colleagues on Bloom books — i.e., sharing in the actual editing of these Bloom books — is by using Bloom’s **[Problem Internal Link]** feature. This feature requires a [Bloom Subscription](/about-bloom-subscriptions).
+The primary method for collaborating with colleagues on Bloom books — i.e., sharing in the actual editing of these Bloom books — is by using Bloom’s [Team Collections](/team-collections-intro) feature. This feature requires a [Bloom Subscription](/about-bloom-subscriptions).
 
 
 If, however, you do **not** have a Bloom Subscription, you will not be able to use that feature. In this case, you can still share a book with a colleague, but you will have to do so “manually”. 
