@@ -321,3 +321,12 @@ We are collaborating with SIL in Thailand on an experiment to create mobile apps
 
 The BloomPUB Viewer also supports these features. To use them, place all the relevant BloomPUB files together in the same directory.
 
+
+## Move a Book {#1fa4bb19df1280a593b1d6b11d894f65}
+
+
+When trying to keep your books nicely organized into different collections on your computer, it is sometimes necessary to move a book from one collection into another. 
+
+
+See [Move a Book](/move-book).
+
