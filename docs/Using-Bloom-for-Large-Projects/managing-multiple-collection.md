@@ -21,7 +21,7 @@ Here are some common ways Bloom users organize their book collections:
 - Reading Grade Level. See [Education for Life](https://bloomlibrary.org/EFL-education-for-life-org).
 - Grade Level combined with source language. See [Okuu Keremet!](https://bloomlibrary.org/kyrgyzstan-OkuuKeremet).
 
-:::note
+:::tip
 
 There are no limits to the number of book collections you can create.
 

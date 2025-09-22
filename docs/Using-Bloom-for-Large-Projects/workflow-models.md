@@ -6,7 +6,7 @@ slug: /workflow-models
 
 
 
-There are two different recommended workflows for Bloom users managing a large number of books. The two workflows differ depending on whether or not the user has reliable internet and a **[Problem Internal Link]**. 
+There are two different recommended workflows for Bloom users managing a large number of books. The two workflows differ depending on whether or not the user has reliable internet and a [Bloom Enterprise subscription](/about-bloom-subscriptions). 
 
 
 ### Workflow 1: Organizations with reliable Internet _and_ an Enterprise subscription {#2764bb19df128159ac7ff12f7705dd21}
