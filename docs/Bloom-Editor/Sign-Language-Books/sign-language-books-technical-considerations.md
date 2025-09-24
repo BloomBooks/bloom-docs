@@ -31,13 +31,18 @@ What follows are some thoughts shared by some creators of SL books.
 
 
 > “A key feature we look for in the camera we use is the frame rate. A minimum is 60 fps. Anything less than this, and the sign movements are choppy. If you get something higher, you will obviously get a smoother video, but it will also be a heavier video file. If you find your file too heavy for the book, upload it to a streaming platform like YouTube since they have an in-built and decent enough way to reduce the size without reducing quality too much.”  
-> “Record the videos in 4K HD or higher resolution to be able to make edits with clarity.”
+>   
+> “Record the videos in 4K HD or higher resolution to be able to make edits with clarity.”  
+>   
+> ”Record using landscape mode. Turn off "anti-shake" capability; otherwise, the SL movements can seem choppy.”  
+>   
+> ”Don't use the camera’s ‘mirror effect’ where a right-handed signer seems to be left-handed due to the mirror effect.”
 
 
 ## Lighting {#7734b83241d040488c47f568bc28bdc6}
 
 
-> “You will have to play with your available lights to have the interpreter evenly lit to avoid shadows on the wall behind them. The shadows will make green screen removal harder and will result in inferior representation of the interpreter.”
+> “You will have to play with your available lights to have the Deaf person evenly lit to avoid shadows on the wall behind them. The shadows will make green screen removal harder and will result in inferior representation of the Deaf person.”
 
 
 > “For the setup itself, good lighting is an essential consideration. Make sure the light is even, that there are no shadows and that there is nothing reflective or shiny. Pay attention to the visibility of the face - expressions are key and you don't want shadows or shiny spots causing confusion.”  
