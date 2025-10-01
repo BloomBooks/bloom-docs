@@ -19,6 +19,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "BloomBooks",
   projectName: "bloom-docs",
+  trailingSlash: true,
 
   plugins: ["@docusaurus/plugin-ideal-image"],
   presets: [
