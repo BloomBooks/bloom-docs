@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { themes } = require("prism-react-renderer");
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -83,21 +84,6 @@ const config = {
       },
     },
   },
-  themes: [
-    // ... Your other themes.
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        // ... Your options.
-        // `hashed` is recommended as long-term-cache of index file is possible.
-        hashed: true,
-        // language: ["en", "fr"],
-        indexBlog: false,
-        indexPages: false,
-        docsRouteBasePath: "/",
-      },
-    ],
-  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
