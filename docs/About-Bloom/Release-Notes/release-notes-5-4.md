@@ -182,7 +182,7 @@ Note that if you make a Talking Book out of an Overlay (comic) book, ePUB reader
 
 
 
-See [here](https://docs.bloomlibrary.org/ePUB-notes) for more information about the state of Bloom-to-ePUB publishing.
+See [here](/ePUB-notes) for more information about the state of Bloom-to-ePUB publishing.
 
 
 ## Color Chooser {#790ecf6457f14013a5aceac811989c6c}

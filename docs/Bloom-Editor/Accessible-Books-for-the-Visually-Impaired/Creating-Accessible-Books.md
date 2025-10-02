@@ -2,6 +2,7 @@
 title: Create Accessible Books Index
 sidebar_position: 0
 slug: /Creating-Accessible-Books
+keywords: [blind]
 ---
 
 

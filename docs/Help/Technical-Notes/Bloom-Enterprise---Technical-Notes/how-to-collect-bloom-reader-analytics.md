@@ -32,9 +32,9 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 1. Decide on a project ID and device IDs for each device.
 2. Create a file called deviceId.json.
 	1. The file content must be
-	{ project: 'projectID' , device: 'deviceID' }
+	`{ project: 'projectID' , device: 'deviceID' }`
 	2. Example:
-	{ project: 'RISE2' , device: 'STUDENT NORTH FLY 001' }
+	`{ project: 'RISE2' , device: 'STUDENT NORTH FLY 001' }`
 3. Put the deviceId.json file on the device in the Bloom folder which contains the Bloom Reader books (at the root of Internal Storage).
 4. Restart Bloom Reader.
 	1. This may require actually closing the app if it is currently running.
@@ -48,7 +48,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 ### Verification {#f009f738890d4b0e82463be2703bff69}
 
 
-To verify the setup was successful, open the menu at the top-left of the book list. There will be a new item at the end which will display “Stats ID: {device ID} ({project ID})”.
+To verify the setup was successful, open the menu at the top-left of the book list. There will be a new item at the end which will display `“Stats ID: {device ID} ({project ID})”`.
 
 
 Once the device is properly set up, it will begin reporting analytics with these values in the device_project_hardware_code field of various analytics tables. The value will be projectID-deviceID.
