@@ -1,7 +1,7 @@
 ---
 title: Partager des livres avec des collègues
 sidebar_position: 22
-slug: /partager des livres
+slug: /share-books
 ---
 
 Il y a deux raisons de vouloir partager un livre Bloom avec un collègue :
