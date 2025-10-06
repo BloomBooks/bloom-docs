@@ -6,10 +6,10 @@ slug: /managing-multiple-collection
 
 
 
-Users who are managing a large number of Bloom books may find it helpful to organize their books into multiple Bloom collections. How you organize your Bloom collections will be determined on your goals and unique needs.
+Users who are managing a large number of Bloom books may find it helpful to organize their books into multiple Bloom collections. How you organize your Bloom collections will be determined by your goals and unique needs.
 
 
-For example, if your goal is to produce books which correspond to reading levels 1-4, then it will make sense to have four appropriately named Bloom collections corresponding to that criteria. 
+For example, if your goal is to produce books that correspond to reading levels 1-4, then it will make sense to have four appropriately named Bloom collections corresponding to that criterion. 
 
 
 Here are some common ways Bloom users organize their book collections:
