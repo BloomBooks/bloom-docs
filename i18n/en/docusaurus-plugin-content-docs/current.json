@@ -206,5 +206,9 @@
   "sidebar.defaultSidebar.category.Translate Books from Bloom Library": {
     "message": "Translate Books from Bloom Library",
     "description": "The label for category Translate Books from Bloom Library in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Comic Books and Full-Page Layouts": {
+    "message": "Comic Books and Full-Page Layouts",
+    "description": "The label for category Comic Books and Full-Page Layouts in sidebar defaultSidebar"
   }
 }
