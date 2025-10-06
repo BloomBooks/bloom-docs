@@ -30,7 +30,7 @@ The **Overlay Tool** allows the user to place text, images, or video over a part
 For more information on creating books with the overlay tool, see 
 
 
-**[Problem Internal Link]**
+[About the Overlay Tool](/about-overlays)
 
 
 ![](./advanced-bloom-features.0bbe392d-37d9-41e6-ba58-6973fb2bcabd.png)
