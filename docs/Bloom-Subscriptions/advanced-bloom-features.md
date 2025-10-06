@@ -27,10 +27,7 @@ See  [Team Collections : Introduction](/team-collections-intro) to learn more.
 The **Overlay Tool** allows the user to place text, images, or video over a partial or full-page image. This allows more complex page layouts, including Digital and Paper Comic Book Templates.
 
 
-For more information on creating books with the overlay tool, see 
-
-
-[About the Overlay Tool](/about-overlays)
+For more information on creating books with the overlay tool, see [Overlays](/about-overlays).
 
 
 ![](./advanced-bloom-features.0bbe392d-37d9-41e6-ba58-6973fb2bcabd.png)
