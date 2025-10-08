@@ -6,6 +6,15 @@ slug: /publish-as-epub
 
 
 
+:::note
+
+This is a Bloom subscription feature. For more details, or to subscribe, see [About Bloom Subscriptions](/about-bloom-subscriptions). 
+
+:::
+
+
+
+
 Creating an ePUB version of your book allows it to be read on various electronic devices, including smartphones, tablets, and computers. This flexibility helps you reach a wider audience and ensures that your content can be accessed anytime, anywhere. ePUB files are compatible with a range of ePUB readers, allowing for a more personalized reading experience. Depending on the device and reader, users can adjust text size, layout, and even enjoy added features like recorded audio. 
 
 
