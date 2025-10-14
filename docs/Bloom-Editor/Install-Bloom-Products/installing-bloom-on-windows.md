@@ -38,6 +38,7 @@ Bloom 6.1 & 6.2
 Bloom 6.3
 
 - [.NET 8](https://dotnet.microsoft.com/en-us/download)
+
 <details>
 <summary>Information about older versions of Windows…</summary>
 
