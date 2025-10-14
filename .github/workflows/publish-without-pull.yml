@@ -26,11 +26,22 @@ jobs:
         run: yarn copy-static-docs
       - name: Build Docusaurus instance
         run: yarn build
+      - name: Set S3 Bucket
+        id: set-bucket
+        run: |
+          if [ "${{ github.ref }}" == "refs/heads/alpha" ]; then
+            BUCKET="${{ secrets.AWS_BUCKET_ALPHA }}"
+          else
+            BUCKET="${{ secrets.AWS_BUCKET }}"
+          fi
+          echo "::add-mask::$BUCKET"
+          echo "bucket=$BUCKET" >> $GITHUB_OUTPUT
+        shell: bash
       - name: Upload S3
         # We exclude these five paths because they existed before the current system.
         # The five index.html files contain redirects. One is to an external document; the others to pages at docs.bloomlibrary.org.
         # See more detailed notes at https://docs.google.com/document/d/1Vub0SeQL6BQqyGoQBN6-cfi6AIRbcBHeV87KjnzZXDU/edit#heading=h.aaxpksot3akz.
-        run: aws s3 sync ./build  s3://${{ secrets.AWS_BUCKET }} --delete --exclude "sil-corporate-guidelines/index.html" --exclude "bloom-reader-shelves/index.html" --exclude "team-collections-sharing-services/index.html" --exclude "team-collections/index.html" --exclude "widgets/index.html"
+        run: aws s3 sync ./build  s3://${{ steps.set-bucket.outputs.bucket }} --delete --exclude "sil-corporate-guidelines/index.html" --exclude "bloom-reader-shelves/index.html" --exclude "team-collections-sharing-services/index.html" --exclude "team-collections/index.html" --exclude "widgets/index.html"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -48,9 +59,9 @@ jobs:
         run: yarn make-pdf
       - name: Upload PDFs to S3
         run: |
-          aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/fr/downloads/ s3://${{ secrets.AWS_BUCKET }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/es/downloads/ s3://${{ secrets.AWS_BUCKET }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/downloads/ --recursive --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/fr/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/es/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -60,4 +71,4 @@ jobs:
         env:
           CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-          PURGE_URLS: '["https://docs.bloomlibrary.org/downloads/docs-bloomlibrary-english-a4.pdf", "https://docs.bloomlibrary.org/fr/downloads/docs-bloomlibrary-english-a4.pdf", "https://docs.bloomlibrary.org/es/downloads/docs-bloomlibrary-english-a4.pdf"]'
+          PURGE_URLS: '["https://${{ steps.set-bucket.outputs.bucket }}/downloads/docs-bloomlibrary-english-a4.pdf", "https://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/docs-bloomlibrary-english-a4.pdf", "https://${{ steps.set-bucket.outputs.bucket }}/es/downloads/docs-bloomlibrary-english-a4.pdf"]'

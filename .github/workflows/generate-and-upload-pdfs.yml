@@ -33,11 +33,22 @@ jobs:
         shell: bash
       - name: Generate PDFs
         run: yarn make-pdf
+      - name: Set S3 Bucket
+        id: set-bucket
+        run: |
+          if [ "${{ github.ref }}" == "refs/heads/alpha" ]; then
+            BUCKET="${{ secrets.AWS_BUCKET_ALPHA }}"
+          else
+            BUCKET="${{ secrets.AWS_BUCKET }}"
+          fi
+          echo "::add-mask::$BUCKET"
+          echo "bucket=$BUCKET" >> $GITHUB_OUTPUT
+        shell: bash
       - name: Upload PDFs to S3
         run: |
-          aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/fr/downloads/ s3://${{ secrets.AWS_BUCKET }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/es/downloads/ s3://${{ secrets.AWS_BUCKET }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/downloads/ --recursive --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/fr/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
+          aws s3 cp ./build/es/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -47,4 +58,4 @@ jobs:
         env:
           CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-          PURGE_URLS: '["https://docs.bloomlibrary.org/downloads/docs-bloomlibrary-english-a4.pdf", "https://docs.bloomlibrary.org/fr/downloads/docs-bloomlibrary-english-a4.pdf", "https://docs.bloomlibrary.org/es/downloads/docs-bloomlibrary-english-a4.pdf"]'
+          PURGE_URLS: '["https://${{ steps.set-bucket.outputs.bucket }}/downloads/docs-bloomlibrary-english-a4.pdf", "https://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/docs-bloomlibrary-english-a4.pdf", "https://${{ steps.set-bucket.outputs.bucket }}/es/downloads/docs-bloomlibrary-english-a4.pdf"]'
