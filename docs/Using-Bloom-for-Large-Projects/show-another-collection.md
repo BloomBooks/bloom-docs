@@ -33,7 +33,7 @@ To make an adaptation of a source book, you need to make the Source collection v
 
 1. Navigate your mouse to the bottom left quadrant of the Bloom program.
 2. Click the scroll bar and scroll down completely to the bottom.
-3. Click on SHOWN ANOTHER COLLECTION.
+3. Click on SHOW ANOTHER COLLECTION.
 
 ![](./show-another-collection.2764bb19-df12-80c8-b0d9-c6b6e1e72873.png)
 

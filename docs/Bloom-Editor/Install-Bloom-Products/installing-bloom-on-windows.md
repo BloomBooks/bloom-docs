@@ -20,15 +20,24 @@ Bloom is designed to run on fairly modest hardware. Your computer should have at
 - 1.5 Ghz processor
 - 4 GB memory (RAM)
 - 2 GB available hard disk space
+- Bloom 6.3 and above require a 64 bit processor.
 
 ## Operating System {#3fcf15146bf34b8c82ff2a445247ddce}
 
 
-Bloom is primarily a program for the Microsoft Windows operating system. To run [Bloom 5.5](/release-notes-5-5#45d2af0275fc4ca89ae94264e38dce71) or higher, you need **Windows 10**, or **Windows 11**.
+**Windows 11**
 
 
-The minimum version of Webview2 needed is version 112, but it may be best to have the most [up-to-date version](/webview2). If your computer regularly receives Windows Updates, you will already have this.
+ [WebView2](https://docs.bloomlibrary.org/webview2/)
 
+
+Bloom 6.1 & 6.2
+
+- [.NET 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
+
+Bloom 6.3
+
+- [.NET 8](https://dotnet.microsoft.com/en-us/download)
 <details>
 <summary>Information about older versions of Windows…</summary>
 
