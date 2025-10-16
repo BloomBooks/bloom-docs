@@ -36,7 +36,7 @@ For more information on creating books with the overlay tool, see [Overlays](/ab
 ## Game Pages {#5014d1f2248e479787c21b45850417e8}
 
 
-Bloom supports a variety of quizzes and games in digital books. For more information, check out [Games Pages](/games-pages).
+Bloom supports a variety of quizzes and games in digital books. For more information, check out [Games Pages](/games-pages-overview).
 
 
 ## Spreadsheet Import and Export {#21e4bb19df1280488fe1d462f7eef6db}
