@@ -1,6 +1,6 @@
 ---
 title: Sample Game Tutorial
-sidebar_position: 4
+sidebar_position: 5
 slug: /sample-game-tutorial
 keywords: [activities, games]
 ---
