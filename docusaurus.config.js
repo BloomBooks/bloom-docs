@@ -125,6 +125,17 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        appId: "FI2OI4JBTP",
+        apiKey: "253f0884b36e9c259962fcd4c94c4c44",
+        indexName: "bloom",
+        contextualSearch: true,
+        searchParameters: {},
+        askAi: {
+          assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
+          indexName: "bloom-markdown",
+        },
+      },
     }),
 };
 

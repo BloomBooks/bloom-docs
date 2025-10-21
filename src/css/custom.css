@@ -30,8 +30,10 @@
 }
 
 .markdown img {
-  box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2),
-    0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  box-shadow:
+    0px 5px 5px -3px rgba(0, 0, 0, 0.2),
+    0px 8px 10px 1px rgba(0, 0, 0, 0.14),
+    0px 3px 14px 2px rgba(0, 0, 0, 0.12);
 
   /* this is to deal with a problem that box-shadow isn't in included in the element sizing and so shows up
     at the bottom of the previous page when a page starts with an image.*/
@@ -50,7 +52,6 @@ ol ol {
 details summary {
   font-weight: var(--ifm-font-weight-bold);
 }
-
 
 @media print {
   nav {
@@ -75,4 +76,114 @@ details summary {
   h3 {
     page-break-after: avoid;
   }
+}
+
+/* DocSearch V4 Styling to match site theme */
+:root {
+  /* Primary colors - using site's red theme */
+  --docsearch-primary-color: #d65649;
+  --docsearch-text-color: #1c1e21;
+  --docsearch-spacing: 12px;
+  --docsearch-icon-stroke-width: 1.4;
+  --docsearch-highlight-color: #d65649;
+
+  /* Search input */
+  --docsearch-searchbox-height: 44px;
+  --docsearch-searchbox-background: #f7f8fa;
+  --docsearch-searchbox-focus-background: #fff;
+  --docsearch-searchbox-shadow: inset 0 0 0 2px var(--docsearch-primary-color);
+
+  /* Modal */
+  --docsearch-modal-width: 560px;
+  --docsearch-modal-height: 600px;
+  --docsearch-modal-background: #f5f6f7;
+  --docsearch-modal-shadow: inset 1px 1px 0 0 hsla(0, 0%, 100%, 0.5),
+    0 3px 8px 0 #555a64;
+
+  /* Autocomplete */
+  --docsearch-autocomplete-result-color: #69738a;
+  --docsearch-autocomplete-result-selectable-color: #d65649;
+
+  /* Hit colors */
+  --docsearch-hit-height: 56px;
+  --docsearch-hit-color: #444950;
+  --docsearch-hit-active-color: #fff;
+  --docsearch-hit-background: #fff;
+  --docsearch-hit-shadow: 0 1px 3px 0 #d4d9e1;
+
+  /* Key colors */
+  --docsearch-key-gradient: linear-gradient(-225deg, #d5dbe4, #f8f8f8);
+  --docsearch-key-shadow: inset 0 -2px 0 0 #cdcde6, inset 0 0 1px 1px #fff,
+    0 1px 2px 1px rgba(30, 35, 90, 0.4);
+
+  /* Footer */
+  --docsearch-footer-height: 44px;
+  --docsearch-footer-background: #fff;
+  --docsearch-footer-shadow: 0 -1px 0 0 #e0e3e8,
+    0 -3px 6px 0 rgba(69, 98, 155, 0.12);
+}
+
+[data-theme="dark"] {
+  /* Dark theme colors */
+  --docsearch-primary-color: #d65649;
+  --docsearch-text-color: #f5f6f7;
+  --docsearch-spacing: 12px;
+  --docsearch-icon-stroke-width: 1.4;
+  --docsearch-highlight-color: #d65649;
+
+  /* Dark search input */
+  --docsearch-searchbox-background: #2f3235;
+  --docsearch-searchbox-focus-background: #242526;
+  --docsearch-searchbox-shadow: inset 0 0 0 2px var(--docsearch-primary-color);
+
+  /* Dark modal */
+  --docsearch-modal-background: #1c1e21;
+  --docsearch-modal-shadow: inset 1px 1px 0 0 #2c2e40, 0 3px 8px 0 #000309;
+
+  /* Dark autocomplete */
+  --docsearch-autocomplete-result-color: #7c7e80;
+  --docsearch-autocomplete-result-selectable-color: #d65649;
+
+  /* Dark hit colors */
+  --docsearch-hit-color: #bec3c9;
+  --docsearch-hit-shadow: none;
+  --docsearch-hit-background: #2f3235;
+
+  /* Dark footer */
+  --docsearch-footer-background: #242526;
+  --docsearch-footer-shadow: 0 -1px 0 0 #393a3c;
+
+  /* Dark key */
+  --docsearch-key-gradient: linear-gradient(-26.5deg, #565872, #31355b);
+  --docsearch-key-shadow: inset 0 -2px 0 0 #282d55, inset 0 0 1px 1px #51577d,
+    0 2px 2px 0 rgba(3, 4, 9, 0.3);
+}
+
+/* Custom styling for DocSearch button */
+.DocSearch-Button {
+  border-radius: 8px;
+  border: 1px solid var(--ifm-toc-border-color);
+  transition: all 0.2s ease;
+}
+
+.DocSearch-Button:hover {
+  box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
+  border-color: var(--docsearch-primary-color);
+}
+
+.DocSearch-Button-Keys {
+  min-width: 0;
+}
+
+/* AskAI button styling */
+.DocSearch-AskAI-Button {
+  background: linear-gradient(135deg, var(--docsearch-primary-color), #b8453a);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.DocSearch-AskAI-Button:hover {
+  background: linear-gradient(135deg, #c24a3e, #a33d32);
 }
