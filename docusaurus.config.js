@@ -61,7 +61,11 @@ const config = {
   ],
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr", "es"],
+    locales: ["en"],
+    // For now, we don't have enough translated to justify shipping other languages.
+    // When we start building these again, there are other changes needed in the GHA
+    // workflows to reenable the Crowdin downloads.
+    // locales: ["en", "fr", "es"],
     localeConfigs: {
       en: {
         label: "English",
@@ -69,18 +73,18 @@ const config = {
         htmlLang: "en-US",
         calendar: "gregory",
       },
-      fr: {
-        label: "français",
-        direction: "ltr",
-        htmlLang: "fr",
-        calendar: "gregory",
-      },
-      es: {
-        label: "español",
-        direction: "ltr",
-        htmlLang: "es",
-        calendar: "gregory",
-      },
+      // fr: {
+      //   label: "français",
+      //   direction: "ltr",
+      //   htmlLang: "fr",
+      //   calendar: "gregory",
+      // },
+      // es: {
+      //   label: "español",
+      //   direction: "ltr",
+      //   htmlLang: "es",
+      //   calendar: "gregory",
+      // },
     },
   },
   themes: [
