@@ -6,19 +6,19 @@ slug: /adapt-book-format
 
 
 
-In [this article,](/developing-organization-book-style) we briefly outlined how each organization will often develop a particular “style” to best serve its goals and its target audience when authoring new original books. 
+In [this article,](/developing-organization-book-style) we briefly outlined how each organization will often develop a particular “style” to serve its goals and its target audience best when authoring new original books. 
 
 
-The same is also true when adapting pre-existing [shell books](/shell-books-in-bloom). The original author(s) of any particular book would have had their own “style” and that style won’t necessarily coincide with yours. 
+The same is also true when adapting pre-existing shell books. The original author(s) of any particular book would have had their own “style” and that style won’t necessarily coincide with yours. 
 
 
-For example, if your organization has determined that digital landscape “talking books” is the ideal format to best serve its goals, and the book you wish to adapt is designed for A5 Portrait, does that mean you can not use that book?
+For example, if your organization has determined that digital landscape “talking books” is the ideal format to serve its goals best, and the book you wish to adapt is designed for A5 Portrait, does that mean you can not use that book?
 
 
 No.
 
 
-It simply means that you will need to adapt the book to your desired format.
+It means that you will need to adapt the book to your desired format.
 
 
 Let’s look at one example of adapting a book.
@@ -78,7 +78,7 @@ Finally, you will want to adjust images and text for a “best fit” for the ne
 # Having multiple versions of a book {#6d8ac96b58fc4b7cafe51982d31bc835}
 
 
-As [mentioned](/built-in-templates) previously, when an author makes a book using the Basic Book template, that book is well suited for both print and digital. However, there are limitations. In particular, the basic orientation — portrait vs. landscape — will be the same for both the print and the digital. But if, for example, you wanted a portrait book for print and a landscape book for digital (or vice-versa), then you must create two separate versions of your book.
+When an author makes a book using the Basic Book template, that book is well suited for both print and digital. However, there are limitations. In particular, the basic orientation — portrait vs. landscape — will be the same for both the print and the digital. But if, for example, you wanted a portrait book for print and a landscape book for digital (or vice-versa), then you must create two separate versions of your book.
 
 
 To achieve this, right-click on your book in Collections, and choose **Duplicate Book**:
