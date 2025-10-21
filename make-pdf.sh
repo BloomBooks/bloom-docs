@@ -1,22 +1,30 @@
 #!/usr/bin/env bash
 set -e  # Exit on error
 
-# Use en for the language if not set
-if [ -z "$1" ]
-then
-  set -- 'en' "$@"
+# Parameters:
+# $1: Language code (default: 'en') or base URL if it starts with 'http'
+# $2: Language code if $1 is a URL
+
+# Check if first parameter is a URL
+if [[ "$1" =~ ^https?:// ]]; then
+    BASE_URL="$1"
+    LANGUAGE="${2:-en}"
+else
+    # Use en for the language if not set
+    LANGUAGE="${1:-en}"
+    BASE_URL="https://docs.bloomlibrary.org"
 fi
 
-if [ "$1" == "en" ]; then
-    URL="https://docs.bloomlibrary.org"
+if [ "$LANGUAGE" == "en" ]; then
+    URL="$BASE_URL"
 else
-    URL="https://docs.bloomlibrary.org/$1"
+    URL="$BASE_URL/$LANGUAGE"
 fi
 
 LANGUAGENAME="english"
-if [ $1 == "fr" ]; then
+if [ "$LANGUAGE" == "fr" ]; then
     LANGUAGENAME="french"
-elif [ $1 == "es" ]; then
+elif [ "$LANGUAGE" == "es" ]; then
     LANGUAGENAME="spanish"
 fi
 
@@ -24,12 +32,12 @@ fi
 # docusaurus site all over again in the workflow.
 # Also, if we generate the PDFs in the static folder,
 # the docusaurus build copies all of them to each locale by default, so we get duplicates.
-if [ "$1" == "en" ]; then
+if [ "$LANGUAGE" == "en" ]; then
     mkdir -p "build/downloads"
     OUTPUTPATH="build/downloads/docs-bloomlibrary-$LANGUAGENAME-a4.pdf"
 else
-    mkdir -p "build/$1/downloads"
-    OUTPUTPATH="build/$1/downloads/docs-bloomlibrary-$LANGUAGENAME-a4.pdf"
+    mkdir -p "build/$LANGUAGE/downloads"
+    OUTPUTPATH="build/$LANGUAGE/downloads/docs-bloomlibrary-$LANGUAGENAME-a4.pdf"
 fi
 
 # removed because of https://github.com/kohheepeace/mr-pdf/issues/60
