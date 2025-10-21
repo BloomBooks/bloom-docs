@@ -20,24 +20,22 @@ Bloom is designed to run on fairly modest hardware. Your computer should have at
 - 1.5 Ghz processor
 - 4 GB memory (RAM)
 - 2 GB available hard disk space
-- Bloom 6.3 and above require a 64 bit processor.
+- Bloom 6.3 and above require a 64-bit processor.
 
 ## Operating System {#3fcf15146bf34b8c82ff2a445247ddce}
 
 
-**Windows 11**
-
-
- [WebView2](https://docs.bloomlibrary.org/webview2/)
-
-
 Bloom 6.1 & 6.2
 
+- Windows 10 or 11
 - [.NET 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 
 Bloom 6.3
 
+- Windows 11
 - [.NET 8](https://dotnet.microsoft.com/en-us/download)
+
+Also note information about [WebView2](https://docs.bloomlibrary.org/webview2/).
 
 <details>
 <summary>Information about older versions of Windows…</summary>
