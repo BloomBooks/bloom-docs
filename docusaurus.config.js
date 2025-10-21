@@ -135,12 +135,12 @@ const config = {
         indexName: "bloom",
         contextualSearch: true,
         searchParameters: {},
-        askAi: {
-          assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
-          indexName: "bloom-markdown",
-          apiKey: "253f0884b36e9c259962fcd4c94c4c44", // dubious, it's just a copy of the main one
-          appId: "FI2OI4JBTP", // dubious, it's just a copy of the main one
-        },
+        // askAi: {
+        //   assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
+        //   indexName: "bloom-markdown",
+        //   apiKey: "253f0884b36e9c259962fcd4c94c4c44", // dubious, it's just a copy of the main one
+        //   appId: "FI2OI4JBTP", // dubious, it's just a copy of the main one
+        // },
       },
     }),
 };
