@@ -37,14 +37,23 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: GHAction - Commit content changes pulled from notion
-      - name: Crowdin
-        run: yarn crowdin:sync
-        env:
-          SIL_BLOOM_DOCS_CROWDIN_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_CROWDIN_TOKEN }}
-      - name: Commit New Translations
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: GHAction - Commit incoming translations from Crowdin
+
+      # We don't have enough translated yet to make it even worth downloading and processing the translations.
+      # For now, we skip (comment out) those bits.
+      # When reinstating this, be sure to also 
+      #  - reenable pdf uploads for fr and es below and in other GHA workflow files
+      #  - turn on the relevant locales in docusaurus.config.js
+      #  - create (or duplicate from English) localized pdfs in make-pdf.sh
+
+      # - name: Crowdin
+      #   run: yarn crowdin:sync
+      #   env:
+      #     SIL_BLOOM_DOCS_CROWDIN_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_CROWDIN_TOKEN }}
+      # - name: Commit New Translations
+      #   uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     commit_message: GHAction - Commit incoming translations from Crowdin
+
       - name: Build Docusaurus instance
         run: yarn build
       - name: Set S3 Bucket
@@ -94,10 +103,9 @@ jobs:
       - name: Generate PDFs
         run: yarn make-pdf http://localhost:3000
       - name: Upload PDFs to S3
-        run: |
-          aws s3 cp ./build/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/downloads/ --recursive --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/fr/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
-          aws s3 cp ./build/es/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"
+        run: aws s3 cp ./build/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/downloads/ --recursive --exclude "*" --include "*.pdf"
+          # aws s3 cp ./build/fr/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
+          # aws s3 cp ./build/es/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
