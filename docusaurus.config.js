@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { themes } = require("prism-react-renderer");
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -87,21 +88,6 @@ const config = {
       // },
     },
   },
-  themes: [
-    // ... Your other themes.
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        // ... Your options.
-        // `hashed` is recommended as long-term-cache of index file is possible.
-        hashed: true,
-        // language: ["en", "fr"],
-        indexBlog: false,
-        indexPages: false,
-        docsRouteBasePath: "/",
-      },
-    ],
-  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -142,6 +128,17 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        appId: "FI2OI4JBTP",
+        apiKey: "253f0884b36e9c259962fcd4c94c4c44",
+        indexName: "bloom",
+        contextualSearch: true,
+        searchParameters: {},
+        askAi: {
+          assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
+          indexName: "bloom-markdown",
+        },
       },
     }),
 };
