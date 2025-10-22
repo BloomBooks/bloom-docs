@@ -6616,10 +6616,10 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-docu-pdf@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/docu-pdf/-/docu-pdf-1.4.0.tgz#e480a1ace1656c2f73eff85b74bb63c3fd048b16"
-  integrity sha512-7hss4r7I+kHIR+9Sdwu4LKervb47KoaQooXDFgWKTBhVNvdEoyezHSJy7tve80AbJw1cpfCO9klGpaJNxEXFoQ==
+docu-pdf@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/docu-pdf/-/docu-pdf-1.4.1.tgz#6f6c9afbde22af3428e14429263f6f92600e9ce4"
+  integrity sha512-Y/lP0xhvgliUHrTLSqzRQ1VvZZDK0BKUq/6F6wWGNmrxAbLqvmAnL7nLPst7LvsJMKQQnvd0OaTP2BB5fvIIzg==
   dependencies:
     chalk "^4.1.2"
     commander "^9.4.0"
