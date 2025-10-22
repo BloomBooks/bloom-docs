@@ -23,6 +23,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
+          cache: 'yarn'
       - name: Install dependencies
         run: yarn install
         # for some reason it was telling me my lockfile was out of date run: yarn install --frozen-lockfile
