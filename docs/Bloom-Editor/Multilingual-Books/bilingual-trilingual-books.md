@@ -41,10 +41,13 @@ And various other languages. But in each case, only one language is shown on the
 In contrast, **bilingual** books show two languages on the story pages at the same time. 
 
 
-There are two main models for displaying bilingual text. The first model shows the two languages one after another inside of a single Bloom text box:
+There are two main models for displaying bilingual text. The first model shows the two languages one after another inside a single Bloom text box:
 
 
 ![](./bilingual-trilingual-books.2944bb19-df12-8022-984b-c22da30c6d71.png)
+
+
+For a bilingual book which follows this first model, check out t[his bilingual story ](https://bloomlibrary.org/book/Ivaw5VLWgv)in Bloom Library published in Haitian and French.
 
 
 In the second model, the first language is positioned above the image in one text box, and the second language is placed in a separate text box below.
@@ -56,13 +59,13 @@ This model uses the **Bilingual & Picture in Middle** page template:
 ![](./bilingual-trilingual-books.2944bb19-df12-80a4-9b09-cc687c1770fe.png)
 
 
-Bilingual books are a popular format in bilingual education programs.
+Bilingual books are a popular format in bilingual education programs. Many of the books published in the [Angola Project](https://bloomlibrary.org/INADE-PATII-Angola) follow this second model. Check out [this example](https://bloomlibrary.org/INADE-PATII-Angola/INADE-PATII-Angola-Umbundu/book/uKNd5ZtwaZ).
 
 
 ## Trilingual Paper Books {#2944bb19df1280429739ec445583e4de}
 
 
-**Trilingual** books show three languages at the same time. Trilingual books are a popular format for reference books like dictionaries:
+**Trilingual** books show three languages at the same time. Trilingual books are a popular format for reference books like dictionaries such as the "[Dai-Chinese-English ﻿Book of Everyday Things](https://bloomlibrary.org/book/mtpBEpRapj)”:
 
 
 ![](./bilingual-trilingual-books.2944bb19-df12-80c1-9d88-ea0a68e71c4d.png)
@@ -81,6 +84,9 @@ BloomPUBs can handle all of Bloom’s advanced features such as recorded narrati
 
 
 ![](./bilingual-trilingual-books.afe726ee-3356-4be3-8ff5-0f36dec0d17d.png)
+
+
+Many books published by Education for Life are designed for digital reading only (not paper) and are embedded with multiple languages. To view these books, check out [EFL](https://bloomlibrary.org/EFL-education-for-life-org). 
 
 
 ### Related Topics {#2944bb19df12806e861df66a05d5b3ad}
