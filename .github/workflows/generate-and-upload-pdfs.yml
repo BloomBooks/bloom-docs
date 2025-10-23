@@ -33,7 +33,7 @@ jobs:
         run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
         shell: bash
       - name: Generate PDFs (using live site)
-        run: yarn make-pdf
+        run: yarn make-pdf:live
       - name: Set S3 Bucket
         id: set-bucket
         run: |
