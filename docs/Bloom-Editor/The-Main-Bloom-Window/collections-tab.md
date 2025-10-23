@@ -6,15 +6,6 @@ slug: /collections-tab
 
 
 
-:::note
-
-Additional content coming soon.
-
-:::
-
-
-
-
 The `Collections` tab is where you can find and organize all of your books, as well as multiple ways to create new books.
 
 
@@ -24,7 +15,7 @@ The `Collections` tab is where you can find and organize all of your books, as w
 There are multiple parts of the `Collections` tab:
 
 
-![](./collections-tab.cb7a7276-0a06-462a-b3f9-1619596a3e00.png)
+![](./collections-tab.2944bb19-df12-807f-a53f-e37a567692e5.png)
 
 1. [Your Collection of Books](/collections-tab#ab98874adc7e4df3ab2b2041a58ca2eb)
 2. [Sources for New Books](/collections-tab#bdabbbbf56fd4881901e7f411b1c2bd3)
@@ -40,7 +31,7 @@ In the **upper-left corner** of the `Collections` tab, you will see the collecti
 This is where you can **find and edit** the **books** that you are working on.
 
 
-![](./collections-tab.cd4e4bf0-589f-407d-b681-7b49ed09e3c9.png)
+![](./collections-tab.2944bb19-df12-8034-8dd9-db9d33cd9222.png)
 
 1. At the top, you see the **title** of this collection.
 2. Underneath the title, you will see the **books** in this collection.
@@ -51,7 +42,7 @@ This is where you can **find and edit** the **books** that you are working on.
 In the **bottom-left corner** of the `Collections` tab, you will see `Sources for New Books`. This is where you can find **new books** to create.
 
 
-![](./collections-tab.fcb0d176-8243-4130-8580-69fbd9474bba.png)
+![](./collections-tab.2944bb19-df12-807a-8553-cc1073330360.png)
 
 
 There are many different types of books to choose from:
@@ -61,23 +52,14 @@ There are many different types of books to choose from:
 - [Books from BloomLibrary.org](/collections-tab#e2b69cf4b72540408826cbd5b9141801)
 - [Books from Other Collections](/collections-tab#efea1a3236204445a637948ca39f5e33)
 
-### Templates {#88adc23237dc4615bb06b26992ef2131}
+### Book Templates {#88adc23237dc4615bb06b26992ef2131}
 
 
-Bloom comes with many different kinds of book templates.
+Bloom comes with many different kinds of book templates. You can use these to create different kinds of books easily.
 
 
-![](./collections-tab.a541b3a9-cb8c-44d5-a85d-609ac34cc48c.png)
+For more information, see [Bloom’s Built-in Book Templates](/built-in-templates).
 
-
-You can use these to easily create **different kinds** of books:
-
-- **Basic Books:** These are simpler books with a variety of text and pictures.
-- **Big Books:** These are especially helpful for classroom settings, because they have big text and big pictures.
-- **Decodable/Levels Readers:** These help early readers learn to read.
-- **Comic Books:** Colorful full-page books, with different types of text options (including comic book style speech bubbles).
-- **Sign Language Books:** Books with text and sign language videos together!
-- And more!
 
 ### Sample Shell Books {#c95bd7673fe34857aed83401d94ad830}
 
@@ -85,7 +67,7 @@ You can use these to easily create **different kinds** of books:
 Bloom also comes with a few **sample shell books**. These books are **ready-to-translate**: they already have a full story, complete with pictures and text, which makes it easy to publish in a local language.
 
 
-![](./collections-tab.91fbf025-4713-48c1-8ecc-b48972a6c0d2.png)
+![](./collections-tab.2944bb19-df12-808f-b3b8-f7a1c337f88e.png)
 
 
 Learn more about [Shell Books in Bloom](/shell-books-in-bloom).
@@ -97,7 +79,7 @@ Learn more about [Shell Books in Bloom](/shell-books-in-bloom).
 The [Bloom Library](https://bloomlibrary.org/read) has thousands of shell books that can be downloaded for free and used to make your own books.
 
 
-![](./collections-tab.58b2de3d-f3fb-4e15-a8db-63d6dcf884c9.png)
+![](./collections-tab.2944bb19-df12-807b-9ee6-cf683cad2b55.png)
 
 
 **Get More Books From the Bloom Library**
@@ -106,7 +88,7 @@ The [Bloom Library](https://bloomlibrary.org/read) has thousands of shell books 
 If you do not see any books in the Bloom Library section, or you want to download more books to use, click `GET MORE SOURCE BOOKS AT BLOOMLIBRARY.ORG`.
 
 
-![](./collections-tab.460e85b0-c9b6-4517-971b-743e24052916.png)
+![](./collections-tab.2944bb19-df12-8084-8c25-fe62929bd1be.png)
 
 
 To learn more about downloading books from Bloom Library, see [Download Books from Bloom Library](/download-books-bloom-library).
@@ -121,31 +103,15 @@ To learn more about downloading books from Bloom Library, see [Download Books fr
 If you have installed any Bloom Packs, the books from those [Bloom Packs](/bloom-packs) will appear below the `Books From BloomLibrary.org` section. For example:
 
 
-![](./collections-tab.9511c75f-4bd6-4b48-b84b-df7ee0780144.png)
+![](./collections-tab.2944bb19-df12-80de-b8d4-f58e22c72f7b.png)
 
-1. Cassie
-2. God is Everywhere
+1. EFL SBC Grade 1
+2. EFL SBC Grade 2
 
 **Other Collections on Your Computer**
 
 
-If you have other collections on your computer, you can show books from those collection(s) here.
-
-1. Click `SHOW ANOTHER COLLECTION…`
-
-	![](./collections-tab.1715e42f-c198-4d73-8878-2002612e392b.png)
-
-2. Open the **Folder** for the Collection that you want to see:
-
-	![](./collections-tab.86aa512c-9841-44f9-be47-a7091e61fd95.png)
-
-3. Open the **Bloom Collection file** for the Collection that you want to see:
-
-	![](./collections-tab.41526a09-c8c0-4283-915a-8b2aafc90020.png)
-
-4. The books for that Collection will now be available in the Collections tab (for example: **English Books**):
-
-	![](./collections-tab.7f2b0d77-eb1b-4bfe-934b-e81a69b0ea3d.png)
+If you have other collections on your computer, you can show books from those collection(s) here. See [Show Another Collection](/show-another-collection).
 
 
 ### Book Preview Area {#fd503ffb53404a36869bb065736202f9}
@@ -154,7 +120,7 @@ If you have other collections on your computer, you can show books from those co
 The Book Preview area shows a larger version of the book or template that you select.
 
 
-![](./collections-tab.b497e9eb-7d2e-4e8e-805a-5304a21691af.png)
+![](./collections-tab.2944bb19-df12-802c-8b0f-d0cce686277e.png)
 
 1. Click on the **picture/title (thumbnail)** for any book.
 2. The book will display in the Book Preview Area.
@@ -166,7 +132,7 @@ The Book Preview area shows a larger version of the book or template that you se
 If you want to edit a book:
 
 
-![](./collections-tab.4dfab91d-39da-4150-8126-805bb1cccc32.png)
+![](./collections-tab.2944bb19-df12-80b4-abd9-d57ceb61a79e.png)
 
 1. Click on any book in **your Collection** (upper-left pane).
 2. Click `EDIT THIS BOOK`.
