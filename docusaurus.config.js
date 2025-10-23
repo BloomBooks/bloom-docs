@@ -137,13 +137,13 @@ const config = {
         // Disabled: because it gives 0 results. Maybe something isn't set up right on Algolia's side. TODO: see https://docusaurus.io/docs/search#algolia-no-search-results
         contextualSearch: false,
         searchParameters: {},
-        askAi: "BrDlTKUo3zcu",
-        // askAi: {
-        //   assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
-        //   indexName: "bloom-markdown",
-        //   apiKey: "", // what is this?
-        //   appId: "", // what is this?
-        // },
+        //        askAi: "BrDlTKUo3zcu",
+        askAi: {
+          assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
+          indexName: "bloom-markdown",
+          apiKey: "FI2OI4JBTP", // what is this?
+          appId: "757ac6eee61ab3ec243a43510136269b", // what is this?
+        },
       },
     }),
 };

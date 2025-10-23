@@ -50,14 +50,14 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: "us-east-1"
-      - name: Disable AppArmor
-        # Ubuntu >= 23 has AppArmor enabled by default, which breaks Puppeteer.
-        # See https://github.com/puppeteer/puppeteer/issues/12818 "No usable sandbox!"
-        # this is taken from the solution used in Puppeteer's own CI: https://github.com/puppeteer/puppeteer/pull/13196
-        # The alternative is to pin Ubuntu 22 or to use aa-exec to disable AppArmor for commands that need Puppeteer.
-        # This is also suggested by Chromium https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
-        run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
-        shell: bash
+      # - name: Disable AppArmor
+      #   # Ubuntu >= 23 has AppArmor enabled by default, which breaks Puppeteer.
+      #   # See https://github.com/puppeteer/puppeteer/issues/12818 "No usable sandbox!"
+      #   # this is taken from the solution used in Puppeteer's own CI: https://github.com/puppeteer/puppeteer/pull/13196
+      #   # The alternative is to pin Ubuntu 22 or to use aa-exec to disable AppArmor for commands that need Puppeteer.
+      #   # This is also suggested by Chromium https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
+      #   run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
+      #   shell: bash
       # Serve the built site locally for PDF generation instead of using the live site.
       # This avoids S3 costs and potential timeouts.
       # - name: Start local server for PDF generation
