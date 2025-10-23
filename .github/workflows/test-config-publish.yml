@@ -1,0 +1,92 @@
+name: Publish testing config only
+on:
+  push:
+    branches:
+      - alpha
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: "Log level"
+        required: true
+        default: "warning"
+jobs:
+  release:
+    name: Publish testing config only
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: "yarn"
+      - name: Install dependencies
+        run: yarn install
+        # for some reason it was telling me my lockfile was out of date run: yarn install --frozen-lockfile
+      - name: copy-static-docs
+        run: yarn copy-static-docs
+      - name: Build Docusaurus instance
+        run: yarn build
+      - name: Set S3 Bucket
+        id: set-bucket
+        run: |
+          if [ "${{ github.ref }}" == "refs/heads/alpha" ]; then
+            BUCKET="${{ secrets.AWS_BUCKET_ALPHA }}"
+          else
+            BUCKET="${{ secrets.AWS_BUCKET }}"
+          fi
+          echo "::add-mask::$BUCKET"
+          echo "bucket=$BUCKET" >> $GITHUB_OUTPUT
+        shell: bash
+      - name: Upload S3
+        # We exclude these five paths because they existed before the current system.
+        # The five index.html files contain redirects. One is to an external document; the others to pages at docs.bloomlibrary.org.
+        # See more detailed notes at https://docs.google.com/document/d/1Vub0SeQL6BQqyGoQBN6-cfi6AIRbcBHeV87KjnzZXDU/edit#heading=h.aaxpksot3akz.
+        run: aws s3 sync ./build  s3://${{ steps.set-bucket.outputs.bucket }} --delete --exclude "sil-corporate-guidelines/index.html" --exclude "bloom-reader-shelves/index.html" --exclude "team-collections-sharing-services/index.html" --exclude "team-collections/index.html" --exclude "widgets/index.html"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: "us-east-1"
+      - name: Disable AppArmor
+        # Ubuntu >= 23 has AppArmor enabled by default, which breaks Puppeteer.
+        # See https://github.com/puppeteer/puppeteer/issues/12818 "No usable sandbox!"
+        # this is taken from the solution used in Puppeteer's own CI: https://github.com/puppeteer/puppeteer/pull/13196
+        # The alternative is to pin Ubuntu 22 or to use aa-exec to disable AppArmor for commands that need Puppeteer.
+        # This is also suggested by Chromium https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
+        run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
+        shell: bash
+      # Serve the built site locally for PDF generation instead of using the live site.
+      # This avoids S3 costs and potential timeouts.
+      # - name: Start local server for PDF generation
+      #   run: |
+      #     yarn serve --port 3000 &
+      #     echo $! > server.pid
+      #     # Wait for server to be ready
+      #     for i in {1..30}; do
+      #       if curl -s http://localhost:3000 > /dev/null; then
+      #         echo "Server is ready"
+      #         break
+      #       fi
+      #       echo "Waiting for server to start... ($i/30)"
+      #       sleep 1
+      #     done
+      #   shell: bash
+      # - name: Generate PDFs
+      #   run: yarn make-pdf http://localhost:3000
+      # - name: Upload PDFs to S3
+      #   run: aws s3 cp ./build/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/downloads/ --recursive --exclude "*" --include "*.pdf"
+      #     # aws s3 cp ./build/fr/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
+      #     # aws s3 cp ./build/es/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"
+      #   env:
+      #     AWS_ACCESS_KEY_ID: ${{ secrets.AWS_KEY_ID }}
+      #     AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      #     AWS_DEFAULT_REGION: "us-east-1"
+      # - name: Cloudflare - purge cache for PDFs
+      #   uses: jakejarvis/cloudflare-purge-action@v0.3.0
+      #   env:
+      #     CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+      #     CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+      #     PURGE_URLS: '["https://${{ steps.set-bucket.outputs.bucket }}/downloads/docs-bloomlibrary-english-a4.pdf", "https://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/docs-bloomlibrary-english-a4.pdf", "https://${{ steps.set-bucket.outputs.bucket }}/es/downloads/docs-bloomlibrary-english-a4.pdf"]'
