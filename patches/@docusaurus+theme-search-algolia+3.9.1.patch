@@ -1,3 +1,60 @@
+diff --git a/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js b/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
+index 966c260..dd93f36 100644
+--- a/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
++++ b/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
+@@ -89,7 +89,21 @@ function useResultsFooterComponent({closeModal}) {
+     [closeModal],
+   );
+ }
+-function Hit({hit, children}) {
++function Hit({hit, children, openExternalLinksInNewTab = false}) {
++  // Check the config flag first before doing regex work
++  if (openExternalLinksInNewTab) {
++    // Check if the URL is external (starts with http:// or https:// and not on the same domain)
++    const isExternal = /^https?:\/\//.test(hit.url) && !hit.url.startsWith(window.location.origin);
++    
++    if (isExternal) {
++      return (
++        <a href={hit.url} target="_blank" rel="noopener noreferrer">
++          {children}
++        </a>
++      );
++    }
++  }
++  
+   return <Link to={hit.url}>{children}</Link>;
+ }
+ function ResultsFooter({state, onClose}) {
+@@ -118,7 +132,7 @@ function useSearchParameters({contextualSearch, ...props}) {
+     facetFilters,
+   };
+ }
+-function DocSearch({externalUrlRegex, ...props}) {
++function DocSearch({externalUrlRegex, openExternalLinksInNewTab, ...props}) {
+   const navigator = useNavigator({externalUrlRegex});
+   const searchParameters = useSearchParameters({...props});
+   const transformItems = useTransformItems(props);
+@@ -129,6 +143,11 @@ function DocSearch({externalUrlRegex, ...props}) {
+   const [initialQuery, setInitialQuery] = useState(undefined);
+   const {isAskAiActive, currentPlaceholder, onAskAiToggle, extraAskAiProps} =
+     useAlgoliaAskAi(props);
++  // Create a wrapped Hit component with the config
++  const HitWithConfig = useCallback(
++    ({hit, children}) => <Hit hit={hit} children={children} openExternalLinksInNewTab={openExternalLinksInNewTab} />,
++    [openExternalLinksInNewTab]
++  );
+   const prepareSearchContainer = useCallback(() => {
+     if (!searchContainer.current) {
+       const divElement = document.createElement('div');
+@@ -201,7 +220,7 @@ function DocSearch({externalUrlRegex, ...props}) {
+             initialQuery={initialQuery}
+             navigator={navigator}
+             transformItems={transformItems}
+-            hitComponent={Hit}
++            hitComponent={HitWithConfig}
+             transformSearchClient={transformSearchClient}
+             {...(props.searchPagePath && {
+               resultsFooterComponent,
 diff --git a/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js b/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js
 index dceea41..2f7de39 100644
 --- a/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js

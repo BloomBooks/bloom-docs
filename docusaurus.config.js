@@ -137,7 +137,8 @@ const config = {
         // Disabled: because it gives 0 results. Maybe something isn't set up right on Algolia's side. TODO: see https://docusaurus.io/docs/search#algolia-no-search-results
         contextualSearch: false,
         searchParameters: {},
-        //        askAi: "BrDlTKUo3zcu",
+        // Open our ref-docs.bloomlibrary links in a new tab
+        openExternalLinksInNewTab: true,
         askAi: {
           assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
           indexName: "bloom-markdown",
