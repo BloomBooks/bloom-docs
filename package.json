@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "postinstall": "patch-package",
     "simulate-locally": "yarn pull && yarn make-pdf && yarn crowdin:sync && yarn serve",
     "docusaurus": "docusaurus",
     "start": "yarn copy-static-docs && docusaurus start",
@@ -45,6 +46,8 @@
     "@docusaurus/module-type-aliases": "^3.9.2",
     "@sillsdev/docu-notion": "^0.17.0-alpha.1",
     "@tsconfig/docusaurus": "^2.0.4",
+    "patch-package": "^8.0.1",
+    "postinstall-postinstall": "^2.1.0",
     "typescript": "^5.9.3"
   },
   "browserslist": {

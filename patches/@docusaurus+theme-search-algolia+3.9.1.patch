@@ -1,0 +1,15 @@
+diff --git a/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js b/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js
+index dceea41..2f7de39 100644
+--- a/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js
++++ b/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js
+@@ -59,8 +59,8 @@ exports.Schema = utils_validation_1.Joi.object({
+         // Full configuration object
+         utils_validation_1.Joi.object({
+             indexName: utils_validation_1.Joi.string().required(),
+-            apiKey: utils_validation_1.Joi.string().required(),
+-            appId: utils_validation_1.Joi.string().required(),
++            apiKey: utils_validation_1.Joi.string().optional(),
++            appId: utils_validation_1.Joi.string().optional(),
+             assistantId: utils_validation_1.Joi.string().required(),
+             searchParameters: utils_validation_1.Joi.object({
+                 facetFilters: FacetFiltersSchema.optional(),
