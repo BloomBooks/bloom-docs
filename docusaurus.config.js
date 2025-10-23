@@ -131,14 +131,14 @@ const config = {
       },
       algolia: {
         appId: "FI2OI4JBTP",
-        apiKey: "253f0884b36e9c259962fcd4c94c4c44",
+        apiKey: "757ac6eee61ab3ec243a43510136269b",
         indexName: "bloom",
-        contextualSearch: true,
+        contextualSearch: false, // Disabled: faceting not configured in Algolia index
         searchParameters: {},
         // askAi: {
         //   assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
         //   indexName: "bloom-markdown",
-        //   apiKey: "253f0884b36e9c259962fcd4c94c4c44", // dubious, it's just a copy of the main one
+        //   apiKey: "757ac6eee61ab3ec243a43510136269b", // dubious, it's just a copy of the main one
         //   appId: "FI2OI4JBTP", // dubious, it's just a copy of the main one
         // },
       },
