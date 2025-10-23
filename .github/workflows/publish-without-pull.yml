@@ -60,7 +60,7 @@ jobs:
           done
         shell: bash
       - name: Generate PDFs
-        run: yarn make-pdf http://localhost:3000
+        run: yarn make-pdf
       - name: Upload PDFs to S3
         run: aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf"
           # aws s3 cp ./build/fr/downloads/ s3://${{ secrets.AWS_BUCKET }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
