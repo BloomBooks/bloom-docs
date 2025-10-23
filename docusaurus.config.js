@@ -133,13 +133,16 @@ const config = {
         appId: "FI2OI4JBTP",
         apiKey: "757ac6eee61ab3ec243a43510136269b",
         indexName: "bloom",
-        contextualSearch: false, // Disabled: faceting not configured in Algolia index
+        // contextualSearch "ensures that search results are relevant to the current language and version".
+        // Disabled: because it gives 0 results. Maybe something isn't set up right on Algolia's side. TODO: see https://docusaurus.io/docs/search#algolia-no-search-results
+        contextualSearch: false,
         searchParameters: {},
+        askAi: "BrDlTKUo3zcu",
         // askAi: {
         //   assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
         //   indexName: "bloom-markdown",
-        //   apiKey: "757ac6eee61ab3ec243a43510136269b", // dubious, it's just a copy of the main one
-        //   appId: "FI2OI4JBTP", // dubious, it's just a copy of the main one
+        //   apiKey: "", // what is this?
+        //   appId: "", // what is this?
         // },
       },
     }),
