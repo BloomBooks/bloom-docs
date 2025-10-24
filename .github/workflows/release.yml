@@ -31,12 +31,16 @@ jobs:
           SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
           SIL_BLOOM_DOCS_NOTION_ROOT_PAGE: ${{ secrets.SIL_BLOOM_DOCS_NOTION_ROOT_PAGE }}
         run: yarn pull
+      - name: Pull Reference Docs
+        run: |
+          npx tsx download-ref-docs.ts
+          npx tsx convert-ref-docs.ts
       - name: copy-static-docs
         run: yarn copy-static-docs
       - name: Commit New Source Material
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: GHAction - Commit content changes pulled from notion
+          commit_message: GHAction - Commit content changes pulled from notion and ref-docs
 
       # We don't have enough translated yet to make it even worth downloading and processing the translations.
       # For now, we skip (comment out) those bits.
