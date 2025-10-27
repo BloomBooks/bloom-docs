@@ -65,6 +65,25 @@ turndownService.addRule("cleanMetadata", {
   replacement: () => "",
 });
 
+// Function to normalize image paths to match actual filesystem case
+function normalizeImagePath(imagePath: string): string {
+  // Fix known case mismatches in the source HTML files
+  // The source HTML has incorrect casing that doesn't match the actual filesystem
+  const corrections: { [key: string]: string } = {
+    // Decodable_Reader_Tool vs decodable_reader_tool
+    "decodable_reader_tool": "Decodable_Reader_Tool",
+  };
+
+  let normalized = imagePath;
+  for (const [wrong, correct] of Object.entries(corrections)) {
+    // Case-insensitive replacement to handle any casing variation
+    const regex = new RegExp(`/${wrong}/`, "gi");
+    normalized = normalized.replace(regex, `/${correct}/`);
+  }
+
+  return normalized;
+}
+
 // Custom rule to handle images and preserve original src attributes
 turndownService.addRule("images", {
   filter: "img",
@@ -87,7 +106,9 @@ turndownService.addRule("images", {
     if (src.match(/^(?:\.\.\/)+assets\/(images\/[^)]+)/)) {
       const imagePath = src.match(/^(?:\.\.\/)+assets\/(images\/.+)$/)?.[1];
       if (imagePath) {
-        src = `/ref-docs-assets/${imagePath.replace(/ /g, "%20")}`;
+        // Normalize the path to match actual filesystem case
+        const normalizedPath = normalizeImagePath(imagePath);
+        src = `/ref-docs-assets/${normalizedPath.replace(/ /g, "%20")}`;
       }
     }
 
@@ -148,21 +169,30 @@ function convertHtmlToMarkdown(htmlPath: string): {
   // After Turndown this becomes: [\[email protected\]](/cdn-cgi/l/email-protection#hash "mailto:email@domain.com")
   // Note: The brackets in [email protected] are escaped as \[ and \]
   // We want to extract the email from the title attribute
-  markdown = markdown.replace(/\[.*?\]\(\/cdn-cgi\/l\/email-protection#[a-z0-9]+\s+"mailto:\s*([^"]+)"\)/gi, (match, email) => {
-    // Return just the email address from the mailto: title
-    return email.trim();
-  });
+  markdown = markdown.replace(
+    /\[.*?\]\(\/cdn-cgi\/l\/email-protection#[a-z0-9]+\s+"mailto:\s*([^"]+)"\)/gi,
+    (match, email) => {
+      // Return just the email address from the mailto: title
+      return email.trim();
+    }
+  );
 
   // Fix internal links: convert .htm/.html to .md
   // This handles links in both the URL and title positions: [text](url "title")
   // Pattern 1: Simple links [text](file.htm)
   markdown = markdown.replace(/\]\(([^)"\s]+?)\.html?\/?\)/g, "]($1.md)");
-  
+
   // Pattern 2: Links with titles [text](url "file.htm")
-  markdown = markdown.replace(/\]\(([^)"\s]+?)\s+"([^"]+?)\.html?\/?"?\)/g, ']($1 "$2.md")');
-  
+  markdown = markdown.replace(
+    /\]\(([^)"\s]+?)\s+"([^"]+?)\.html?\/?"?\)/g,
+    ']($1 "$2.md")'
+  );
+
   // Pattern 3: Links where the title itself contains .htm
-  markdown = markdown.replace(/\]\(([^)"\s]+?)\.html?\/?\s+"([^"]+?)"?\)/g, ']($1.md "$2")');
+  markdown = markdown.replace(
+    /\]\(([^)"\s]+?)\.html?\/?\s+"([^"]+?)"?\)/g,
+    ']($1.md "$2")'
+  );
 
   // Escape angle bracket placeholders that look like HTML/JSX tags
   // Split by code blocks (triple backticks and single backticks) to avoid escaping inside them
