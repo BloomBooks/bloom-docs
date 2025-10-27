@@ -15,6 +15,7 @@ const MAX_FILES = 20000;
 
 const VERBOSE_MODE =
   process.argv.includes("--verbose") || process.argv.includes("-v");
+const INCREMENTAL_MODE = process.argv.includes("--incremental");
 
 interface FileManifest {
   [filePath: string]: {
@@ -188,9 +189,7 @@ async function downloadPage(
       lastModified: lastModified,
     };
 
-    if (VERBOSE_MODE) {
-      console.log(`✓ Downloaded: ${relativePath}`);
-    }
+    console.log(`✓ Downloaded: ${relativePath}`);
     stats.downloaded++;
 
     // Extract and download images from the HTML
@@ -314,11 +313,18 @@ async function main() {
   console.log("=== Downloading Reference Documentation ===\n");
   console.log(`Source: ${BASE_URL}`);
   console.log(`Output: ${OUTPUT_DIR}`);
-  console.log(`Max files: ${MAX_FILES}\n`);
+  console.log(`Max files: ${MAX_FILES}`);
+  console.log(`Mode: ${INCREMENTAL_MODE ? "Incremental" : "Full download"}\n`);
 
   // Create output directory
   if (!fs.existsSync(OUTPUT_DIR)) {
     fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  }
+
+  // Delete manifest if not in incremental mode (forces full re-download)
+  if (!INCREMENTAL_MODE && fs.existsSync(MANIFEST_FILE)) {
+    console.log("Deleting previous manifest (full download mode)...");
+    fs.unlinkSync(MANIFEST_FILE);
   }
 
   // Load existing manifest
@@ -333,9 +339,9 @@ async function main() {
   }
 
   // Download first MAX_FILES pages
-  console.log(`\nDownloading first ${MAX_FILES} pages...\n`);
-
   const urlsToDownload = urls.slice(0, MAX_FILES);
+  console.log(`\nDownloading ${urlsToDownload.length} pages...\n`);
+
   const currentUrls = new Set<string>(urlsToDownload);
 
   // Add sitemap.xml to the set so it doesn't get deleted
@@ -345,10 +351,15 @@ async function main() {
     const url = urlsToDownload[i];
     await downloadPage(url, manifest);
 
-    // Show progress every 50 files (or in verbose mode)
-    if (!VERBOSE_MODE && (i + 1) % 50 === 0) {
+    // Show progress every 10 files
+    if ((i + 1) % 10 === 0) {
       const progress = Math.round(((i + 1) / urlsToDownload.length) * 100);
-      console.log(`Progress: ${i + 1}/${urlsToDownload.length} (${progress}%)`);
+      console.log(
+        `\nProgress: ${i + 1}/${urlsToDownload.length} (${progress}%)`
+      );
+      console.log(
+        `  Downloaded: ${stats.downloaded}, Skipped: ${stats.skipped}, Images: ${stats.imagesDownloaded}\n`
+      );
     }
 
     // Small delay to be nice to the server
@@ -373,9 +384,16 @@ async function main() {
     console.log(`\nErrors (${stats.errors.length}):`);
     stats.errors.forEach((err) => console.error(`  - ${err}`));
   }
+
+  console.log("\n✓ Download phase completed successfully");
 }
 
-main().catch((error) => {
-  console.error("Fatal error:", error);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    // Ensure Node exits even if some network handles linger
+    process.exit(0);
+  })
+  .catch((error) => {
+    console.error("Fatal error:", error);
+    process.exit(1);
+  });

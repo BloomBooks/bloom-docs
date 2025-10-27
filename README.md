@@ -27,6 +27,7 @@ $ yarn docu-notion
 
 # Download and convert reference docs
 $ yarn ref-docs
+$ yarn ref-docs:incremental
 ```
 
 #### Start the development server:

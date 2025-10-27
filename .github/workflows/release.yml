@@ -9,10 +9,18 @@ on:
         description: "Pull from Notion"
         type: boolean
         default: true
-      pull_ref_docs:
-        description: "Pull from ref-docs"
+      download_ref_docs:
+        description: "Download ref-docs"
         type: boolean
-        default: true
+        default: false
+      convert_ref_docs:
+        description: "Convert ref-docs to Markdown"
+        type: boolean
+        default: false
+      ref_docs_incremental:
+        description: "Use incremental conversion for ref-docs"
+        type: boolean
+        default: false
       update_algolia:
         description: "Update Algolia search index (beware monthly limit)"
         type: boolean
@@ -26,8 +34,10 @@ jobs:
     uses: ./.github/workflows/pull-content.yml
     secrets: inherit
     with:
-      pull_notion: ${{ inputs.pull_notion != false }}
-      pull_ref_docs: ${{ inputs.pull_ref_docs != false }}
+      pull_notion: ${{ github.event_name == 'push' || inputs.pull_notion == true }}
+      download_ref_docs: ${{ inputs.download_ref_docs == true }}
+      convert_ref_docs: ${{ inputs.convert_ref_docs == true }}
+      ref_docs_incremental: ${{ inputs.ref_docs_incremental == true }}
 
   release:
     name: Release
@@ -38,6 +48,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Sync to latest branch state
+        run: |
+          git fetch --prune origin
+          if [ "${{ github.ref_type }}" = "branch" ]; then
+            git reset --hard origin/${{ github.ref_name }}
+          else
+            git checkout ${{ github.ref }}
+          fi
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:

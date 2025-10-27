@@ -6,20 +6,36 @@ on:
         description: "Pull from Notion"
         type: boolean
         default: true
-      pull_ref_docs:
-        description: "Pull from ref-docs"
+      download_ref_docs:
+        description: "Download ref-docs"
         type: boolean
-        default: true
+        default: false
+      convert_ref_docs:
+        description: "Convert ref-docs to Markdown"
+        type: boolean
+        default: false
+      ref_docs_incremental:
+        description: "Use incremental conversion for ref-docs"
+        type: boolean
+        default: false
   workflow_dispatch:
     inputs:
       pull_notion:
         description: "Pull from Notion"
         type: boolean
         default: true
-      pull_ref_docs:
-        description: "Pull from ref-docs"
+      download_ref_docs:
+        description: "Download ref-docs"
         type: boolean
-        default: true
+        default: false
+      convert_ref_docs:
+        description: "Convert ref-docs to Markdown"
+        type: boolean
+        default: false
+      ref_docs_incremental:
+        description: "Use incremental conversion for ref-docs"
+        type: boolean
+        default: false
 
 jobs:
   pull-content:
@@ -48,18 +64,32 @@ jobs:
         run: yarn pull
 
       - name: Download reference docs
-        if: ${{ inputs.pull_ref_docs }}
-        run: npx tsx ref-docs/download.ts
+        if: ${{ inputs.download_ref_docs }}
+        env:
+          REF_DOCS_INCREMENTAL: ${{ inputs.ref_docs_incremental }}
+        run: |
+          if [ "${REF_DOCS_INCREMENTAL}" = "true" ]; then
+            npx tsx ref-docs/download.ts --incremental
+          else
+            npx tsx ref-docs/download.ts
+          fi
 
       - name: Convert reference docs to Markdown
-        if: ${{ inputs.pull_ref_docs }}
-        run: npx tsx ref-docs/convert-ref-docs.ts
+        if: ${{ inputs.convert_ref_docs }}
+        env:
+          REF_DOCS_INCREMENTAL: ${{ inputs.ref_docs_incremental }}
+        run: |
+          if [ "${REF_DOCS_INCREMENTAL}" = "true" ]; then
+            npx tsx ref-docs/convert.ts --incremental
+          else
+            npx tsx ref-docs/convert.ts
+          fi
 
       - name: copy-static-docs
         run: yarn copy-static-docs
 
       - name: Commit New Source Material
-        if: ${{ inputs.pull_notion || inputs.pull_ref_docs }}
+        if: ${{ inputs.pull_notion || inputs.download_ref_docs || inputs.convert_ref_docs }}
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: GHAction - Commit content changes pulled from notion and ref-docs
