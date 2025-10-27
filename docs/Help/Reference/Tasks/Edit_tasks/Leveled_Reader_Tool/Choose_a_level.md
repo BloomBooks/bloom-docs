@@ -9,7 +9,7 @@ slug: /Help/Reference/choose-a-level
 In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/Leveled_Reader_Tool_icon.png) Leveled Reader Tool, you can see the current [level](../../../Concepts/Level.md) and the total number of levels.  
 Here is an example: ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/LevelsExample.png).
 
-The left arrow button (![](/ref-docs-assets/images/Tasks/Edit_tasks/decodable_reader_tool/StageLeftArrow.png)) displays the previous level. The right arrow button (![](/ref-docs-assets/images/Tasks/Edit_tasks/decodable_reader_tool/StageRightArrow.png)) displays the next level. When there is no previous level or next level to display, the arrow button is hidden.
+The left arrow button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageLeftArrow.png)) displays the previous level. The right arrow button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageRightArrow.png)) displays the next level. When there is no previous level or next level to display, the arrow button is hidden.
 
 -   Click left or right arrow button to display a different level.
     

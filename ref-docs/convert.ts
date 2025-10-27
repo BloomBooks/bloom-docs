@@ -65,23 +65,59 @@ turndownService.addRule("cleanMetadata", {
   replacement: () => "",
 });
 
-// Function to normalize image paths to match actual filesystem case
-function normalizeImagePath(imagePath: string): string {
-  // Fix known case mismatches in the source HTML files
-  // The source HTML has incorrect casing that doesn't match the actual filesystem
-  const corrections: { [key: string]: string } = {
-    // Decodable_Reader_Tool vs decodable_reader_tool
-    "decodable_reader_tool": "Decodable_Reader_Tool",
-  };
+// On windows, the case of files can differ from the references to them,
+// and it still works. But on a linux GitHub Actions server, it doesn't work.
+// So, here we build a case-insensitive lookup map of all image files and
+// paths to actual filesystem paths.
+let imagePathLookup: Map<string, string> | null = null;
 
-  let normalized = imagePath;
-  for (const [wrong, correct] of Object.entries(corrections)) {
-    // Case-insensitive replacement to handle any casing variation
-    const regex = new RegExp(`/${wrong}/`, "gi");
-    normalized = normalized.replace(regex, `/${correct}/`);
+function buildImagePathLookup(): Map<string, string> {
+  const lookup = new Map<string, string>();
+
+  if (!fs.existsSync(IMAGES_SOURCE)) {
+    return lookup;
   }
 
-  return normalized;
+  const walkImages = (dir: string, baseDir: string = IMAGES_SOURCE) => {
+    const entries = fs.readdirSync(dir, { withFileTypes: true });
+
+    for (const entry of entries) {
+      const fullPath = path.join(dir, entry.name);
+
+      if (entry.isDirectory()) {
+        walkImages(fullPath, baseDir);
+      } else {
+        // Get relative path from images source root
+        const relativePath = path.relative(baseDir, fullPath);
+        // Normalize path separators to forward slashes
+        const normalizedPath = relativePath.replace(/\\/g, "/");
+        // Store with lowercase key for case-insensitive lookup
+        lookup.set(normalizedPath.toLowerCase(), normalizedPath);
+      }
+    }
+  };
+
+  walkImages(IMAGES_SOURCE);
+  return lookup;
+}
+
+function normalizeImagePath(imagePath: string): string {
+  // Lazy-load the image path lookup on first use
+  if (imagePathLookup === null) {
+    imagePathLookup = buildImagePathLookup();
+  }
+
+  // Try to find the correct case version in our lookup
+  const normalizedPath = imagePath.replace(/\\/g, "/");
+  const correctPath = imagePathLookup.get(normalizedPath.toLowerCase());
+
+  if (correctPath) {
+    return correctPath;
+  }
+
+  // If not found in lookup, return original path
+  // (this will happen during incremental builds before images are copied)
+  return imagePath;
 }
 
 // Custom rule to handle images and preserve original src attributes
