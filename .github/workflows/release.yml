@@ -21,6 +21,10 @@ on:
         description: "Use incremental conversion for ref-docs"
         type: boolean
         default: false
+      generate_pdfs:
+        description: "Generate and upload PDFs"
+        type: boolean
+        default: true
       update_algolia:
         description: "Update Algolia search index (beware monthly limit)"
         type: boolean
@@ -43,6 +47,9 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     needs: pull-content
+    env:
+      # by default we make pdfs, but if we run manually, we follow the user's choice
+      GENERATE_PDFS: ${{ github.event_name != 'workflow_dispatch' || inputs.generate_pdfs }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -104,6 +111,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: "us-east-1"
       - name: Disable AppArmor
+        if: ${{ env.GENERATE_PDFS == 'true' }}
         # Ubuntu >= 23 has AppArmor enabled by default, which breaks Puppeteer.
         # See https://github.com/puppeteer/puppeteer/issues/12818 "No usable sandbox!"
         # this is taken from the solution used in Puppeteer's own CI: https://github.com/puppeteer/puppeteer/pull/13196
@@ -114,6 +122,7 @@ jobs:
       # Serve the built site locally for PDF generation instead of using the live site.
       # This avoids S3 costs and potential timeouts.
       - name: Start local server for PDF generation
+        if: ${{ env.GENERATE_PDFS == 'true' }}
         run: |
           yarn serve --port 3000 &
           echo $! > server.pid
@@ -128,8 +137,10 @@ jobs:
           done
         shell: bash
       - name: Generate PDFs
+        if: ${{ env.GENERATE_PDFS == 'true' }}
         run: yarn make-pdf
       - name: Upload PDFs to S3
+        if: ${{ env.GENERATE_PDFS == 'true' }}
         run:
           aws s3 cp ./build/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/downloads/ --recursive --exclude "*" --include "*.pdf"
           # aws s3 cp ./build/fr/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
@@ -139,6 +150,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: "us-east-1"
       - name: Cloudflare - purge cache for PDFs
+        if: ${{ env.GENERATE_PDFS == 'true' }}
         uses: jakejarvis/cloudflare-purge-action@v0.3.0
         env:
           CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
