@@ -1,42 +1,37 @@
 ---
 title: Edit Aeneas Timings
-sidebar_position: 4
+sidebar_position: 8
 slug: /edit-timings
 keywords: [Aeneas, Talking Book Tool]
 ---
 
 
 
-## Edit Aeneas Timings {#0f1ab59b97584e72bd3d0ebb7c29436d}
+:::caution
 
-
-There are two recording modes in Bloom’s **Talking Book Tool**: 
-
-- recording **By Sentence**
-- recording **By Whole Text Box**
-
-![](./edit-timings.7254ca9a-1331-4b85-84ef-c546836e1342.png)
-
-
-When a user records their Bloom book using the **By Whole Text Box** recording mode, typically, they also choose to **Split** the text using the Aeneas sHHoftware. In this way, Bloom can highlight sentences during audio playback.
-
-
-After splitting the text, you can **Listen to the whole page** and evaluate how well Aeneas has done in determining where sentence boundaries should be placed in your recorded audio. 
-
-
-If you are _not_ satisfied with how Aeneas has split up your audio, then you may choose to manually edit the “timings file” to make audio highlighting more accurate. 
-
-
-The purpose of this article is to outline the steps needed to do this. Since the easiest way to do this is in tandem with the audio editing software called [Audacity](https://www.audacityteam.org/), the steps described below will employ this software.
-
-
-:::note
-
-Editing the timings file is a feature available starting in Bloom [version 5.5](/release-notes-5-5).
+The following is **not** recommended. Future versions of may remove this option. 
 
 :::
 
 
+
+
+In Bloom 6.2, a new method for splitting audio was introduced: [Record by Whole Text Box](/record-and-split-audio). This method is superior than Aeneas.
+
+
+**Therefore, Aeneas is no longer recommended**. In rare situations, however, Aeneas might provide better results, and so, it continues to be offered.
+
+
+But even in those rare situations in which Aeneas seems better at making audio alignment guesses, it will still be easier to use Bloom’s interactive Adjust Timings Editor rather than the method proposed below.
+
+
+## Edit Aeneas Timings {#0f1ab59b97584e72bd3d0ebb7c29436d}
+
+
+If you are not satisfied with how Aeneas has split up your audio, **and** you are not satisfied with using Bloom’s interactive Adjust Timings Editor, then you may choose to manually edit the “timings file” to make audio highlighting more accurate. 
+
+
+The purpose of this article is to outline the steps needed to do this. Since the easiest way to do this is in tandem with the audio editing software called [Audacity](https://www.audacityteam.org/), the steps described below will employ this software.
 
 
 For the steps below, we assume you have text which has already been recorded **By Whole Text Box**, and the recording has been **Split**, and you have determined that there is a problem with the timings.
@@ -45,17 +40,13 @@ For the steps below, we assume you have text which has already been recorded **B
 ## Edit the Timings File {#80f27d0a313d4e7895e1f3a60a3db0bf}
 
 
-With the Talking Book Tool open: 
+With the Adjust Timing Editor open: 
 
-1. Click the arrow to open up the **Advanced** section of the tool.
-2. Click **Split** the audio.
-3. The button **Edit Timings File** will illuminate. Click this button.
+1. Click **`More`**.
+2. The button **`Edit Timings File`** will illuminate. Click this button.
+3. A message will display (example shown below). Click **OK**.
 
-	![](./edit-timings.4004a8ac-64c8-4ea7-a159-09a8f4c307a0.png)
-
-4. A message will display (example shown below). Click **OK**.
-
-	![](./edit-timings.0b2706dc-8ae6-491e-98fc-edddd679c00d.png)
+![](./edit-timings.2994bb19-df12-80a1-89a8-f8cc6a9224ad.png)
 
 
 ## The timings file {#d3fd21b8b9bf439980bec34665709f8b}

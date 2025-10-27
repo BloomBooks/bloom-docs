@@ -18,7 +18,7 @@ slug: /talking-books
 You can record an audio recording of your book directly in Bloom, or add audio to a book that exists but doesn’t have audio yet.
 
 
-[Record Audio](/record-audio)
+[Prepare to Record Audio](/prepare-to-record)
 
 
 [Add Audio to an Existing Book](/add-audio-to-an-existing-book) 
@@ -39,7 +39,7 @@ You can import prerecorded audio recordings into Bloom.
 By default, Bloom records audio sentence-by-sentence. You can also record (or import) the audio for an entire text box, and split the recording into sentence-sized chunks. 
 
 
-[Record and Split Audio](/record-and-split-audio) 
+[Record by Whole Text Box](/record-and-split-audio) 
 
 
 ### Installing Aeneas {#c72155f3eb0049e6b92e03373dc9a440}

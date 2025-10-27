@@ -1,5 +1,5 @@
 ---
-title: Record and Split Audio
+title: Record by Whole Text Box
 sidebar_position: 3
 slug: /record-and-split-audio
 ---
@@ -8,7 +8,8 @@ slug: /record-and-split-audio
 
 :::note
 
-For basic information about Talking Books and microphone setup, see [Record Audio](/record-audio). 
+Recording by Whole Text Box is an advanced feature available for Bloom subscribers. 
+See [Bloom Subscriptions](/about-bloom-subscriptions).
 
 :::
 
@@ -18,10 +19,10 @@ For basic information about Talking Books and microphone setup, see [Record Audi
 By default, the Talking Book Tool lets you record one sentence at a time. It is often more natural to record an entire text box at once, however. 
 
 
-## Record a whole text box {#758d8d42ceee471a9d2d4ecb3bea8ba6}
+## Enable Whole Text Box Recording Mode {#758d8d42ceee471a9d2d4ecb3bea8ba6}
 
 
-To record an entire text box at once: 
+To record an entire text box at once, you must first switch the Recording Mode: 
 
 1. Click on the `Advanced` button in the Talking Book tool.
 2. Select the `By Whole Text Box` radio button control in the `Recording Mode` section.
@@ -34,37 +35,89 @@ To record an entire text box at once:
 	
 	
 
-3. Record the text using the `Speak` button.
 
-![](./record-and-split-audio.cb05f273-88ae-45b6-927b-616cf766fdce.png)
-
-
-## Split a text box recording {#e5a2f2d09ef841faa50963131076bcba}
+![](./record-and-split-audio.2994bb19-df12-80b0-a654-cc1373cad817.png)
 
 
-When you play a Talking Book, Bloom highlights each recorded sentence. If you have more than one sentence in a text box, you may want to split your recording so that each sentence is highlighted in turn. 
+## Record the Whole Text Box or Import Recording {#2994bb19df128029b6d9fe2530769711}
 
 
-When you set the recording mode to Whole Text Box, Bloom adds a `Split` button to the Talking Book Tool, between the `Check` and `Next` buttons. 
+Once the Recording Mode has been set to By Whole Text Box, you can either record the text directly in Bloom using the **`Speak`** button, or you can [Import a Recording](/import-audio).
 
 
-To split a recording for an entire text box:  
-
-- Click the `Split` button.
-
-Bloom will divide your recording into sentence-sized chunks. 
+## Split the text box recording {#e5a2f2d09ef841faa50963131076bcba}
 
 
-![](./record-and-split-audio.b72e843e-1923-49ef-9441-47ef5563d672.png)
+To prepare your recorded text for highlighting during playback, the text must be run through Bloom’s speech analyzer. To do this:  
+
+- Click the `Adjust Timings` button.
+
+![](./record-and-split-audio.2994bb19-df12-80e0-a837-ed28ae0198bf.png)
 
 
-:::note
+The **Adjust Timings Editor** will be presented. This editor presents a waveform graph of the recording, along with estimates of the start and end points for each sentence.
 
-Bloom relies on an extra software program called Aeneas to split your recording into sentences. If Aeneas is not installed on your computer, please follow the instructions here: [Install aeneas](/installing-aeneas).
+
+![](./record-and-split-audio.2994bb19-df12-8059-948a-fb1d5acc73ad.png)
+
+
+If your recording is a high-quality recording, and your language is a typical, then you can click **`OK`** and the job is now done! 
+
+
+Your text will now show various shades of blue to indicate that Bloom has split the recording into segments to match the sentence breaks in the text:
+
+
+![](./record-and-split-audio.2994bb19-df12-8041-93b6-dbd29bee1cb1.png)
+
+
+ To verify the accuracy of the guesses of the sentence breaks, click the **`Check`** button.
+
+
+## Fine-tuning the timings using Bloom’s interactive editor {#2994bb19df128060884dc5b03aae025a}
+
+
+If you are not satisfied with the accuracy of the guesses which Bloom made, click on **`Adjust Timings`** button again and listen to the segment whose timing seems incorrect by clicking on the red arrow:
+
+
+![](./record-and-split-audio.2994bb19-df12-8087-bea5-f0bedd64849d.png)
+
+
+After listening to the segment, click and drag the red vertical to adjust the boundary to the correct location:
+
+
+![](./record-and-split-audio.2994bb19-df12-80c3-923a-fe4cc5a665ee.png)
+
+
+## Aeneas {#2994bb19df1280449de6dfde8fb283d0}
+
+
+The above-mentioned method uses Bloom’s built-in audio analyzer which uses a pause-based approach to guessing sentence boundaries. This new feature is available starting Bloom 6.2. This is the preferred method and will usually produce good results.
+
+
+:::tip
+
+If Bloom’s built-in, pause-based, audio splitter **consistently** produces poor results with your language, then the Bloom team would like to know about it. Please Report a Problem and we will look into it.   
 
 :::
 
 
+
+
+If, however, the built-in method produces poor results for your language, you can choose to use the Aeneas program. Aeneas is an extra software program. To install Aeneas, please follow the instructions [here](/installing-aeneas).
+
+
+If Aeneas is already installed, you can use it to split audio as follows:
+
+1. In the Adjust Timings Rditor, click **`More`**.
+2. Click **`Use Aeneas to guess timings`**.
+
+![](./record-and-split-audio.2994bb19-df12-801a-95dc-d723e2c9866e.png)
+
+
+Aeneas will adjust the timings. If you are not satisfied with the timings, you fine-tune them interactively as [explained above](/record-and-split-audio#2994bb19df128060884dc5b03aae025a). This is the preferred method.
+
+
+Alternatively, you can edit the timings manually or use Audacity, as explained [here](/edit-timings). This method is not recommended.
 
 
 ## Add audio splits with segment markers {#1b934d5a7cdd47048e84e43b940d3b8d}
@@ -84,9 +137,9 @@ Bloom splits a text box recording into sentences by looking for sentence-ending 
 	
 	
 
-4. Click the `Split` button to (re)segment the audio recording.
+4. Click the `Adjust Timings` button to (re)segment the audio recording.
 
-![](./record-and-split-audio.9085ef56-1714-4c74-a3e7-f5786907a3ff.png)
+![](./record-and-split-audio.2994bb19-df12-80ee-9127-cdbaff94a542.png)
 
 
 :::tip
@@ -98,10 +151,16 @@ Click the `Check` button to make sure that Bloom has properly divided the audio.
 
 
 
+## Special sentence-ending punctuation {#2994bb19df12802bac95c377f215cf84}
+
+
+For non-standard sentence-ending punctuation, please follow [these instructions](/sentence-ending-punctuation).
+
+
 ## Audio Splitting Best Practices {#24f4bb19df12804d86ccf08e8cb10cb1}
 
 
-There are a number of important “best practices” to obtain the best results for splitting your audio in Bloom. 
+There are several essential “best practices” to achieve the best results when splitting your audio in Bloom. 
 
 1. We strongly recommend that you finalize your text before adding audio (either recording directly or importing). Major changes to the text, particularly, any changes to sentence boundaries will necessarily cause the alignment to go off.
 2. Above all, avoid pasting in additional text from another text box into an already-split text box. This can cause major problems.

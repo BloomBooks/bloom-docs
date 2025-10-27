@@ -30,6 +30,6 @@ Follow these steps to add audio and publish it to the Bloom Library:
 	2. Make a new book using that source.
 		1. See [Make a Book Using This Source](/download-books-bloom-library#4379ef753963477e9004e0d1ed205b6a).
 3. Record the audio.
-	1. See [Record Audio](/record-audio).
+	1. See [Prepare to Record Audio](/prepare-to-record).
 4. Upload the book to Bloom Library, specifying that it’s the same book as what’s there already.
 	1. See [Publish to the Web on Bloom Library](/publish-to-bloom-library).

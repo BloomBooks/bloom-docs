@@ -1,6 +1,6 @@
 ---
 title: Import Audio
-sidebar_position: 2
+sidebar_position: 4
 slug: /import-audio
 ---
 
@@ -28,7 +28,7 @@ Bloom can import only MP3 audio files. If your audio file is in a different file
 3. Click the `Import Recording…` button. Bloom will show you a standard file choosing dialog box. Choose the audio file you want to import into Bloom for this text box.
 
 
-Since audio files are imported for the entire text box, you will probably want to split the file into sentences or smaller chunks. See [Record and Split Audio](/record-and-split-audio) for details. 
+Since audio files are imported for the entire text box, you will probably want to split the file into sentences or smaller chunks. See [Record by Whole Text Box](/record-and-split-audio) for details. 
 
 
 
