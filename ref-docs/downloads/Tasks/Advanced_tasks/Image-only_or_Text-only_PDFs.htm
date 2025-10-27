@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+  <meta name="gRootRelPath" content="../.."/>
+	<meta name="gCommonRootRelPath" content="../.."/>
+  <meta name="gTopicId" content="4.1.0_8"/>
+  <script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topicwidgets.min.js"></script>
+<script type="text/javascript" src="../../whxdata/projectsettings.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css"/>
+  <link rel="stylesheet" type="text/css" href="../../template/Azure_Blue/topicheader.css"/>
+  <meta name="topic-status" content="Draft"/>
+<meta name="topic-comment" content="Procedure Topic"/><link rel="stylesheet" type="text/css" href="../../assets/css/Help.css"/>
+  <meta name="template" content="../../assets/masterpages/Procedure_Topic.htt"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="copyright" content="© 2004 SIL International"/>
+  <meta name="generator" content="Adobe RoboHelp 2022"/>
+  <title>Image-only or Text-only PDFs</title>
+  <link rel="stylesheet" type="text/css" href="../../assets/css/Help.css"/>
+  <meta name="rh-index-keywords" content="Image-only or Text-only PDFs,Picture:Image-only or Text-only PDFs,Text-only or Image-only PDFs,Picture-only pdf file,Advanced:Advanced tasks"/>
+<meta name="description" content="Procedure Topic"/></head>
+
+<body>
+  <div class="topic-header rh-hide" id="rh-topic-header">
+    <div class="logo">
+    </div>
+    <div class="nav">
+      <div class="title" title="Bloom 6.2 Help">
+        <span>Bloom 6.2 Help</span>
+      </div>
+      <div class="gotohome" title="Click here to see this page in full context">
+        <a href="#" onclick="rh._.goToFullLayout()">Click here to see this page in full context</a>
+      </div>
+    </div>
+  </div>
+  <div class="topic-header-shadow rh-hide" id="rh-topic-header-shadow"></div>
+
+
+
+<div>
+  <h2>Image-only or Text-only PDFs</h2>
+  <p class="BodyText">You may want to produce PDF files that contain only the images or only the words. This could permit you to use different printers. For example, you may want to use a black and white printer for the words, but a more expensive color printer for the images.</p>
+  <h3>For a single book</h3>
+  <ol style="list-style: decimal;">
+    <li>
+      <p class="BodyText">Use <a href="../../User_Interface/Tabs/Collections_tab_commands.htm">Show in File Explorer</a> to find your collection folder.</p>
+    </li>
+    <li>
+      <p class="BodyText">Open the folder for the particular book.</p>
+    </li>
+    <li>
+      <p class="BodyText">Create or <a href="Editing_stylesheets_overview.htm">edit</a> (if already created) the <span class="UserInterface">customBookStyles.css</span> file in a text editor.</p>
+    </li>
+  </ol>
+  <p class="BodyText" style="margin-left: 26px;">Do either of these steps:</p>
+  <ol style="list-style: decimal;">
+    <li style="list-style: none; display: inline;">
+      <ul style="list-style: disc;">
+        <li>
+          <p class="BodyText">To make a PDF that has only words, paste this into the file:</p>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;"><span style="font-family: &#39;Courier New&#39;, monospace;">/* The media section below will keep any pictures from appearing in the pdf of this</span></p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">book. */</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">@media print {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;"> .bloom-imageContainer, img</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">{</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">visibility: hidden;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">border: transparent;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <ol style="list-style: decimal;">
+    <li style="list-style: none; display: inline;">
+      <ul style="list-style: disc;">
+        <li>
+          <p class="BodyText">To make a PDF that has only pictures, paste this into the file:</p>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;"><span style="font-family: &#39;Courier New&#39;, monospace;">/* The media section below will keep any text from appearing in the pdf of this</span></p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">book (except where it is part of an image, such as some branding images). */</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">@media print {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">.bloom-translationGroup {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">visibility: hidden;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">border: transparent;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">.cover DIV[data-book], .titlePage DIV[data-book] {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">border: transparent;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">.bloom-page * {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">color: transparent !important;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">.numberedPage::after {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">visibility: hidden;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <ol start="4" style="list-style: decimal;">
+    <li>
+      <p class="BodyText">Save the changes to the <span class="UserInterface">customBookStyles.css</span> file.</p>
+    </li>
+    <li>
+      <p class="BodyText"><a href="../Publish_tasks/PDF_and_Print.htm">Generate</a> the PDF file(s) in the <span class="UserInterface">Publish</span> tab.</p>
+    </li>
+    <li>
+      <p class="BodyText">Repeat steps 1 through 5 as needed.</p>
+    </li>
+  </ol>
+  <h3>For an entire collection</h3>
+  <ol style="list-style: decimal;">
+    <li>
+      <p class="BodyText">Use <a href="../../User_Interface/Tabs/Collections_tab_commands.htm">Show in File Explorer</a> to find your collection folder.</p>
+    </li>
+    <li>
+      <p class="BodyText"><a href="Editing_stylesheets_overview.htm">Edit</a> the <span class="UserInterface">customCollectionStyles.css</span> file in a text editor.</p>
+    </li>
+  </ol>
+  <p class="BodyText" style="margin-left: 26px;">Do either of these steps:</p>
+  <ol style="list-style: decimal;">
+    <li style="list-style: none; display: inline;">
+      <ul style="list-style: disc;">
+        <li>
+          <p class="BodyText">To make a PDF that has only words, paste this into the file:</p>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;"><span class="monospace">/</span><span class="com">* The media section below will keep any pictures from appearing</span><br/>
+    <span class="com">in the pdf of any book in this collection. */</span><br/>
+    @media print {
+  </p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;"> .bloom-imageContainer, img</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">{</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">visibility: hidden;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">border: transparent;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <ol style="list-style: decimal;">
+    <li style="list-style: none; display: inline;">
+      <ul style="list-style: disc;">
+        <li>
+          <p class="BodyText">To make a PDF that has only pictures, paste this into the file:</p>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;"><span class="monospace">/</span><span class="com">* The media section below will keep any text from appearing</span><br/>
+    <span class="com">in the pdf of any book in this collection</span> (except where it is part of an image, such as some branding images)<span class="com">. */</span><br/>
+    @media print {
+  </p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">.bloom-translationGroup {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">visibility: hidden;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">border: transparent;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">.cover DIV[data-book], .titlePage DIV[data-book] {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">border: transparent;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">.bloom-page * {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">color: transparent !important;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">.numberedPage::after {</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">visibility: hidden;</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 46px;">}</p>
+  <ol start="3" style="list-style: decimal;">
+    <li>
+      <p class="BodyText">Save the changes to the <span class="UserInterface">customCollectionStyles.css</span> file.</p>
+    </li>
+    <li>
+      <p class="BodyText"><a href="../Publish_tasks/PDF_and_Print.htm">Generate</a> the PDF file(s) in the <span class="UserInterface">Publish</span> tab.</p>
+    </li>
+    <li>
+      <p class="BodyText">Repeat steps 1 through 4 as needed.</p>
+    </li>
+  </ol>
+  <h4 class="Note">Note</h4>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">When you paste content into a *<span class="UserInterface">.css</span> file, be c<span class="monospace">areful to not put it in a place where it is commented-out.</span></p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 20px;"><span class="monospace">T</span>o return a *<span class="UserInterface">.css</span> file to its previous state, remove or comment-out the contents you pasted into it. Otherwise, delete the file if no longer needed.</p>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">The <span class="UserInterface">Edit</span> tab is not affected; the <span class="UserInterface">Publish</span> tab will change.</p>
+    </li>
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">If necessary, <a href="../../Overview/Get_More_Help.htm">get more help</a>.</p>
+    </li>
+  </ul>
+  <h4>Related Topics</h4>
+  <p class="BodyText" style="margin-left: 0px;"><a href="Advanced_tasks_overview.htm">Advanced tasks overview</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="../Tasks_overview.htm">Tasks overview</a></p>
+
+</div>
+
+</body></html>

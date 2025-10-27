@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+  <meta name="gRootRelPath" content="../.."/>
+	<meta name="gCommonRootRelPath" content="../.."/>
+  <meta name="gTopicId" content="4.1.0_11"/>
+  <script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topicwidgets.min.js"></script>
+<script type="text/javascript" src="../../whxdata/projectsettings.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css"/>
+  <link rel="stylesheet" type="text/css" href="../../template/Azure_Blue/topicheader.css"/>
+  <meta name="topic-status" content="Draft"/>
+<meta name="topic-comment" content="Procedure Topic"/><link rel="stylesheet" type="text/css" href="../../assets/css/Help.css"/>
+<meta name="template" content="../../assets/masterpages/Procedure_Topic.htt"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="copyright" content="© 2004 SIL International"/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Sample stylesheet rules</title>
+<link rel="stylesheet" type="text/css" href="../../assets/css/Help.css"/>
+<meta name="rh-index-keywords" content="Sample stylesheet rules,Edit:Editing stylesheets overview"/><meta name="description" content="Procedure Topic"/></head>
+
+<body>
+  <div class="topic-header rh-hide" id="rh-topic-header">
+    <div class="logo">
+    </div>
+    <div class="nav">
+      <div class="title" title="Bloom 6.2 Help">
+        <span>Bloom 6.2 Help</span>
+      </div>
+      <div class="gotohome" title="Click here to see this page in full context">
+        <a href="#" onclick="rh._.goToFullLayout()">Click here to see this page in full context</a>
+      </div>
+    </div>
+  </div>
+  <div class="topic-header-shadow rh-hide" id="rh-topic-header-shadow"></div>
+
+
+
+<div>
+<h2>Sample stylesheets rules</h2>
+<p class="BodyText" style="margin-left: 0px;"><a href="Editing_stylesheets_overview.htm">Editing 
+ stylesheets overview</a> describes stylesheets in Bloom. Normally, if 
+ you need a custom rule, Bloom support staff will give you the rule to 
+ paste into the file.</p>
+<p class="BodyText" style="margin-left: 0px;">However, if you are interested 
+ in working with this yourself, here are some useful examples of rules:</p>
+<ul style="list-style: disc;">
+	<li><p class="BodyText" style="margin-left: 0px;">Make room for staples 
+	 on the left of the front cover by moving everything to the right and 
+	 making it a bit more narrow:</p></li>
+</ul>
+<p class="BodyText" style="margin-left: 20px; font-family: &#39;Courier New&#39;, monospace;">.A5Portrait.frontCover 
+ .marginBox { left: 20mm; width: 112mm;}</p>
+<ul style="list-style: disc;">
+	<li><p class="BodyText" style="margin-left: 0px;">Draw a horizontal 
+	 line between languages in multi-lingual books:</p></li>
+</ul>
+<p class="BodyText" style="margin-left: 20px; font-family: &#39;Courier New&#39;, monospace;">.bloom-page:not(.cover) .bloom-content1 + .bloom-content2, 
+ .bloom-page:not(.cover) .bloom-content2 
+ + .bloom-content3 {</p>
+<p class="BodyText" style="margin-left: 20px; font-family: &#39;Courier New&#39;, monospace;">border-top: 
+ solid 1px rgb(100,100,100); }</p>
+<h4 class="Note">Note</h4>
+<ul style="list-style: disc;">
+	<li><p class="BodyText" style="margin-left: 0px;"><a href="Font_features.htm">Font 
+	 Features</a> and <a href="Image-only_or_Text-only_PDFs.htm">Image-only 
+	 or Text-only PDFs</a> also contain rules you can use or use as examples.</p></li>
+</ul>
+<h4>Related Topics</h4>
+<p class="BodyText" style="margin-left: 0px;"><a href="Advanced_tasks_overview.htm">Advanced 
+ tasks overview</a></p>
+
+</div>
+
+</body></html>

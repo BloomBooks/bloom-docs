@@ -156,7 +156,10 @@ function convertHtmlToMarkdown(htmlPath: string): {
     // Check for triple backtick code blocks
     if (markdown.substring(i, i + 3) === "```") {
       if (buffer) {
-        parts.push({ text: buffer, escape: !inCodeBlock && !inInlineCode } as any);
+        parts.push({
+          text: buffer,
+          escape: !inCodeBlock && !inInlineCode,
+        } as any);
         buffer = "";
       }
       buffer += "```";
@@ -220,7 +223,7 @@ function convertHtmlToMarkdown(htmlPath: string): {
 
   for (let lineIdx = 0; lineIdx < lines.length; lineIdx++) {
     const line = lines[lineIdx];
-    
+
     // Track fenced code blocks
     if (line.trim().startsWith("```")) {
       inFencedBlock = !inFencedBlock;
@@ -244,7 +247,7 @@ function convertHtmlToMarkdown(htmlPath: string): {
 
     // Check for lines that look like CSS/code with braces or other problematic patterns
     const hasCurlyBraces = /[\{\}]/.test(line);
-    const looksLikeCSSOrCode = 
+    const looksLikeCSSOrCode =
       /^\s*[\{\}]\s*$/.test(line) || // standalone braces
       /^\s*[a-z\-]+:\s*[^;]+;?\s*$/i.test(line) || // CSS property
       /^\[lang=/.test(line); // CSS selector
@@ -294,7 +297,10 @@ function convertHtmlToMarkdown(htmlPath: string): {
 
   // Log warnings for patterns that might still cause issues
   const problematicPatterns = [
-    { pattern: /<[a-z]+\s+[^>]*,/i, desc: "Angle brackets with commas (potential JSX attribute)" },
+    {
+      pattern: /<[a-z]+\s+[^>]*,/i,
+      desc: "Angle brackets with commas (potential JSX attribute)",
+    },
   ];
 
   let hasIssues = false;
@@ -570,7 +576,9 @@ function main() {
     console.log(`\nErrors: ${stats.errors.length}`);
     stats.errors.forEach((err) => console.error(`  - ${err}`));
   }
-  console.log("\nNote: MDX-unsafe patterns have been automatically wrapped or escaped.");
+  console.log(
+    "\nNote: MDX-unsafe patterns have been automatically wrapped or escaped."
+  );
   console.log("If build errors occur, check the warning list above.\n");
 }
 

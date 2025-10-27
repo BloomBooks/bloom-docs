@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+  <meta name="gRootRelPath" content="../.."/>
+	<meta name="gCommonRootRelPath" content="../.."/>
+  <meta name="gTopicId" content="4.1.0_7"/>
+  <script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topicwidgets.min.js"></script>
+<script type="text/javascript" src="../../whxdata/projectsettings.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css"/>
+  <link rel="stylesheet" type="text/css" href="../../template/Azure_Blue/topicheader.css"/>
+  <meta name="topic-status" content="Draft"/>
+<meta name="topic-comment" content="Procedure Topic"/><link rel="stylesheet" type="text/css" href="../../assets/css/Help.css"/>
+  <meta name="template" content="../../assets/masterpages/Procedure_Topic.htt"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="copyright" content="© 2004 SIL International"/>
+  <meta name="generator" content="Adobe RoboHelp 2022"/>
+  <title>Font features</title>
+  <link rel="StyleSheet" href="../../assets/css/Help.css" type="text/css"/>
+  <meta name="rh-index-keywords" content="Variants,Variants:Font features,Glyphs,Graphite support,Opentype font support,Calibri font,Andika New Basic font,Advanced:Advanced tasks,Font features"/>
+<meta name="description" content="Procedure Topic"/></head>
+
+<body>
+  <div class="topic-header rh-hide" id="rh-topic-header">
+    <div class="logo">
+    </div>
+    <div class="nav">
+      <div class="title" title="Bloom 6.2 Help">
+        <span>Bloom 6.2 Help</span>
+      </div>
+      <div class="gotohome" title="Click here to see this page in full context">
+        <a href="#" onclick="rh._.goToFullLayout()">Click here to see this page in full context</a>
+      </div>
+    </div>
+  </div>
+  <div class="topic-header-shadow rh-hide" id="rh-topic-header-shadow"></div>
+
+
+
+<div>
+  <h2 style="font-size: 150%;">Font features</h2>
+  <p class="BodyText" style="margin-left: 0px;">Some <a href="../../Concepts/Font.htm">fonts</a> have &quot;font features&quot;. They control how individual characters appear. See <a href="https://software.sil.org/fonts/" target="_blank" title="https://software.sil.org/fonts/">https://software.sil.org/</a> and <a href="https://scriptsource.org/cms/scripts/page.php?" target="_blank" title="https://scriptsource.org/cms/scripts/page.php?">https://scriptsource.org/</a> for more information.</p>
+  <p class="BodyText" style="margin-left: 0px;">Currently there is no Bloom UI support for this. However, advanced users can <span style="font-family: Verdana, sans-serif;"><a href="Editing_stylesheets.htm">edit</a></span> <span style="font-family: Verdana, sans-serif;">the customCollectionStyles.css or customBookStyles.css file</span> and add a rule.</p>
+  <h3>Examples</h3>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">This rule changes the number &quot;4&quot; to be open instead of closed:</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 20px;">[lang=&quot;kdj&quot;]</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 20px;">{<br/>
+      font-feature-settings: &quot;dig4&quot; 1;<br/>
+      -moz-font-feature-settings: &quot;dig4&quot; 1;<br/>
+    }</p>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">To add support for multiple languages, separate each language definition with a comma:</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 20px;">[lang=&quot;kdj&quot;], [long=&quot;tpi&quot;]</p>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="font-family: Verdana, sans-serif; margin-left: 0px;">To add support for multiple glyphs, separate each glyph&#39;s rule with a comma:</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 20px; font-family: &#39;Cordia New&#39;;"><span style="font-family: &#39;Courier New&#39;;">{<br/>
+        font-feature-settings: &quot;dig4&quot; 1, &quot;i_tl&quot; 1, &quot;Qalt&quot; 1;<br/>
+        -moz-font-feature-settings: &quot;dig4&quot; 1, &quot;i_tl&quot; 1, &quot;Qalt&quot; 1;<br/>
+      }</span></p>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="font-family: Verdana, sans-serif; margin-left: 0px;">If you use Calibri, you may see that <img alt="" border="0" height="15" src="../../assets/images/Tasks/Advanced_tasks/FontReplaced.png" style="border: none;" width="134"/>.</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 20px; font-family: Verdana, sans-serif;">In this case, you need to enable &quot;Stylistic set 2&quot;. Then, the correct glyph will appear.</p>
+  <p class="BodyText" style="margin-left: 20px; font-family: Verdana, sans-serif;">To do this, <a href="Editing_stylesheets.htm">edit</a> your customCollectionStyles.css or customBookStyles.css file.</p>
+  <p class="BodyText" style="font-family: Verdana, sans-serif; margin-left: 20px;"><span style="font-family: Verdana, sans-serif;">Here is an example of the rule to add.</span></p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 20px;">[lang=&quot;kdj&quot;]</p>
+  <p class="BodyText" style="font-family: &#39;Courier New&#39;, monospace; margin-left: 20px;">{<br/>
+     <span class="wiki tab"> </span>font-feature-settings: &quot;ss02&quot; 1;<br/>
+     <span class="wiki tab"> </span>-moz-font-feature-settings: &quot;ss02&quot; 1;<br/>
+    }</p>
+  <h4 class="Tip">Note</h4>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px; mso-fareast-language: ZH-CN; 
+			 mso-bidi-language: AR-SA; font-family: Verdana, sans-serif;">Use <a href="http://clagnut.com/sandbox/css3/" style="font-family: Verdana, sans-serif; 
+		 font-size: 100%;" target="_blank">http://clagnut.com/sandbox/css3/</a> to test fonts and get codes like this.</p>
+    </li>
+    <li>
+      <p class="BodyText" style="margin-left: 0px; mso-fareast-language: ZH-CN; 
+			 mso-bidi-language: AR-SA; font-family: Verdana, sans-serif;">You will need to change the language identifiers to use these examples.</p>
+    </li>
+    <li>
+      <p class="BodyText" style="mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; 
+			 margin-left: 0px; font-family: Verdana, sans-serif;"><a href="../../Overview/Get_More_Help.htm" style="font-size: 100%;">Get more help</a> because how to edit .css stylesheets is beyond the scope of Bloom Help.</p>
+    </li>
+  </ul>
+  <h4>Related Topics</h4>
+  <p class="BodyText" style="margin-left: 0px; mso-fareast-language: ZH-CN; 
+	 font-family: Verdana, sans-serif;"><span style="mso-bidi-language: AR-SA;"><a href="Editing_stylesheets_overview.htm">Editing stylesheets overview</a></span></p>
+
+</div>
+
+</body></html>

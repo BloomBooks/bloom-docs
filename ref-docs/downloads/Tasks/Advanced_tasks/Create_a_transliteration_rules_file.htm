@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+  <meta name="gRootRelPath" content="../.."/>
+	<meta name="gCommonRootRelPath" content="../.."/>
+  <meta name="gTopicId" content="4.1.0_3"/>
+  <script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topicwidgets.min.js"></script>
+<script type="text/javascript" src="../../whxdata/projectsettings.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css"/>
+  <link rel="stylesheet" type="text/css" href="../../template/Azure_Blue/topicheader.css"/>
+  <meta name="topic-status" content="Draft"/>
+<meta name="topic-comment" content="Procedure Topic"/><link rel="stylesheet" type="text/css" href="../../assets/css/Help.css"/>
+  <meta name="template" content="../../assets/masterpages/Procedure_Topic.htt"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="copyright" content="© 2004 SIL International"/>
+  <meta name="generator" content="Adobe RoboHelp 2022"/>
+  <title>Create a transliteration rules file</title>
+  <link rel="StyleSheet" href="../../assets/css/Help.css" type="text/css"/>
+  <meta name="rh-index-keywords" content="Text to Speech overview:Create a transliteration rules file,Transliteration rules file,Transliteration rules file:Create a transliteration rules file"/>
+<meta name="description" content="Procedure Topic"/></head>
+
+<body>
+  <div class="topic-header rh-hide" id="rh-topic-header">
+    <div class="logo">
+    </div>
+    <div class="nav">
+      <div class="title" title="Bloom 6.2 Help">
+        <span>Bloom 6.2 Help</span>
+      </div>
+      <div class="gotohome" title="Click here to see this page in full context">
+        <a href="#" onclick="rh._.goToFullLayout()">Click here to see this page in full context</a>
+      </div>
+    </div>
+  </div>
+  <div class="topic-header-shadow rh-hide" id="rh-topic-header-shadow"></div>
+
+
+
+<div>
+  <h2 style="font-size: 150%;">Create a transliteration rules file</h2>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">Review <a href="Text_to_Speech_overview.htm">Text-to-Speech overview</a>.</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 0px;">Do these steps if you need to provide transliteration rules for Bloom:</p>
+  <ol class="Decimal">
+    <li class="BodyText" style="margin-left: 0px;">
+      <p class="BodyText">If you first tried an <a href="Create_an_empty_conversion_file.htm">empty conversion file</a>, delete that file from the collection <a href="../../User_Interface/Tabs/Collections_tab_commands.htm">folder</a>.</p>
+    </li>
+    <li class="BodyText" style="margin-left: 0px;">
+      <p class="BodyText">If you do not know your language code, open the <span class="UserInterface">Settings</span> <a href="../../User_Interface/Dialog_boxes/Settings_dialog_box.htm">dialog box</a>, <span class="UserInterface">Languages</span> tab. Language codes appear there in parenthesis after the language name.</p>
+    </li>
+    <li class="BodyText" style="margin-left: 0px;">
+      <p class="BodyText">Use and editor, such as Notepad, to create a simple tab-separated values (TSV) file with two columns:</p>
+    </li>
+  </ol>
+  <ul class="Disc">
+    <li class="BodyText" style="margin-left: 26px;">
+      <p class="BodyText">In column 1, list the specified characters in the source (from) language.</p>
+    </li>
+    <li class="BodyText" style="margin-left: 26px;">
+      <p class="BodyText">In column 2, list the specified characters of the target (to) language, which must be one of the TTS languages.</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 26px;">You can type any number of transliteration rules.</p>
+  <p class="BodyText" style="margin-left: 26px;">Type one per line with a <span class="UserInterface">Tab</span> between the <span class="Emphasis">from</span> and the <span class="Emphasis">to</span> languages.</p>
+  <p class="BodyText" style="margin-left: 26px;">For example, a conversion from a Thai script to English might have rules like these:</p>
+  <p class="BodyText" style="margin-left: 26px;"><img alt="pic" src="../../assets/images/Tasks/Advanced_tasks/TranlitExample.png"/></p>
+  <ol class="Decimal" start="4">
+    <li class="BodyText" style="margin-left: 0px;">
+      <p class="BodyText">Use the <span class="UserInterface">Show in File Explorer</span> <a href="../../User_Interface/Tabs/Collections_tab_commands.htm">right-click</a> command to find the collection folder (not the book folder). Then, save the file there with this file name convention:</p>
+    </li>
+  </ol>
+  <p class="BodyText" style="margin-left: 26px;">convert_[sourceLangCode]_to_[targetLangCode].txt</p>
+  <h4 class="Note" style="margin-left: 0px;">Note</h4>
+  <ul class="Disc">
+    <li>
+      <p class="BodyText">For example, <span class="UserInterface">convert_etr_to_eo.txt</span> where &quot;eo&quot; is the code for Esperanto.</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 20px;">This file is used when you <a href="../Edit_tasks/Record_Audio/Using_the_Talking_Book_Tool.htm">use</a> the <span class="UserInterface">Talking Book Tool</span> to record all the text in a text box using one reading, and then <a href="../Edit_tasks/Record_Audio/Adjust_Timings.htm">adjust timings</a> by sentence for highlighting.</p>
+  <ul class="Disc">
+    <li>
+      <p class="BodyText">The fallback language is the target language.</p>
+    </li>
+    <li>
+      <p class="BodyText">You can also use spaces between the columns, but using the <span class="UserInterface">Tab</span> key is recommended.</p>
+    </li>
+  </ul>
+  <h4>Related Topics</h4>
+  <p class="BodyText" style="margin-left: 0px;"><a href="Advanced_tasks_overview.htm">Advanced tasks overview</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="../../Concepts/eSpeak.htm">eSpeak</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="../../Overview/Get_More_Help.htm" style="font-size: 100%;">Get more help</a></p>
+  <h4>Related Internet Sites</h4>
+  <p class="BodyText" style="margin-left: 0px;"><a href="https://en.wikipedia.org/wiki/Tab-separated_values" target="_blank" title="https://en.wikipedia.org/wiki/Tab-separated_values">https://en.wikipedia.org/wiki/Tab-separated_values</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="http://espeak.sourceforge.net/languages.html">http://espeak.sourceforge.net/languages.html</a></p>
+
+</div>
+
+</body></html>

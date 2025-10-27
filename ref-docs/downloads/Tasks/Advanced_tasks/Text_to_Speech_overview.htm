@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+  <meta name="gRootRelPath" content="../.."/>
+	<meta name="gCommonRootRelPath" content="../.."/>
+  <meta name="gTopicId" content="4.1.0_12"/>
+  <script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+  <script type="text/javascript" src="../../template/scripts/topicwidgets.min.js"></script>
+<script type="text/javascript" src="../../whxdata/projectsettings.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css"/>
+  <link rel="stylesheet" type="text/css" href="../../template/Azure_Blue/topicheader.css"/>
+  <meta name="topic-status" content="Draft"/>
+<meta name="topic-comment" content="Procedure Topic"/><link rel="stylesheet" type="text/css" href="../../assets/css/Help.css"/>
+  <meta name="template" content="../../assets/masterpages/Procedure_Topic.htt"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="copyright" content="© 2004 SIL International"/>
+  <meta name="generator" content="Adobe RoboHelp 2022"/>
+  <title>Text to Speech overview</title>
+  <link rel="StyleSheet" href="../../assets/css/Help.css" type="text/css"/>
+  <meta name="rh-index-keywords" content="Text to Speech overview,aeneas:Text to Speech overview,Transliteration rules file:Text to Speech overview"/>
+<meta name="description" content="Procedure Topic"/></head>
+
+<body>
+  <div class="topic-header rh-hide" id="rh-topic-header">
+    <div class="logo">
+    </div>
+    <div class="nav">
+      <div class="title" title="Bloom 6.2 Help">
+        <span>Bloom 6.2 Help</span>
+      </div>
+      <div class="gotohome" title="Click here to see this page in full context">
+        <a href="#" onclick="rh._.goToFullLayout()">Click here to see this page in full context</a>
+      </div>
+    </div>
+  </div>
+  <div class="topic-header-shadow rh-hide" id="rh-topic-header-shadow"></div>
+
+
+
+<div>
+  <h2 style="font-size: 150%;">Text-to-Speech overview</h2>
+  <h4>Background</h4>
+  <p class="BodyText" style="margin-left: 0px;">In the <span class="UserInterface">Talking Book Tool</span>, there is an advanced option that lets you <a href="../Edit_tasks/Record_Audio/Using_the_Talking_Book_Tool.htm">record</a> an entire text box in one reading, rather than sentence by sentence. We still want individual sentences to be highlighted during playback, so we need to figure out where each sentence is in the audio. Bloom can do this automatically using a Text-to-Speech (TTS) system to read your text out loud to itself. Then it compares that audio to <span class="Emphasis">your</span> audio, and through a process known as “forced alignment”, it figures out where your sentences start and end.</p>
+  <p class="BodyText" style="margin-left: 0px;">To hear what this sounds like for text you have recorded, press and hold the <span class="UserInterface">Ctrl</span> key down and click the <span class="UserInterface">Check</span> <a href="../Edit_tasks/Record_Audio/Talking_Book_Tool_legend.htm">button</a>.</p>
+  <p class="BodyText" style="margin-left: 0px;">The <a href="../../Concepts/aeneas.htm">aeneas</a> / <a href="../../Concepts/eSpeak.htm">eSpeak</a> system that Bloom uses comes with a number of TTS languages. They are listed on the internet <a href="http://espeak.sourceforge.net/languages.html" target="_blank" title="http://espeak.sourceforge.net/languages.html">here</a>. If you are making a talking book in one of those languages, it will use the correct language to read your text aloud to itself. But for most languages, Bloom does not have a TTS system and so must use another system, such as English or <a href="https://simple.wikipedia.org/wiki/Esperanto" target="_blank" title="https://simple.wikipedia.org/wiki/Esperanto">Esperanto</a>, to approximate what the text should sound like. Many times, this works just fine.</p>
+  <h4>Issues</h4>
+  <p class="BodyText" style="margin-left: 0px;">There are two situations where Bloom needs you to help make this work:</p>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">Bloom is doing a bad job of synchronizing the highlighting with the audio. This can happen because the proper way to pronounce your text is very different from how Esperanto is pronounced or you have a number of letters or sounds that are not in Esperanto.</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 20px;">Press and hold the <span class="UserInterface">Ctrl</span> key down and click <span class="UserInterface">Check</span> to hear how well (or badly) the TTS system reads your text. Then, if you added a conversion file, an informational pane appears in the toolbox describing the result of the orthography conversion, and the eSpeak language and conversion file used. If you move your mouse pointer over it, it will remain in view. Otherwise, it only remains in view briefly. Use this information if you need to <a href="../../Overview/Get_More_Help.htm">get more help</a>. </p>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">Your language does not use a Latin script.</p>
+    </li>
+  </ul>
+  <h4>Solution</h4>
+  <p class="BodyText" style="margin-left: 0px;">Here are two different ways to help <span style="mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA;">improve the</span> <span style="mso-bidi-language: AR-SA; mso-fareast-language: ZH-CN;">results when you <a href="../Edit_tasks/Record_Audio/Adjust_Timings.htm">adjust timings</a> for sentences.</span></p>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;">Change the TTS language:</p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 20px;">If your language is written in Latin script and is written in a way that is closer to one of Bloom’s TTS languages, you can tell Bloom to use that TTS language instead of Esperanto.</p>
+  <p class="BodyText" style="margin-left: 20px;">To do this, <a href="Create_an_empty_conversion_file.htm">create an empty conversion file</a>.</p>
+  <ul style="list-style: disc;">
+    <li>
+      <p class="BodyText" style="margin-left: 0px;"><span style="line-height: 1.38;">Let Bloom use a transliteration rules file:</span></p>
+    </li>
+  </ul>
+  <p class="BodyText" style="margin-left: 20px;">If changing the TTS language is not enough, your next option is to help Bloom do a transliteration from your language <span class="Emphasis">to one of its TTS languages</span>.</p>
+  <p class="BodyText" style="margin-left: 20px;"><span style="mso-fareast-language: ZH-CN; 
+															 mso-bidi-language: AR-SA;">To do this, <a href="Create_a_transliteration_rules_file.htm">create a transliteration rules file</a></span><span style="mso-bidi-language: AR-SA; 
+													 mso-fareast-language: ZH-CN; 
+													 line-height: 1.38;">.</span></p>
+  <h4>Related Topics</h4>
+  <p class="BodyText" style="margin-left: 0px;"><a href="../Edit_tasks/Record_Audio/Adjust_Timings.htm">Adjust Timings</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="Advanced_tasks_overview.htm" style="font-size: 100%;">Advanced tasks overview</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="../../User_Interface/Dialog_boxes/Settings_dialog_box.htm">Setting dialog box</a></p>
+  <h4>Related Internet Sites</h4>
+  <p class="BodyText" style="margin-left: 0px;"><a href="https://en.wikipedia.org/wiki/Tab-separated_values" target="_blank" title="https://en.wikipedia.org/wiki/Tab-separated_values">https://en.wikipedia.org/wiki/Tab-separated_values</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="http://espeak.sourceforge.net/languages.html">http://espeak.sourceforge.net/languages.html</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="https://simple.wikipedia.org/wiki/Esperanto" target="_blank" title="https://simple.wikipedia.org/wiki/Esperanto">https://simple.wikipedia.org/wiki/Esperanto</a></p>
+  <p class="BodyText" style="margin-left: 0px;"><a href="https://simple.wikipedia.org/wiki/International_auxiliary_language" target="_blank" title="https://simple.wikipedia.org/wiki/International_auxiliary_language">https://simple.wikipedia.org/wiki/International_auxiliary_language</a></p>
+
+</div>
+
+</body></html>
