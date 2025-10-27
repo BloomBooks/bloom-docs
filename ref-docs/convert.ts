@@ -10,7 +10,8 @@ const __dirname = path.dirname(__filename);
 const SOURCE_ROOT =
   process.env.SOURCE_ROOT || path.resolve(__dirname, "downloads");
 const TARGET_ROOT =
-  process.env.TARGET_ROOT || path.resolve(__dirname, "..", "docs", "ref-docs");
+  process.env.TARGET_ROOT ||
+  path.resolve(__dirname, "..", "docs", "Help", "Reference");
 const IMAGES_SOURCE =
   process.env.IMAGES_SOURCE || path.resolve(__dirname, "downloads", "assets");
 const IMAGES_TARGET =
@@ -327,7 +328,7 @@ function convertHtmlToMarkdown(htmlPath: string): {
 function generateFrontMatter(title: string, relativePath: string): string {
   // Generate a slug from the filename
   const filename = path.basename(relativePath, path.extname(relativePath));
-  const slug = `/ref-docs/${filename.toLowerCase().replace(/_/g, "-")}`;
+  const slug = `/Help/Reference/${filename.toLowerCase().replace(/_/g, "-")}`;
 
   return `---
 title: ${title}
