@@ -142,8 +142,27 @@ function convertHtmlToMarkdown(htmlPath: string): {
   const cleanedHtml = cleanHtmlContent(dom);
   let markdown = turndownService.turndown(cleanedHtml);
 
+  // Remove Cloudflare email protection links (they don't work in static sites)
+  // These are obfuscated email links that won't work in a static site
+  // The HTML contains: <a href="/cdn-cgi/l/email-protection#hash" title="mailto:email@domain.com">
+  // After Turndown this becomes: [\[email protected\]](/cdn-cgi/l/email-protection#hash "mailto:email@domain.com")
+  // Note: The brackets in [email protected] are escaped as \[ and \]
+  // We want to extract the email from the title attribute
+  markdown = markdown.replace(/\[.*?\]\(\/cdn-cgi\/l\/email-protection#[a-z0-9]+\s+"mailto:\s*([^"]+)"\)/gi, (match, email) => {
+    // Return just the email address from the mailto: title
+    return email.trim();
+  });
+
   // Fix internal links: convert .htm/.html to .md
-  markdown = markdown.replace(/\]\(([^)]+?)\.html?\)/g, "]($1.md)");
+  // This handles links in both the URL and title positions: [text](url "title")
+  // Pattern 1: Simple links [text](file.htm)
+  markdown = markdown.replace(/\]\(([^)"\s]+?)\.html?\/?\)/g, "]($1.md)");
+  
+  // Pattern 2: Links with titles [text](url "file.htm")
+  markdown = markdown.replace(/\]\(([^)"\s]+?)\s+"([^"]+?)\.html?\/?"?\)/g, ']($1 "$2.md")');
+  
+  // Pattern 3: Links where the title itself contains .htm
+  markdown = markdown.replace(/\]\(([^)"\s]+?)\.html?\/?\s+"([^"]+?)"?\)/g, ']($1.md "$2")');
 
   // Escape angle bracket placeholders that look like HTML/JSX tags
   // Split by code blocks (triple backticks and single backticks) to avoid escaping inside them
