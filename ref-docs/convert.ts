@@ -35,6 +35,9 @@ const stats: ConversionStats = {
   errors: [],
 };
 
+// Track files with warnings for summary
+const filesWithWarnings: string[] = [];
+
 // Initialize Turndown service for HTML to Markdown conversion
 const turndownService = new TurndownService({
   headingStyle: "atx",
@@ -140,6 +143,177 @@ function convertHtmlToMarkdown(htmlPath: string): {
 
   // Fix internal links: convert .htm/.html to .md
   markdown = markdown.replace(/\]\(([^)]+?)\.html?\)/g, "]($1.md)");
+
+  // Escape angle bracket placeholders that look like HTML/JSX tags
+  // Split by code blocks (triple backticks and single backticks) to avoid escaping inside them
+  const parts: string[] = [];
+  let inCodeBlock = false;
+  let inInlineCode = false;
+  let buffer = "";
+  let i = 0;
+
+  while (i < markdown.length) {
+    // Check for triple backtick code blocks
+    if (markdown.substring(i, i + 3) === "```") {
+      if (buffer) {
+        parts.push({ text: buffer, escape: !inCodeBlock && !inInlineCode } as any);
+        buffer = "";
+      }
+      buffer += "```";
+      i += 3;
+      // Find the end of the line to include language specifier
+      while (i < markdown.length && markdown[i] !== "\n") {
+        buffer += markdown[i];
+        i++;
+      }
+      if (i < markdown.length) {
+        buffer += markdown[i]; // include the newline
+        i++;
+      }
+      parts.push({ text: buffer, escape: false } as any);
+      buffer = "";
+      inCodeBlock = !inCodeBlock;
+      continue;
+    }
+
+    // Check for inline code (single backtick)
+    if (!inCodeBlock && markdown[i] === "`") {
+      if (buffer) {
+        parts.push({ text: buffer, escape: !inInlineCode } as any);
+        buffer = "";
+      }
+      buffer += "`";
+      i++;
+      inInlineCode = !inInlineCode;
+      parts.push({ text: buffer, escape: false } as any);
+      buffer = "";
+      continue;
+    }
+
+    buffer += markdown[i];
+    i++;
+  }
+
+  if (buffer) {
+    parts.push({ text: buffer, escape: !inCodeBlock && !inInlineCode } as any);
+  }
+
+  // Now process parts and escape angle brackets in non-code parts
+  markdown = parts
+    .map((part: any) => {
+      if (part.escape) {
+        // Escape <word> or <word1 word2> patterns that look like placeholders
+        // Now also matches phrases with commas, punctuation, etc.
+        return part.text.replace(/<([a-z][a-z0-9\s\-_,\.;:]+)>/gi, "`<$1>`");
+      }
+      return part.text;
+    })
+    .join("");
+
+  // Additional MDX safety: Find sections with curly braces outside code blocks
+  // and wrap them in HTML comments or convert to proper code blocks
+  const lines = markdown.split("\n");
+  const safeLines: string[] = [];
+  let inFencedBlock = false;
+  let consecutiveBraceLines = 0;
+  let braceLineBuffer: string[] = [];
+
+  for (let lineIdx = 0; lineIdx < lines.length; lineIdx++) {
+    const line = lines[lineIdx];
+    
+    // Track fenced code blocks
+    if (line.trim().startsWith("```")) {
+      inFencedBlock = !inFencedBlock;
+      // Flush any buffered brace lines as code block
+      if (braceLineBuffer.length > 0) {
+        safeLines.push("```css");
+        safeLines.push(...braceLineBuffer);
+        safeLines.push("```");
+        braceLineBuffer = [];
+        consecutiveBraceLines = 0;
+      }
+      safeLines.push(line);
+      continue;
+    }
+
+    // If in code block, just pass through
+    if (inFencedBlock) {
+      safeLines.push(line);
+      continue;
+    }
+
+    // Check for lines that look like CSS/code with braces or other problematic patterns
+    const hasCurlyBraces = /[\{\}]/.test(line);
+    const looksLikeCSSOrCode = 
+      /^\s*[\{\}]\s*$/.test(line) || // standalone braces
+      /^\s*[a-z\-]+:\s*[^;]+;?\s*$/i.test(line) || // CSS property
+      /^\[lang=/.test(line); // CSS selector
+
+    if (hasCurlyBraces || looksLikeCSSOrCode) {
+      braceLineBuffer.push(line);
+      consecutiveBraceLines++;
+    } else {
+      // If we had brace lines buffered, convert them to a code block
+      if (braceLineBuffer.length > 0) {
+        // Only convert if we have enough lines to justify a code block
+        if (consecutiveBraceLines >= 2) {
+          safeLines.push("```css");
+          safeLines.push(...braceLineBuffer);
+          safeLines.push("```");
+        } else {
+          // Just escape the braces inline
+          safeLines.push(
+            ...braceLineBuffer.map((l) =>
+              l.replace(/\{/g, "`{`").replace(/\}/g, "`}`")
+            )
+          );
+        }
+        braceLineBuffer = [];
+        consecutiveBraceLines = 0;
+      }
+      safeLines.push(line);
+    }
+  }
+
+  // Flush any remaining buffered lines
+  if (braceLineBuffer.length > 0) {
+    if (consecutiveBraceLines >= 2) {
+      safeLines.push("```css");
+      safeLines.push(...braceLineBuffer);
+      safeLines.push("```");
+    } else {
+      safeLines.push(
+        ...braceLineBuffer.map((l) =>
+          l.replace(/\{/g, "`{`").replace(/\}/g, "`}`")
+        )
+      );
+    }
+  }
+
+  markdown = safeLines.join("\n");
+
+  // Log warnings for patterns that might still cause issues
+  const problematicPatterns = [
+    { pattern: /<[a-z]+\s+[^>]*,/i, desc: "Angle brackets with commas (potential JSX attribute)" },
+  ];
+
+  let hasIssues = false;
+  for (const { pattern, desc } of problematicPatterns) {
+    if (pattern.test(markdown)) {
+      if (!hasIssues) {
+        console.warn(`\n⚠️  Warning in ${htmlPath}:`);
+        hasIssues = true;
+        filesWithWarnings.push(htmlPath);
+      }
+      console.warn(`   - ${desc}`);
+    }
+  }
+
+  if (hasIssues) {
+    console.warn(
+      `   → This file may need manual review for MDX compatibility.\n`
+    );
+  }
 
   return { markdown, title };
 }
@@ -384,10 +558,20 @@ function main() {
   console.log(`Processed: ${stats.processed} files`);
   console.log(`Skipped: ${stats.skipped} files`);
   console.log(`Images copied: ${stats.imagesCopied} files`);
+  if (filesWithWarnings.length > 0) {
+    console.log(`\n⚠️  Files with warnings: ${filesWithWarnings.length}`);
+    console.log("These files were converted but may need manual review:");
+    filesWithWarnings.forEach((file) => {
+      const relativePath = path.relative(sourceRoot, file);
+      console.log(`  - ${relativePath}`);
+    });
+  }
   if (stats.errors.length > 0) {
     console.log(`\nErrors: ${stats.errors.length}`);
     stats.errors.forEach((err) => console.error(`  - ${err}`));
   }
+  console.log("\nNote: MDX-unsafe patterns have been automatically wrapped or escaped.");
+  console.log("If build errors occur, check the warning list above.\n");
 }
 
 main();
