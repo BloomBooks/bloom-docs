@@ -1,65 +1,65 @@
 name: Pull Content from Notion and Ref-Docs
 on:
-    workflow_call:
-        inputs:
-            pull_notion:
-                description: "Pull from Notion"
-                type: boolean
-                default: true
-            pull_ref_docs:
-                description: "Pull from ref-docs"
-                type: boolean
-                default: true
-    workflow_dispatch:
-        inputs:
-            pull_notion:
-                description: "Pull from Notion"
-                type: boolean
-                default: true
-            pull_ref_docs:
-                description: "Pull from ref-docs"
-                type: boolean
-                default: true
+  workflow_call:
+    inputs:
+      pull_notion:
+        description: "Pull from Notion"
+        type: boolean
+        default: true
+      pull_ref_docs:
+        description: "Pull from ref-docs"
+        type: boolean
+        default: true
+  workflow_dispatch:
+    inputs:
+      pull_notion:
+        description: "Pull from Notion"
+        type: boolean
+        default: true
+      pull_ref_docs:
+        description: "Pull from ref-docs"
+        type: boolean
+        default: true
 
 jobs:
-    pull-content:
-        name: Pull Content from Sources
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v4
-              with:
-                  fetch-depth: 0
+  pull-content:
+    name: Pull Content from Sources
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: lts/*
-                  cache: "yarn"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: "yarn"
 
-            - name: Install dependencies
-              run: yarn install
+      - name: Install dependencies
+        run: yarn install
 
-            - name: Pull from Notion
-              if: ${{ inputs.pull_notion }}
-              env:
-                  SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
-                  SIL_BLOOM_DOCS_NOTION_ROOT_PAGE: ${{ secrets.SIL_BLOOM_DOCS_NOTION_ROOT_PAGE }}
-              run: yarn pull
+      - name: Pull from Notion
+        if: ${{ inputs.pull_notion }}
+        env:
+          SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
+          SIL_BLOOM_DOCS_NOTION_ROOT_PAGE: ${{ secrets.SIL_BLOOM_DOCS_NOTION_ROOT_PAGE }}
+        run: yarn pull
 
-            - name: Download reference docs
-              if: ${{ inputs.pull_ref_docs }}
-              run: npx tsx ref-docs/download.ts
+      - name: Download reference docs
+        if: ${{ inputs.pull_ref_docs }}
+        run: npx tsx ref-docs/download.ts
 
-            - name: Convert reference docs to Markdown
-              if: ${{ inputs.pull_ref_docs }}
-              run: npx tsx ref-docs/convert-ref-docs.ts
+      - name: Convert reference docs to Markdown
+        if: ${{ inputs.pull_ref_docs }}
+        run: npx tsx ref-docs/convert-ref-docs.ts
 
-            - name: copy-static-docs
-              run: yarn copy-static-docs
+      - name: copy-static-docs
+        run: yarn copy-static-docs
 
-            - name: Commit New Source Material
-              if: ${{ inputs.pull_notion || inputs.pull_ref_docs }}
-              uses: stefanzweifel/git-auto-commit-action@v5
-              with:
-                  commit_message: GHAction - Commit content changes pulled from notion and ref-docs
+      - name: Commit New Source Material
+        if: ${{ inputs.pull_notion || inputs.pull_ref_docs }}
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: GHAction - Commit content changes pulled from notion and ref-docs

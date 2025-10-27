@@ -13,6 +13,9 @@ const OUTPUT_DIR = path.resolve(__dirname, "downloads");
 const MANIFEST_FILE = path.resolve(__dirname, "previous-downloads.json");
 const MAX_FILES = 20000;
 
+const VERBOSE_MODE =
+  process.argv.includes("--verbose") || process.argv.includes("-v");
+
 interface FileManifest {
   [filePath: string]: {
     url: string;
@@ -26,6 +29,7 @@ interface DownloadStats {
   skipped: number;
   deleted: number;
   imagesDownloaded: number;
+  imagesSkipped: number;
   errors: string[];
 }
 
@@ -34,6 +38,7 @@ const stats: DownloadStats = {
   skipped: 0,
   deleted: 0,
   imagesDownloaded: 0,
+  imagesSkipped: 0,
   errors: [],
 };
 
@@ -152,8 +157,6 @@ async function downloadPage(
   const existingEntry = manifest[relativePath];
 
   try {
-    console.log(`Downloading: ${relativePath}`);
-
     const { lastModified, content } = await downloadFile(url, outputPath);
     const htmlContent = content.toString("utf-8");
 
@@ -163,7 +166,9 @@ async function downloadPage(
       lastModified &&
       existingEntry.lastModified === lastModified
     ) {
-      console.log(`  ⊙ Skipped (unchanged)`);
+      if (VERBOSE_MODE) {
+        console.log(`⊙ Skipped (unchanged): ${relativePath}`);
+      }
       stats.skipped++;
 
       // Still check for images even if HTML hasn't changed
@@ -183,7 +188,9 @@ async function downloadPage(
       lastModified: lastModified,
     };
 
-    console.log(`  ✓ Downloaded`);
+    if (VERBOSE_MODE) {
+      console.log(`✓ Downloaded: ${relativePath}`);
+    }
     stats.downloaded++;
 
     // Extract and download images from the HTML
@@ -191,7 +198,7 @@ async function downloadPage(
 
     return true;
   } catch (error) {
-    console.error(`  ✗ Failed: ${error}`);
+    console.error(`✗ Failed: ${relativePath} - ${error}`);
     stats.errors.push(`${relativePath}: ${error}`);
     return false;
   }
@@ -225,6 +232,7 @@ async function downloadImagesFromHtml(
 
       // Check if already downloaded
       if (manifest[imagePath]) {
+        stats.imagesSkipped++;
         continue;
       }
 
@@ -246,15 +254,21 @@ async function downloadImagesFromHtml(
         };
 
         stats.imagesDownloaded++;
-        console.log(`    🖼  Downloaded image: ${imagePath}`);
+        if (VERBOSE_MODE) {
+          console.log(`  🖼  Downloaded image: ${imagePath}`);
+        }
       } catch (error) {
         // Images might not exist, that's okay
-        console.log(`    ⊘  Image not found: ${imagePath}`);
+        if (VERBOSE_MODE) {
+          console.log(`  ⊘  Image not found: ${imagePath}`);
+        }
       }
     }
   } catch (error) {
     // If we can't parse HTML, just continue
-    console.log(`    ⚠  Could not parse HTML for images`);
+    if (VERBOSE_MODE) {
+      console.log(`  ⚠  Could not parse HTML for images`);
+    }
   }
 }
 
@@ -282,7 +296,9 @@ async function cleanupDeletedFiles(
 
     if (fs.existsSync(fullPath)) {
       fs.unlinkSync(fullPath);
-      console.log(`  ✗ Deleted: ${relativePath}`);
+      if (VERBOSE_MODE) {
+        console.log(`✗ Deleted: ${relativePath}`);
+      }
       stats.deleted++;
     }
 
@@ -325,8 +341,16 @@ async function main() {
   // Add sitemap.xml to the set so it doesn't get deleted
   currentUrls.add("sitemap.xml");
 
-  for (const url of urlsToDownload) {
+  for (let i = 0; i < urlsToDownload.length; i++) {
+    const url = urlsToDownload[i];
     await downloadPage(url, manifest);
+
+    // Show progress every 50 files (or in verbose mode)
+    if (!VERBOSE_MODE && (i + 1) % 50 === 0) {
+      const progress = Math.round(((i + 1) / urlsToDownload.length) * 100);
+      console.log(`Progress: ${i + 1}/${urlsToDownload.length} (${progress}%)`);
+    }
+
     // Small delay to be nice to the server
     await new Promise((resolve) => setTimeout(resolve, 100));
   }
@@ -341,6 +365,7 @@ async function main() {
   console.log("\n=== Download Complete ===");
   console.log(`Downloaded: ${stats.downloaded} files`);
   console.log(`Images downloaded: ${stats.imagesDownloaded} files`);
+  console.log(`Images skipped: ${stats.imagesSkipped} files`);
   console.log(`Skipped (unchanged): ${stats.skipped} files`);
   console.log(`Deleted: ${stats.deleted} files`);
 

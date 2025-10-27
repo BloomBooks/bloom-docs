@@ -7,15 +7,18 @@ import TurndownService from "turndown";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const SOURCE_ROOT = path.resolve(__dirname, "raw-ref-docs");
+const SOURCE_ROOT = path.resolve(__dirname, "downloads");
 const TARGET_ROOT = path.resolve(__dirname, "..", "docs", "ref-docs");
-const IMAGES_SOURCE = path.resolve(__dirname, "raw-ref-docs", "assets");
+const IMAGES_SOURCE = path.resolve(__dirname, "downloads", "assets");
 const IMAGES_TARGET = path.resolve(
   __dirname,
   "..",
   "static",
   "ref-docs-assets"
 );
+
+const VERBOSE_MODE =
+  process.argv.includes("--verbose") || process.argv.includes("-v");
 
 interface ConversionStats {
   processed: number;
@@ -167,11 +170,15 @@ function processHtmlFile(
   targetRoot: string
 ) {
   try {
-    console.log(`Processing: ${htmlPath}`);
+    if (VERBOSE_MODE) {
+      console.log(`Processing: ${htmlPath}`);
+    }
 
     // Skip index.html files as they're typically navigation
     if (path.basename(htmlPath).toLowerCase() === "index.html") {
-      console.log("  Skipping index.html");
+      if (VERBOSE_MODE) {
+        console.log("  Skipping index.html");
+      }
       stats.skipped++;
       return;
     }
@@ -195,7 +202,9 @@ function processHtmlFile(
 
     // Write the markdown file
     fs.writeFileSync(targetPath, fullContent, "utf-8");
-    console.log(`  ✓ Created: ${targetPath}`);
+    if (VERBOSE_MODE) {
+      console.log(`  ✓ Created: ${targetPath}`);
+    }
     stats.processed++;
   } catch (error) {
     const errorMsg = `Error processing ${htmlPath}: ${error}`;
@@ -224,11 +233,38 @@ function walkDirectory(dir: string, sourceRoot: string, targetRoot: string) {
   }
 }
 
+function collectHtmlFiles(dir: string): string[] {
+  const htmlFiles: string[] = [];
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+
+    if (entry.isDirectory()) {
+      // Skip template and asset directories
+      if (
+        ["template", "assets", "whxdata"].includes(entry.name.toLowerCase())
+      ) {
+        continue;
+      }
+      htmlFiles.push(...collectHtmlFiles(fullPath));
+    } else if (entry.isFile() && /\.html?$/i.test(entry.name)) {
+      htmlFiles.push(fullPath);
+    }
+  }
+
+  return htmlFiles;
+}
+
 function copyImages() {
-  console.log("\nCopying images...");
+  if (VERBOSE_MODE) {
+    console.log("\nCopying images...");
+  }
 
   if (!fs.existsSync(IMAGES_SOURCE)) {
-    console.log("No images directory found in raw-ref-docs");
+    if (VERBOSE_MODE) {
+      console.log("No images directory found in raw-ref-docs");
+    }
     return;
   }
 
@@ -258,17 +294,18 @@ function copyImages() {
   };
 
   copyRecursive(IMAGES_SOURCE, IMAGES_TARGET);
-  console.log(`✓ Copied ${stats.imagesCopied} images`);
+  if (VERBOSE_MODE) {
+    console.log(`✓ Copied ${stats.imagesCopied} images`);
+  }
 }
 
 function main() {
   const sourceRoot = SOURCE_ROOT;
   const targetRoot = TARGET_ROOT;
 
-  console.log("Starting HTML to Markdown conversion...");
+  console.log("=== Converting Reference Docs to Markdown ===");
   console.log(`Source: ${sourceRoot}`);
-  console.log(`Target: ${targetRoot}`);
-  console.log("---");
+  console.log(`Target: ${targetRoot}\n`);
 
   if (!fs.existsSync(sourceRoot)) {
     console.error(`Source directory does not exist: ${sourceRoot}`);
@@ -280,20 +317,31 @@ function main() {
     fs.mkdirSync(targetRoot, { recursive: true });
   }
 
-  // Walk through the source directory
-  walkDirectory(sourceRoot, sourceRoot, targetRoot);
+  // Collect all HTML files first to show progress
+  const htmlFiles = collectHtmlFiles(sourceRoot);
+  console.log(`Found ${htmlFiles.length} HTML files to convert\n`);
+
+  // Process all files with progress reporting
+  for (let i = 0; i < htmlFiles.length; i++) {
+    processHtmlFile(htmlFiles[i], sourceRoot, targetRoot);
+
+    // Show progress every 50 files (or in verbose mode)
+    if (!VERBOSE_MODE && (i + 1) % 50 === 0) {
+      const progress = Math.round(((i + 1) / htmlFiles.length) * 100);
+      console.log(`Progress: ${i + 1}/${htmlFiles.length} (${progress}%)`);
+    }
+  }
 
   // Copy images to static directory
   copyImages();
 
   // Print statistics
-  console.log("---");
-  console.log("Conversion Complete!");
+  console.log("\n=== Conversion Complete ===");
   console.log(`Processed: ${stats.processed} files`);
   console.log(`Skipped: ${stats.skipped} files`);
   console.log(`Images copied: ${stats.imagesCopied} files`);
   if (stats.errors.length > 0) {
-    console.log(`Errors: ${stats.errors.length}`);
+    console.log(`\nErrors: ${stats.errors.length}`);
     stats.errors.forEach((err) => console.error(`  - ${err}`));
   }
 }
