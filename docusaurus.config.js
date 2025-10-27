@@ -23,6 +23,7 @@ const config = {
   trailingSlash: true,
 
   plugins: ["@docusaurus/plugin-ideal-image"],
+
   presets: [
     [
       "classic",

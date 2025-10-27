@@ -18,6 +18,7 @@
     "//clear-then-pull": "for a time, we were clearing by default but decided not to as a way to keep published pages published if their status changes (e.g. to ReadyForReview)",
     "clear-then-pull": "yarn clear && cross-var docu-notion -n $SIL_BLOOM_DOCS_NOTION_TOKEN -r $SIL_BLOOM_DOCS_NOTION_ROOT_PAGE  --require-slugs  --locales en,fr",
     "pull-test-only": "yarn clear && cross-var docu-notion -n $SIL_BLOOM_DOCS_NOTION_TOKEN -r $SIL_BLOOM_DOCS_NOTION_ROOT_PAGE --status-tag test  --log-level debug",
+    "ref-docs": "npx tsx ref-docs/download-ref-docs.ts && npx tsx ref-docs/convert-ref-docs.ts",
     "copy-static-docs": "cp ./static-docs/*.* ./docs",
     "docu-pdf": "docu-pdf",
     "make-pdf": "bash make-pdf.sh http://localhost:3000",
@@ -47,9 +48,16 @@
     "@docusaurus/module-type-aliases": "^3.9.2",
     "@sillsdev/docu-notion": "^0.17.0-alpha.1",
     "@tsconfig/docusaurus": "^2.0.4",
+    "@types/jsdom": "^27.0.0",
+    "@types/turndown": "^5.0.5",
+    "@types/xml2js": "^0.4.14",
+    "jsdom": "^27.0.1",
     "patch-package": "^8.0.1",
     "postinstall-postinstall": "^2.1.0",
-    "typescript": "^5.9.3"
+    "ts-node": "^10.9.2",
+    "turndown": "^7.2.2",
+    "typescript": "^5.9.3",
+    "xml2js": "^0.6.2"
   },
   "browserslist": {
     "production": [
