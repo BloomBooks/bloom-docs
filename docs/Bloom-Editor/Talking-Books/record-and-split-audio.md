@@ -48,7 +48,7 @@ Once the Recording Mode has been set to By Whole Text Box, you can either record
 ## Split the text box recording {#e5a2f2d09ef841faa50963131076bcba}
 
 
-To prepare your recorded text for highlighting during playback, the text must be run through Bloom’s speech analyzer. To do this:  
+To prepare your recorded text for highlighting during playback, the text must be run through Bloom’s speech Timings analyzer. To do this:  
 
 - Click the `Adjust Timings` button.
 
@@ -61,7 +61,7 @@ The **Adjust Timings Editor** will be presented. This editor presents a waveform
 ![](./record-and-split-audio.2994bb19-df12-8059-948a-fb1d5acc73ad.png)
 
 
-If your recording is a high-quality recording, and your language is a typical, then you can click **`OK`** and the job is now done! 
+If your recording is a high-quality recording, and your language is a typical, then you can click **`OK`** and the job is done! 
 
 
 Your text will now show various shades of blue to indicate that Bloom has split the recording into segments to match the sentence breaks in the text:
@@ -73,7 +73,7 @@ Your text will now show various shades of blue to indicate that Bloom has split 
  To verify the accuracy of the guesses of the sentence breaks, click the **`Check`** button.
 
 
-## Fine-tuning the timings using Bloom’s interactive editor {#2994bb19df128060884dc5b03aae025a}
+## Fine-tuning the timings using Bloom’s built-in Timings editor {#2994bb19df128060884dc5b03aae025a}
 
 
 If you are not satisfied with the accuracy of the guesses which Bloom made, click on **`Adjust Timings`** button again and listen to the segment whose timing seems incorrect by clicking on the red arrow:
@@ -82,7 +82,7 @@ If you are not satisfied with the accuracy of the guesses which Bloom made, clic
 ![](./record-and-split-audio.2994bb19-df12-8087-bea5-f0bedd64849d.png)
 
 
-After listening to the segment, click and drag the red vertical to adjust the boundary to the correct location:
+After listening to the segment, click and drag the red vertical line to adjust the boundary to the correct location:
 
 
 ![](./record-and-split-audio.2994bb19-df12-80c3-923a-fe4cc5a665ee.png)
@@ -91,19 +91,21 @@ After listening to the segment, click and drag the red vertical to adjust the bo
 ## Aeneas {#2994bb19df1280449de6dfde8fb283d0}
 
 
-The above-mentioned method uses Bloom’s built-in audio analyzer which uses a pause-based approach to guessing sentence boundaries. This new feature is available starting Bloom 6.2. This is the preferred method and will usually produce good results.
+The above-mentioned method uses Bloom’s built-in Timings analyzer. This analyzer uses a **pause-based** approach to guessing sentence boundaries. This new feature is available starting Bloom 6.2. This is the preferred and recommended method; it will usually produce good results.
 
 
 :::tip
 
-If Bloom’s built-in, pause-based, audio splitter **consistently** produces poor results with your language, then the Bloom team would like to know about it. Please Report a Problem and we will look into it.   
+If Bloom’s built-in, pause-based, Timings analyzer **consistently** produces poor results with your language, then the Bloom team would like to know about it. 
+
+Please [Report a Problem ](/report-problem) with a sample book along with a description of the problem and the team will look into it.
 
 :::
 
 
 
 
-If, however, the built-in method produces poor results for your language, you can choose to use the Aeneas program. Aeneas is an extra software program. To install Aeneas, please follow the instructions [here](/installing-aeneas).
+If the built-in method produces poor results for your language, you can also choose to try the Aeneas program. Aeneas is an extra software program. To install Aeneas, please follow the instructions [here](/installing-aeneas).
 
 
 If Aeneas is already installed, you can use it to split audio as follows:
@@ -114,10 +116,10 @@ If Aeneas is already installed, you can use it to split audio as follows:
 ![](./record-and-split-audio.2994bb19-df12-801a-95dc-d723e2c9866e.png)
 
 
-Aeneas will adjust the timings. If you are not satisfied with the timings, you fine-tune them interactively as [explained above](/record-and-split-audio#2994bb19df128060884dc5b03aae025a). This is the preferred method.
+Aeneas will adjust the timings. If you are not satisfied with the timings, you can fine-tune them interactively as [explained above](/record-and-split-audio#2994bb19df128060884dc5b03aae025a). This is the preferred method.
 
 
-Alternatively, you can edit the timings manually or use Audacity, as explained [here](/edit-timings). This method is not recommended.
+Alternatively, you can edit the timings manually or use Audacity, as explained [here](/edit-timings). This method is much more difficult and is not recommended.
 
 
 ## Add audio splits with segment markers {#1b934d5a7cdd47048e84e43b940d3b8d}
@@ -137,9 +139,21 @@ Bloom splits a text box recording into sentences by looking for sentence-ending 
 	
 	
 
-4. Click the `Adjust Timings` button to (re)segment the audio recording.
+4. Click the `Adjust Timings` button to enter the Timings Editor.
 
 ![](./record-and-split-audio.2994bb19-df12-80ee-9127-cdbaff94a542.png)
+
+
+## Re-run pause-based timing guesses {#29a4bb19df12807b941be8c82259d939}
+
+
+Whenever you change the number of sentences in a text, or add or remove segment markers, you must re-run the Timings analyzer to split the audio into additional segments:
+
+1. Click **`More`**.
+2. Click **`Re-run pause-based timing guesses`**.
+3. Click **`OK`**.
+
+![](./record-and-split-audio.29a4bb19-df12-80ea-a844-c9a3b465a644.png)
 
 
 :::tip
@@ -167,9 +181,3 @@ There are several essential “best practices” to achieve the best results whe
 3. Never copy text from a text box with associated audio and paste in elsewhere.
 4. In regards to character formatting -- italic or bold -- bad things can happen if character formatting crosses sentence boundaries, or segments marked by |. So, if at all possible, it would be best to apply character formatting after the text and audio is "perfect".
 5. Lastly, if you do need to adjust sentence punctuation or add/remove/move a new segment marker to text which already has audio, you will need to re-run the splitter. (But see point #1).
-
-## Fine-tune audio splits: Edit a timing file {#a62a23674e38472e909d9a9d2d8b40bb}
-
-
-Sometimes Bloom does not split the text box audio exactly how you would like it. You can manually edit the timings that control the audio highlighting, to fine-tune how the text is highlighted as the audio is played back. If you need to do this, see [Edit Aeneas Timings](/edit-timings) . 
-

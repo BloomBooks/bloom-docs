@@ -6,7 +6,7 @@ slug: /prepare-to-record
 
 
 
-## The Talking Book Tool {#79db45a29f4e4a4aa273a4829e8c4a72}
+## Open the Talking Book Tool {#79db45a29f4e4a4aa273a4829e8c4a72}
 
 
 To make a talking book, 

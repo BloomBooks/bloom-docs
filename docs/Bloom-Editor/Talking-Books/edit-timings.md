@@ -9,14 +9,17 @@ keywords: [Aeneas, Talking Book Tool]
 
 :::caution
 
-The following is **not** recommended. Future versions of may remove this option. 
+The following is **not** recommended. Future versions of Bloom may remove this option altogether. 
 
 :::
 
 
 
 
-In Bloom 6.2, a new method for splitting audio was introduced: [Record by Whole Text Box](/record-and-split-audio). This method is superior than Aeneas.
+In Bloom 6.2, a new method for splitting audio was introduced: [Record by Whole Text Box](/record-and-split-audio). 
+
+
+**This method is superior than Aeneas.**
 
 
 **Therefore, Aeneas is no longer recommended**. In rare situations, however, Aeneas might provide better results, and so, it continues to be offered.
@@ -102,11 +105,5 @@ This section assumes you already have a good grasp of using the program Audacity
 	
 	
 
-
-	![](./edit-timings.5e119feb-a5f8-4e27-a4eb-ef094f3576e8.png)
-
 5. Export the labels file (File &gt; Export &gt; Labels) and _overwrite_ the old timings file.
-
-	![](./edit-timings.8dd34ba3-ad25-432c-b062-cd78d11ee32c.png)
-
 6. Back in Bloom, click **Apply Timings File**, select your newly edited timings file, and click Open.
