@@ -18,7 +18,7 @@ More info coming soon…
 
 
 
-Images are often important to include when writing books, especially materials for readers in the early grades.
+Images are often important to include in books, especially for readers in the early grades.
 
 
 [Add an Image](/add-image)

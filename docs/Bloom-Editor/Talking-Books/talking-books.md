@@ -9,7 +9,7 @@ slug: /talking-books
 # About Talking Books {#a544182174f3411fbed34044e720ff5c}
 
 
-**Talking Books** are digitally published e-books that play the recorded narration of the text as the text is highlighted. 
+**Talking Books** are digitally published e-books that highlight the text while the recorded narration is played. Text can be highlighted with a background color, or a text color as in this example:
 
 
 ![](./talking-books.29a4bb19-df12-80e9-971c-f16383e96f2f.png)
@@ -24,7 +24,7 @@ Of all of Bloom’s advanced features, the Talking Book is the most popular feat
 Is there a Talking Book in your language on Bloom Library? Why not check out [Talking Books](https://bloomlibrary.org/talking-books) right now and see? Once you find a book in your language, click on the red READ button to experience the book for yourself:
 
 
-![](./talking-books.29a4bb19-df12-80c5-89ce-cf636c1e1739.png)
+![](./talking-books.29a4bb19-df12-80b9-838d-dee5b30a50df.png)
 
 
 ## Why Talking Books? {#29a4bb19df12809c9d8dc4c2e701ccbd}
@@ -45,13 +45,13 @@ To be developed.
 There are two e-book formats for enjoying Bloom Talking Books: ePUBs and BloomPUBs. 
 
 
-BloomPUBs can be read online in Bloom Library, or offline just Bloom Reader or BloomPUB Viewer for Windows. BloomPUB is the native version to publishing e-books using the Bloom Editor.
+**BloomPUBs** can be read online in [Bloom Library](/what-is-bloom-library), or offline with [Bloom Reader](/about-bloom-reader) or [BloomPUB Viewer ](/bloompub-viewer)for Windows. BloomPUB is the native version to publishing e-books using the Bloom Editor.
 
 
-ePUBs can be read using a wide variety of ePUB viewers. 
+**ePUBs** can be read using a wide variety of ePUB viewers. Some ePUB viewers faithfully playback recorded narration; others do not. Please consult [Limitations of ePUB readers](/ePUB-notes).
 
 
-To understand more, please refer to [BloomPUB vs. ePUB](/compare-bloomPUB-ePUB).
+To understand more about the differences between these two e-book formats, please refer to [BloomPUB vs. ePUB](/compare-bloomPUB-ePUB).
 
 
 ## Recording Audio in Bloom {#27a99fe5952642e6a4e14e611138ee1b}
@@ -63,10 +63,10 @@ You can record your book's audio directly in Bloom, or add audio to an existing 
 [Prepare to Record Audio](/prepare-to-record)
 
 
+[Add Audio to an Existing Book](/add-audio-to-an-existing-book)
+
+
 [Record by Sentence](/record-by-sentence)
-
-
-[Add Audio to an Existing Book](/add-audio-to-an-existing-book) 
 
 
 ## Importing Recordings {#edf102c96ed74ca49292c2ec1c2870a0}

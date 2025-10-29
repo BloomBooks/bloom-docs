@@ -18,7 +18,7 @@ When the Talking Books tool is open, Bloom will highlight the first sentence it 
 **Click and hold the blue** `Speak` **button**. The button will turn yellow. Now you can record the sentence. When you are finished, release the mouse button. 
 
 
-	![](./record-by-sentence.2994bb19-df12-807c-990c-c3143af07296.png)
+![](./record-by-sentence.2994bb19-df12-807c-990c-c3143af07296.png)
 
 
 After you have recorded your sentence, the `Check` button will have a yellow outline, to prompt you to listen to your recording. **Click the** `Check` **button.** The Check button will change to a yellow Pause button while Bloom replays your recording for you to hear.
