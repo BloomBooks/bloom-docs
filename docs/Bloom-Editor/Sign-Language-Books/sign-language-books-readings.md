@@ -1,7 +1,7 @@
 ---
-title: Sign Language Books- Introduction
-sidebar_position: 1
-slug: /sign-language-books-introduction
+title: Sign Language Books- Additional Readings
+sidebar_position: 7
+slug: /sign-language-books-readings
 ---
 
 

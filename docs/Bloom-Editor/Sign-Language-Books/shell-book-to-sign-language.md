@@ -1,6 +1,6 @@
 ---
 title: Change a Shell Book into a Sign Language Book
-sidebar_position: 6
+sidebar_position: 5
 slug: /shell-book-to-sign-language
 ---
 
