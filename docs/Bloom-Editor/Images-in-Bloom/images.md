@@ -17,15 +17,3 @@ Images, or pictures, are important to include in books readers in the early grad
 
 Bloom makes it easy to include images in your books.
 
-
-[Add an Image](/add-image)
-
-
-[Image Buttons](/image-buttons)
-
-
-[Image Copyright and License Information](/image-copyright-license)
-
-
-[Motion Tool: Add Motion to your Images](/motion-tool)
-

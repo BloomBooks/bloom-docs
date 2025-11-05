@@ -6,11 +6,11 @@ slug: /spreadsheet-import-export
 
 
 
-:::caution
+:::note
 
-The Spreadsheet Import/Export function was introduced in Bloom 5.2. It is an _experimental_ Bloom Enterprise feature that is still under development. 
+The Spreadsheet Import/Export function was introduced in Bloom 5.2. 
 
-To access the latest developments of this experimental feature, it is _essential_ to use the very most recent version of [Bloom Beta](https://bloomlibrary.org/page/create/downloads).
+To access the latest developments of this experimental feature, it is recommended to use the very most recent version of [Bloom Beta](https://bloomlibrary.org/page/create/downloads).
 
 :::
 
