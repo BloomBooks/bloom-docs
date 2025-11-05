@@ -1,6 +1,6 @@
 ---
 title: Image Fill
-sidebar_position: 2
+sidebar_position: 3
 slug: /image-fill
 ---
 
@@ -68,28 +68,4 @@ To do this:
 2. Click on the icon to **`Expand image to fill space`**.
 
 ![](./image-fill.2a14bb19-df12-80b6-bbbc-c09b2fadaf1d.png)
-
-
-## Update older books {#2a14bb19df12808aa973cd4453060490}
-
-
-If you published books to Bloom Library using a version of Bloom before version 6.0, you may consider updating and revising these books to take advantage of Bloom’s new Appearance System.
-
-
-In Bloom 6.0, we introduced several changes to the default margins of books and we added padding between images and text. The result of changing from the old system to the new is very often more visually pleasing. 
-
-
-Compare A (old, legacy system) with B (new appearance system):
-
-
-![](./image-fill.2a14bb19-df12-8029-859d-cd0999b31b84.png)
-
-
-:::tip
-
-When updating a book to the new appearance system, you will want to take advantage of the simple tricks mentioned above: Fit Image and Expand Image to fill.
-
-:::
-
-
 
