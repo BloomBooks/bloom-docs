@@ -1,7 +1,7 @@
 ---
-title: Publish Books in Multiple Languages- Two Methods
+title: Publish Books in Multiple Languages
 sidebar_position: 5
-slug: /publishing-multilingual-books
+slug: /publish-books-multiple-languages
 ---
 
 
@@ -39,7 +39,7 @@ Regarding the “tweaking” mentioned above, if your book is not yet ready to s
 Legitimate “tweaking” of an already published Bloom book might include things like _adding_ or improving the audio narration, or perhaps adding a forgotten book acknowledgment, or some other minor change.
 
 
-See [Workflow for Method 1](/publishing-multilingual-books#2f4bec2da8e3425595cc7d0faf126ed7).
+See [Workflow for Method 1](/publish-books-multiple-languages#2f4bec2da8e3425595cc7d0faf126ed7).
 
 
 ## Method 2 {#0b1c5ee4ec604aa1a6c357f0ac1cc426}
@@ -60,7 +60,7 @@ Publish one source language book, and then create derivative copies of the book 
 Now that you understand the advantages and disadvantages of these two methods, let’s talk about how your workflow would differ for each method.
 
 
-See [Workflow for Method 2](/publishing-multilingual-books#88e2a0b4e5884abcbf57a5f6ba1d7563).
+See [Workflow for Method 2](/publish-books-multiple-languages#88e2a0b4e5884abcbf57a5f6ba1d7563).
 
 
 ## Workflow for Method 1 {#2f4bec2da8e3425595cc7d0faf126ed7}
@@ -81,7 +81,7 @@ Click Publish, then Web. Under Upload Text, select the check boxes for each lang
 If, at a later date, you need to update your book for any reason, you will need to upload the book again. When you do so, Bloom will present a screen showing the book already in Bloom Library compared with the one you are uploading. If the thumbnail and title match, then click on “Yes, this is an update of my book”.
 
 
-![](./publishing-multilingual-books.b6a10d5f-53fe-4a92-aa2e-e87258bed321.png)
+![](./publish-books-multiple-languages.b6a10d5f-53fe-4a92-aa2e-e87258bed321.png)
 
 
 ## Workflow for Method 2 {#88e2a0b4e5884abcbf57a5f6ba1d7563}

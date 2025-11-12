@@ -37,9 +37,8 @@ And various other languages. But in each case, only one language is shown on the
 
 For more information on making translations, see:
 
-- [Translate Books into Other Languages](/translate-books-other-languages).
-- **[Problem Internal Link]**.
 - [Adaptation and Translations](/adaptations).
+- [Translate Books into Other Languages](/translate-books-other-languages).
 
 ## Bilingual Paper Books {#2944bb19df12807c8dffe571eadcfffa}
 

@@ -129,7 +129,7 @@ You can use the Image Toolbox to browse to any location on your computer where a
 
 :::note
 
-If you need to crop an image, see **[Problem Internal Link]**.
+If you need to crop an image, see [Crop an Image](/crop-image).
 
 :::
 
