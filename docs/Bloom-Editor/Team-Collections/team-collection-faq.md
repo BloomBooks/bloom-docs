@@ -1,6 +1,6 @@
 ---
 title: Team Collections FAQs
-sidebar_position: 5
+sidebar_position: 6
 slug: /team-collection-faq
 ---
 

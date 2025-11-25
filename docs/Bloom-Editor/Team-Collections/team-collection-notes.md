@@ -1,6 +1,6 @@
 ---
 title: Team Collection Limitations
-sidebar_position: 7
+sidebar_position: 8
 slug: /team-collection-notes
 ---
 

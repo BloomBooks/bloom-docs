@@ -1,8 +1,19 @@
 ---
 title: Set up Dropbox on your computer
-sidebar_position: 2
+sidebar_position: 3
 slug: /team-collections-setting-up-dropbox
 ---
+
+
+
+:::caution
+
+This article is out-of-date and will be updated shortly. Please refer to [Critical Dropbox Settings](/critical-dropbox-settings).
+
+Please be patient.
+
+:::
+
 
 
 
