@@ -18,7 +18,7 @@ Either of these will cause problems with Bloom’s Team Collections.
 
 To fix this problem:
 
-1. Access the Dropbox app from your Windows tray.
+1. Access the Dropbox app from your Windows tray:
 2. Click on your avatar.
 3. Click **`Sync & storage`**.
 4. In the box, **Choose how you store files**, click **`Manage`**.
@@ -30,7 +30,7 @@ To fix this problem:
 
 :::caution
 
-After changing these settings, you may also need to explicitly request that all files are made available on-line.
+After changing these settings, request that all files are made available offline explicitly.
 
 :::
 
