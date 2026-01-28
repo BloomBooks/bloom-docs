@@ -40,16 +40,16 @@ In the following two charts, we present some notes on our testing with various r
 ### Performance of various ePUB readers for Bloom <u>Fixed</u>-mode ePUBs {#2e1030dda972401ba08157c7fc8fcd45}
 
 
-|                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape Layout | Sign Language | Overlay Bubbles (e.g. comics) |
-| ------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ---------------- | ------------- | ----------------------------- |
-| eKitabu Windows<br/>version                                                                      | ✓                  | No                             | ✓                          | ✓                | ✓             | ✓                             |
-| eKitabu Android<br/>v5.4.1                                                                       | ✓                  | No                             | ✓                          | (1)              | (1)           | ✓                             |
-| Lis-a<br/>Android version<br/>Feb 25, 2022                                                       | ✓                  | ✓                              | ✓                          | (2)              | (2)           | (3)                           |
-| Google Play Books<br/>Sept 2022                                                                  | No                 | No                             | No                         | No               | No            | No                            |
-| Apple Books<br/>Sept 2022                                                                        | No                 | No                             | No                         | ✓                | ✓             | (3)                           |
-| Dolphin EasyReader<br/>(Android version)                                                         | (4)                | (5)                            | No                         | No               | No            | (3)                           |
-| Thorium Reader (Windows)                                                                         | No                 | No                             | No                         | ✓                | ✓             | ✓                             |
-| [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | No                             | ✓                          | (1)              | (1)           | ✓                             |
+|                                            | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape Layout | Sign Language | Overlay Bubbles (e.g. comics) |
+| ------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ---------------- | ------------- | ----------------------------- |
+| eKitabu Windows<br/>version                | ✓                  | No                             | ✓                          | ✓                | ✓             | ✓                             |
+| eKitabu Android<br/>v5.4.1                 | ✓                  | No                             | ✓                          | (1)              | (1)           | ✓                             |
+| Lis-a<br/>Android version<br/>Feb 25, 2022 | ✓                  | ✓                              | ✓                          | (2)              | (2)           | (3)                           |
+| Google Play Books<br/>Sept 2022            | No                 | No                             | No                         | No               | No            | No                            |
+| Apple Books<br/>Sept 2022                  | No                 | No                             | No                         | ✓                | ✓             | (3)                           |
+| Dolphin EasyReader<br/>(Android version)   | (4)                | (5)                            | No                         | No               | No            | (3)                           |
+| Thorium Reader (Windows)                   | No                 | No                             | No                         | ✓                | ✓             | ✓                             |
+| Simply Reading (Android)                   | ✓                  | No                             | ✓                          | (1)              | (1)           | ✓                             |
 
 1. Various app controls (e.g. menu bar, media bar) obscure significant portions of Fixed mode ePUBs, making them unusable.
 2. Text on right-side of screen is frequently slightly clipped.
@@ -60,26 +60,17 @@ In the following two charts, we present some notes on our testing with various r
 ### Performance of various ePUB readers for Bloom <u>Flowable</u>-mode ePUBs {#50df0c6098104edcb56dd27a79d0a139}
 
 
-|                                                                                                  | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape to Portrait Rendering | Sign Language | **Overlay Bubbles (e.g. comics)** |
-| ------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ------------------------------- | ------------- | --------------------------------- |
-| eKitabu Windows<br/>version                                                                      | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
-| eKitabu Android<br/>v5.4.1                                                                       | No                 | No                             | No                         | (2)                             | ✓             | N/A                               |
-| Lis-a<br/>Android version<br/>Feb 25, 2022                                                       | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
-| Google Play Books<br/>Sept 2022                                                                  | No                 | No                             | No                         | (3)                             | No            | N/A                               |
-| Apple Books<br/>Sept 2022                                                                        | No                 | No                             | No                         | (2)                             | ✓             | N/A                               |
-| Dolphin EasyReader<br/>(Android version)                                                         | (1)                | Unreliable                     | (1)                        | ✓                               | No            | N/A                               |
-| Thorium Reader (Windows)                                                                         | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
-| [Simply Reading ](https://play.google.com/store/apps/details?id=aeldata.simply.reading)(Android) | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
+|                                            | Talking Book Audio | Talking Book Text Highlighting | Image Descriptions (audio) | Landscape to Portrait Rendering | Sign Language | **Overlay Bubbles (e.g. comics)** |
+| ------------------------------------------ | ------------------ | ------------------------------ | -------------------------- | ------------------------------- | ------------- | --------------------------------- |
+| eKitabu Windows<br/>version                | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
+| eKitabu Android<br/>v5.4.1                 | No                 | No                             | No                         | (2)                             | ✓             | N/A                               |
+| Lis-a<br/>Android version<br/>Feb 25, 2022 | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
+| Google Play Books<br/>Sept 2022            | No                 | No                             | No                         | (3)                             | No            | N/A                               |
+| Apple Books<br/>Sept 2022                  | No                 | No                             | No                         | (2)                             | ✓             | N/A                               |
+| Dolphin EasyReader<br/>(Android version)   | (1)                | Unreliable                     | (1)                        | ✓                               | No            | N/A                               |
+| Thorium Reader (Windows)                   | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
+| Simply Reading (Android)                   | ✓                  | ✓                              | ✓                          | (2)                             | ✓             | N/A                               |
 
 1. Frequent audio clipping.
 2. Top or bottom positioned text blocks (in Bloom Edit) will display nicely, but right-side text blocks (in Bloom Edit) may have reduced margins.
 3. Text which should wrap is often simply cut off.
-
-:::caution
-
-For books produced by Bloom 5.4: if you make a Talking Book out of an Overlay (comic) book, ePUB readers will read bubbles in the order you created them. That won’t always be the correct order! We have an idea of how to improve things for Bloom 5.5.
-
-:::
-
-
-
