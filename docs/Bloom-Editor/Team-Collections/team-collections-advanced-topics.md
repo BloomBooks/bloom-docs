@@ -1,6 +1,6 @@
 ---
 title: Team Collections - Advanced Topics
-sidebar_position: 7
+sidebar_position: 8
 slug: /team-collections-advanced-topics
 ---
 
