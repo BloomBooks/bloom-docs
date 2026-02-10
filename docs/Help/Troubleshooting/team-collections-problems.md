@@ -9,6 +9,14 @@ slug: /team-collections-problems
 ## Check-in / Check-out problems {#6f6500e490414e749a1e84d79bc6ff23}
 
 <details>
+<summary>Syncing problems. I now longer see my colleague’s changes.</summary>
+
+Please check your Dropbox quota and also read [this article](/change-dropbox-tier).
+
+
+</details>
+
+<details>
 <summary>What happens if there is a delay in synchronization such that two people both have a book checked out?</summary>
 
 This should happen only rarely. If it does happen, Dropbox will choose one of the users as the “winner” and one as the “loser”. On the “losing” machine, Bloom will notice within a minute or so that another user is editing the same book. Bloom will send that user back to the Collection tab, and any changes made to the book on the “losing” machine will be removed. Bloom will alert the user to what happened, and why.

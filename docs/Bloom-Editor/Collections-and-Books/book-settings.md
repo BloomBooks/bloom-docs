@@ -61,10 +61,10 @@ If you are publishing books electronically as BloomPUBs, you may want to use one
 
 
 
-### Show Page Numbers {#1ba4bb19df1280698481d607e90aa6ca}
+### Page Numbers {#1ba4bb19df1280698481d607e90aa6ca}
 
 
-Check this box to display page numbers. 
+Choose between the following options: Automatic, Left, Center, Right, Hidden.
 
 
 ### Languages to Show in Normal Text Boxes {#5876f208589c4125bc20ef081c452cc7}
@@ -73,13 +73,22 @@ Check this box to display page numbers.
  This controls the same multilingual text settings as the `One Language/Two Languages` setting in the Edit toolbar. 
 
 
-### Advanced Layout**:** Text Padding  {#7232695e5e584d5db92b54435af482a3}
+### Advanced Layout {#7232695e5e584d5db92b54435af482a3}
 
 
-This setting controls the amount of padding (extra space) around text boxes, so that text boxes are visually separate from each other and images. The `Default` setting (which is controlled by the Page Theme) should be sufficient for most users, but you can also set the text padding to 0 mm, 2 mm, 4 mm, or 1 em (which varies according to font size).
+**Text Padding**: This setting controls the amount of padding (extra space) around text boxes, so that text boxes are visually separate from each other and images. The `Default` setting (controlled by the Page Theme) should be sufficient for most users, but you can also set the text padding to 0 mm, 2 mm, 4 mm, or 1 em (which varies with font size).
 
 
-## BloomPUB Settings {#248b710e279744b581c15f002da84da6}
+**Page Gutter**: This settings controls the space between pages near the book spine. The `Default` setting (controlled by the Page Theme) should be sufficient for most users, but you can also set the text padding to 0-10 mm.
+
+
+## Print Publishing (6.3+) {#248b710e279744b581c15f002da84da6}
+
+
+**Use full-bleed page layout**: choose this option to enable full-bleed printing. 
+
+
+## BloomPUB Settings {#3034bb19df128010991bc8162fed526f}
 
 
 ### Resolution {#c2dd9c88a76243719f72d959ddefa818}
@@ -88,22 +97,7 @@ This setting controls the amount of padding (extra space) around text boxes, so 
 You can set the maximum image size for all images in BloomPUB and ePUB digital publications. Choosing a lower resolution helps reduce book size, which makes it easier to share books over poor internet connections. This will also use less space on mobile phones.
 
 
-:::note
-
-Here are the image sizes you can choose from:
-| Size    | Image Resolution (width x height) in pixels |
-| ------- | ------------------------------------------- |
-| Small   | 600 x 600                                   |
-| HD      | 1280 x 720                                  |
-| Full HD | 1920 x 1080                                 |
-| 4K      | 3840 x 2160                                 |
-
-:::
-
-
-
-
-## Fonts (Bloom 6.1+) {#1ba4bb19df1280d091dffc876b97aa7c}
+## Fonts {#1ba4bb19df1280d091dffc876b97aa7c}
 
 
 This section lists all the fonts used in your book and will alert you to any font licensing problems. 
