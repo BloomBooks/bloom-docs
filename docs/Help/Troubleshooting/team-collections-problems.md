@@ -9,7 +9,7 @@ slug: /team-collections-problems
 ## Check-in / Check-out problems {#6f6500e490414e749a1e84d79bc6ff23}
 
 <details>
-<summary>Syncing problems. I now longer see my colleague’s changes.</summary>
+<summary>Syncing problems. I no longer see my colleague’s changes.</summary>
 
 Please check your Dropbox quota and also read [this article](/change-dropbox-tier).
 
