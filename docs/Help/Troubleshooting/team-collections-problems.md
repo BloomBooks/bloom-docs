@@ -9,9 +9,15 @@ slug: /team-collections-problems
 ## Check-in / Check-out problems {#6f6500e490414e749a1e84d79bc6ff23}
 
 <details>
-<summary>“Cloud File Provider is not running.”</summary>
+<summary>Problem: “Cloud File Provider is not running.”</summary>
 
-This is not a Bloom problem or a Dropbox problem. This message will be preceded with the name and path of a particular file. Most often, the path will include the name “OneDrive”. If so, then please ensure OneDrive is running and syncing correctly, and that there are no errors. Please contact your organisation’s tech support team if necessary.
+This is not a Bloom or Dropbox issue.
+
+
+You will see this message along with the name and location of a specific file. In many cases, the file location will include **“OneDrive.”** If it does, make sure **OneDrive** is open and syncing properly, and check for any error messages.
+
+
+If you’re unsure how to fix it, contact your organization’s IT support team for help.
 
 
 </details>
