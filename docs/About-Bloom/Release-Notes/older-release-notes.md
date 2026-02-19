@@ -1,6 +1,6 @@
 ---
 title: Older Release Notes
-sidebar_position: 8
+sidebar_position: 9
 slug: /older-release-notes
 keywords: [Release Notes]
 ---
