@@ -167,12 +167,3 @@ You can now control the “Correct” and “Wrong” sounds in all game types, 
 
 ![](./release-notes-6-3.3024bb19-df12-802b-83a1-cc628db2a832.png)
 
-
-# Team Collections {#3024bb19df128050b0b0f9abb295cdb6}
-
-
-In Team collections, Bloom now shows History tab by default, rather than the book preview.
-
-
-![](./release-notes-6-3.3024bb19-df12-80d4-bf60-d22b379a5bcb.png)
-
