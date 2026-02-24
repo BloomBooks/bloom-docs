@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.2",
-    "@sillsdev/docu-notion": "^0.17.0-alpha.1",
+    "@sillsdev/docu-notion": "^0.17.0-alpha.2",
     "@tsconfig/docusaurus": "^2.0.4",
     "@types/jsdom": "^27.0.0",
     "@types/turndown": "^5.0.6",
