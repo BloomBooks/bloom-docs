@@ -6707,10 +6707,10 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-docu-pdf@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/docu-pdf/-/docu-pdf-1.5.0.tgz#6a9e680f99831ea97e896fc57a083b3fe89cc2a0"
-  integrity sha512-IZMw2TBHLdfm6+XmcTkQDSYy5F7cDVwQz/wKsNg3nFnxT/QLP0W2HbIC5r7ll0EY8TrAmc3pc+I4BvfrNgmLrw==
+docu-pdf@^1.6.1:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/docu-pdf/-/docu-pdf-1.6.1.tgz#3f1551a48d7c8180e931b616155a5d8f1cf39336"
+  integrity sha512-cVat+N+UzlInmvqElnNzjWiCsjT1YVRBGJvBvYals2qUhw1NcM3uQWT8LEp6GLHZXUght+DO5z/Obg8Wcyc4XA==
   dependencies:
     chalk "^4.1.2"
     commander "^9.4.0"
