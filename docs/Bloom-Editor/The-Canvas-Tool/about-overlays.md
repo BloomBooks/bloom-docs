@@ -10,7 +10,7 @@ keywords: [overlays, canvas, comics, speech bubbles, navigation]
 ## The Canvas Tool {#6f0339d040694d8a9ff23cc303f05e68}
 
 
-The **Canvas Tool** lets you place speech bubbles, captions, text, images, and Sign Language videos on top of a background image. In addition, you can add navigation buttons that link to specific pages in your book or jump to other books in your book collection. 
+The **Canvas Tool** lets you place speech bubbles, captions, text, images, and Sign Language videos on top of a background image. In addition, you can add navigation buttons that link to specific pages in your book or jump to other books in your book collection.
 
 
 <div class='notion-row'>
