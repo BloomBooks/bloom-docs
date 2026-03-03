@@ -187,7 +187,7 @@ Carefully evaluate which format — print or digital — will **best** serve you
 # Separate Text-Boxes vs. Overlay? {#5935062ad6744160ab30dc9f2ec73a43}
 
 
-Bloom’s [Overlay Tool ](/about-overlays)gives you the ability to add speech bubbles, captions, and transparent text over images. This opens up new possibilities for books published to Bloom’s native format, BloomPUB.
+Bloom’s [Overlay Tool ](/about-canvas)gives you the ability to add speech bubbles, captions, and transparent text over images. This opens up new possibilities for books published to Bloom’s native format, BloomPUB.
 
 
 For example, the first page of this story from Pratham Book’s [Story Weaver](https://storyweaver.org.in/) …

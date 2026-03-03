@@ -1,6 +1,6 @@
 ---
 title: Developing your organization’s book “style”
-sidebar_position: 7
+sidebar_position: 6
 slug: /developing-organization-book-style
 ---
 
