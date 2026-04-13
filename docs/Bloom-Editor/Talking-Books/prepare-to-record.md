@@ -34,7 +34,7 @@ Bloom shows an icon indicating the source from which it will record sound. You m
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.3333333333333333)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./prepare-to-record.a73dcac0-21bb-4269-9dac-d25f8933ebeb.png)
@@ -46,7 +46,7 @@ External microphone
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.3333333333333333)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./prepare-to-record.65b96f03-ea55-4126-abb4-58ab154e4ec1.png)
@@ -58,7 +58,7 @@ Headset microphone
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.3333333333333333)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./prepare-to-record.fe6006e1-caae-4ad1-9288-557c6564aed7.png)
@@ -73,7 +73,7 @@ Webcam
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.3333333333333333)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./prepare-to-record.02d579c9-abfa-4530-b376-66074352b5ad.png)
@@ -85,7 +85,7 @@ Laptop computer microphone
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.3333333333333333)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./prepare-to-record.4f91ceee-7cf0-4990-aa15-90e24f0e8d76.png)
@@ -97,7 +97,7 @@ Line audio
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.3333333333333333)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./prepare-to-record.4e447721-809f-44c6-a1f2-9a215494eeaa.png)

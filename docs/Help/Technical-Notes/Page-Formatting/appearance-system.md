@@ -7,15 +7,6 @@ keywords: [CSS]
 
 
 
-:::caution
-
-This page is a work-in-progress for Bloom 6.0. Information subject to change.
-
-:::
-
-
-
-
 Bloom version 6.0 introduces a new page styling system that we’re calling “Appearance”. 
 
 

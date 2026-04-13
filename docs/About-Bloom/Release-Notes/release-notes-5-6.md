@@ -135,7 +135,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 - We improved search by introducing two levels. In the initial level, you will see books with titles matching your search more precisely. If that doesn’t find the book you want, you can then click “Search Deeper” to search in copyright, publisher, parts of the title, etc. For example, if you search for “tortoise finds his house”, you would previously be shown 502 books all of which had something to do with tortoises, houses, or finding. After this change, Bloom Library just shows you one book. Clicking on “Search Deeper” still gives you the full list of 502 books.
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./release-notes-5-6.5b4b7500-09ed-4d02-b266-b5cab2cd60b3.png)
@@ -143,7 +143,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./release-notes-5-6.f5294fb9-779f-4858-a953-df45099b6424.png)

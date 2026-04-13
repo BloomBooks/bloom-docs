@@ -165,12 +165,12 @@ In the end, we paid for US$18 for someone advertising “vector tracing” on [F
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5416666666666666)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 1.2083333333333335)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./preparing-branding-logos.12a4bb19-df12-80f1-8e49-ed045d24e159.png)
@@ -182,7 +182,7 @@ A portion of what the Fiverr vendor created for us.
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.6666666666666667)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 </div><div className='notion-spacer'></div>
@@ -196,12 +196,12 @@ Look carefully at the outlines of the text for any egregious errors, like the po
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5416666666666666)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 1.1666666666666665)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./preparing-branding-logos.12a4bb19-df12-80aa-bb5e-d8ecd5dbda37.png)
@@ -210,7 +210,7 @@ Look carefully at the outlines of the text for any egregious errors, like the po
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.6250000000000002)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 </div><div className='notion-spacer'></div>
@@ -233,12 +233,12 @@ Make sure that no gradients have been accidentally [_posterized_](https://en.wik
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./preparing-branding-logos.12a4bb19-df12-8040-8846-cab93d6ac2bf.png)
@@ -247,7 +247,7 @@ Make sure that no gradients have been accidentally [_posterized_](https://en.wik
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 </div><div className='notion-spacer'></div>

@@ -108,7 +108,7 @@ Organizations interested in mass distribution of Bloom books to a people group c
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 **Bloom Subscriptions** are a special service for individuals and organizations that need additional program and publishing features. For more information about Bloom Subscriptions, see [About Bloom Subscriptions](/about-bloom-subscriptions) or email subscriptions@bloomlibrary.org.
@@ -116,7 +116,7 @@ Organizations interested in mass distribution of Bloom books to a people group c
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./bloom-platform.bfb1cdd5-b3e4-458a-a56c-bdbe8da519ec.png)

@@ -9,7 +9,7 @@ slug: /translate-books-other-languages
 # Generosity: a key to Bloom’s success {#7e4d1a8a37a7487092d06788a5f752be}
 
 
-One key to Bloom’s success comes from the generosity of authors and organizations who create original content books and then freely share them with the entire, so that others, in turn, can benefit from these books and translate them into their languages. 
+One key to Bloom’s success comes from the generosity of authors and organizations that create original content books and freely share them with the world, so that others can benefit and translate them into their languages. 
 
 
 # Find and Download a Book to Translate {#1bf2e026a34c4bd7a4eea9bd70881cd4}

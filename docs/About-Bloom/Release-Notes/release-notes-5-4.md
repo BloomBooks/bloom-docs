@@ -124,7 +124,7 @@ We heard you: getting image and text boxes to _just the right size_ was too hard
 - Square
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000001)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./release-notes-5-4.6db6f28c-b6cb-459e-a00d-1e9970ed2b9b.png)

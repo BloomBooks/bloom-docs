@@ -62,7 +62,7 @@ This will show you the **Publish tool**. Bloom gives you several options for pub
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 1. PDF & Print
 
@@ -85,7 +85,7 @@ To learn more about the **other options**, see [The Publish Tab](/publish-tab).
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./printing-your-book.d8092c63-4955-4262-b6e2-ad114fe5b2e7.png)

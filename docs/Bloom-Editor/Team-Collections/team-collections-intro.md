@@ -83,7 +83,7 @@ Figure 2: Awa’s computer, with a shadow collection folder synchronized to Drop
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000001)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 Awa shares the shadow collection folder with her teammate Barkari using Dropbox. Now Awa and Barkari both have a shadow collection folder on their computers (Figure 3).   
@@ -91,7 +91,7 @@ Awa shares the shadow collection folder with her teammate Barkari using Dropbox.
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000002)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./team-collections-intro.5dd7715f-d395-49d9-8ef3-85264e126a48.png)
@@ -170,7 +170,8 @@ Team Collections works with Dropbox because we have found that it works more rel
 ## System Requirements for Using a Team Collection {#898b75ce07734a0891bf3512030894b4}
 
 - A Bloom Enterprise subscription, **OR** you can affirm that your project is fully funded by a local community
-- Bloom 5.1 or greater. (It is recommended, but not required, that all the team members use the same version of Bloom.)
+- Bloom 6.3 or greater.
+- It is imperative that all the team members use the same version of Bloom.
 
 	:::caution
 	
@@ -180,31 +181,40 @@ Team Collections works with Dropbox because we have found that it works more rel
 	
 	
 
-- A [Dropbox](https://www.dropbox.com/) account. The [free version of Dropbox](https://www.dropbox.com/basic), which provides 2GB of storage space, should be sufficient for 100–1000 typical Bloom books (less with larger books).
+- A paid [Dropbox](https://www.dropbox.com/) account. This must be factored into your budget. Choose a subscription tier that meets your organization’s needs. Note: [Changing Dropbox Tiers can be painful](/change-dropbox-tier).
 
-	:::note
-	
-	These instructions focus on using Dropbox to synchronize Team Collection files. If you want to use a local network share instead of Dropbox, contact the Bloom team at [experimental@bloomlibrary.org](mailto:experimental@bloomlibrary.org). 
-	
-	:::
-	
-	
+:::caution
+
+We no longer recommend using the free version of Dropbox to manage a Team Collection because you will encounter technical issues if you exceed your allotted quota.
+
+:::
+
+
+
+
+:::note
+
+These instructions focus on using Dropbox to synchronize Team Collection files. If you want to use a local network share instead of Dropbox, contact the Bloom team at [experimental@bloomlibrary.org](mailto:experimental@bloomlibrary.org). 
+
+:::
+
+
 
 
 ## For More Information {#941774967d44426fb364b298f1d498ce}
 
 
-[Get Started With Team Collections](/team-collections-getting-started) 
+[Get Started With Team Collections](https://app.notion.com/67038f2eef724222a49939310345e056) 
 
 
-[Working with Team Collections](/working-with-team-collections) 
+[Working with Team Collections](https://app.notion.com/fae6677389164fc28a70bd95b82917e6) 
 
 
-[Team Collections FAQs](/team-collection-faq) 
+[Team Collections FAQs](https://app.notion.com/906cc9d79a3843e4b2f666120b79a44c) 
 
 
-[Team Collections - Troubleshooting](/team-collections-problems) 
+[Team Collections - Troubleshooting](https://app.notion.com/0773ce369d8c495c83b65c6a07d8e425) 
 
 
-[Team Collections : Advanced Topics](/team-collections-advanced-topics) 
+[Team Collections : Advanced Topics](https://app.notion.com/9e5b75a9d295460f9b2e92eb5067171e) 
 

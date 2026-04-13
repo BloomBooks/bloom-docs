@@ -52,7 +52,7 @@ Here are some examples of images with more detail compared with images with less
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.25)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 For example, the Images with less detail on the left, rather than the images with more detail on the right:
@@ -60,7 +60,7 @@ For example, the Images with less detail on the left, rather than the images wit
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.75)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./Creating-Accessible-Books.ee34412e-b450-49c3-8233-523e52af1182.png)
@@ -71,7 +71,7 @@ For example, the Images with less detail on the left, rather than the images wit
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 Here are some additional examples of images with less detail on the left and more detail on the right:
@@ -79,7 +79,7 @@ Here are some additional examples of images with less detail on the left and mor
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./Creating-Accessible-Books.f6cd5a28-7584-4f83-9b4a-fbeea83665fc.png)
@@ -96,7 +96,7 @@ These images from the Art of Reading illustrate images that have thick, solid bl
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 The images on the left have thicker, solid lines, and the images on the right have thinner, less distinct lines. 
@@ -104,7 +104,7 @@ The images on the left have thicker, solid lines, and the images on the right ha
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./Creating-Accessible-Books.31b8f23c-8746-4aa4-8794-ae9fbe292858.png)
@@ -115,7 +115,7 @@ The images on the left have thicker, solid lines, and the images on the right ha
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 Here are some additional examples of images with thicker, solid lines on the left and thinner, less distinct lines on the right. 
@@ -123,7 +123,7 @@ Here are some additional examples of images with thicker, solid lines on the lef
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./Creating-Accessible-Books.0ebb5bf9-cf93-4dae-99f6-70246f0bba55.png)
@@ -140,7 +140,7 @@ We all like photos and color illustrations, but they are visually more complex. 
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 The images on the left are simpler, while the ones on the right are more complex.
@@ -148,7 +148,7 @@ The images on the left are simpler, while the ones on the right are more complex
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./Creating-Accessible-Books.8b07aefc-fb31-4b19-8e1f-dc69b61d0037.png)
@@ -159,7 +159,7 @@ The images on the left are simpler, while the ones on the right are more complex
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 Additional examples of simpler images on the left and more complex images on the right:
@@ -167,7 +167,7 @@ Additional examples of simpler images on the left and more complex images on the
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
 ![](./Creating-Accessible-Books.d9fff587-d7ea-41f9-9e4b-8421206e626e.png)
