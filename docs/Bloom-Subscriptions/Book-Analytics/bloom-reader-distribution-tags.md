@@ -15,8 +15,8 @@ Please refer to the following:
 [Measure Your Reach with Bloom Analytics](/br-analytics)
 
 
-[Analytics Fields](/analytic-fields) 
+[Analytics Fields](https://app.notion.com/p/0e34da0a025c4015a2d9c4275a2a7489) 
 
 
-[Bloom Analytics For Publishers](/analytics-for-publishers)
+[Bloom Analytics For Publishers](https://app.notion.com/p/5dde0337bc374696a622e0e5f6e9d01e)
 

@@ -15,7 +15,7 @@ Reading a book in Bloom Reader is similar to using other reading apps.
 
 	:::tip
 	
-	To download additional books, see [Get Books in Bloom Reader](/get-books-bloom-reader).
+	To download additional books, see [Get Books in Bloom Reader](https://app.notion.com/p/34d8025f9bda4f85a84c86e9fd8bc2e3).
 	
 	:::
 	

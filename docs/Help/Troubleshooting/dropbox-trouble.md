@@ -9,8 +9,8 @@ keywords: [Dropbox Troubleshooting]
 
 When using Bloom Team Collections with Dropbox, two problems can occur:
 
-1. [Bloom detects that Dropbox is not running](/dropbox-trouble#d7c9e80a73764f2887d5fe7d3db16a02)
-2. [Dropbox cannot handle the book’s Unicode title](/dropbox-trouble#c61dbdf00ecf48b2876591fb8fd31a6b)
+1. [Bloom detects that Dropbox is not running](https://app.notion.com/p/7017b4a0345a44df9dc11f5c85df46cd#d7c9e80a73764f2887d5fe7d3db16a02)
+2. [Dropbox cannot handle the book’s Unicode title](https://app.notion.com/p/7017b4a0345a44df9dc11f5c85df46cd#c61dbdf00ecf48b2876591fb8fd31a6b)
 
 # Bloom detects that Dropbox is not running {#d7c9e80a73764f2887d5fe7d3db16a02}
 

@@ -303,5 +303,5 @@ To choose a different page layout for the selected page:
 </div>
 
 
-Bloom lets you customize your page layout beyond the templates provided in the page layout chooser. See [Page Layouts in Bloom](/working-with-page-layouts) to learn more.
+Bloom lets you customize your page layout beyond the templates provided in the page layout chooser. See [Page Layouts in Bloom](https://app.notion.com/p/98df53133ba24ab9bfc72b5460272a0a) to learn more.
 

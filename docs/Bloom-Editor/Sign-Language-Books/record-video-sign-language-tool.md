@@ -150,5 +150,5 @@ Click the play icon to review your video.
 # Import Video {#673262d5d17b4904878359c342b09b2b}
 
 
-You can also import video into the Sign Language Tool. See [Import Video](/import-video).
+You can also import video into the Sign Language Tool. See [Import Video](https://app.notion.com/p/5a3f789ad3724f3db22a39adcf6b6927).
 

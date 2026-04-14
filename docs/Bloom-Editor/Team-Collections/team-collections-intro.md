@@ -204,17 +204,17 @@ These instructions focus on using Dropbox to synchronize Team Collection files. 
 ## For More Information {#941774967d44426fb364b298f1d498ce}
 
 
-[Get Started With Team Collections](https://app.notion.com/67038f2eef724222a49939310345e056) 
+[Get Started With Team Collections](https://app.notion.com/p/67038f2eef724222a49939310345e056) 
 
 
-[Working with Team Collections](https://app.notion.com/fae6677389164fc28a70bd95b82917e6) 
+[Working with Team Collections](https://app.notion.com/p/fae6677389164fc28a70bd95b82917e6) 
 
 
-[Team Collections FAQs](https://app.notion.com/906cc9d79a3843e4b2f666120b79a44c) 
+[Team Collections FAQs](https://app.notion.com/p/906cc9d79a3843e4b2f666120b79a44c) 
 
 
-[Team Collections - Troubleshooting](https://app.notion.com/0773ce369d8c495c83b65c6a07d8e425) 
+[Team Collections - Troubleshooting](https://app.notion.com/p/0773ce369d8c495c83b65c6a07d8e425) 
 
 
-[Team Collections : Advanced Topics](https://app.notion.com/9e5b75a9d295460f9b2e92eb5067171e) 
+[Team Collections : Advanced Topics](https://app.notion.com/p/9e5b75a9d295460f9b2e92eb5067171e) 
 

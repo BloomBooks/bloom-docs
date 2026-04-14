@@ -24,7 +24,7 @@ Bloom Reader uses a special [BloomPUB format](/about-bloom-reader#703db164da8a4d
 The Bloom Reader app is available from the [Google Play store](https://play.google.com/store/apps/details?id=org.sil.bloom.reader).
 
 
-For instructions to download, install, and share the Bloom Reader app, see [Install Bloom Reader](/install-bloom-reader).
+For instructions to download, install, and share the Bloom Reader app, see [Install Bloom Reader](https://app.notion.com/p/7d5bdd4891964600a98b368bb4625c23).
 
 
 ## Download Bloom Books from Bloom Library {#b5ce9d6c2d6a4a988fc07a0734b48450}
@@ -36,7 +36,7 @@ If your Android device is connected to the internet, Bloom Reader also provides 
 ![](./about-bloom-reader.2d8294f9-9846-498d-988a-1f26704164a0.png)
 
 
-For instructions to download books into Bloom Reader, see [Get Books in Bloom Reader](/get-books-bloom-reader).
+For instructions to download books into Bloom Reader, see [Get Books in Bloom Reader](https://app.notion.com/p/34d8025f9bda4f85a84c86e9fd8bc2e3).
 
 
 ## Send Books to Bloom Reader {#cc1a6dc032b84ca8b04d3f66fe92a507}
@@ -81,5 +81,5 @@ See [Get books from a folder on your Android device](/get-books-bloom-reader#0c2
 Bloom Reader requires books in BloomPUB format (Bloom’s “native” format). Bloom Editor can easily produce BloomPUB files to use with Bloom Reader.
 
 
-To learn about the difference between BloomPUB and ePUB formats, see [BloomPUB vs. ePUB: What’s the Difference](/compare-bloomPUB-ePUB).
+To learn about the difference between BloomPUB and ePUB formats, see [BloomPUB vs. ePUB: What’s the Difference](https://app.notion.com/p/d6f626a5bcc746b78eb0e9d9a1e5e699).
 

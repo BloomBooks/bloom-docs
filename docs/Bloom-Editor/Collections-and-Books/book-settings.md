@@ -49,7 +49,7 @@ The Content Pages section of the Book Settings lets you specify the following it
 ### Page Theme {#efac5dd9212547d38568d507578464f2}
 
 
-A Page Theme is a bundle of margins, borders, and other page settings. See the [Page Themes Catalog](/page-themes-catalog) for details about the page themes that are available. Most users will use the `Default` theme. 
+A Page Theme is a bundle of margins, borders, and other page settings. See the [Page Themes Catalog](https://app.notion.com/p/2a97395dc9d64111bf80ee37f1ed8c20) for details about the page themes that are available. Most users will use the `Default` theme. 
 
 
 :::tip

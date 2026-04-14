@@ -54,7 +54,7 @@ Bloom comes pre-installed in [Wasta-Linux](https://www.wastalinux.org/), SIL’s
 If you are using Ubuntu Jammy (22.04)+, you can download Bloom 5.4 as a [Flatpak](https://flathub.org/apps/details/org.sil.Bloom).
 
 
-For Ubuntu Bionic (18.04) and Focal (20.04), Bloom is distributed as apt packages from SIL’s package repository. See [Install Bloom on Linux](/installing-bloom-linux) for installation instructions.
+For Ubuntu Bionic (18.04) and Focal (20.04), Bloom is distributed as apt packages from SIL’s package repository. See [Install Bloom on Linux](https://app.notion.com/p/64726121c34744f4b47250888634a9f5) for installation instructions.
 
 
 </details>

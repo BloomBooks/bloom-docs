@@ -27,5 +27,5 @@ Please consult the following pages:
 [https://sites.google.com/sil.org/gslt-mlde/home](https://sites.google.com/sil.org/gslt-mlde/home)
 
 
-See also [Limitations of “Publish as Audio or Video”](/publish-audio-video-notes).
+See also [Limitations of “Publish as Audio or Video”](https://app.notion.com/p/0cff1b8936334c06812da28b67e2b62e).
 

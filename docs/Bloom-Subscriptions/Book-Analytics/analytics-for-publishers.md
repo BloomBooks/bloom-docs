@@ -122,7 +122,7 @@ Bloom Reader only:
 # Analytics Fields {#4b18c83470b04991ac20fb5d9eed2854}
 
 
-See [Analytics Fields](/analytic-fields) 
+See [Analytics Fields](https://app.notion.com/p/0e34da0a025c4015a2d9c4275a2a7489) 
 
 
 # Internet Connection Issues {#68ca19aacadc4babbddfca08ca13acb4}

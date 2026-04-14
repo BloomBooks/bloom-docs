@@ -123,7 +123,7 @@ Occasionally you may find that there is some questions about the actual language
 ![](./release-notes-6-3.2bc4bb19-df12-8054-a599-c5fafd547c87.png)
 
 
-# Full Bleed {#3024bb19df12805793efca1b18da9b91}
+## Full Bleed {#3024bb19df12805793efca1b18da9b91}
 
 
 You can now turn on Full Bleed layout from the Book Settings.
@@ -159,7 +159,7 @@ If you don’t want any credits on the cover, you can free up that space with th
 ![](./release-notes-6-3.3024bb19-df12-808e-803b-e4ca5108c720.png)
 
 
-# Games {#3024bb19df12805998a6dba5e2d588e3}
+## Games {#3024bb19df12805998a6dba5e2d588e3}
 
 
 You can now control the “Correct” and “Wrong” sounds in all game types, not just the drag and drop ones.
