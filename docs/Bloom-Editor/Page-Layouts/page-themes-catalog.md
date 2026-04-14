@@ -72,7 +72,7 @@ A5 Portrait Page using the Default Page Theme, with page numbering on.
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5000000000000001)'}}>
 
 
 This theme takes advantage of the fact that eBooks don’t really need margins. However, like all of Bloom’s Page Themes, it uses “smart padding” to keep the text from touching up against the screen edges.

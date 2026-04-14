@@ -82,7 +82,7 @@ You may be in a setting where other users can connect to a temporary wi-fi netwo
 
 		:::caution
 		
-		If your computer’s firewall software prevents you from sharing by Wi-Fi, see [Share a BloomPUB Over Wi-Fi (Firewall Permissions)](https://app.notion.com/p/03fd731c90374728b0c4334c09665866).
+		If your computer’s firewall software prevents you from sharing by Wi-Fi, see [Share a BloomPUB Over Wi-Fi (Firewall Permissions)](/bloom-firewall).
 		
 		:::
 		

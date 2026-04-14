@@ -19,7 +19,7 @@ In the **Collections view**:
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
 1. **Select the book you want to edit on the left-hand pane.**
 
@@ -38,7 +38,7 @@ Alternately, you can **double-click** the thumbnail image of the book in the Col
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
 ![](./pages.386a3c11-8a57-407c-8c1b-706a0537bc3c.png)
@@ -52,14 +52,14 @@ In the **Edit view:**
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
 - Click the **`+ Add Page`** button at the bottom of the thumbnails on the left side of the screen.
 
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
 ![](./pages.e7c4fa88-fbdc-426a-91ec-63c5caada2b2.png)
@@ -73,7 +73,7 @@ Next, Bloom will display the **Add Page...** **dialog box** with a choice of **p
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
 1. **Click on a page layout in the left-hand side of the dialog box to select it.**
 
@@ -83,7 +83,7 @@ Next, Bloom will display the **Add Page...** **dialog box** with a choice of **p
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
 ![](./pages.36d8cb59-b8c6-4a7b-85bf-b3ef0536c1a6.png)
@@ -106,7 +106,7 @@ The first time you add a page to your book, Bloom places it just after the Credi
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.1875)'}}>
 
 
 You can reorder a page by **clicking and dragging** its thumbnail icon in the Pages pane. 
@@ -114,7 +114,7 @@ You can reorder a page by **clicking and dragging** its thumbnail icon in the Pa
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
 ![](./pages.3f14ce12-da07-4dda-820e-c4e38a8d7814.gif)
@@ -131,7 +131,7 @@ Sometimes you may want to duplicate a page. Perhaps it has a picture that you wa
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
 1. **Click the thumbnail image of the page you want to remove.**
 
@@ -150,7 +150,7 @@ Sometimes you may want to duplicate a page. Perhaps it has a picture that you wa
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
 ![](./pages.aec1ae55-9609-4acc-94ab-93edebed92d0.png)
@@ -167,7 +167,7 @@ You can also duplicate a page by copying and pasting it.
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
 1. **Click the thumbnail image of the page you want to copy.**
 
@@ -184,7 +184,7 @@ You can also duplicate a page by copying and pasting it.
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
 ![](./pages.84c731f0-b197-43bc-88c1-6b5e1a6fbae2.png)
@@ -219,7 +219,7 @@ You can copy a page from one book using this method:
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
 1. **Select the page you want to remove from the list of pages.**
 
@@ -228,7 +228,7 @@ You can copy a page from one book using this method:
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
 ![](./pages.9dd19da9-647b-4159-90eb-cefe134c42d0.png)
@@ -242,7 +242,7 @@ Alternately, you can use the page’s context menu:
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
 1. **Click the thumbnail image of the page you want to remove.**
 
@@ -252,7 +252,7 @@ Alternately, you can use the page’s context menu:
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
 ![](./pages.917d8f63-c6ef-4478-91f6-2899d909fab1.png)
@@ -303,5 +303,5 @@ To choose a different page layout for the selected page:
 </div>
 
 
-Bloom lets you customize your page layout beyond the templates provided in the page layout chooser. See [Page Layouts in Bloom](https://app.notion.com/p/98df53133ba24ab9bfc72b5460272a0a) to learn more.
+Bloom lets you customize your page layout beyond the templates provided in the page layout chooser. See [Page Layouts in Bloom](/working-with-page-layouts) to learn more.
 

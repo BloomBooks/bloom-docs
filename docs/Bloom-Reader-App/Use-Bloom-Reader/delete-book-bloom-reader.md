@@ -27,7 +27,7 @@ Follow these steps to **permanently delete** a book from Bloom Reader:
 
 :::tip
 
-If you accidentally delete a book, you will have to download it again. See [Get Books in Bloom Reader](https://app.notion.com/p/34d8025f9bda4f85a84c86e9fd8bc2e3) for more info.
+If you accidentally delete a book, you will have to download it again. See [Get Books in Bloom Reader](/get-books-bloom-reader) for more info.
 
 :::
 

@@ -7,7 +7,7 @@ keywords: [WebView2]
 
 
 
-See also: [WebView2 Trouble](https://app.notion.com/p/ec4ee1cba95847c394a7fe637615098a) 
+See also: [WebView2 Trouble](/wv2trouble) 
 
 
 Bloom 5.5 and later requires the Microsoft WebView2 Runtime “Evergreen” to be installed and up to date. If your computer regularly receives Windows Updates, you will already have this. Otherwise, follow these instructions.

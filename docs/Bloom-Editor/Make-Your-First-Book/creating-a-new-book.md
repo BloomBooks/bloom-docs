@@ -151,7 +151,7 @@ After you click on the **Click to Edit Copyright & License** link, a small **Cop
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.375)'}}>
 
 1. **In the Copyright section, add the name of the Copyright Holder.** You can put your name (or the name of your organization) as the copyright holder,
 
@@ -161,7 +161,7 @@ After you click on the **Click to Edit Copyright & License** link, a small **Cop
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 
 ![](./creating-a-new-book.d6ff41ca-b252-4923-842e-b9ffe1b314e2.png)
@@ -175,7 +175,7 @@ After you click on the **Click to Edit Copyright & License** link, a small **Cop
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
 1. Make any **changes** you want to the **license settings**.
 
@@ -184,7 +184,7 @@ After you click on the **Click to Edit Copyright & License** link, a small **Cop
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
 ![](./creating-a-new-book.44a10f04-103a-4e83-bbfc-5ff1fb7b83a1.png)

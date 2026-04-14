@@ -159,5 +159,5 @@ You might update a book title to correct the spelling, translate it into another
 ## Rename a Collection {#2204bb19df12805591bed3a43fa4de91}
 
 
-If you need to rename a collection, please see [Rename a Collection](https://app.notion.com/p/6562907c748642e6969e07053b83f6c7).
+If you need to rename a collection, please see [Rename a Collection](/rename-collection).
 

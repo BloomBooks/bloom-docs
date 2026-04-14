@@ -14,7 +14,7 @@ The **Canvas Tool** lets you place speech bubbles, captions, text, images, and S
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.0625)'}}>
 
 
 ![](./about-canvas.acc4407f-e9df-48e2-aaf1-fe0a7decedfa.png)
@@ -22,7 +22,7 @@ The **Canvas Tool** lets you place speech bubbles, captions, text, images, and S
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.9375)'}}>
 
 
 The **Canvas Tool** is an advanced feature offered to users possessing a **Bloom Subscription.** To create new books with the Canvas Tool, you must be a Bloom Enterprise subscriber or use Bloom Enterprise under Bloom’s community funding guidelines. 

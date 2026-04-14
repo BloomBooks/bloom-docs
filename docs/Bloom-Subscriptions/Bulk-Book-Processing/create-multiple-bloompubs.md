@@ -56,9 +56,9 @@ A **Make All BloomPUBs from Collection** dialog will appear with a number of opt
 1. Tick this box to produce the special **.bloomshelf file** needed to group the BloomPUBs together into separate bookshelves on the Bloom Reader app.
 2. Click the color chooser to select a color for this bookshelf.
 3. If your organization wants to track particular Bloom Reader campaigns, choose a specific Distribution Tag to identify that campaign.
-	1. See also [Measuring the Impact of your Bloom Reader Campaigns with Distribution Tags](https://app.notion.com/p/efea0ee182224089bdbbba2574c64bf8).
+	1. See also [Measuring the Impact of your Bloom Reader Campaigns with Distribution Tags](/bloom-reader-distribution-tags).
 4. Tick this box if you need the books bundled together into a single `.bloombundle` file.
-	1. See also [BloomPUB Bundles](https://app.notion.com/p/26bef8d73f544c6a9922fa39d970a4f9).
+	1. See also [BloomPUB Bundles](/bloomPUB-bundles).
 5. Click the `MAKE` button to start the process.
 
 Bloom will make these BloomPUBs in a temporary folder called:

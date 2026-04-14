@@ -91,7 +91,7 @@ The Project Information tab lets you set the country, province, and district des
 :::note
 
 You can also **change the name** of the whole **collection** here (but remember that each collection on your computer must have a unique name).
-See [Rename a Collection](https://app.notion.com/p/6562907c748642e6969e07053b83f6c7) for more info.
+See [Rename a Collection](/rename-collection) for more info.
 
 :::
 

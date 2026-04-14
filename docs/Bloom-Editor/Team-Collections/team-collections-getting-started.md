@@ -27,7 +27,7 @@ Before you begin, make sure:
 - The latest version of Bloom is installed on your computer, **and** you have registered it with a distinct email address.
 - You have a Bloom Collection that you want to convert to be a Team Collection.
 - You have a Dropbox account.
-- The Dropbox app is installed on your computer. If the Dropbox app is not installed on your computer, see [Set up Dropbox on your computer](https://app.notion.com/p/496a651297d742199b86fd3c542f361f).
+- The Dropbox app is installed on your computer. If the Dropbox app is not installed on your computer, see [Set up Dropbox on your computer](/team-collections-setting-up-dropbox).
 
 	:::note
 	
@@ -318,5 +318,5 @@ After Bloom has copied all the files into a working collection, Bloom will resta
 ## What Next?  {#c33b6d8a90f64a82aa6a83911a6d4e10}
 
 
-Working with a Team Collection is like working with a regular Bloom Collection, but you need to check books out in order to edit them. When you’re finished making edits, check them in again so that your teammates can work on them. For more details, see [Working with Team Collections](https://app.notion.com/p/fae6677389164fc28a70bd95b82917e6).
+Working with a Team Collection is like working with a regular Bloom Collection, but you need to check books out in order to edit them. When you’re finished making edits, check them in again so that your teammates can work on them. For more details, see [Working with Team Collections](/working-with-team-collections).
 

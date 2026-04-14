@@ -271,7 +271,7 @@ In overlays (comics), you can now control how much padding to add on the left an
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.3125)'}}>
 
 
 ![](./release-notes-6-0.40e8b7b8-6f3b-4fb7-8100-1b46cc9f5139.png)
@@ -279,7 +279,7 @@ In overlays (comics), you can now control how much padding to add on the left an
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.6875)'}}>
 
 
 ![](./release-notes-6-0.aa68cd90-f943-4a8c-9673-27c9ab7076a9.png)

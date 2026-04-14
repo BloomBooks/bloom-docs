@@ -34,7 +34,7 @@ When you open up Publish, you will see this window with 5 different ways to publ
 
 	:::note
 	
-	For a comparison between the BloomPUB and ePUB formats see [BloomPUB vs. ePUB: What’s the Difference](https://app.notion.com/p/d6f626a5bcc746b78eb0e9d9a1e5e699). 
+	For a comparison between the BloomPUB and ePUB formats see [BloomPUB vs. ePUB: What’s the Difference](/compare-bloomPUB-ePUB). 
 	
 	:::
 	

@@ -91,7 +91,7 @@ Bloom automatically resizes an image to fill the box where you place it. You can
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.375)'}}>
 
 1. Place your mouse cursor at the edge of the image box. A red line will appear.
 
@@ -109,7 +109,7 @@ Bloom helps you choose a consistent size for the image box by making it easy to 
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.625)'}}>
 
 
 ![](./image-buttons.18e37cee-e833-4957-8153-8877198255f3.gif)

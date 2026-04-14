@@ -30,7 +30,7 @@ All numbers are in millimeters unless otherwise noted. “px” is an abbreviati
 
 
 <div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.9375)'}}>
 
 
 | Page Size         | Orientation | Version 5.6              | 6.0 Default Theme         | 6.0 Zero Width Ebook Theme | Little Zebra Custom CSS | Education For Life A5 Template |
@@ -60,7 +60,7 @@ All numbers are in millimeters unless otherwise noted. “px” is an abbreviati
 
 </div><div className='notion-spacer'></div>
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.0625)'}}>
 
 
 </div><div className='notion-spacer'></div>
