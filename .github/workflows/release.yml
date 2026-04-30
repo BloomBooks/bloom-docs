@@ -52,7 +52,7 @@ jobs:
       GENERATE_PDFS: ${{ github.event_name != 'workflow_dispatch' || inputs.generate_pdfs }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
       - name: Sync to latest branch state
@@ -64,7 +64,7 @@ jobs:
             git checkout ${{ github.ref }}
           fi
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: lts/*
           cache: "yarn"
@@ -84,7 +84,7 @@ jobs:
       #   env:
       #     SIL_BLOOM_DOCS_CROWDIN_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_CROWDIN_TOKEN }}
       # - name: Commit New Translations
-      #   uses: stefanzweifel/git-auto-commit-action@v5
+      #   uses: stefanzweifel/git-auto-commit-action@v7
       #   with:
       #     commit_message: GHAction - Commit incoming translations from Crowdin
 
