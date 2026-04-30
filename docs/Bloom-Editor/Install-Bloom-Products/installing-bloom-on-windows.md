@@ -25,7 +25,7 @@ Bloom is designed to run on fairly modest hardware. Your computer should have at
 ## Operating System {#3fcf15146bf34b8c82ff2a445247ddce}
 
 
-Bloom 6.1 & 6.2
+Bloom 6.2 & 6.3
 
 - Windows 10 or 11
 - [.NET 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)

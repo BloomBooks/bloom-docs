@@ -88,7 +88,7 @@ A Local Language Collection combines two things. First, it is a folder on your d
 Second, a Local Language Collection in Bloom has a set of Decodable Reader Stages, and a set of Leveled Reader Levels. Because the rules belong to a collection, and not just to an individual book or template book, you don’t have to repeat what the rules are each time you make a reader. Whenever you make a reader in the collection, you will be able to say “this book should fit Decodable Stage 1, or 2, or 3”, etc. Bloom will look up what the letters, words, and other rules are for that stage or level, and the book you are working on. 
 
 
-If you already have a local language collection, it’s best to [create a new one](/create-a-new-collection) for these templates. The reason is that all the books in this new Local Language Collection will serve as templates to distribute to your local language authors. And so, the _only_ books that you want to appear in this collection are decodable and leveled reader templates. 
+If you already have a local language collection, it’s best to [create a new one](/create-a-new-collection) for these templates. The reason is that all the books in this new Local Language Collection will serve as templates to distribute to your local language authors. So, the only books you want to appear in this collection are decodable and leveled reader templates. 
 
 
 :::note
@@ -106,7 +106,7 @@ Hint: you might wish to name this collection “Reader Templates for ____”.
 - [Resources for Developing Curriculum and Teaching Materials](https://www.sil.org/literacy-education/resources-developing-curriculum-and-teaching-materials).
 - [Education Technology](https://www.sil.org/literacy-education/education-technology).
 
-## Additional Reader (general) {#33b4bb19df1280cc8afff98e461f6421}
+## Additional Reading (general) {#33b4bb19df1280cc8afff98e461f6421}
 
 - [10 tips for using decodable texts](https://www.thereadingleague.org/media/maria-murrays-10-tips-for-using-decodable-texts/).
 - [A Teacher’s Guide to Decodable Readers](https://readingeggs.com/articles/a-teachers-guide-to-decodable-readers/).
