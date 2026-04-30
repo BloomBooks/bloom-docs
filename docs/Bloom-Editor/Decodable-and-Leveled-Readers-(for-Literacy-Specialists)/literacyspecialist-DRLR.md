@@ -47,7 +47,6 @@ If necessary, you may wish to review the following:
 - [How to Install Bloom](/installing-bloom-on-windows)
 - **[Problem Internal Link]**
 - **[Problem Internal Link]**
-- **[Problem Internal Link]**
 
 :::note
 

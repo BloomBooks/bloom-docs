@@ -1,6 +1,6 @@
 ---
 title: Full Page Cover Images
-sidebar_position: 4
+sidebar_position: 3
 slug: /full-page-cover-images
 ---
 
