@@ -1,6 +1,6 @@
 ---
 title: Font Features
-sidebar_position: 21
+sidebar_position: 20
 slug: /font-features
 keywords: [fonts]
 ---
