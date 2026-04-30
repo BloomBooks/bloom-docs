@@ -1,7 +1,7 @@
 ---
 title: Decodable and Leveled Readers (for Authors) Index
 sidebar_position: 0
-slug: /leveled-readers
+slug: /authors-DRLR
 ---
 
 
