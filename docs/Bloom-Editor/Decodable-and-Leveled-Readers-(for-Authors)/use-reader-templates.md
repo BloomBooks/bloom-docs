@@ -7,7 +7,7 @@ keywords: [decodable, levelled, reader]
 
 
 
-# Leveled Readers {#33c4bb19df1280fa95ced76c549f2ebf}
+## Leveled Readers {#33c4bb19df1280fa95ced76c549f2ebf}
 
 
 In this section, you will learn how to use a leveled reader template that has already been prepared for your language.
@@ -67,7 +67,7 @@ Bloom will help you remember not to use  too many words. That’s the good news
 At any time, you can click on one of these links to read a short summary of the topic, to refresh your memory.
 
 
-# Using a Decodable Reader Template {#33c4bb19df12803fbf28ca764b45de45}
+## Using a Decodable Reader Template {#33c4bb19df12803fbf28ca764b45de45}
 
 
 In this section, you will learn how to use a decodable reader template that has already been prepared for your language. You should have already unpacked the Reader Template Bloom Pack as described earlier in this document.
@@ -127,7 +127,7 @@ Finally, when doing a decodable reader, you may want to also check the book agai
 3. The Leveled Reader tool will open.
 4. Go through your book, making sure that you don’t see any of the orange warning blocks that would mean you are using too many words.
 
-# A Note on Entering Special Characters {#33c4bb19df12803aaef8c5747c259fcf}
+## A Note on Entering Special Characters {#33c4bb19df12803aaef8c5747c259fcf}
 
 
 Does your alphabet (writing system) have special characters, for example, ë, ĉ, Ç, ɨ, and ñ? Ideally, you will want to have a proper keyboarding system for your language. But in case you find yourself using Bloom without a way to type your language, Bloom does include a last-resort way to enter the letters you need.
@@ -145,7 +145,7 @@ Now, still holding down the letter, use the arrow keys or the mouse to select th
 Note that this feature is limited to languages that using latin/roman scripts. If you’re using another script, you really need to have someone help you install a proper keyboarding solution for your script.
 
 
-# A Note on Changing Font Sizes {#33c4bb19df1280958f35de327d522e60}
+## A Note on Changing Font Sizes {#33c4bb19df1280958f35de327d522e60}
 
 
 Ideally, the templates you use will already have carefully chosen fonts, font sizes, line spacing, and word spacing. If however your book requires an even larger font, you can change that yourself. For example, perhaps you are making a level 1 book that only has a single word, so you’d like to make that word _really big_. Here’s how to do it.

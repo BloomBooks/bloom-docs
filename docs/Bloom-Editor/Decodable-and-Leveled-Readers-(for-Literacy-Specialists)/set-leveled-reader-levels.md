@@ -27,7 +27,7 @@ While setting up the Leveled Reader Tool is not too difficult, determining the b
 
 
 
-# Make a Leveled Reader template {#32e4bb19df128010b883f2840bda2c2c}
+## Make a Leveled Reader template {#32e4bb19df128010b883f2840bda2c2c}
 
 
 In the Collections tab, look for Sources for New Books in the bottom left of the screen.  There you will see **Specialized Templates**:

@@ -7,7 +7,7 @@ keywords: [decodable, levelled, reader]
 
 
 
-# Install a Reader Template Bloom Pack {#33c4bb19df12800c9109c7c36baf93e3}
+## Install a Reader Template Bloom Pack {#33c4bb19df12800c9109c7c36baf93e3}
 
 
 After a literacy specialist [creates a series of decodable and leveled reader templates](/make-reader-templates), they can bundle them into a Reader Template Bloom Pack and distribute it to local authors to start creating books that meet the criteria set by those templates.
