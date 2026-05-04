@@ -1,15 +1,18 @@
 ---
-title: Decodable and Leveled Readers (for Authors) Index
+title: Decodable and Leveled Readers for Authors Index
 sidebar_position: 0
-slug: /authors-DRLR
+slug: /decodable-and-leveled-readers-for-authors
 ---
 
 
 
-# Intended audience {#33c4bb19df12800ebcbfdbc957fb5655}
+# Decodable and Leveled Readers for Authors  {#3564bb19df12801d855ff58ac5af1c94}
 
 
-This material is intended for **local authors** who will use [Reader Templates](/glossary#32f4bb19df1280fdb4a3d77da7c693fd) created by a Literacy Specialist ([as described here](/literacyspecialist-DRLR)) to make books that fit within each template's constraints.
+## Intended audience {#33c4bb19df12800ebcbfdbc957fb5655}
+
+
+This material is intended for **local authors** who will use [Reader Templates](/glossary#32f4bb19df1280fdb4a3d77da7c693fd) created by a Literacy Specialist ([as described here](/decodable-and-leveled-readers-for-literacy-specialists)) to make books that fit within each template's constraints.
 
 
 ## What you should already know {#33c4bb19df12808c8b2ff62ccf1c7c09}

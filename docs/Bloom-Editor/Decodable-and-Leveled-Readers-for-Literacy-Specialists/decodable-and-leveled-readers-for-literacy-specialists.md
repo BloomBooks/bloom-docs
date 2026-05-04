@@ -1,9 +1,12 @@
 ---
-title: Decodable and Leveled Readers (for Literacy Specialists) Index
+title: Decodable and Leveled Readers for Literacy Specialists Index
 sidebar_position: 0
-slug: /literacyspecialist-DRLR
+slug: /decodable-and-leveled-readers-for-literacy-specialists
 ---
 
+
+
+# Decodable and Leveled Readers for Literacy Specialists {#3564bb19df1280cdb6a9e7f0a40ffc3b}
 
 
 ## Intended Audience {#32e4bb19df128005b3f6c7310b199335}
@@ -33,7 +36,7 @@ After local authors make their collection of decodable and leveled books, they c
 Bloom users with a [Bloom Enterprise subscription ](/which-subscription)can organize their books into grade-level collections in Bloom Library. For example, Education for Life has this series of books:  
 
 
-![](./literacyspecialist-DRLR.32e4bb19-df12-80e2-a4bc-e14fffa2b820.png)
+![](./decodable-and-leveled-readers-for-literacy-specialists.32e4bb19-df12-80e2-a4bc-e14fffa2b820.png)
 
 
 ## What the literacy specialist should already know {#32e4bb19df1280a4bd81f4006b34f5aa}
