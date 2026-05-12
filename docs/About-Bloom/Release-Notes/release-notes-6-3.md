@@ -1,5 +1,5 @@
 ---
-title: Bloom 6.3 Beta Release Notes
+title: Bloom 6.3 Release Notes
 sidebar_position: 1
 slug: /release-notes-6-3
 keywords: [Release Notes]
@@ -37,7 +37,7 @@ When Bloom first allowed you to drag things like speech bubbles, the idea was to
 ## Navigation Objects {#29a4bb19df128066a642dfd2bd4c5504}
 
 
-You can now add buttons that jump the reader to a web site or a different pages in the book. They can even jump to different books (see Bloom Apps, below).
+You can now add buttons that jump the reader to a website or different pages in the book. They can even jump to different books (see Bloom Apps, below).
 
 
 ![](./release-notes-6-3.2bc4bb19-df12-80af-a534-cbbddbca4dd8.png)
@@ -46,7 +46,7 @@ You can now add buttons that jump the reader to a web site or a different pages 
 ### Easier Hyperlinks {#2bc4bb19df12803880abe6efb5a485c4}
 
 
-The way to set the target of a simple “inline” hyperlinks has changed. Select the text you want to be the hyperlink, then click on the link icon. This will open a tool that will let you specify a website URL, a book in the app, or a page of any book in the app.
+The way to set the target of a simple “inline” hyperlink has changed. Select the text you want to be the hyperlink, then click on the link icon. This will open a tool that will let you specify a website URL, a book in the app, or a page of any book in the app.
 
 
 ![](./release-notes-6-3.2bc4bb19-df12-80e6-8870-d9681429d747.png)
@@ -58,7 +58,7 @@ The way to set the target of a simple “inline” hyperlinks has changed. Selec
 Bloom excels at providing many ways to publish your book: paper, web, _Bloom Reader_ (Android), _BloomPUB Viewer_ (desktop), ePUB, and [_Kolibri_](https://learningequality.org/kolibri/about-kolibri/)[.](https://learningequality.org/kolibri/about-kolibri/) 
 
 
-You can also bundle multiple Bloom books into one custom mobile apps using [_Reading App Builder_](https://software.sil.org/readingappbuilder/). In this Bloom update, we've made these apps better by adding new ways to move around: book grids, buttons, and links between books. We now call mobile apps that use these navigation features "Bloom Apps”. 
+You can also bundle multiple Bloom books into one custom mobile app using [_Reading App Builder_](https://software.sil.org/readingappbuilder/). In this Bloom update, we've made these apps better by adding new ways to move around: book grids, buttons, and links between books. We now call mobile apps that use these navigation features "Bloom Apps”. 
 
 
 ![](./release-notes-6-3.3024bb19-df12-808a-8542-cf15190b1938.png)
@@ -70,7 +70,7 @@ Bloom Apps can have books and games, of course. What’s new is that they can ha
 :::tip
 
 How to Build a Bloom App
-Build the parts of your Bloom App in the Bloom Editor app. Test it out in the Publish tab and in BloomPUB viewer. When you’re happy with how it is working,  SIL can help you publish a mobile app for Android and iPhones and iPads. Or, if you have technical skills, you can use Reading App Builder [_Reading App Builder_](https://software.sil.org/readingappbuilder/) to do it yourself.
+Build the parts of your Bloom App in the Bloom Editor app. Test it out in the Publish tab and in BloomPUB Viewer. When you’re happy with how it is working, SIL can help you publish a mobile app for Android and iPhones and iPads. Or, if you have technical skills, you can use Reading App Builder [_Reading App Builder_](https://software.sil.org/readingappbuilder/) to do it yourself.
 
 :::
 
@@ -95,29 +95,29 @@ The books in a Book Grid must be part of your current _collection._ A grid can c
 ## Foundational Work {#2714bb19df12806797e6fca50c9d42ab}
 
 
-Have you ever had pour resources into the parts of your house that you take for granted? Plumbing, wiring, the roof, the foundation… all of these things age over time. They aren’t exciting things to spend your money on, but if you want your house to last, you have to replace bits of it occasionally. It turns out that the same is true of software like Bloom, which is now 14 years old! In this version, **we’ve modernized 23 key underpinnings** in order to keep Bloom healthy and prepared for the future. Four of these changes move us closer to our goal of a **cross-platform Bloom**. 
+Have you ever had to pour resources into the parts of your house that you take for granted? Plumbing, wiring, the roof, the foundation… all of these things age over time. They aren’t exciting things to spend your money on, but if you want your house to last, you have to replace bits of it occasionally. It turns out that the same is true of software like Bloom, which is now 14 years old! In this version, **we’ve modernized 23 key underpinnings** in order to keep Bloom healthy and prepared for the future. Four of these changes move us closer to our goal of a **cross-platform Bloom**. 
 
 
-Mostly, you should not notice any difference, but here are few areas where things have changed:
+Mostly, you should not notice any difference, but here are a few areas where things have changed:
 
 
 ### Installer {#2994bb19df12808694cde01e3f1075bb}
 
 - We switched to a modern installer system.
-- The Bloom installer no longer support “all-users” option.
+- The Bloom installer no longer supports the “all-users” option.
 
 ### System Requirements {#2994bb19df1280199e68e3fb1f42196e}
 
-- Bloom now requires Windows 11 and computer with a 64 bit processor.
+- Bloom now requires Windows 11 and a computer with a 64-bit processor.
 
 ### Image Toolbox {#2994bb19df1280b2b561fc2979557fef}
 
-- We have removed the scanner and camera buttons from the top of the screen. We recently modernized the underpinnings of Bloom and these old buttons didn’t survive transition. We think that they were rarely, if ever, used.
+- We have removed the scanner and camera buttons from the top of the screen. We recently modernized the underpinnings of Bloom and these old buttons didn’t survive the transition. We think that they were rarely, if ever, used.
 
 ## Language Codes {#2994bb19df1280bf9028d77c04d4cd50}
 
 
-Occasionally you may find that there is some questions about the actual language code of a text box or a source bubble suggestion. We now show the code of text boxes in the Format tool (1). If you hover over a source tab, you will now see its language code (2). 
+Occasionally you may find that there are some questions about the actual language code of a text box or a source bubble suggestion. We now show the code of text boxes in the Format tool (1). If you hover over a source tab, you will now see its language code (2). 
 
 
 ![](./release-notes-6-3.2bc4bb19-df12-8054-a599-c5fafd547c87.png)

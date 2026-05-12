@@ -104,13 +104,11 @@ So, let’s give the template a title that will make sense to the author. For ex
 
 		![](./make-reader-templates.32e4bb19-df12-8084-adcc-dfa0723498ec.png)
 
-	- Click the arrow that points to the right to change from level 1 to 2.
-	From now on, this book is set to be a level 2 book, like this:
+	- Click the arrow that points to the right to change from level 1 to 2. From now on, this book is set to be a level 2 book, like this:
 
 		![](./make-reader-templates.32e4bb19-df12-803c-b826-e726d284d7b2.png)
 
-6. Finally, set the text formatting as you did before, for the decodable readers templates.
-Now, in the **Collections** tab, you could have something like this:
+6. Finally, set the text formatting as you did before, for the decodable readers templates. Now, in the **Collections** tab, you could have something like this:
 
 	![](./make-reader-templates.33b4bb19-df12-802d-beb6-e2cd4e78a1de.png)
 

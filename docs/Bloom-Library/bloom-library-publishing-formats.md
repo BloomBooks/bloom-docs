@@ -28,7 +28,7 @@ Using the READ button, your book can be enjoyed from any computer (Windows, iOS,
 BloomPUBs can be read using **Bloom Reader** (an Android app) or the **BloomPUB Viewer** (a Windows app). 
 
 
-**BloomPUB** Viewer is similar to online READing and will match your book’s design in Bloom editor.
+**BloomPUB Viewer** is similar to online READing and will match your book’s design in Bloom Editor.
 
 
 In contrast, since **Bloom Reader** is an Android app designed for phones, and most phones have a 16x9 aspect ratio, Bloom Reader will resize BloomPUBs to conform to a “Device 16x9” size.
