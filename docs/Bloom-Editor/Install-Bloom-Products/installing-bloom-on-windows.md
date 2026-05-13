@@ -72,7 +72,7 @@ You may also need a special **keyboard layout** to let you type the characters
 ![](./installing-bloom-on-windows.551e3c1f-13be-47e0-bac3-7778479379fa.png)
 
 
-If you need help to find a font or keyboard for your language, try looking on SIL’s [ScriptSource](https://scriptsource.org/) site. 
+If you need help to find a font or keyboard for your language, try looking on SIL’s [Writing Systems Technical Resources](https://writingsystems.info/topics/input/keyboards-and-tools/) site. 
 
 
 ## Download Bloom {#cb910b03fa4a483189be6b98d5a1bed8}

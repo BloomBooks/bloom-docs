@@ -1,6 +1,6 @@
 ---
 title: Bloom 5.4 Release Notes
-sidebar_position: 7
+sidebar_position: 8
 slug: /release-notes-5-4
 keywords: [Release Notes]
 ---

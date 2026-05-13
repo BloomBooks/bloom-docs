@@ -130,10 +130,10 @@ First, let’s make sure the name of our collection describes what it is.
 	![](./make-reader-templates.33b4bb19-df12-80d6-bf34-ca13d7b23da0.png)
 
 
-	Bloom will restart to cope with that change. After the restart, you’ll see the new name at the top of the **Collections** tab:
+Bloom will restart to cope with that change. After the restart, you’ll see the new name at the top of the **Collections** tab:
 
 
-	![](./make-reader-templates.33b4bb19-df12-804a-b891-d373606adea0.png)
+![](./make-reader-templates.33b4bb19-df12-804a-b891-d373606adea0.png)
 
 
 Now you are ready to make a Bloom Pack that will share your stages, letters, words and levels with others.
@@ -142,8 +142,7 @@ Now you are ready to make a Bloom Pack that will share your stages, letters, wor
 
 	![](./make-reader-templates.33b4bb19-df12-80cd-8639-ccd490a156ee.png)
 
-2. Click that white down arrow, and then click the **Make Reader Template Bloom Pack** command.
-It looks like this:
+2. Click that white down arrow, and then click the **Make Reader Template Bloom Pack** command. It looks like this:
 
 	![](./make-reader-templates.33b4bb19-df12-8043-83da-d9e768e23ea4.png)
 

@@ -1,6 +1,6 @@
 ---
 title: Bloom 6.3 Release Notes
-sidebar_position: 1
+sidebar_position: 2
 slug: /release-notes-6-3
 keywords: [Release Notes]
 ---

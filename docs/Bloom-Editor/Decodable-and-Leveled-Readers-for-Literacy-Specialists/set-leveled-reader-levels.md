@@ -55,7 +55,7 @@ Bloom comes with a set of basic levels. You can edit these to suit your needs or
 
 		![](./set-leveled-reader-levels.0e38d5e6-841c-4f05-81d6-b7fedebf11f0.png)
 
-3. Bloom knows about most punctuation marks that are used to end a sentence. If your language uses other punctuation marks to end a sentence, you can tell Bloom about them by listing them in the `Punctation` tab. (This step is optional.)
+3. Bloom knows about most punctuation marks that are used to end a sentence. If your language uses other punctuation marks to end a sentence, you can tell Bloom about them by listing them in the `Punctuation` tab. (This step is optional.)
 
 	:::tip
 	
