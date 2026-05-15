@@ -13,7 +13,6 @@ const config = {
   url: "https://docs.bloomlibrary.org",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   // Duplicate routes cause the next/prev buttons to loop
   // which causes the pdf creation to loop forever.
   onDuplicateRoutes: "throw",
@@ -21,6 +20,12 @@ const config = {
   organizationName: "BloomBooks",
   projectName: "bloom-docs",
   trailingSlash: true,
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn"
+    }
+  },
 
   plugins: ["@docusaurus/plugin-ideal-image"],
 
