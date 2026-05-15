@@ -140,7 +140,7 @@ The process for recording audio of image description text is the same as for rec
 
 :::note
 
-See [Record Audio](/record-audio) for step-by-step instructions on how to record audio. 
+See [Prepare to Record Audio](/prepare-to-record) for step-by-step instructions on how to record audio. 
 
 :::
 

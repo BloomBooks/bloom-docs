@@ -37,6 +37,3 @@ For Dynamic Game Pages, users are given access to a toolbox of game elements whi
 
 ![](./game-tool.28e4bb19-df12-80db-a206-f3203dc7b663.png)
 
-
-For more help, see [Game Tool overview ](https://ref-docs.bloomlibrary.org/#t=Tasks%2FEdit_tasks%2FGame_Tool%2FGame_Tool_overview.htm&rhsearch=game%20tool)in Bloom offline Helps.
-

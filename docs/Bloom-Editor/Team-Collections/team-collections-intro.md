@@ -170,7 +170,8 @@ Team Collections works with Dropbox because we have found that it works more rel
 ## System Requirements for Using a Team Collection {#898b75ce07734a0891bf3512030894b4}
 
 - A Bloom Enterprise subscription, **OR** you can affirm that your project is fully funded by a local community
-- Bloom 5.1 or greater. (It is recommended, but not required, that all the team members use the same version of Bloom.)
+- Bloom 6.3 or greater.
+- It is imperative that all the team members use the same version of Bloom.
 
 	:::caution
 	
@@ -180,15 +181,24 @@ Team Collections works with Dropbox because we have found that it works more rel
 	
 	
 
-- A [Dropbox](https://www.dropbox.com/) account. The [free version of Dropbox](https://www.dropbox.com/basic), which provides 2GB of storage space, should be sufficient for 100–1000 typical Bloom books (less with larger books).
+- A paid [Dropbox](https://www.dropbox.com/) account. This must be factored into your budget. Choose a subscription tier that meets your organization’s needs. Note: [Changing Dropbox Tiers can be painful](/change-dropbox-tier).
 
-	:::note
-	
-	These instructions focus on using Dropbox to synchronize Team Collection files. If you want to use a local network share instead of Dropbox, contact the Bloom team at [experimental@bloomlibrary.org](mailto:experimental@bloomlibrary.org). 
-	
-	:::
-	
-	
+:::caution
+
+We no longer recommend using the free version of Dropbox to manage a Team Collection because you will encounter technical issues if you exceed your allotted quota.
+
+:::
+
+
+
+
+:::note
+
+These instructions focus on using Dropbox to synchronize Team Collection files. If you want to use a local network share instead of Dropbox, contact the Bloom team at [experimental@bloomlibrary.org](mailto:experimental@bloomlibrary.org). 
+
+:::
+
+
 
 
 ## For More Information {#941774967d44426fb364b298f1d498ce}

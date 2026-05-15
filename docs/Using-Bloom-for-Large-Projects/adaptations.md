@@ -11,13 +11,13 @@ Several organizations utilize Bloom to create a set of self-authored books and t
 
 Most commonly, these organizations employ the following simple workflow:
 
-1. New books are authored in a particular chosen majority language such as English, French, Russian, Hindi, etc. This collection of original books constitutes a type of “source” or “parent” collection. Some users may wish to divide their source books into multiple source collections. See [Show Another Collection](/show-another-collection).
+1. **New** books are authored in a particular chosen majority language such as English, French, Russian, Hindi, etc. This collection of original books constitutes a type of “source” or “parent” collection. Some users may wish to divide their source books into multiple source collections. See [Show Another Collection](/show-another-collection).
 2. The books in this “source” or “parent” collection are then translated (and/or adapted) into various other local languages in various “derivative” or “daughter” collections.
 
 Source book collections should be made visible. See [Show Another Collection](/show-another-collection). 
 
 
-## Make an adaptation of a book {#b0222b901f3c4af4ac57db65f9050812}
+## Make an adaptation or translation of a book {#b0222b901f3c4af4ac57db65f9050812}
 
 
 To adapt one of your books:

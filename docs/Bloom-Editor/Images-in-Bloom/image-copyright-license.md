@@ -1,6 +1,6 @@
 ---
 title: Image Copyright and License Information
-sidebar_position: 4
+sidebar_position: 7
 slug: /image-copyright-license
 ---
 

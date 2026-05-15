@@ -1,6 +1,6 @@
 ---
 title: Bloom 6.1 Release Notes
-sidebar_position: 2
+sidebar_position: 4
 slug: /release-notes-6-1
 keywords: [Release Notes]
 ---

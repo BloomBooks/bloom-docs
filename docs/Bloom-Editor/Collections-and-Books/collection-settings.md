@@ -1,6 +1,6 @@
 ---
 title: Collection Settings
-sidebar_position: 1
+sidebar_position: 0
 slug: /collection-settings
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sign Language Books- Technical Considerations
-sidebar_position: 7
+sidebar_position: 6
 slug: /sign-language-books-technical-considerations
 ---
 

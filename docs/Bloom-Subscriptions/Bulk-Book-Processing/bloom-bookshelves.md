@@ -6,7 +6,7 @@ slug: /bloom-bookshelves
 
 
 
-:::caution
+:::note
 
 This material is for Bloom clients holding a Bloom Enterprise subscription.
 
@@ -115,6 +115,3 @@ There are a number of very important things to keep in mind about the bulk-uploa
 - Upload all new books (i.e. any book that had not been previously uploaded to Bloom Library).
 - Upload (and overwrite) any previously uploaded book that has changed.
 - Skip uploading any previously uploaded book that has _not_ changed.
-
-##  {#a0bda0de7ece4067ae3ab1dcbca98bd6}
-

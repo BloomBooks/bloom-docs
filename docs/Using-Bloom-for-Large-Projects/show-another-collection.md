@@ -14,7 +14,7 @@ When you have multiple book collections, there are two basic types:
 An original book is the “first edition” of the book. (If this book is made available to be translated or adapted, we refer to it as a [shellbook](/shell-books-in-bloom).) 
 
 
-An **adaptation** of a book is the same story “packaged” differently. For example, you might publish an original A5 version of a story for printing, and an adaptation of this same story in Device16x9 format. See, for example, the “[Cat and Dog](https://bloomlibrary.org/EFL-education-for-life-org/EFL-CatandDog)” series on Bloom Library. 
+An **adaptation** of a book is the same story, in the same language, but “packaged” differently. For example, you might publish an A5 version of a story for printing, and an adaptation of this same story in Device16x9 format. See, for example, the “[Cat and Dog](https://bloomlibrary.org/EFL-education-for-life-org/EFL-CatandDog)” series on Bloom Library. 
 
 
 A **translation** of a book is the same story translated into another language.
@@ -29,10 +29,10 @@ When you make either an adaptation or a translation of a book, Bloom assigns a n
 
 
 
-To make an adaptation of a source book, you need to make the Source collection visible to your Derivative collections. This is done using the **SHOW ANOTHER COLLECTION** command.
+To make a translation or adaptation of a source book, you need to make the Source collection visible to your Derivative collections. This is done using the **SHOW ANOTHER COLLECTION** command.
 
 1. Navigate your mouse to the bottom left quadrant of the Bloom program.
-2. Click the scroll bar and scroll down completely to the bottom.
+2. Click the scroll bar and scroll down entirely to the bottom.
 3. Click on SHOW ANOTHER COLLECTION.
 
 ![](./show-another-collection.2764bb19-df12-80c8-b0d9-c6b6e1e72873.png)

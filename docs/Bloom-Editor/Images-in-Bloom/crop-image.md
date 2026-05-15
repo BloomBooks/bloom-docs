@@ -1,25 +1,54 @@
 ---
 title: Crop an Image
-sidebar_position: 2
+sidebar_position: 4
 slug: /crop-image
 ---
 
 
 
-Sometimes an image has extra elements that you do not want to include in your book. Any time that you cut down an image to show less of it, you **crop** the image. You can use the Bloom Image Toolbox to crop your image.
+To crop an image, you begin by selecting the image by clicking on it. 
 
 
-:::note
-
-Bloom does not provide any other tools for editing images. If you need to edit your images, use an image editing program and then add the image to Bloom. 
-
-:::
+## Crop Image {#2a14bb19df128057b154d7b9bcecbd15}
 
 
+After selecting the image, you will see white crop handles on all four sides of the image: top, bottom, right, and left:
 
-1. Click the **`Crop`** button on the left side of your **Image Toolbox**. Bloom will highlight the image, with four grey **crop bars** along the borders.
-2. **Click and drag** the **four crop bars** toward the center of the image to change how much of the image will show in your book.
-3. Click `OK` to add the image to your book.
 
-	![](./crop-image.dd88ccc1-dc81-4f41-8cd0-db5ce719c92b.png)
+![](./crop-image.2a04bb19-df12-80b2-81ff-f839ec74a0f1.png)
+
+
+Click the Crop handle you want and **drag it toward the middle** of the image. 
+
+
+After cropping on one side, the Crop handle will turn blue (1), and a Move handle (2) will appear: 
+
+
+![](./crop-image.2a14bb19-df12-8086-ad4d-ee967d79f496.png)
+
+
+## Remove Crop {#2a14bb19df12805195f7e4a312f41108}
+
+
+To remove a crop, click the blue Crop handle and drag it back outward toward the edge of the image until it turns white.
+
+
+## Move Image {#2a14bb19df1280eab152d9ad0f2db729}
+
+
+Click the Move handle and drag up or down to change which portion of the image is shown.
+
+
+![](./crop-image.2a24bb19-df12-806d-83df-cdbd1843a034.png)
+
+
+## Reset Image {#2a14bb19df1280368f4aff45bade51fc}
+
+
+If you wish to undo all cropping and return to the original image, select the image, then:
+
+1. Click the **`…`** button.
+2. Click **`Reset Image`**.
+
+![](./crop-image.2a14bb19-df12-8008-80db-e743ed48a0f8.png)
 

@@ -1,6 +1,6 @@
 ---
 title: Start a Sign Language collection
-sidebar_position: 5
+sidebar_position: 1
 slug: /start-sign-language-collection
 keywords: [Sign Language]
 ---

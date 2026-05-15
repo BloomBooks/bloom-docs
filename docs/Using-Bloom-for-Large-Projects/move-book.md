@@ -18,3 +18,12 @@ For example, a book might be in the collection for “Grade 3” book, and you t
 
 ![](./move-book.2764bb19-df12-800e-aab3-d10838442788.png)
 
+
+:::note
+
+Note: if the book you wish to move in a Team Collection, the book must be Checked Out by you before you move it.
+
+:::
+
+
+

@@ -9,6 +9,28 @@ slug: /team-collections-problems
 ## Check-in / Check-out problems {#6f6500e490414e749a1e84d79bc6ff23}
 
 <details>
+<summary>Problem: “Cloud File Provider is not running.”</summary>
+
+This is not a Bloom or Dropbox issue.
+
+
+You will see this message along with the name and location of a specific file. In many cases, the file location will include **“OneDrive.”** If it does, make sure **OneDrive** is open and syncing properly, and check for any error messages.
+
+
+If you’re unsure how to fix it, contact your organization’s IT support team for help.
+
+
+</details>
+
+<details>
+<summary>Syncing problems. I no longer see my colleague’s changes.</summary>
+
+Please check your Dropbox quota and also read [this article](/change-dropbox-tier).
+
+
+</details>
+
+<details>
 <summary>What happens if there is a delay in synchronization such that two people both have a book checked out?</summary>
 
 This should happen only rarely. If it does happen, Dropbox will choose one of the users as the “winner” and one as the “loser”. On the “losing” machine, Bloom will notice within a minute or so that another user is editing the same book. Bloom will send that user back to the Collection tab, and any changes made to the book on the “losing” machine will be removed. Bloom will alert the user to what happened, and why.
