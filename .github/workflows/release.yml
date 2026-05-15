@@ -18,20 +18,17 @@ jobs:
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - name: Setup Node.js
-        uses: actions/setup-node@v5
-        with:
-          node-version: lts/*
+      - name: Install Node.js and pnpm as specified in package.json
+        uses: volta-cli/action@v4
       - name: Install dependencies
-        run: yarn install
-        # for some reason it was telling me my lockfile was out of date run: yarn install --frozen-lockfile
+        run: pnpm install --frozen-lockfile
       - name: Pull from Notion
         env:
           SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
           SIL_BLOOM_DOCS_NOTION_ROOT_PAGE: ${{ secrets.SIL_BLOOM_DOCS_NOTION_ROOT_PAGE }}
-        run: yarn pull
+        run: pnpm pull
       - name: copy-static-docs
-        run: yarn copy-static-docs
+        run: pnpm copy-static-docs
       - name: Commit New Source Material
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
@@ -45,7 +42,7 @@ jobs:
       #  - create (or duplicate from English) localized pdfs in make-pdf.sh
 
       # - name: Crowdin
-      #   run: yarn crowdin:sync
+      #   run: pnpm crowdin:sync
       #   env:
       #     SIL_BLOOM_DOCS_CROWDIN_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_CROWDIN_TOKEN }}
       # - name: Commit New Translations
@@ -54,7 +51,7 @@ jobs:
       #     commit_message: GHAction - Commit incoming translations from Crowdin
 
       - name: Build Docusaurus instance
-        run: yarn build
+        run: pnpm build
       - name: Upload S3
         # We exclude these five paths because they existed before the current system.
         # The five index.html files contain redirects. One is to an external document; the others to pages at docs.bloomlibrary.org.
@@ -76,7 +73,7 @@ jobs:
       # This avoids S3 costs and potential timeouts.
       - name: Start local server for PDF generation
         run: |
-          yarn serve --port 3000 &
+          pnpm serve -- --port 3000 &
           echo $! > server.pid
           # Wait for server to be ready
           for i in {1..30}; do
@@ -89,7 +86,7 @@ jobs:
           done
         shell: bash
       - name: Generate PDFs
-        run: yarn make-pdf
+        run: pnpm make-pdf
       - name: Upload PDFs to S3
         run: aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf"
           # aws s3 cp ./build/fr/downloads/ s3://${{ secrets.AWS_BUCKET }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"

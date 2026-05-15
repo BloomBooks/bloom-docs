@@ -17,12 +17,10 @@ jobs:
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - name: Setup Node.js
-        uses: actions/setup-node@v5
-        with:
-          node-version: lts/*
+      - name: Install Node.js and pnpm as specified in package.json
+        uses: volta-cli/action@v4
       - name: Install dependencies
-        run: yarn
+        run: pnpm install --frozen-lockfile
       - name: Disable AppArmor
         # Ubuntu >= 23 has AppArmor enabled by default, which breaks Puppeteer.
         # See https://github.com/puppeteer/puppeteer/issues/12818 "No usable sandbox!"
@@ -32,7 +30,7 @@ jobs:
         run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
         shell: bash
       - name: Generate PDFs (using live site)
-        run: yarn make-pdf:live
+        run: pnpm make-pdf:live
       - name: Upload PDFs to S3
         run: aws s3 cp ./build/downloads/ s3://${{ secrets.AWS_BUCKET }}/downloads/ --recursive --exclude "*" --include "*.pdf"
           # aws s3 cp ./build/fr/downloads/ s3://${{ secrets.AWS_BUCKET }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"

@@ -1,6 +1,6 @@
 /*
 This file and its corresponding styles.module.css were generated
-by running `yarn swizzle @docusaurus/theme-classic Heading --eject`
+by running `pnpm swizzle @docusaurus/theme-classic Heading --eject`
 which docusaurus considers an unsafe operation.
 Basically, we have duplicated their code and won't get fixes when
 they release new versions. But we are already a major version 
