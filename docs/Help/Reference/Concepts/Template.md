@@ -15,8 +15,11 @@ In the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collecti
 
 -   Templates: [Basic Book](Basic_Book.md) and [eBook](eBook.md).
     
--   Specialized Templates: [Arithmetic Template](Arithmetic.md), [Big Book](Big_Book.md), [Decodable Reader](Decodable_Readers.md), [Digital Comic Book](Digital_Comic_Book_Template.md), [Leveled Reader](Leveled_Readers.md), [Paper Comic Book](Paper_Comic_Book_Template.md), [Sign Language](Sign_Language.md), [Template Starter](Template_Starter.md) and [Wall Calendar](Wall_Calendar.md).
+-   Specialized Templates: [Arithmetic Template](Arithmetic.md), [Big Book](Big_Book.md), [Decodable Reader](Decodable_Readers.md), [Digital Comic Book](Digital_Comic_Book_Template.md), [Leveled Reader](Leveled_Readers.md), [Paper Comic Book](Paper_Comic_Book_Template.md), [Sign Language](Sign_Language.md), [Template Starter](Template_Starter.md) and [Wall Calendar](Wall_Calendar.md). 
     
+
+The Playground template is just a way that you can try out the tools and options in Bloom. You cannot use it to print, publish or distribute your book.
+
 -   Page templates are available in Add Page dialog box when you [add pages](../Tasks/Edit_tasks/Add_a_page.md).
     
 

@@ -23,7 +23,7 @@ Set these 3 environment variables:
 
 ```bash
 # Pull main docs from Notion
-$ yarn docu-notion
+$ yarn pull
 
 # Download and convert reference docs
 $ yarn ref-docs

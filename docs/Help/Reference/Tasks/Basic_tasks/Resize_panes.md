@@ -38,8 +38,6 @@ You can also resize panes that appear in the various [tabs](../../User_Interface
     
 -   Scroll bars appear when there is more content than the available pane or window space can display.
     
--   You can [click a predefined size](../../User_Interface/Tabs/Tabs_overview.md) for the Bloom window.
-    
 
 #### Related Topics
 
