@@ -18,7 +18,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Install Node.js as specified in package.json
-        uses: volta-cli/action@v4
+        uses: volta-cli/action@v5
       - name: Install pnpm
         uses: pnpm/action-setup@v5
         with:
