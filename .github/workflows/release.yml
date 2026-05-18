@@ -79,7 +79,7 @@ jobs:
       # This avoids S3 costs and potential timeouts.
       - name: Start local server for PDF generation
         run: |
-          pnpm serve -- --port 3000 &
+          pnpm serve --port 3000 &
           echo $! > server.pid
           # Wait for server to be ready
           for i in {1..30}; do
