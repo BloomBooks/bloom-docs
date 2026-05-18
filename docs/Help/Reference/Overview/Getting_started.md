@@ -34,8 +34,6 @@ Depending on your [role](../Concepts/Roles.md), you can [open](../Tasks/Basic_ta
 
 [Install Bloom without Internet access](../Tasks/Advanced_tasks/Install_Bloom_with_no_Internet_access.md)
 
-[Install Bloom for all users of a computer](../Tasks/Advanced_tasks/Install_Bloom_for_all_users_of_a_computer.md)
-
 [Get More Help](Get_More_Help.md)
 
 [Tabs overview](../User_Interface/Tabs/Tabs_overview.md)

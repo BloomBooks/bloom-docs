@@ -203,12 +203,6 @@
     </url>
   
     <url>
-      <loc>Tasks/Advanced_tasks/Install_Bloom_for_all_users_of_a_computer.htm</loc>
-      <lastmod>2026-05-18</lastmod>
-      <changefreq>monthly</changefreq>
-    </url>
-  
-    <url>
       <loc>Tasks/Shell_book_tasks/Shell_book_tasks_overview.htm</loc>
       <lastmod>2026-05-18</lastmod>
       <changefreq>monthly</changefreq>
@@ -449,6 +443,12 @@
     </url>
   
     <url>
+      <loc>Tasks/Advanced_tasks/Advanced_tasks_overview.htm</loc>
+      <lastmod>2026-05-18</lastmod>
+      <changefreq>monthly</changefreq>
+    </url>
+  
+    <url>
       <loc>Concepts/Stage.htm</loc>
       <lastmod>2026-05-18</lastmod>
       <changefreq>monthly</changefreq>
@@ -558,12 +558,6 @@
   
     <url>
       <loc>Tasks/Basic_tasks/Change_Bloom_collection_name.htm</loc>
-      <lastmod>2026-05-18</lastmod>
-      <changefreq>monthly</changefreq>
-    </url>
-  
-    <url>
-      <loc>Tasks/Advanced_tasks/Advanced_tasks_overview.htm</loc>
       <lastmod>2026-05-18</lastmod>
       <changefreq>monthly</changefreq>
     </url>
@@ -1415,6 +1409,12 @@
     </url>
   
     <url>
+      <loc>Concepts/Roles.htm</loc>
+      <lastmod>2026-05-18</lastmod>
+      <changefreq>monthly</changefreq>
+    </url>
+  
+    <url>
       <loc>Tasks/Basic_tasks/Change_languages.htm</loc>
       <lastmod>2026-05-18</lastmod>
       <changefreq>monthly</changefreq>
@@ -1440,12 +1440,6 @@
   
     <url>
       <loc>Tasks/Edit_tasks/Decodable_Reader_Tool/Allowed_Words_Files.htm</loc>
-      <lastmod>2026-05-18</lastmod>
-      <changefreq>monthly</changefreq>
-    </url>
-  
-    <url>
-      <loc>Concepts/Roles.htm</loc>
       <lastmod>2026-05-18</lastmod>
       <changefreq>monthly</changefreq>
     </url>

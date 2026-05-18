@@ -57,11 +57,6 @@ Here are some possible roles and tasks. You might work in a group with fewer or 
 -   Read the [source text](Source_text.md). Then, type the translation of it in text boxes that use the local language.
     
 
-### Administrator of a computer lab
-
--   [Install Bloom for all users of a computer](../Tasks/Advanced_tasks/Install_Bloom_for_all_users_of_a_computer.md).
-    
-
 #### Related Topics
 
 [Bilingual and Trilingual Books](Bilingual_or_trilingual_books.md)
