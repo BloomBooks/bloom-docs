@@ -51,8 +51,6 @@ interface TocOrderEntry {
 }
 
 interface TocOrderLookup {
-  docsByDirectory: Map<string, string[]>;
-  categoriesByDirectory: Map<string, string[]>;
   entriesByDirectory: Map<string, TocOrderEntry[]>;
   docLabels: Map<string, string>;
   categoryLabels: Map<string, string>;
@@ -362,18 +360,6 @@ function inferBookDirectoryRelativePath(
   return getRelativeDirectoryForPath(descendantPaths[0]);
 }
 
-function addUniqueOrderedValue(
-  lookup: Map<string, string[]>,
-  key: string,
-  value: string
-) {
-  const existingValues = lookup.get(key) ?? [];
-  if (!existingValues.includes(value)) {
-    existingValues.push(value);
-    lookup.set(key, existingValues);
-  }
-}
-
 function addUniqueOrderedTocEntry(
   lookup: Map<string, TocOrderEntry[]>,
   key: string,
@@ -404,8 +390,6 @@ function buildTocOrderLookup(sourceRoot: string): TocOrderLookup | null {
     return null;
   }
 
-  const docsByDirectory = new Map<string, string[]>();
-  const categoriesByDirectory = new Map<string, string[]>();
   const entriesByDirectory = new Map<string, TocOrderEntry[]>();
   const docLabels = new Map<string, string>();
   const categoryLabels = new Map<string, string>();
@@ -418,7 +402,6 @@ function buildTocOrderLookup(sourceRoot: string): TocOrderLookup | null {
           relativePath &&
           getRelativeDirectoryForPath(relativePath) === currentDirectory
         ) {
-          addUniqueOrderedValue(docsByDirectory, currentDirectory, relativePath);
           addUniqueOrderedTocEntry(entriesByDirectory, currentDirectory, {
             type: "doc",
             relativePath,
@@ -447,11 +430,6 @@ function buildTocOrderLookup(sourceRoot: string): TocOrderLookup | null {
         childDirectory !== currentDirectory &&
         getRelativeDirectoryForPath(childDirectory) === currentDirectory
       ) {
-        addUniqueOrderedValue(
-          categoriesByDirectory,
-          currentDirectory,
-          childDirectory
-        );
         addUniqueOrderedTocEntry(entriesByDirectory, currentDirectory, {
           type: "category",
           relativePath: childDirectory,
@@ -466,8 +444,6 @@ function buildTocOrderLookup(sourceRoot: string): TocOrderLookup | null {
 
   walkToc(rootNodes, "");
   return {
-    docsByDirectory,
-    categoriesByDirectory,
     entriesByDirectory,
     docLabels,
     categoryLabels,
