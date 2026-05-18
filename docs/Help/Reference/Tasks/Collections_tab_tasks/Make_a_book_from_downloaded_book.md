@@ -8,7 +8,7 @@ slug: /Help/Reference/make-a-book-from-downloaded-book
 
 You can [get a book from BloomLibrary.org](../Basic_tasks/Get_a_book_from_BloomLibrary.md). Then, you can use it to make a translated book for your collection. It is expected that you will use the pictures and pages as set in the source book. You may not need to do all the steps in this task.
 
-1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../user_interface/Tabs/Tabs_overview.md).
+1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Tabs_overview.md).
     
     -   In the left pane, look below Books From BloomLibrary.org.
         

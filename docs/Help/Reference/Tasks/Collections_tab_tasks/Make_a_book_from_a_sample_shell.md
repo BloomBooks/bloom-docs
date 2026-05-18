@@ -8,7 +8,7 @@ slug: /Help/Reference/make-a-book-from-a-sample-shell
 
 It is expected that you will use the pictures and pages that are in the sample shell.
 
-1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../user_interface/Tabs/Tabs_overview.md).
+1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Tabs_overview.md).
     
 2.  In the left pane, below Sources For New Books, click the sample shell that you will use as the basis of your book.
     
