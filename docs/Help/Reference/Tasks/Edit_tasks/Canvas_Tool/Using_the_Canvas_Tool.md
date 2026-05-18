@@ -1,6 +1,5 @@
 ---
 title: Using the Canvas Tool
-sidebar_label: "Using_the_Canvas_Tool.htm"
 sidebar_position: 4
 slug: /Help/Reference/using-the-canvas-tool
 ---

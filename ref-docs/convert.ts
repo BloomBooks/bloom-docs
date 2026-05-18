@@ -260,6 +260,10 @@ function normalizeRelativeDirectory(relativePath: string): string {
   return normalizedPath === "." ? "" : normalizedPath;
 }
 
+function isFilenameLikeLabel(label: string): boolean {
+  return /\.html?$/i.test(label.trim());
+}
+
 function getRelativeDirectoryForPath(relativePath: string): string {
   return normalizeRelativeDirectory(path.dirname(relativePath));
 }
@@ -1093,10 +1097,12 @@ function generateFrontMatter(title: string, relativePath: string): string {
   const sidebarPosition =
     sourceOrderLookup.docPositions.get(normalizedRelativePath) ?? 1;
   const sidebarLabel = sourceOrderLookup.docLabels.get(normalizedRelativePath);
+  const sanitizedSidebarLabel =
+    sidebarLabel && !isFilenameLikeLabel(sidebarLabel) ? sidebarLabel : undefined;
 
   return `---
 title: ${title}
-${sidebarLabel && sidebarLabel !== title ? `sidebar_label: ${JSON.stringify(sidebarLabel)}\n` : ""}sidebar_position: ${sidebarPosition}
+${sanitizedSidebarLabel && sanitizedSidebarLabel !== title ? `sidebar_label: ${JSON.stringify(sanitizedSidebarLabel)}\n` : ""}sidebar_position: ${sidebarPosition}
 slug: ${slug}
 ---
 

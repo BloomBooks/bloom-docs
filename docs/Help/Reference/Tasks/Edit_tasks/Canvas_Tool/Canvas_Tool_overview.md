@@ -1,6 +1,5 @@
 ---
 title: Canvas Tool overview
-sidebar_label: "Canvas_Tool_overview.htm"
 sidebar_position: 1
 slug: /Help/Reference/canvas-tool-overview
 ---

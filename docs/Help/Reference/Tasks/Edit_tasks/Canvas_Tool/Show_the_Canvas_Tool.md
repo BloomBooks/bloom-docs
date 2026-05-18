@@ -1,6 +1,5 @@
 ---
 title: Show the Canvas Tool
-sidebar_label: "Show_the_Canvas_Tool.htm"
 sidebar_position: 3
 slug: /Help/Reference/show-the-canvas-tool
 ---
