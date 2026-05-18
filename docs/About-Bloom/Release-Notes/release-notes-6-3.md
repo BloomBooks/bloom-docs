@@ -10,6 +10,9 @@ keywords: [Release Notes]
 ## “Overlay” is now “Canvas” {#29a4bb19df128038ac80c66e228db2aa}
 
 
+Subscription Tier: Pro and Above
+
+
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
@@ -37,6 +40,9 @@ When Bloom first allowed you to drag things like speech bubbles, the idea was to
 ## Navigation Objects {#29a4bb19df128066a642dfd2bd4c5504}
 
 
+Subscription Tier: Pro and Above
+
+
 You can now add buttons that jump the reader to a website or different pages in the book. They can even jump to different books (see Bloom Apps, below).
 
 
@@ -46,6 +52,9 @@ You can now add buttons that jump the reader to a website or different pages in 
 ### Easier Hyperlinks {#2bc4bb19df12803880abe6efb5a485c4}
 
 
+Subscription Tier: Pro and Above
+
+
 The way to set the target of a simple “inline” hyperlink has changed. Select the text you want to be the hyperlink, then click on the link icon. This will open a tool that will let you specify a website URL, a book in the app, or a page of any book in the app.
 
 
@@ -53,6 +62,9 @@ The way to set the target of a simple “inline” hyperlink has changed. Select
 
 
 ## Bloom Apps {#2bc4bb19df128043b83be037cfc1e7f0}
+
+
+Subscription Tier: Pro and Above
 
 
 Bloom excels at providing many ways to publish your book: paper, web, _Bloom Reader_ (Android), _BloomPUB Viewer_ (desktop), ePUB, and [_Kolibri_](https://learningequality.org/kolibri/about-kolibri/)[.](https://learningequality.org/kolibri/about-kolibri/) 
@@ -80,6 +92,9 @@ Build the parts of your Bloom App in the Bloom Editor app. Test it out in the Pu
 ### Book Grids {#29a4bb19df1280a294dfdb03694ddec7}
 
 
+Subscription Tier: Pro and Above
+
+
 A 'Book Grid' is a Table of Contents that shows small pictures and titles of books. Readers can click these to go directly to a book in the app. Usually, you would create a 'TOC' book that includes a page with a Book Grid, and this TOC book would be the first 'Book' in your app.
 
 
@@ -87,6 +102,9 @@ The books in a Book Grid must be part of your current _collection._ A grid can c
 
 
 ## Page Number Position {#29a4bb19df128042b49bd740100c58a5}
+
+
+Subscription Tier: Free
 
 
 ![](./release-notes-6-3.29a4bb19-df12-807a-86e2-cdd8f8dc6651.png)
@@ -108,13 +126,16 @@ Mostly, you should not notice any difference, but here are a few areas where thi
 
 ### System Requirements {#2994bb19df1280199e68e3fb1f42196e}
 
-- Bloom now requires Windows 11 and a computer with a 64-bit processor.
+- Bloom now requires a computer with a 64-bit processor.
 
 ### Image Toolbox {#2994bb19df1280b2b561fc2979557fef}
 
 - We have removed the scanner and camera buttons from the top of the screen. We recently modernized the underpinnings of Bloom and these old buttons didn’t survive the transition. We think that they were rarely, if ever, used.
 
 ## Language Codes {#2994bb19df1280bf9028d77c04d4cd50}
+
+
+Subscription Tier: Free
 
 
 Occasionally you may find that there are some questions about the actual language code of a text box or a source bubble suggestion. We now show the code of text boxes in the Format tool (1). If you hover over a source tab, you will now see its language code (2). 
@@ -124,6 +145,9 @@ Occasionally you may find that there are some questions about the actual languag
 
 
 ## Full Bleed {#3024bb19df12805793efca1b18da9b91}
+
+
+Subscription Tier: Pro and Above
 
 
 You can now turn on Full Bleed layout from the Book Settings.
@@ -160,6 +184,9 @@ If you don’t want any credits on the cover, you can free up that space with th
 
 
 ## Games {#3024bb19df12805998a6dba5e2d588e3}
+
+
+Subscription Tier: Pro and Above
 
 
 You can now control the “Correct” and “Wrong” sounds in all game types, not just the drag and drop ones.
