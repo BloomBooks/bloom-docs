@@ -43,13 +43,41 @@ const stats: DownloadStats = {
   errors: [],
 };
 
+function normalizeRelativeDownloadPath(relativePath: string): string | null {
+  const normalizedPath = path.posix.normalize(relativePath.replace(/\\/g, "/"));
+
+  if (
+    normalizedPath === "." ||
+    normalizedPath === "" ||
+    path.posix.isAbsolute(normalizedPath) ||
+    normalizedPath.startsWith("../")
+  ) {
+    return null;
+  }
+
+  return normalizedPath;
+}
+
+function getSafeTocAssetPath(key: string): string | null {
+  const tocPath = normalizeRelativeDownloadPath(`whxdata/${key}.new.js`);
+  return tocPath && tocPath.startsWith("whxdata/") ? tocPath : null;
+}
+
 async function downloadTextAsset(
   relativePath: string,
   manifest: FileManifest
 ): Promise<string | null> {
-  const url = `${BASE_URL}/${relativePath}`;
-  const outputPath = path.join(OUTPUT_DIR, relativePath);
-  const existingEntry = manifest[relativePath];
+  const normalizedRelativePath = normalizeRelativeDownloadPath(relativePath);
+  if (!normalizedRelativePath) {
+    const errorMessage = `Unsafe download path rejected: ${relativePath}`;
+    console.error(`✗ ${errorMessage}`);
+    stats.errors.push(errorMessage);
+    return null;
+  }
+
+  const url = `${BASE_URL}/${normalizedRelativePath}`;
+  const outputPath = path.join(OUTPUT_DIR, normalizedRelativePath);
+  const existingEntry = manifest[normalizedRelativePath];
 
   try {
     const { lastModified, content } = await downloadFile(url, outputPath);
@@ -61,7 +89,7 @@ async function downloadTextAsset(
       fs.existsSync(outputPath)
     ) {
       if (VERBOSE_MODE) {
-        console.log(`⊙ Skipped (unchanged): ${relativePath}`);
+        console.log(`⊙ Skipped (unchanged): ${normalizedRelativePath}`);
       }
       stats.skipped++;
       return fs.readFileSync(outputPath, "utf-8");
@@ -71,18 +99,18 @@ async function downloadTextAsset(
     ensureDirectoryExists(outputPath);
     fs.writeFileSync(outputPath, textContent, "utf-8");
 
-    manifest[relativePath] = {
+    manifest[normalizedRelativePath] = {
       url,
       downloadedAt: new Date().toISOString(),
       lastModified,
     };
 
-    console.log(`✓ Downloaded: ${relativePath}`);
+    console.log(`✓ Downloaded: ${normalizedRelativePath}`);
     stats.downloaded++;
     return textContent;
   } catch (error) {
-    console.error(`✗ Failed: ${relativePath} - ${error}`);
-    stats.errors.push(`${relativePath}: ${error}`);
+    console.error(`✗ Failed: ${normalizedRelativePath} - ${error}`);
+    stats.errors.push(`${normalizedRelativePath}: ${error}`);
     return null;
   }
 }
@@ -136,7 +164,15 @@ async function downloadRoboHelpTocAssets(
         continue;
       }
 
-      pendingPaths.push(`whxdata/${item.key}.new.js`);
+      const tocAssetPath = getSafeTocAssetPath(item.key);
+      if (!tocAssetPath) {
+        const errorMessage = `Unsafe TOC key rejected: ${item.key}`;
+        console.error(`✗ ${errorMessage}`);
+        stats.errors.push(errorMessage);
+        continue;
+      }
+
+      pendingPaths.push(tocAssetPath);
     }
   }
 
@@ -378,20 +414,32 @@ async function cleanupDeletedFiles(
 ) {
   console.log("\nCleaning up deleted files...");
 
-  const filesToDelete: string[] = [];
+  const safeCurrentUrls = new Set(
+    Array.from(currentUrls)
+      .map((relativePath) => normalizeRelativeDownloadPath(relativePath))
+      .filter((relativePath): relativePath is string => relativePath !== null)
+  );
+  const filesToDelete: Array<{ manifestKey: string; relativePath: string }> = [];
 
   // Find HTML files in manifest that are no longer in sitemap (don't delete images)
-  for (const relativePath of Object.keys(manifest)) {
+  for (const manifestKey of Object.keys(manifest)) {
+    const relativePath = normalizeRelativeDownloadPath(manifestKey);
+    if (!relativePath) {
+      console.warn(`Skipping unsafe manifest path: ${manifestKey}`);
+      delete manifest[manifestKey];
+      continue;
+    }
+
     if (
-      !currentUrls.has(relativePath) &&
+      !safeCurrentUrls.has(relativePath) &&
       relativePath !== "sitemap.xml" &&
       !relativePath.startsWith("assets/")
     ) {
-      filesToDelete.push(relativePath);
+      filesToDelete.push({ manifestKey, relativePath });
     }
   }
 
-  for (const relativePath of filesToDelete) {
+  for (const { manifestKey, relativePath } of filesToDelete) {
     const fullPath = path.join(OUTPUT_DIR, relativePath);
 
     if (fs.existsSync(fullPath)) {
@@ -402,7 +450,7 @@ async function cleanupDeletedFiles(
       stats.deleted++;
     }
 
-    delete manifest[relativePath];
+    delete manifest[manifestKey];
   }
 
   if (filesToDelete.length === 0) {
