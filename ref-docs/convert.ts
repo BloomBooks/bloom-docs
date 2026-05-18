@@ -431,6 +431,62 @@ function ensureDirectoryExists(filePath: string) {
   }
 }
 
+function isSkippedDirectory(name: string): boolean {
+  return ["template", "assets", "whxdata"].includes(name.toLowerCase());
+}
+
+function formatCategoryLabel(name: string): string {
+  return name.replace(/_/g, " ").trim();
+}
+
+function createCategoryKey(dirPath: string): string {
+  const relativePath = path.relative(TARGET_ROOT, dirPath).replace(/\\/g, "/");
+  return ["help-reference", relativePath.toLowerCase()]
+    .filter(Boolean)
+    .join("-")
+    .replace(/[\/\s]+/g, "-");
+}
+
+function writeCategoryMetadata(dirPath: string, label: string) {
+  const categoryPath = path.join(dirPath, "_category_.json");
+  let existingMetadata: Record<string, unknown> = {};
+
+  if (fs.existsSync(categoryPath)) {
+    existingMetadata = JSON.parse(fs.readFileSync(categoryPath, "utf-8"));
+  }
+
+  const metadata = {
+    ...existingMetadata,
+    label: existingMetadata.label ?? label,
+    key: existingMetadata.key ?? createCategoryKey(dirPath),
+  };
+
+  fs.writeFileSync(
+    categoryPath,
+    `${JSON.stringify(metadata)}\n`,
+    "utf-8"
+  );
+}
+
+function createCategoryMetadata(sourceDir: string, targetDir: string) {
+  const entries = fs.readdirSync(sourceDir, { withFileTypes: true });
+
+  for (const entry of entries) {
+    if (!entry.isDirectory() || isSkippedDirectory(entry.name)) {
+      continue;
+    }
+
+    const sourcePath = path.join(sourceDir, entry.name);
+    const targetPath = path.join(targetDir, entry.name);
+
+    if (fs.existsSync(targetPath)) {
+      writeCategoryMetadata(targetPath, formatCategoryLabel(entry.name));
+    }
+
+    createCategoryMetadata(sourcePath, targetPath);
+  }
+}
+
 function processHtmlFile(
   htmlPath: string,
   sourceRoot: string,
@@ -502,9 +558,7 @@ function walkDirectory(dir: string, sourceRoot: string, targetRoot: string) {
 
     if (entry.isDirectory()) {
       // Skip template and asset directories
-      if (
-        ["template", "assets", "whxdata"].includes(entry.name.toLowerCase())
-      ) {
+      if (isSkippedDirectory(entry.name)) {
         continue;
       }
       walkDirectory(fullPath, sourceRoot, targetRoot);
@@ -526,9 +580,7 @@ function collectHtmlFiles(
 
     if (entry.isDirectory()) {
       // Skip template and asset directories
-      if (
-        ["template", "assets", "whxdata"].includes(entry.name.toLowerCase())
-      ) {
+      if (isSkippedDirectory(entry.name)) {
         continue;
       }
       htmlFiles.push(...collectHtmlFiles(fullPath, showProgress));
@@ -640,6 +692,8 @@ function main() {
       console.log(`Progress: ${i + 1}/${htmlFiles.length} (${progress}%)`);
     }
   }
+
+  createCategoryMetadata(sourceRoot, targetRoot);
 
   // Copy images to static directory
   console.log("\nCopying images to static directory...");
