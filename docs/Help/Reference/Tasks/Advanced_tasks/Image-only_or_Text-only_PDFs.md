@@ -1,6 +1,6 @@
 ---
 title: Image-only or Text-only PDFs
-sidebar_position: 1
+sidebar_position: 8
 slug: /Help/Reference/image-only-or-text-only-pdfs
 ---
 
@@ -19,8 +19,8 @@ You may want to produce PDF files that contain only the images or only the words
 
 Do either of these steps:
 
-1.  -   To make a PDF that has only words, paste this into the file:
-        
+-   To make a PDF that has only words, paste this into the file:
+    
 
 /\* The media section below will keep any pictures from appearing in the pdf of this
 
@@ -40,8 +40,8 @@ border: transparent;
 
 `}`
 
-1.  -   To make a PDF that has only pictures, paste this into the file:
-        
+-   To make a PDF that has only pictures, paste this into the file:
+    
 
 /\* The media section below will keep any text from appearing in the pdf of this
 
@@ -93,8 +93,8 @@ visibility: hidden;
 
 Do either of these steps:
 
-1.  -   To make a PDF that has only words, paste this into the file:
-        
+-   To make a PDF that has only words, paste this into the file:
+    
 
 /\* The media section below will keep any pictures from appearing  
 in the pdf of any book in this collection. \*/  
@@ -112,8 +112,8 @@ border: transparent;
 
 `}`
 
-1.  -   To make a PDF that has only pictures, paste this into the file:
-        
+-   To make a PDF that has only pictures, paste this into the file:
+    
 
 /\* The media section below will keep any text from appearing  
 in the pdf of any book in this collection (except where it is part of an image, such as some branding images). \*/  

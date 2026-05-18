@@ -1,6 +1,6 @@
 ---
 title: Using the Impairment Visualizer
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/using-the-impairment-visualizer
 ---
 
@@ -19,12 +19,12 @@ Cataracts
 
 Color Blindness. Then, select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/SelectedRadioButton.png)) a type of color blindness.
 
-1.  -   If the image becomes too difficult to see, [choose](../Change_picture.md) a different image. Otherwise, edit the image in an editing tool to change the colors, contrast levels, line densities and so on.
-        
-    -   Select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/SelectedRadioButton.png)) a different type of color blindness and examine the image again.
-        
-    -   Click the next page that has an image. Examine the image. Edit or replace each image as necessary.
-        
+-   If the image becomes too difficult to see, [choose](../Change_picture.md) a different image. Otherwise, edit the image in an editing tool to change the colors, contrast levels, line densities and so on.
+    
+-   Select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/SelectedRadioButton.png)) a different type of color blindness and examine the image again.
+    
+-   Click the next page that has an image. Examine the image. Edit or replace each image as necessary.
+    
 
 4.  Clear (![](/ref-docs-assets/images/UncheckedBox.PNG)) the check boxes to stop the simulation after you have examined and corrected image problems on all the pages that have an image.
     

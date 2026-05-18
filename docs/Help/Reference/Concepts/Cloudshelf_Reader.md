@@ -1,6 +1,6 @@
 ---
 title: Cloudshelf Reader
-sidebar_position: 1
+sidebar_position: 18
 slug: /Help/Reference/cloudshelf-reader
 ---
 
@@ -8,7 +8,7 @@ slug: /Help/Reference/cloudshelf-reader
 
 This [ePUB reader](Epub_Readers.md) supports iOS and Android devices.
 
-For more information, see: [http://www.bluefirereader.com/cloudshelf-reader.html](http://www.bluefirereader.com/cloudshelf-reader.md "http://www.bluefirereader.com/cloudshelf-reader.md").
+For more information, see: [http://www.bluefirereader.com/cloudshelf-reader.html](http://www.bluefirereader.com/cloudshelf-reader.html "http://www.bluefirereader.com/cloudshelf-reader.html").
 
 #### Tip
 

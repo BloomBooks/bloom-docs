@@ -101,11 +101,10 @@ The [toolbar](../Toolbar/Publish_tab_toolbar.md) has buttons for [printing](..
 
 -   You can right-click the [toolbar](../Toolbar/Toolbars_overview.md) in any tab to see these options:
     
+    -   Click a predefined size for the Bloom window.
+    -   Select (![PIC](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) Start Measure Performance if you want to measure Bloom performance and later see the results.  This selection is cleared each time you close Bloom. You might want to [get more help](../../Overview/Get_More_Help.md) if you have performance issues.
 
 ![PIC](/ref-docs-assets/images/User_Interface/ToolbarDialogBox.png)
-
--   Click a predefined size for the Bloom window.
--   Select (![PIC](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) Start Measure Performance if you want to measure Bloom performance and later see the results.  This selection is cleared each time you close Bloom. You might want to [get more help](../../Overview/Get_More_Help.md) if you have performance issues.
 
 #### Related Topics
 

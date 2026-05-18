@@ -1,6 +1,6 @@
 ---
 title: Text Color dialog box
-sidebar_position: 1
+sidebar_position: 21
 slug: /Help/Reference/text-color-dialog-box
 ---
 

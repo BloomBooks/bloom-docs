@@ -1,6 +1,6 @@
 ---
 title: Level
-sidebar_position: 1
+sidebar_position: 41
 slug: /Help/Reference/level
 ---
 
@@ -35,7 +35,7 @@ Also there may be other useful information on the internet:
     
 -   [Bibliography: Pattern Recognition in Stories](https://pracresources.pbworks.com/f/PatternAndSequence.pdf "https://pracresources.pbworks.com/f/PatternAndSequence.pdf")
     
--   [Getting the Most Out of Picture Books](http://www.rif.org/us/literacy-resources/articles/getting-the-most-out-of-picture-books.md "http://www.rif.org/us/literacy-resources/articles/getting-the-most-out-of-picture-books.md")
+-   [Getting the Most Out of Picture Books](http://www.rif.org/us/literacy-resources/articles/getting-the-most-out-of-picture-books.htm "http://www.rif.org/us/literacy-resources/articles/getting-the-most-out-of-picture-books.htm")
     
 -   [The Literacy Dictionary at books.google.com](http://books.google.com/books?id=ugWzGuZSd60C&pg=PA40&lpg=PA40&dq=literacy+concept+load&source=bl&ots=yRKQYrx2PW&sig=hdP5gw6s1a8reC6pa70eb6OEuSM&hl=en&sa=X&ei=J0RVU8mvE8Kz2gXU_YFw&ved=0CC0Q6AEwAA#v=onepage&q=literacy concept load&f=false "http://books.google.com/books?id=ugWzGuZSd60C&pg=PA40&lpg=PA40&dq=literacy+concept+load&source=bl&ots=yRKQYrx2PW&sig=hdP5gw6s1a8reC6pa70eb6OEuSM&hl=en&sa=X&ei=J0RVU8mvE8Kz2gXU_YFw&ved=0CC0Q6AEwAA#v=onepage&q=literacy%20concept%20load&f=false")
     

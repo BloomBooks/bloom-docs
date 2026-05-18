@@ -1,6 +1,6 @@
 ---
 title: Topics dialog box
-sidebar_position: 1
+sidebar_position: 22
 slug: /Help/Reference/topics-dialog-box
 ---
 

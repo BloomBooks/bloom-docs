@@ -1,6 +1,6 @@
 ---
 title: ePUB Readers
-sidebar_position: 1
+sidebar_position: 26
 slug: /Help/Reference/epub-readers
 ---
 

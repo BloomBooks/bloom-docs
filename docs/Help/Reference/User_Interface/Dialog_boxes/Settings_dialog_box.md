@@ -1,6 +1,6 @@
 ---
 title: Settings dialog box
-sidebar_position: 1
+sidebar_position: 17
 slug: /Help/Reference/settings-dialog-box
 ---
 
@@ -28,7 +28,7 @@ Book Making
 
 -   [Use the Book Making tab](../../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md) to select:
     
--   -   the default [font](../../Concepts/Font.md) for each language
+    -   the default [font](../../Concepts/Font.md) for each language
         
     -   Special Script Settings (the direction of the writing system or if the script requires taller lines)
         

@@ -1,6 +1,6 @@
 ---
 title: Paper Comic Book Template
-sidebar_position: 1
+sidebar_position: 49
 slug: /Help/Reference/paper-comic-book-template
 ---
 

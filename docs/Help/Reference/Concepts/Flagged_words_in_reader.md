@@ -1,6 +1,7 @@
 ---
 title: Flagged words in reader
-sidebar_position: 1
+sidebar_label: "Flagged words in Reader"
+sidebar_position: 28
 slug: /Help/Reference/flagged-words-in-reader
 ---
 

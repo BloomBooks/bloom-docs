@@ -1,6 +1,7 @@
 ---
 title: Bloom callout box
-sidebar_position: 1
+sidebar_label: "Callout box, Bloom"
+sidebar_position: 16
 slug: /Help/Reference/callout-box
 ---
 

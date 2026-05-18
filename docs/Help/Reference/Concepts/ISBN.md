@@ -1,6 +1,6 @@
 ---
 title: ISBN
-sidebar_position: 1
+sidebar_position: 39
 slug: /Help/Reference/isbn
 ---
 
@@ -14,7 +14,7 @@ Bloom handles the ISBN box as follows:
 
 -   An ISBN box appears on the [Credits Page](Credits_Page.md). You can type the ISBN there, if your organization uses them.
     
--   -   If you leave the box empty, the ISBN label is hidden when you publish the book.
+    -   If you leave the box empty, the ISBN label is hidden when you publish the book.
         
     -   If you make a book from a shell book, and the shell book had an ISBN, the shell book ISBN is removed from the new book. This is because the shell book and added book are different books.
         

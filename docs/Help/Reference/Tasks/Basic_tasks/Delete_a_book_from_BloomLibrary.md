@@ -1,12 +1,13 @@
 ---
 title: Delete a book from BloomLibrary
-sidebar_position: 1
+sidebar_label: "Delete a book from BloomLibrary online"
+sidebar_position: 9
 slug: /Help/Reference/delete-a-book-from-bloomlibrary
 ---
 
 ## Delete a book from BloomLibrary.org
 
-BloomLibrary.org has books that you and others have [published](../Publish_tasks/Publish to Web.htm).
+BloomLibrary.org has books that you and others have [published](../Publish_tasks/Publish%20to%20Web.md).
 
 You can delete books that you uploaded.
 
@@ -21,7 +22,7 @@ Log in to [https://bloomlibrary.org/read](https://bloomlibrary.org/read "https:/
 
 #### Tip
 
--   You can update your book in Bloom and [upload](../Publish_tasks/Publish to Web.htm) it again to replace it with a newer version.
+-   You can update your book in Bloom and [upload](../Publish_tasks/Publish%20to%20Web.md) it again to replace it with a newer version.
     
 
 #### Related Topics

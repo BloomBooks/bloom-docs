@@ -29,11 +29,47 @@ interface ConversionStats {
   errors: string[];
 }
 
+interface SourceOrderLookup {
+  docPositions: Map<string, number>;
+  categoryPositions: Map<string, number>;
+  docLabels: Map<string, string>;
+  categoryLabels: Map<string, string>;
+}
+
+interface RoboHelpTocNode {
+  key?: string;
+  name?: string;
+  tocid?: string;
+  type?: string;
+  url?: string;
+  children?: RoboHelpTocNode[];
+}
+
+interface TocOrderEntry {
+  type: "doc" | "category";
+  relativePath: string;
+}
+
+interface TocOrderLookup {
+  docsByDirectory: Map<string, string[]>;
+  categoriesByDirectory: Map<string, string[]>;
+  entriesByDirectory: Map<string, TocOrderEntry[]>;
+  docLabels: Map<string, string>;
+  categoryLabels: Map<string, string>;
+}
+
 const stats: ConversionStats = {
   processed: 0,
   skipped: 0,
   imagesCopied: 0,
   errors: [],
+};
+
+let sourceOrderLookup: SourceOrderLookup = {
+  docPositions: new Map(),
+  categoryPositions: new Map(),
+  docLabels: new Map(),
+  categoryLabels: new Map(),
 };
 
 // Track files with warnings for summary
@@ -171,6 +207,659 @@ function extractTitle(dom: JSDOM): string {
   return "Untitled";
 }
 
+function normalizePathSeparators(filePath: string): string {
+  return filePath.replace(/\\/g, "/");
+}
+
+function isBlankText(text: string | null | undefined): boolean {
+  if (!text) {
+    return true;
+  }
+
+  return text.replace(/\u00a0/g, " ").trim() === "";
+}
+
+function isHtmlFileName(filename: string): boolean {
+  return /\.html?$/i.test(filename);
+}
+
+function isIndexHtmlFileName(filename: string): boolean {
+  return /^index\.html?$/i.test(filename);
+}
+
+function getDecodedPathname(href: string): string {
+  const hrefWithoutFragment = href.split("#")[0].split("?")[0];
+
+  try {
+    return decodeURIComponent(hrefWithoutFragment);
+  } catch {
+    return hrefWithoutFragment;
+  }
+}
+
+function isInternalHtmlHref(href: string): boolean {
+  return (
+    !/^(?:[a-z]+:|\/\/|#)/i.test(href) && /\.html?(?:[?#].*)?$/i.test(href)
+  );
+}
+
+function rewriteInternalHrefToMarkdown(href: string): string {
+  const match = href.match(/^([^?#]*)(\?[^#]*)?(#.*)?$/);
+  if (!match) {
+    return encodeURI(href.replace(/\.html?(?=([?#].*)?$)/i, ".md"));
+  }
+
+  const [, pathPart, queryPart = "", hashPart = ""] = match;
+  const markdownPath = pathPart.replace(/\.html?$/i, ".md");
+
+  return `${encodeURI(markdownPath)}${queryPart}${hashPart}`;
+}
+
+function normalizeRelativeDirectory(relativePath: string): string {
+  const normalizedPath = normalizePathSeparators(relativePath);
+  return normalizedPath === "." ? "" : normalizedPath;
+}
+
+function getRelativeDirectoryForPath(relativePath: string): string {
+  return normalizeRelativeDirectory(path.dirname(relativePath));
+}
+
+function parseRoboHelpTocScript(scriptContent: string): RoboHelpTocNode[] {
+  const match = scriptContent.match(/var\s+toc\s*=\s*(\[[\s\S]*?\]);/);
+  if (!match) {
+    return [];
+  }
+
+  try {
+    const parsed = JSON.parse(match[1]);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+function loadRoboHelpTocTree(
+  tocPath: string,
+  whxdataRoot: string,
+  visitedPaths: Set<string> = new Set()
+): RoboHelpTocNode[] {
+  const normalizedTocPath = normalizePathSeparators(tocPath);
+  if (visitedPaths.has(normalizedTocPath) || !fs.existsSync(tocPath)) {
+    return [];
+  }
+
+  visitedPaths.add(normalizedTocPath);
+  const nodes = parseRoboHelpTocScript(fs.readFileSync(tocPath, "utf-8"));
+
+  for (const node of nodes) {
+    if (node.type !== "book" || !node.key) {
+      continue;
+    }
+
+    node.children = loadRoboHelpTocTree(
+      path.join(whxdataRoot, `${node.key}.new.js`),
+      whxdataRoot,
+      visitedPaths
+    );
+  }
+
+  return nodes;
+}
+
+function resolveTocUrlToRelativePath(
+  sourceRoot: string,
+  url: string | undefined
+): string | null {
+  if (!url) {
+    return null;
+  }
+
+  const resolvedPath = path.resolve(sourceRoot, getDecodedPathname(url));
+  const relativePath = normalizePathSeparators(
+    path.relative(sourceRoot, resolvedPath)
+  );
+
+  if (relativePath.startsWith("../") || !fs.existsSync(resolvedPath)) {
+    return null;
+  }
+
+  return relativePath;
+}
+
+function getDescendantTocRelativePaths(
+  node: RoboHelpTocNode,
+  sourceRoot: string
+): string[] {
+  const descendantPaths: string[] = [];
+
+  if (node.type === "item") {
+    const relativePath = resolveTocUrlToRelativePath(sourceRoot, node.url);
+    if (relativePath) {
+      descendantPaths.push(relativePath);
+    }
+  }
+
+  node.children?.forEach((child) => {
+    descendantPaths.push(...getDescendantTocRelativePaths(child, sourceRoot));
+  });
+
+  return descendantPaths;
+}
+
+function inferBookDirectoryRelativePath(
+  node: RoboHelpTocNode,
+  sourceRoot: string
+): string | null {
+  const descendantPaths = getDescendantTocRelativePaths(node, sourceRoot);
+  if (descendantPaths.length === 0) {
+    return null;
+  }
+
+  return getRelativeDirectoryForPath(descendantPaths[0]);
+}
+
+function addUniqueOrderedValue(
+  lookup: Map<string, string[]>,
+  key: string,
+  value: string
+) {
+  const existingValues = lookup.get(key) ?? [];
+  if (!existingValues.includes(value)) {
+    existingValues.push(value);
+    lookup.set(key, existingValues);
+  }
+}
+
+function addUniqueOrderedTocEntry(
+  lookup: Map<string, TocOrderEntry[]>,
+  key: string,
+  entry: TocOrderEntry
+) {
+  const existingEntries = lookup.get(key) ?? [];
+  if (
+    !existingEntries.some(
+      (existingEntry) =>
+        existingEntry.type === entry.type &&
+        existingEntry.relativePath === entry.relativePath
+    )
+  ) {
+    existingEntries.push(entry);
+    lookup.set(key, existingEntries);
+  }
+}
+
+function buildTocOrderLookup(sourceRoot: string): TocOrderLookup | null {
+  const whxdataRoot = path.join(sourceRoot, "whxdata");
+  const rootTocPath = path.join(whxdataRoot, "toc.new.js");
+  if (!fs.existsSync(rootTocPath)) {
+    return null;
+  }
+
+  const rootNodes = loadRoboHelpTocTree(rootTocPath, whxdataRoot);
+  if (rootNodes.length === 0) {
+    return null;
+  }
+
+  const docsByDirectory = new Map<string, string[]>();
+  const categoriesByDirectory = new Map<string, string[]>();
+  const entriesByDirectory = new Map<string, TocOrderEntry[]>();
+  const docLabels = new Map<string, string>();
+  const categoryLabels = new Map<string, string>();
+
+  const walkToc = (nodes: RoboHelpTocNode[], currentDirectory: string) => {
+    for (const node of nodes) {
+      if (node.type === "item") {
+        const relativePath = resolveTocUrlToRelativePath(sourceRoot, node.url);
+        if (
+          relativePath &&
+          getRelativeDirectoryForPath(relativePath) === currentDirectory
+        ) {
+          addUniqueOrderedValue(docsByDirectory, currentDirectory, relativePath);
+          addUniqueOrderedTocEntry(entriesByDirectory, currentDirectory, {
+            type: "doc",
+            relativePath,
+          });
+          if (node.name && !docLabels.has(relativePath)) {
+            docLabels.set(relativePath, node.name.trim());
+          }
+        }
+        continue;
+      }
+
+      if (node.type !== "book") {
+        continue;
+      }
+
+      const childDirectory = inferBookDirectoryRelativePath(node, sourceRoot);
+      if (childDirectory === null) {
+        continue;
+      }
+
+      if (node.name && !categoryLabels.has(childDirectory)) {
+        categoryLabels.set(childDirectory, node.name.trim());
+      }
+
+      if (
+        childDirectory !== currentDirectory &&
+        getRelativeDirectoryForPath(childDirectory) === currentDirectory
+      ) {
+        addUniqueOrderedValue(
+          categoriesByDirectory,
+          currentDirectory,
+          childDirectory
+        );
+        addUniqueOrderedTocEntry(entriesByDirectory, currentDirectory, {
+          type: "category",
+          relativePath: childDirectory,
+        });
+      }
+
+      if (node.children && node.children.length > 0) {
+        walkToc(node.children, childDirectory);
+      }
+    }
+  };
+
+  walkToc(rootNodes, "");
+  return {
+    docsByDirectory,
+    categoriesByDirectory,
+    entriesByDirectory,
+    docLabels,
+    categoryLabels,
+  };
+}
+
+function getSourceDocSortKey(htmlPath: string): string {
+  const htmlContent = fs.readFileSync(htmlPath, "utf-8");
+  const dom = new JSDOM(htmlContent);
+
+  return extractTitle(dom).toLocaleLowerCase();
+}
+
+function hasMeaningfulContentOutsideNestedLists(listItem: HTMLElement): boolean {
+  return Array.from(listItem.childNodes).some((child) => {
+    if (child.nodeType === child.TEXT_NODE) {
+      return !isBlankText(child.textContent);
+    }
+
+    if (child.nodeType !== child.ELEMENT_NODE) {
+      return false;
+    }
+
+    const element = child as HTMLElement;
+    if (["UL", "OL"].includes(element.tagName)) {
+      return false;
+    }
+
+    return !isBlankText(element.textContent);
+  });
+}
+
+function getMarginLeftPx(element: HTMLElement): number {
+  const marginLeft = element.style.marginLeft;
+  const match = marginLeft.match(/-?\d+(?:\.\d+)?/);
+  return match ? Number(match[0]) : 0;
+}
+
+function findPreviousSiblingList(element: HTMLElement): HTMLElement | null {
+  let sibling = element.previousElementSibling as HTMLElement | null;
+
+  while (sibling) {
+    if (["UL", "OL"].includes(sibling.tagName)) {
+      return sibling;
+    }
+
+    if (sibling.tagName === "P" && isBlankText(sibling.textContent)) {
+      sibling = sibling.previousElementSibling as HTMLElement | null;
+      continue;
+    }
+
+    return null;
+  }
+
+  return null;
+}
+
+function getDirectListItems(list: HTMLElement): HTMLElement[] {
+  return Array.from(list.children).filter(
+    (child): child is HTMLElement => child.tagName === "LI"
+  );
+}
+
+function normalizeListStructure(root: ParentNode) {
+  let changed = true;
+
+  while (changed) {
+    changed = false;
+
+    for (const listItem of Array.from(root.querySelectorAll("li"))) {
+      const nestedLists = Array.from(listItem.children).filter(
+        (child): child is HTMLElement => ["UL", "OL"].includes(child.tagName)
+      );
+
+      if (nestedLists.length === 0) {
+        continue;
+      }
+
+      const isPresentationalWrapper =
+        !hasMeaningfulContentOutsideNestedLists(listItem) &&
+        (listItem.style.listStyle === "none" ||
+          listItem.style.listStyleType === "none" ||
+          listItem.style.display === "inline");
+
+      if (!isPresentationalWrapper) {
+        continue;
+      }
+
+      const parentList = listItem.parentElement as HTMLElement | null;
+      const previousListItem = listItem.previousElementSibling as HTMLElement | null;
+
+      if (previousListItem && previousListItem.tagName === "LI") {
+        nestedLists.forEach((nestedList) => {
+          previousListItem.appendChild(nestedList);
+        });
+        listItem.remove();
+        changed = true;
+        break;
+      }
+
+      nestedLists.forEach((nestedList) => {
+        if (!parentList || !["UL", "OL"].includes(parentList.tagName)) {
+          return;
+        }
+
+        if (nestedList.tagName === parentList.tagName) {
+          getDirectListItems(nestedList).forEach((nestedItem) => {
+            parentList.insertBefore(nestedItem, listItem);
+          });
+          return;
+        }
+
+        parentList.insertBefore(nestedList, listItem);
+      });
+      listItem.remove();
+      changed = true;
+      break;
+    }
+
+    if (changed) {
+      continue;
+    }
+
+    for (const list of Array.from(root.querySelectorAll("ul, ol"))) {
+      const htmlList = list as HTMLElement;
+      const directItems = getDirectListItems(htmlList);
+      if (directItems.length === 0) {
+        continue;
+      }
+
+      const visuallyIndentedSublist = directItems.every(
+        (item) => getMarginLeftPx(item) > 0
+      );
+
+      if (!visuallyIndentedSublist) {
+        continue;
+      }
+
+      const previousList = findPreviousSiblingList(htmlList);
+      if (!previousList) {
+        continue;
+      }
+
+      const previousItems = getDirectListItems(previousList);
+      const parentListItem = previousItems.at(-1);
+      if (!parentListItem) {
+        continue;
+      }
+
+      parentListItem.appendChild(list);
+      changed = true;
+      break;
+    }
+  }
+}
+
+function rewriteInternalLinks(root: ParentNode) {
+  for (const link of Array.from(root.querySelectorAll("a[href]"))) {
+    const href = link.getAttribute("href");
+    if (!href || !isInternalHtmlHref(href)) {
+      continue;
+    }
+
+    link.setAttribute("href", rewriteInternalHrefToMarkdown(href));
+  }
+}
+
+function getOverviewFile(entries: fs.Dirent[], dirPath: string): string | null {
+  const htmlFiles = entries.filter((entry) => entry.isFile() && isHtmlFileName(entry.name));
+  const directoryName = path.basename(dirPath).toLowerCase();
+  const exactOverview = htmlFiles.find(
+    (entry) =>
+      path.basename(entry.name, path.extname(entry.name)).toLowerCase() ===
+      `${directoryName}_overview`
+  );
+
+  if (exactOverview) {
+    return path.join(dirPath, exactOverview.name);
+  }
+
+  const anyOverview = htmlFiles.find((entry) => /_overview\.html?$/i.test(entry.name));
+  return anyOverview ? path.join(dirPath, anyOverview.name) : null;
+}
+
+function getOrderedInternalTargets(
+  overviewPath: string,
+  sourceRoot: string
+): string[] {
+  const html = fs.readFileSync(overviewPath, "utf-8");
+  const dom = new JSDOM(html);
+  const seen = new Set<string>();
+  const orderedTargets: string[] = [];
+  const structuredAnchors = Array.from(
+    dom.window.document.querySelectorAll("ul a[href], ol a[href], table a[href]")
+  );
+  const anchorsToProcess =
+    structuredAnchors.length > 0
+      ? structuredAnchors
+      : Array.from(dom.window.document.querySelectorAll("a[href]"));
+
+  for (const anchor of anchorsToProcess) {
+    const href = anchor.getAttribute("href");
+    if (!href || !isInternalHtmlHref(href)) {
+      continue;
+    }
+
+    const resolvedPath = path.resolve(
+      path.dirname(overviewPath),
+      getDecodedPathname(href)
+    );
+    const relativeTarget = normalizePathSeparators(
+      path.relative(sourceRoot, resolvedPath)
+    );
+
+    if (relativeTarget.startsWith("../") || !fs.existsSync(resolvedPath)) {
+      continue;
+    }
+
+    if (seen.has(relativeTarget)) {
+      continue;
+    }
+
+    seen.add(relativeTarget);
+    orderedTargets.push(relativeTarget);
+  }
+
+  return orderedTargets;
+}
+
+function buildSourceOrderLookup(sourceRoot: string): SourceOrderLookup {
+  const docPositions = new Map<string, number>();
+  const categoryPositions = new Map<string, number>();
+  const tocOrderLookup = buildTocOrderLookup(sourceRoot);
+
+  const walk = (dirPath: string) => {
+    const entries = fs.readdirSync(dirPath, { withFileTypes: true });
+    const relativeDirectory = normalizeRelativeDirectory(
+      path.relative(sourceRoot, dirPath)
+    );
+    const overviewPath = getOverviewFile(entries, dirPath);
+    const orderedTargets = overviewPath
+      ? getOrderedInternalTargets(overviewPath, sourceRoot)
+      : [];
+    const orderedEntriesFromToc =
+      tocOrderLookup?.entriesByDirectory.get(relativeDirectory) ?? [];
+
+    const directHtmlFiles = entries
+      .filter(
+        (entry) =>
+          entry.isFile() &&
+          isHtmlFileName(entry.name) &&
+          !isIndexHtmlFileName(entry.name)
+      )
+      .map((entry) => ({
+        name: entry.name,
+        sortKey: getSourceDocSortKey(path.join(dirPath, entry.name)),
+      }))
+      .sort(
+        (left, right) =>
+          left.sortKey.localeCompare(right.sortKey) ||
+          left.name.localeCompare(right.name)
+      );
+
+    const childDirectories = entries
+      .filter((entry) => entry.isDirectory() && !isSkippedDirectory(entry.name))
+      .map((entry) => entry.name)
+      .sort((left, right) => left.localeCompare(right));
+
+    const orderedCategories: string[] = [];
+
+    if (!tocOrderLookup) {
+      for (const target of orderedTargets) {
+        const resolvedTarget = path.join(sourceRoot, target);
+        const relativeToDirectory = normalizePathSeparators(
+          path.relative(dirPath, resolvedTarget)
+        );
+
+        if (relativeToDirectory.startsWith("../")) {
+          continue;
+        }
+
+        const segments = relativeToDirectory.split("/");
+        if (segments.length === 1) {
+          continue;
+        }
+
+        const directChildDirectory = segments[0];
+        if (
+          childDirectories.includes(directChildDirectory) &&
+          !orderedCategories.includes(directChildDirectory)
+        ) {
+          orderedCategories.push(directChildDirectory);
+        }
+      }
+    }
+
+    const seenDocs = new Set<string>();
+    const seenCategories = new Set<string>();
+    let nextPosition = 1;
+
+    if (orderedEntriesFromToc.length > 0) {
+      for (const entry of orderedEntriesFromToc) {
+        if (entry.type === "doc") {
+          const docName = path.basename(entry.relativePath);
+          if (
+            seenDocs.has(docName) ||
+            !directHtmlFiles.some((file) => file.name === docName)
+          ) {
+            continue;
+          }
+
+          docPositions.set(entry.relativePath, nextPosition++);
+          seenDocs.add(docName);
+          continue;
+        }
+
+        const directoryName = path.basename(entry.relativePath);
+        if (
+          seenCategories.has(directoryName) ||
+          !childDirectories.includes(directoryName)
+        ) {
+          continue;
+        }
+
+        categoryPositions.set(
+          normalizePathSeparators(
+            path.relative(sourceRoot, path.join(dirPath, directoryName))
+          ),
+          nextPosition++
+        );
+        seenCategories.add(directoryName);
+      }
+    } else if (overviewPath) {
+      const overviewRelativePath = normalizePathSeparators(
+        path.relative(sourceRoot, overviewPath)
+      );
+      docPositions.set(overviewRelativePath, nextPosition++);
+      seenDocs.add(path.basename(overviewPath));
+    }
+
+    for (const directoryName of orderedCategories) {
+      if (seenCategories.has(directoryName)) {
+        continue;
+      }
+
+      categoryPositions.set(
+        normalizePathSeparators(
+          path.relative(sourceRoot, path.join(dirPath, directoryName))
+        ),
+        nextPosition++
+      );
+      seenCategories.add(directoryName);
+    }
+
+    for (const { name } of directHtmlFiles) {
+      if (seenDocs.has(name)) {
+        continue;
+      }
+
+      docPositions.set(
+        normalizePathSeparators(
+          path.relative(sourceRoot, path.join(dirPath, name))
+        ),
+        nextPosition++
+      );
+      seenDocs.add(name);
+    }
+
+    for (const directoryName of childDirectories) {
+      if (seenCategories.has(directoryName)) {
+        continue;
+      }
+
+      categoryPositions.set(
+        normalizePathSeparators(
+          path.relative(sourceRoot, path.join(dirPath, directoryName))
+        ),
+        nextPosition++
+      );
+      seenCategories.add(directoryName);
+    }
+
+    childDirectories.forEach((directoryName) => {
+      walk(path.join(dirPath, directoryName));
+    });
+  };
+
+  walk(sourceRoot);
+  return {
+    docPositions,
+    categoryPositions,
+    docLabels: tocOrderLookup?.docLabels ?? new Map(),
+    categoryLabels: tocOrderLookup?.categoryLabels ?? new Map(),
+  };
+}
+
 function cleanHtmlContent(dom: JSDOM): string {
   const doc = dom.window.document;
 
@@ -184,6 +873,9 @@ function cleanHtmlContent(dom: JSDOM): string {
   if (!content) {
     content = doc.body;
   }
+
+  rewriteInternalLinks(content);
+  normalizeListStructure(content);
 
   return content?.innerHTML || "";
 }
@@ -211,23 +903,6 @@ function convertHtmlToMarkdown(htmlPath: string): {
       // Return just the email address from the mailto: title
       return email.trim();
     }
-  );
-
-  // Fix internal links: convert .htm/.html to .md
-  // This handles links in both the URL and title positions: [text](url "title")
-  // Pattern 1: Simple links [text](file.htm)
-  markdown = markdown.replace(/\]\(([^)"\s]+?)\.html?\/?\)/g, "]($1.md)");
-
-  // Pattern 2: Links with titles [text](url "file.htm")
-  markdown = markdown.replace(
-    /\]\(([^)"\s]+?)\s+"([^"]+?)\.html?\/?"?\)/g,
-    ']($1 "$2.md")'
-  );
-
-  // Pattern 3: Links where the title itself contains .htm
-  markdown = markdown.replace(
-    /\]\(([^)"\s]+?)\.html?\/?\s+"([^"]+?)"?\)/g,
-    ']($1.md "$2")'
   );
 
   // Escape angle bracket placeholders that look like HTML/JSX tags
@@ -414,10 +1089,14 @@ function generateFrontMatter(title: string, relativePath: string): string {
   // Generate a slug from the filename
   const filename = path.basename(relativePath, path.extname(relativePath));
   const slug = `/Help/Reference/${filename.toLowerCase().replace(/_/g, "-")}`;
+  const normalizedRelativePath = normalizePathSeparators(relativePath);
+  const sidebarPosition =
+    sourceOrderLookup.docPositions.get(normalizedRelativePath) ?? 1;
+  const sidebarLabel = sourceOrderLookup.docLabels.get(normalizedRelativePath);
 
   return `---
 title: ${title}
-sidebar_position: 1
+${sidebarLabel && sidebarLabel !== title ? `sidebar_label: ${JSON.stringify(sidebarLabel)}\n` : ""}sidebar_position: ${sidebarPosition}
 slug: ${slug}
 ---
 
@@ -447,9 +1126,15 @@ function createCategoryKey(dirPath: string): string {
     .replace(/[\/\s]+/g, "-");
 }
 
-function writeCategoryMetadata(dirPath: string, label: string) {
-  const categoryPath = path.join(dirPath, "_category_.json");
+function writeCategoryMetadata(sourceDir: string, targetDir: string, label: string) {
+  const categoryPath = path.join(targetDir, "_category_.json");
   let existingMetadata: Record<string, unknown> = {};
+  const relativeSourceDir = normalizePathSeparators(
+    path.relative(SOURCE_ROOT, sourceDir)
+  );
+  const categoryPosition = sourceOrderLookup.categoryPositions.get(relativeSourceDir);
+  const categoryLabel =
+    sourceOrderLookup.categoryLabels.get(relativeSourceDir) ?? label;
 
   if (fs.existsSync(categoryPath)) {
     existingMetadata = JSON.parse(fs.readFileSync(categoryPath, "utf-8"));
@@ -457,8 +1142,9 @@ function writeCategoryMetadata(dirPath: string, label: string) {
 
   const metadata = {
     ...existingMetadata,
-    label: existingMetadata.label ?? label,
-    key: existingMetadata.key ?? createCategoryKey(dirPath),
+    label: categoryLabel,
+    key: existingMetadata.key ?? createCategoryKey(targetDir),
+    ...(categoryPosition === undefined ? {} : { position: categoryPosition }),
   };
 
   fs.writeFileSync(
@@ -480,7 +1166,7 @@ function createCategoryMetadata(sourceDir: string, targetDir: string) {
     const targetPath = path.join(targetDir, entry.name);
 
     if (fs.existsSync(targetPath)) {
-      writeCategoryMetadata(targetPath, formatCategoryLabel(entry.name));
+      writeCategoryMetadata(sourcePath, targetPath, formatCategoryLabel(entry.name));
     }
 
     createCategoryMetadata(sourcePath, targetPath);
@@ -497,10 +1183,10 @@ function processHtmlFile(
       console.log(`Processing: ${htmlPath}`);
     }
 
-    // Skip index.html files as they're typically navigation
-    if (path.basename(htmlPath).toLowerCase() === "index.html") {
+    // Skip layout index files as they're navigation rather than content
+    if (isIndexHtmlFileName(path.basename(htmlPath))) {
       if (VERBOSE_MODE) {
-        console.log("  Skipping index.html");
+        console.log("  Skipping index file");
       }
       stats.skipped++;
       return;
@@ -562,7 +1248,7 @@ function walkDirectory(dir: string, sourceRoot: string, targetRoot: string) {
         continue;
       }
       walkDirectory(fullPath, sourceRoot, targetRoot);
-    } else if (entry.isFile() && /\.html?$/i.test(entry.name)) {
+    } else if (entry.isFile() && isHtmlFileName(entry.name)) {
       processHtmlFile(fullPath, sourceRoot, targetRoot);
     }
   }
@@ -584,7 +1270,11 @@ function collectHtmlFiles(
         continue;
       }
       htmlFiles.push(...collectHtmlFiles(fullPath, showProgress));
-    } else if (entry.isFile() && /\.html?$/i.test(entry.name)) {
+    } else if (entry.isFile() && isHtmlFileName(entry.name)) {
+      if (isIndexHtmlFileName(entry.name)) {
+        continue;
+      }
+
       htmlFiles.push(fullPath);
       if (showProgress) {
         if (htmlFiles.length === 1) {
@@ -681,6 +1371,8 @@ function main() {
   console.log("Scanning for HTML files to convert...");
   const htmlFiles = collectHtmlFiles(sourceRoot, true);
   console.log(`Found ${htmlFiles.length} HTML files to convert\n`);
+
+  sourceOrderLookup = buildSourceOrderLookup(sourceRoot);
 
   // Process all files with progress reporting
   for (let i = 0; i < htmlFiles.length; i++) {

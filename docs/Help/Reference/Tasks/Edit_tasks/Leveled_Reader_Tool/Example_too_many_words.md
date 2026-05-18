@@ -1,6 +1,6 @@
 ---
 title: Example -Too many words
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/example-too-many-words
 ---
 

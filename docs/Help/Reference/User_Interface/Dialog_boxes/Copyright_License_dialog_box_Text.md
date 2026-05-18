@@ -1,12 +1,12 @@
 ---
 title: Copyright & License dialog box - Text
-sidebar_position: 1
+sidebar_position: 8
 slug: /Help/Reference/copyright-license-dialog-box-text
 ---
 
 ## Copyright and License dialog box - Text
 
-Use this dialog box for the textual content in the book. It is [intellectual property](../../Concepts/Intellectual_Property.md). The information appears on the Credits Page, as metadata when you [publish to the Web](../../Tasks/Publish_tasks/Publish to Web.htm). Also, Creative Commons selections appear in the Book Metadata [dialog box](Book_Metadata_dialog_box.md).
+Use this dialog box for the textual content in the book. It is [intellectual property](../../Concepts/Intellectual_Property.md). The information appears on the Credits Page, as metadata when you [publish to the Web](../../Tasks/Publish_tasks/Publish%20to%20Web.md). Also, Creative Commons selections appear in the Book Metadata [dialog box](Book_Metadata_dialog_box.md).
 
 1.  In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit tab, click the Credits Page.
     

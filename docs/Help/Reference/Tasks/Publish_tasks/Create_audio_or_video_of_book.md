@@ -1,6 +1,6 @@
 ---
 title: Publish as Audio or Video
-sidebar_position: 1
+sidebar_position: 13
 slug: /Help/Reference/create-audio-or-video-of-book
 ---
 

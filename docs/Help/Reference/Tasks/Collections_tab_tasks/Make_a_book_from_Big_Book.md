@@ -1,6 +1,6 @@
 ---
 title: Make a book from Big Book template
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/make-a-book-from-big-book
 ---
 

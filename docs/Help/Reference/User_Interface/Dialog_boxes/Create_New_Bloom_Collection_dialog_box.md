@@ -1,6 +1,7 @@
 ---
 title: Create New Bloom Collection dialog box
-sidebar_position: 1
+sidebar_label: "Create New Collection dialog box"
+sidebar_position: 9
 slug: /Help/Reference/create-new-bloom-collection-dialog-box
 ---
 

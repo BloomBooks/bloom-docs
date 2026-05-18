@@ -1,6 +1,6 @@
 ---
 title: Add custom thumbnail for Bloom Library
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/add-custom-thumbnail-for-bloomlibrary
 ---
 
@@ -13,7 +13,7 @@ slug: /Help/Reference/add-custom-thumbnail-for-bloomlibrary
 
 custom-thumbnail-256.png
 
-3.  Do the steps in [Publish to Web](Publish to Web.htm) to upload your book to Bloom Library.
+3.  Do the steps in [Publish to Web](Publish%20to%20Web.md) to upload your book to Bloom Library.
     
 4.  Wait 10 to 15 minutes for the Bloom Harvester to update your book.
     

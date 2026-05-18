@@ -1,6 +1,7 @@
 ---
 title: Using the Canvas Tool
-sidebar_position: 1
+sidebar_label: "Using_the_Canvas_Tool.htm"
+sidebar_position: 4
 slug: /Help/Reference/using-the-canvas-tool
 ---
 
@@ -16,9 +17,8 @@ This Help topic describes the steps you might do to add or edit with elements fr
     
 4.  To add a new element to a page, click and drag it from the Canvas Tool to the desired location on the image.
     
-
--   To duplicate an existing canvas element, press the Alt key and then click the element  you want to duplicate.
-    
+    -   To duplicate an existing canvas element, press the Alt key and then click the element  you want to duplicate.
+        
 
 Now, when you click the element you added or duplicated, a toolbar appears. It shows a set of options, such as ![PICTURE](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/ToolbarExample.png). The options depend on the kind of element.
 
@@ -102,9 +102,8 @@ Click the tail. Then, click and drag one or more move symbols ( ![PICTURE](/ref
 
 5.  Click a bubble, text block, caption box, or image and then use any of these tool box controls, if they are available:
     
-
--   Click the Style control if you want to change the shape of the current element.
-    
+    -   Click the Style control if you want to change the shape of the current element.
+        
 
 For example, the Ellipse style elongates the bubble compared to Speech style. Or, you can change the type, such as to change a bubble to be a text box or caption.
 

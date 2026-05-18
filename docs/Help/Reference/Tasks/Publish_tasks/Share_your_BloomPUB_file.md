@@ -1,6 +1,6 @@
 ---
 title: Publish your BlooomPUB
-sidebar_position: 1
+sidebar_position: 19
 slug: /Help/Reference/share-your-bloompub-file
 ---
 
@@ -30,9 +30,8 @@ If you select (![PIC](/ref-docs-assets/images/Tasks/Publish_tasks/SelectedCheckB
 
 5.  Click the button that you see:
     
-
--   SAVE
-    
+    -   SAVE
+        
 
 In the Save As dialog box, open the folder where you want to save the BloomPUB (\*.bloompub) file, and then click Save.
 
@@ -54,7 +53,7 @@ Click STOP PUBLISHING in the Publishing dialog box when your book has been sent.
     
 -   Below Help, you can
     
--   -   Click a link to open a Help topic or a separate file that was installed with Bloom.
+    -   Click a link to open a Help topic or a separate file that was installed with Bloom.
         
     -   Click ![PIC](/ref-docs-assets/images/Tasks/Publish_tasks/BRAppIcon.png) Get Bloom Reader App to open the Google Play store.
         

@@ -1,6 +1,6 @@
 ---
 title: Install Bloom Reader app
-sidebar_position: 1
+sidebar_position: 6
 slug: /Help/Reference/install-bloom-reader-app
 ---
 

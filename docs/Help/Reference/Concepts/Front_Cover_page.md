@@ -1,6 +1,6 @@
 ---
 title: Front Cover page
-sidebar_position: 1
+sidebar_position: 30
 slug: /Help/Reference/front-cover-page
 ---
 
@@ -31,7 +31,7 @@ You can also use the [back cover pages](Back_cover_pages.md).
 
 #### Note
 
--   The book title and picture appear in the Book Metadata dialog box. The book title is metadata when you [Publish to Web](../Tasks/Publish_tasks/Publish to Web.htm).
+-   The book title and picture appear in the Book Metadata dialog box. The book title is metadata when you [Publish to Web](../Tasks/Publish_tasks/Publish%20to%20Web.md).
     
 -   You can [format](../User_Interface/Dialog_boxes/Format_dialog_box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) the text boxes on these pages.
     

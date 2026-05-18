@@ -1,6 +1,6 @@
 ---
 title: Front/Back Matter Pack
-sidebar_position: 1
+sidebar_position: 31
 slug: /Help/Reference/front-back-matter-pack
 ---
 

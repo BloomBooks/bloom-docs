@@ -1,6 +1,6 @@
 ---
 title: Edit a book
-sidebar_position: 1
+sidebar_position: 15
 slug: /Help/Reference/edit-a-book
 ---
 

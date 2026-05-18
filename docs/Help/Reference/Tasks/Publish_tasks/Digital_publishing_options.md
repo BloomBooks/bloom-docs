@@ -1,6 +1,6 @@
 ---
 title: Digital publishing options
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/digital-publishing-options
 ---
 
@@ -8,7 +8,7 @@ slug: /Help/Reference/digital-publishing-options
 
 Here are the options you see in the ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) Publish tab:
 
--   ![](/ref-docs-assets/images/Tasks/Publish_tasks/UploadNew.png) Web — [Publish to Web](Publish to Web.htm) puts your books or collection on [BloomLibrary.org](https://bloomlibrary.org/ "https://bloomlibrary.org/") so that other people can read them, [download](../Basic_tasks/Get_a_book_from_BloomLibrary.md) them to their devices and share them with other people.
+-   ![](/ref-docs-assets/images/Tasks/Publish_tasks/UploadNew.png) Web — [Publish to Web](Publish%20to%20Web.md) puts your books or collection on [BloomLibrary.org](https://bloomlibrary.org/ "https://bloomlibrary.org/") so that other people can read them, [download](../Basic_tasks/Get_a_book_from_BloomLibrary.md) them to their devices and share them with other people.
     
 -   ![](/ref-docs-assets/images/Tasks/Publish_tasks/Android_Button_New.png)BloomPUB — This option allows you and others to view your books on phone apps (Bloom Reader and Reading App Builder apps) and on Windows using BloomPUB Viewer.
     

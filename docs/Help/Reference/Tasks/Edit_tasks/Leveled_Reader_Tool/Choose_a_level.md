@@ -1,6 +1,6 @@
 ---
 title: Choose a level
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/choose-a-level
 ---
 

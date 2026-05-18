@@ -1,6 +1,6 @@
 ---
 title: Wall Calendar
-sidebar_position: 1
+sidebar_position: 75
 slug: /Help/Reference/wall-calendar
 ---
 

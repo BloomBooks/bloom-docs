@@ -80,11 +80,10 @@ Above some game pages, you can see these controls:
     
 -   Use the Game Tool:
     
-
--   [Set up games overview](Set_up_games_overview.md)
-    
--   [Set up the Drag Images to Targets game](Set_up_Drag_Images_to_Targets_game.md)
-    
+    -   [Set up games overview](Set_up_games_overview.md)
+        
+    -   [Set up the Drag Images to Targets game](Set_up_Drag_Images_to_Targets_game.md)
+        
 
 #### Note
 

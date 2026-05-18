@@ -1,6 +1,6 @@
 ---
 title: Instructions page
-sidebar_position: 1
+sidebar_position: 36
 slug: /Help/Reference/instructions-page
 ---
 

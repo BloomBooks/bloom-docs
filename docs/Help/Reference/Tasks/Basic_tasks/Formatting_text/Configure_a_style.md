@@ -1,6 +1,6 @@
 ---
 title: Configure a style
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/configure-a-style
 ---
 
@@ -22,30 +22,31 @@ In a text box that uses the [style](../../../Concepts/Styles.md) you want to co
 2.  Characters tab - make any of these choices:
     
 
-2.  -   Choose a font face that has a check mark (![](/ref-docs-assets/images/ValidFONT.png) - described below).
-        
-    -   Choose a font size.
-        
-    -   Choose a different numerical value that sets the spacing between lines of text.  
-        For example, "2.0" means that the line is twice as high as the font.
-        
+-   Choose a font face that has a check mark (![](/ref-docs-assets/images/ValidFONT.png) - described below).
+    
+-   Choose a font size.
+    
+-   Choose a different numerical value that sets the spacing between lines of text.  
+    For example, "2.0" means that the line is twice as high as the font.
+    
 
-2.  -   Choose Normal, Wide, or Extra Wide for the spacing between words.
-        
-    -   Choose one or more Emphasis: ![](/ref-docs-assets/images/Tasks/Edit_tasks/EmphasisButtons.png) (bold, italics or underlined).
-        
-    -   Click the Color control to [use](Choose_text_color_for_a_style.md) the Text Color [dialog box](../../../User_Interface/Dialog_boxes/Text_Color_dialog_box.md).
-        
+-   Choose Normal, Wide, or Extra Wide for the spacing between words.
+    
+-   Choose one or more Emphasis: ![](/ref-docs-assets/images/Tasks/Edit_tasks/EmphasisButtons.png) (bold, italics or underlined).
+    
+-   Click the Color control to [use](Choose_text_color_for_a_style.md) the Text Color [dialog box](../../../User_Interface/Dialog_boxes/Text_Color_dialog_box.md).
+    
 
 3.  Paragraph tab - make any of these choices:
     
     -   Click one of the Indent options: ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/LeftIndent.png) (no indent) or ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/FirstLineIndent.png) (first line indent).
         
 
-3.  -   Click one of the Alignment options: ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/LeftAlignment.png), ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/CenteredAlignment.png) or ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/RtAlign.png).
-        
-4.  -   Click the Space Between Paragraphs control, and then click a number.
-        
+-   Click one of the Alignment options: ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/LeftAlignment.png), ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/CenteredAlignment.png) or ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/RtAlign.png).
+    
+
+-   Click the Space Between Paragraphs control, and then click a number.
+    
 
 0 means that no additional space will be added between paragraphs;
 
@@ -53,11 +54,10 @@ In a text box that uses the [style](../../../Concepts/Styles.md) you want to co
 
 4.  Highlighting tab - When audio is playing the text in a Canvas Tool element (speech bubble, text box and so on) that text is highlighted with colors. You choose those colors used for the highlighting in this tab. These colors are used with the style you set in the Style Name tab.
     
-
--   Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) Background color and then click the colored box to open and use the Background color dialog box.
-    
--   Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) Text color and then click the colored box to open and use the Text color dialog box.
-    
+    -   Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) Background color and then click the colored box to open and use the Background color dialog box.
+        
+    -   Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) Text color and then click the colored box to open and use the Text color dialog box.
+        
 
 5.  Canvas Test tab - click the down arrow (![](/ref-docs-assets/images/DownArrowGray.png)) and then click a padding value to set the space between the text and its border.
     

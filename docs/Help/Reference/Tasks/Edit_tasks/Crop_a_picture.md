@@ -1,6 +1,6 @@
 ---
 title: Crop a picture
-sidebar_position: 1
+sidebar_position: 13
 slug: /Help/Reference/crop-a-picture
 ---
 
@@ -22,8 +22,8 @@ The Image Toolbox appears.
 
 Do this for each edge:
 
-3.  -   Click a rectangle and drag it to remove the unwanted part from that edge.
-        
+-   Click a rectangle and drag it to remove the unwanted part from that edge.
+    
 
 Release the mouse button. Look at the image on the right to see the result.
 

@@ -1,6 +1,6 @@
 ---
 title: Big Book
-sidebar_position: 1
+sidebar_position: 10
 slug: /Help/Reference/big-book
 ---
 
@@ -53,4 +53,4 @@ You can delete this page if you do not want to use it.
 
 #### Related Internet Sites
 
-[https://www.papersizes.org/a-paper-sizes.htm](https://www.papersizes.org/a-paper-sizes.md "https://www.papersizes.org/a-paper-sizes.md")
+[https://www.papersizes.org/a-paper-sizes.htm](https://www.papersizes.org/a-paper-sizes.htm "https://www.papersizes.org/a-paper-sizes.htm")

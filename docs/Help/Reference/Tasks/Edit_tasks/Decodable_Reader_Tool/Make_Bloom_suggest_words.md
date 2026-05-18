@@ -1,6 +1,6 @@
 ---
 title: Make Bloom suggest words
-sidebar_position: 1
+sidebar_position: 9
 slug: /Help/Reference/make-bloom-suggest-words
 ---
 
@@ -15,7 +15,7 @@ Each stage is linked to an [allowed words file](Allowed_Words_Files.md).
 
 -   If We are using letters with sight works to define stages is [selected](Words_tab.md), here are the criteria:
     
--   -   You have added [letters](Letters_tab.md) in the Letters tab.
+    -   You have added [letters](Letters_tab.md) in the Letters tab.
         
     -   You have added and [configured](Decodable_Stages_tab.md) at least one [stage](../../../Concepts/Stage.md).
         

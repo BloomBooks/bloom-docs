@@ -1,12 +1,13 @@
 ---
 title: Get a book from BloomLibrary
-sidebar_position: 1
+sidebar_label: "Get a book from BloomLibrary online"
+sidebar_position: 15
 slug: /Help/Reference/get-a-book-from-bloomlibrary
 ---
 
 ## Get a book from BloomLibrary.org
 
-BloomLibrary.org has books that others have [published to the web](../Publish_tasks/Publish to Web.htm). You can download a book and [make a book from it](../Collections_tab_tasks/Make_a_book_from_downloaded_book.md). If it has audio, that audio is also downloaded as part of the shell book.
+BloomLibrary.org has books that others have [published to the web](../Publish_tasks/Publish%20to%20Web.md). You can download a book and [make a book from it](../Collections_tab_tasks/Make_a_book_from_downloaded_book.md). If it has audio, that audio is also downloaded as part of the shell book.
 
 #### Prerequisites
 

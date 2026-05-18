@@ -1,6 +1,6 @@
 ---
 title: Multiple color profiles for PDF output
-sidebar_position: 1
+sidebar_position: 10
 slug: /Help/Reference/multiple-color-profiles-for-pdf-output
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Bloom Accessibility Checker dialog box
-sidebar_position: 1
+sidebar_position: 23
 slug: /Help/Reference/bloom-accessibility-checker-dialog-box
 ---
 
@@ -44,12 +44,12 @@ Violations, Metadata, Outlines and Images.
 
 To learn about them, review the information at these Internet sites:
 
--   -   [https://daisy.github.io/ace/](https://daisy.github.io/ace/ "https://daisy.github.io/ace/")
-        
-    -   [https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/](https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/ "https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/")
-        
-    -   [https://daisy.github.io/ace/docs/report-html/](https://daisy.github.io/ace/docs/report-html/ "https://daisy.github.io/ace/docs/report-html/").
-        
+-   [https://daisy.github.io/ace/](https://daisy.github.io/ace/ "https://daisy.github.io/ace/")
+    
+-   [https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/](https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/ "https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/")
+    
+-   [https://daisy.github.io/ace/docs/report-html/](https://daisy.github.io/ace/docs/report-html/ "https://daisy.github.io/ace/docs/report-html/").
+    
 -   Ace uses external stylesheets so it requires an Internet connection.
     
 -   You can leave this dialog box open as you correct problems and click the Refresh button to update the report.

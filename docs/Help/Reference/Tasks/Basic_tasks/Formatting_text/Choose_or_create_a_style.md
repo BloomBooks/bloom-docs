@@ -1,6 +1,6 @@
 ---
 title: Choose or create a style
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/choose-or-create-a-style
 ---
 
@@ -18,10 +18,10 @@ The Format dialog box opens.
 
 If you do not see the style you need, do these steps:
 
-2.  -   Click the Create a new style link.
-        
-    -   Type a name for the new style in the New Style box, and then click Create.
-        
+-   Click the Create a new style link.
+    
+-   Type a name for the new style in the New Style box, and then click Create.
+    
 
 The new style is the current (selected) style so you can [configure it](Configure_a_style.md).
 

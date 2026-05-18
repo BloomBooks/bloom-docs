@@ -1,6 +1,6 @@
 ---
 title: Edit a Big Book
-sidebar_position: 1
+sidebar_position: 16
 slug: /Help/Reference/edit-a-big-book
 ---
 

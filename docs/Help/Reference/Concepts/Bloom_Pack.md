@@ -1,6 +1,7 @@
 ---
 title: Bloom Pack
-sidebar_position: 1
+sidebar_label: "BloomPack"
+sidebar_position: 12
 slug: /Help/Reference/bloom-pack
 ---
 
@@ -15,10 +16,10 @@ There are two kinds of Bloom Packs.
 
 When you [make](../Tasks/Shell_book_tasks/Make_a_Bloom_Pack.md) one, here is what happens:
 
-1.  -   Bloom puts all the [shell books](Shell_book.md) in the collection into a zip file.
-        
-    -   Bloom changes the file name from `<name>`.zip to `<name>`.BloomPack.
-        
+-   Bloom puts all the [shell books](Shell_book.md) in the collection into a zip file.
+    
+-   Bloom changes the file name from `<name>`.zip to `<name>`.BloomPack.
+    
 
 One person can [create shell books for others](../Tasks/Shell_book_tasks/Create_a_shell_book.md) and then [make](../Tasks/Shell_book_tasks/Make_a_Bloom_Pack.md) a Bloom Pack that other people can [get](../Tasks/Basic_tasks/Get_shell_books_from_others.md). People who get these Bloom Packs can translate the book into other languages. However, the Template Pages page is not available for use, nor can the pages be reordered.
 
@@ -38,10 +39,10 @@ Use this command when you work with the Decodable Reader Tool or Leveled Reader 
 
 When you [make](../Tasks/Basic_tasks/Make_Reader_Template_BloomPack.md) one, here is what happens:
 
-1.  -   Bloom does the same things as it does for a basic Bloom Pack but also puts the decodable reader settings, the leveled reader settings, and the current set of [sample words](../Tasks/Edit_tasks/Decodable_Reader_Tool/Words_tab.md) in the file.
-        
-    -   Files in the Sample Texts folder become .json files. See: [About word list and sample texts](About_word_lists_and_sample_texts.md).
-        
+-   Bloom does the same things as it does for a basic Bloom Pack but also puts the decodable reader settings, the leveled reader settings, and the current set of [sample words](../Tasks/Edit_tasks/Decodable_Reader_Tool/Words_tab.md) in the file.
+    
+-   Files in the Sample Texts folder become .json files. See: [About word list and sample texts](About_word_lists_and_sample_texts.md).
+    
 
 One person can [set up](../Tasks/Edit_tasks/Decodable_Reader_Tool/Set_up_Decodable_Reader_Tool_dialog_box.md) decodable readers or [set up](../Tasks/Edit_tasks/Leveled_Reader_Tool/Set_up_Leveled_Reader_Tool_dialog_box.md) leveled readers and then [make](../Tasks/Basic_tasks/Make_Reader_Template_BloomPack.md) a reader template Bloom Pack. Other people can [get](../Tasks/Basic_tasks/Get_Reader_Template_Bloom_Pack_from_others.md) it. In this case, the people who get these Bloom Packs can use them like [templates](Template.md). You can add pages and reorder pages.
 

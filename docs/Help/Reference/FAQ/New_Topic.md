@@ -12,7 +12,7 @@ Frequently Asked Questions (FAQ) include these:
 
 -   How do I
     
--   -   [Change the font or font size?](../User_Interface/Dialog_boxes/Format_dialog_box.md)
+    -   [Change the font or font size?](../User_Interface/Dialog_boxes/Format_dialog_box.md)
         
     -   [Choose or change a style?](../Tasks/Basic_tasks/Formatting_text/Formatting_Text_overview.md)
         
@@ -24,7 +24,7 @@ Frequently Asked Questions (FAQ) include these:
         
     -   [Make an audio recording of a book?](../Tasks/Edit_tasks/Record_Audio/Talking_Book_Tool_overview.md)
         
-    -   -   [How do I correct a sound quality problem on Windows 10 computers?](../Tasks/Edit_tasks/Record_Audio/Correct_sound_quality_problem_on_Windows_10.md)
+        -   [How do I correct a sound quality problem on Windows 10 computers?](../Tasks/Edit_tasks/Record_Audio/Correct_sound_quality_problem_on_Windows_10.md)
             
     -   [See invisible characters?](../Concepts/Invisible_characters.md)
         
@@ -37,14 +37,14 @@ Frequently Asked Questions (FAQ) include these:
     -   More: [Tasks overview](../Tasks/Tasks_overview.md)
         
 
-1.  -   Configure mailto: to work with gmail, instead of outlook?  
-        See:  
-        [http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook](http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook "http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook")
-        
+-   Configure mailto: to work with gmail, instead of outlook?  
+    See:  
+    [http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook](http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook "http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook")
+    
 
 -   What is a/the
     
--   -   [Bloom Enterprise?](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md)
+    -   [Bloom Enterprise?](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md)
         
     -   [Collection?](../Concepts/Collection.md)
         
@@ -54,7 +54,7 @@ Frequently Asked Questions (FAQ) include these:
         
 -   Where is/are
     
--   -   [My book?](../Concepts/Collection.md)
+    -   [My book?](../Concepts/Collection.md)
         
     -   [Digital publishing options?](../Tasks/Publish_tasks/Digital_publishing_options.md)
         
@@ -66,7 +66,7 @@ Frequently Asked Questions (FAQ) include these:
         
 -   Why can't I
     
--   -   [Add new pages in my book?](../Tasks/Edit_tasks/Add_a_page.md)
+    -   [Add new pages in my book?](../Tasks/Edit_tasks/Add_a_page.md)
         
 
 -   Which features are available to me?
@@ -78,7 +78,7 @@ Frequently Asked Questions (FAQ) include these:
 
 -   How do I
     
--   -   [Add background music?](../Tasks/Edit_tasks/Music_Tool/Music_Tool_overview.md)
+    -   [Add background music?](../Tasks/Edit_tasks/Music_Tool/Music_Tool_overview.md)
         
     -   [Add motion to still (inanimate) pictures?](../Tasks/Edit_tasks/Motion_Tool/Motion_Tool_overview.md)
         
@@ -93,7 +93,7 @@ Frequently Asked Questions (FAQ) include these:
 
 -   How do I
     
--   -   [Find (show) tools in the Tool box?](../Concepts/Tool_Box.md)
+    -   [Find (show) tools in the Tool box?](../Concepts/Tool_Box.md)
         
     -   Tell Bloom about [special sentence-ending punctuation](../Tasks/Edit_tasks/Leveled_Reader_Tool/Punctuation_tab.md)?
         
@@ -102,7 +102,7 @@ Frequently Asked Questions (FAQ) include these:
 
 -   How do I
     
--   -   [Use the Sign Language Tool?](../Tasks/Edit_tasks/Sign_Language_Tool/Using_the_Sign_Languager_Tool.md)
+    -   [Use the Sign Language Tool?](../Tasks/Edit_tasks/Sign_Language_Tool/Using_the_Sign_Languager_Tool.md)
         
 
 ### Books for the Visually Impaired

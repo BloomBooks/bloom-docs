@@ -1,6 +1,6 @@
 ---
 title: Choose Different Layout
-sidebar_position: 1
+sidebar_position: 8
 slug: /Help/Reference/choose-different-layout
 ---
 
@@ -26,18 +26,18 @@ The Choose Different Layout dialog box opens.
 5.  Do one of these steps:
     
 
-1.  -   If the page (or pages) has contents and Bloom determines that converting the page to the layout will cause some contents to be lost, a warning appears. In this case, you can do any of these steps:
+-   If the page (or pages) has contents and Bloom determines that converting the page to the layout will cause some contents to be lost, a warning appears. In this case, you can do any of these steps:
+    
+    -   Click outside of the dialog box to close it without making a change.
         
-    -   -   Click outside of the dialog box to close it without making a change.
-            
-        -   Choose a different layout. If there is no warning, click Use This Layout.
-            
-        -   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) Continue anyway. Then, click Use This Layout.  
-            Examine the page or pages to learn about the lost contents.
-            
+    -   Choose a different layout. If there is no warning, click Use This Layout.
+        
+    -   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) Continue anyway. Then, click Use This Layout.  
+        Examine the page or pages to learn about the lost contents.
+        
 
-3.  -   If the page (or pages) has no contents or Bloom determines that existing contents will fit in the new layout, click Use This Layout.
-        
+-   If the page (or pages) has no contents or Bloom determines that existing contents will fit in the new layout, click Use This Layout.
+    
 
 #### Important
 

@@ -1,6 +1,6 @@
 ---
 title: Copyright and License
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/copyright-and-license
 ---
 

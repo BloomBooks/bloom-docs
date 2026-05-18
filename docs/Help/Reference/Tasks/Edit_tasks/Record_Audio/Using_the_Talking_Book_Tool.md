@@ -1,6 +1,6 @@
 ---
 title: Using the Talking Book Tool
-sidebar_position: 1
+sidebar_position: 11
 slug: /Help/Reference/using-the-talking-book-tool
 ---
 
@@ -24,8 +24,8 @@ This includes text boxes, captions and speech bubbles [added](../Canvas_Tool/Usi
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/ClearButton.png) Clear is an optional way to delete the recording for the current text.
 
-1.  -   If you are satisfied with the recording, continue to the next step.
-        
+-   If you are satisfied with the recording, continue to the next step.
+    
 
 5.  Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_button.png) 5) Adjust Timings if it is displayed. See: [Adjust Timings](Adjust_Timings.md).
     

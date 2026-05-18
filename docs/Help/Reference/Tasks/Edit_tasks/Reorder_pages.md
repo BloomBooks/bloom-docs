@@ -1,6 +1,6 @@
 ---
 title: Reorder pages
-sidebar_position: 1
+sidebar_position: 19
 slug: /Help/Reference/reorder-pages
 ---
 

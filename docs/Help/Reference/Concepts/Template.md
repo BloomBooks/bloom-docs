@@ -1,6 +1,6 @@
 ---
 title: Template
-sidebar_position: 1
+sidebar_position: 67
 slug: /Help/Reference/template
 ---
 
@@ -29,7 +29,7 @@ The Playground template is just a way that you can try out the tools and options
     
 -   There are [videos](../FAQ/Instructional_Videos.md) to help you learn about templates and shell books. Here are some of them:
     
--   -   [https://vimeo.com/album/3146448/video/114024308](https://vimeo.com/album/3146448/video/114024308 "https://vimeo.com/album/3146448/video/114024308")
+    -   [https://vimeo.com/album/3146448/video/114024308](https://vimeo.com/album/3146448/video/114024308 "https://vimeo.com/album/3146448/video/114024308")
         
     -   [https://vimeo.com/album/3294468/video/121688798](https://vimeo.com/album/3294468/video/121688798 "https://vimeo.com/album/3294468/video/121688798")
         

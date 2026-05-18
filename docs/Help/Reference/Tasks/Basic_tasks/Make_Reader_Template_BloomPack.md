@@ -1,6 +1,7 @@
 ---
 title: Make Reader Template Bloom Pack
-sidebar_position: 1
+sidebar_label: "Make Reader Template BloomPack"
+sidebar_position: 20
 slug: /Help/Reference/make-reader-template-bloompack
 ---
 

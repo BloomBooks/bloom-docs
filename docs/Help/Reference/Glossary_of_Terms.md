@@ -1,6 +1,6 @@
 ---
 title: Glossary of Terms
-sidebar_position: 1
+sidebar_position: 6
 slug: /Help/Reference/glossary-of-terms
 ---
 

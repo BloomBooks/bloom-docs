@@ -1,6 +1,6 @@
 ---
 title: Show the Motion Tool
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/show-the-motion-tool
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Adjust Timings
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/adjust-timings
 ---
 
@@ -26,19 +26,18 @@ The Adjust Timings dialog box opens ([example](../../../User_Interface/Dialog_bo
 
 5.  Do any of these steps until you are satisfied with the results:
     
-
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_Play_Button.png) (play) to hear the recording of a sentence.
-    
--   If necessary, move the segment line to make the end of a sentence and beginning of the next sentence have a good transition.
-    
--   Click More ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_More_Button.png) to display the options you can try, and then click any of the options.
-    
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_ReRun.png) Re-run pause-based timing guesses to remove any changes you made manually.
-    
--   Click Use Aeneas to guess timings. 
-    
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_Edit%20Pencil.png) Edit Timings File, edit the timing of each sentence in the text file that opens.
-    
+    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_Play_Button.png) (play) to hear the recording of a sentence.
+        
+    -   If necessary, move the segment line to make the end of a sentence and beginning of the next sentence have a good transition.
+        
+    -   Click More ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_More_Button.png) to display the options you can try, and then click any of the options.
+        
+    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_ReRun.png) Re-run pause-based timing guesses to remove any changes you made manually.
+        
+    -   Click Use Aeneas to guess timings. 
+        
+    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_Edit%20Pencil.png) Edit Timings File, edit the timing of each sentence in the text file that opens.
+        
 
 The first column can be ignored or kept accurate if you want to do that. Bloom uses the numbers in the second column. You probably should not change the last time in the second column.
 
@@ -51,13 +50,12 @@ You can save more than one timing file with different names. Then, choose and ap
     
 7.  Optionally, to break up the recording of a long sentence, do these steps:
     
-
--   Click the place in a long sentence where you want to break to occur. Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/InsertSegmentMarker.png) Insert Segment Marker or type a vertical bar (|) with your keyboard.
-    
--   If there is another long sentence, repeat the last step.
-    
--   When all the segment markers appear in the text box, click 5) Adjust Timings again.
-    
+    -   Click the place in a long sentence where you want to break to occur. Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/InsertSegmentMarker.png) Insert Segment Marker or type a vertical bar (|) with your keyboard.
+        
+    -   If there is another long sentence, repeat the last step.
+        
+    -   When all the segment markers appear in the text box, click 5) Adjust Timings again.
+        
 
 Words that are highlighted stop or begin at that vertical bar. 
 

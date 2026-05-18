@@ -1,6 +1,6 @@
 ---
 title: Adobe Digital Editions
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/adobe-digital-editions
 ---
 
@@ -25,6 +25,6 @@ However based on user experience, the Microsoft Edge browser works better for mo
 
 #### Related Internet Site
 
-[https://www.adobe.com/solutions/ebook/digital-editions/download.html](https://www.adobe.com/solutions/ebook/digital-editions/download.md "https://www.adobe.com/solutions/ebook/digital-editions/download.md")
+[https://www.adobe.com/solutions/ebook/digital-editions/download.html](https://www.adobe.com/solutions/ebook/digital-editions/download.html "https://www.adobe.com/solutions/ebook/digital-editions/download.html")
 
 [https://www.microsoft.com/en-us/windows/microsoft-edge](https://www.microsoft.com/en-us/windows/microsoft-edge "https://www.microsoft.com/en-us/windows/microsoft-edge")

@@ -1,6 +1,6 @@
 ---
 title: Hazard
-sidebar_position: 1
+sidebar_position: 33
 slug: /Help/Reference/hazard
 ---
 
@@ -32,8 +32,8 @@ Simulated motion can cause a user to become nauseated.
 
 #### Related Internet Sites
 
-[https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.md "https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.md")
+[https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html "https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html")
 
 [https://www.imsglobal.org/accessibility/....html#\_Toc323719876](https://www.imsglobal.org/accessibility/afav3p0pd/AfA3p0_DESinfoModel_v1p0pd.html#_Toc323719876 "https://www.imsglobal.org/accessibility/afav3p0pd/AfA3p0_DESinfoModel_v1p0pd.html#_Toc323719876")
 
-[http://www.idpf.org/epub/a11y/techniques/techniques.html](http://www.idpf.org/epub/a11y/techniques/techniques.md "http://www.idpf.org/epub/a11y/techniques/techniques.md")
+[http://www.idpf.org/epub/a11y/techniques/techniques.html](http://www.idpf.org/epub/a11y/techniques/techniques.html "http://www.idpf.org/epub/a11y/techniques/techniques.html")

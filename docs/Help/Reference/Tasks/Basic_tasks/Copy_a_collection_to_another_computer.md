@@ -1,6 +1,6 @@
 ---
 title: Copy a collection to another computer
-sidebar_position: 1
+sidebar_position: 6
 slug: /Help/Reference/copy-a-collection-to-another-computer
 ---
 

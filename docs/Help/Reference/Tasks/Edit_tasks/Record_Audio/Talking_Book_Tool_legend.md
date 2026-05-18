@@ -1,6 +1,6 @@
 ---
 title: Talking Book Tool - Legend
-sidebar_position: 1
+sidebar_position: 10
 slug: /Help/Reference/talking-book-tool-legend
 ---
 

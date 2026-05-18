@@ -1,6 +1,6 @@
 ---
 title: Arithmetic Template
-sidebar_position: 1
+sidebar_position: 7
 slug: /Help/Reference/arithmetic
 ---
 
@@ -12,7 +12,7 @@ You use this template to make mathematics workbooks that have equations for user
 
 -   The [inside pages](Inside_pages.md) have [text boxes](Text_Box.md) so you can type a page title, and also:
     
--   -   numbers
+    -   numbers
         
     -   mathematical operators, such as +, \-, x or ÷.
         
@@ -28,7 +28,7 @@ Each equation has an equal sign (\=) next to the box where the user will write t
     
 -   ÷ (U+00F7 Division Sign) can be entered in two ways:
     
--   -   Press and hold the / key to see it on the [special characters panel](../Tasks/Edit_tasks/Using_the_Special_Characters_panel.md).
+    -   Press and hold the / key to see it on the [special characters panel](../Tasks/Edit_tasks/Using_the_Special_Characters_panel.md).
         
     -   Press the Alt key, and type 0247 on your keypad.
         

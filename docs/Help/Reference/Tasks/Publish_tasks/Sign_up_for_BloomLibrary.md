@@ -1,12 +1,12 @@
 ---
 title: Sign up for BloomLibrary
-sidebar_position: 1
+sidebar_position: 20
 slug: /Help/Reference/sign-up-for-bloomlibrary
 ---
 
 ## Sign up for BloomLibrary.org
 
-When you sign up, an account is created. Then you can [publish to the web](Publish to Web.htm).
+When you sign up, an account is created. Then you can [publish to the web](Publish%20to%20Web.md).
 
 -   You can go to the https://bloomlibrary.org/ and then sign up or sign in without opening Bloom.
     

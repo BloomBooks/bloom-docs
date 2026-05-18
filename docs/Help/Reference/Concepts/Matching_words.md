@@ -1,6 +1,6 @@
 ---
 title: Matching words
-sidebar_position: 1
+sidebar_position: 44
 slug: /Help/Reference/matching-words
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Edit a video
-sidebar_position: 1
+sidebar_position: 4
 slug: /Help/Reference/edit-a-video
 ---
 

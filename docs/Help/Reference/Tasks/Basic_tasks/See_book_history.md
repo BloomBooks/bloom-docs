@@ -1,6 +1,6 @@
 ---
 title: See book history
-sidebar_position: 1
+sidebar_position: 25
 slug: /Help/Reference/see-book-history
 ---
 

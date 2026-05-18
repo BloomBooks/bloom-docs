@@ -1,6 +1,6 @@
 ---
 title: Change or Set languages
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/change-languages
 ---
 
@@ -37,9 +37,9 @@ Here are additional things you can do:
     
 -   [Use](../Edit_tasks/Using_the_Language_tab.md) the Language tab in the Text Box Properties [dialog box](../../User_Interface/Dialog_boxes/Text_Box_Properties_dialog_box.md) to select a language for a particular [text box](../../Concepts/Text_Box.md).
     
--   Select the languages you want to include when you [publish](../Publish_tasks/Publish to Web.htm) a book to the web.
+-   Select the languages you want to include when you [publish](../Publish_tasks/Publish%20to%20Web.md) a book to the web.
     
--   Set a sign language when you [publish](../Publish_tasks/Publish to Web.htm) your sign language book to the web. It appears with Features.
+-   Set a sign language when you [publish](../Publish_tasks/Publish%20to%20Web.md) your sign language book to the web. It appears with Features.
     
 
 #### Related Topics

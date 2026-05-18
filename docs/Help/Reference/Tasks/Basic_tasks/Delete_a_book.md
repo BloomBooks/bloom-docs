@@ -1,6 +1,6 @@
 ---
 title: Delete a book
-sidebar_position: 1
+sidebar_position: 8
 slug: /Help/Reference/delete-a-book
 ---
 
@@ -13,8 +13,8 @@ slug: /Help/Reference/delete-a-book
 
 The Confirm Delete dialog box appears.
 
-1.  -   To move that book to the Recycle Bin, click ![](/ref-docs-assets/images/Tasks/reddeleterecordx.gif) Delete. Otherwise, click Cancel.
-        
+-   To move that book to the Recycle Bin, click ![](/ref-docs-assets/images/Tasks/reddeleterecordx.gif) Delete. Otherwise, click Cancel.
+    
 
 #### Related Topics
 

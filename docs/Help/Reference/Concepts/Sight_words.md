@@ -1,6 +1,6 @@
 ---
 title: Sight words
-sidebar_position: 1
+sidebar_position: 58
 slug: /Help/Reference/sight-words
 ---
 

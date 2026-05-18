@@ -1,6 +1,6 @@
 ---
 title: Template Starter
-sidebar_position: 1
+sidebar_position: 68
 slug: /Help/Reference/template-starter
 ---
 
@@ -31,7 +31,7 @@ Give each page you add a meaningful label.
 
 Unfortunately, at this time we do not have any mechanism for template books made by end users to have localizable labels.
 
--   You can share your template in a number of ways, including [publishing](../Tasks/Publish_tasks/Publish to Web.htm) it to [BloomLibrary.org.](https://bloomlibrary.org/browse "https://bloomlibrary.org/browse")
+-   You can share your template in a number of ways, including [publishing](../Tasks/Publish_tasks/Publish%20to%20Web.md) it to [BloomLibrary.org.](https://bloomlibrary.org/browse "https://bloomlibrary.org/browse")
     
 
 #### Related Topics

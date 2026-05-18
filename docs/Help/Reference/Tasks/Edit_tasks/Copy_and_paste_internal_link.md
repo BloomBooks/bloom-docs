@@ -1,6 +1,6 @@
 ---
 title: Copy and paste internal link
-sidebar_position: 1
+sidebar_position: 11
 slug: /Help/Reference/copy-and-paste-internal-link
 ---
 

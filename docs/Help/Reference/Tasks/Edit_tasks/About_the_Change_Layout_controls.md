@@ -1,6 +1,6 @@
 ---
 title: About the Change Layout controls
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/about-the-change-layout-controls
 ---
 
@@ -65,11 +65,10 @@ Click to delete the current box.
 
 -   About the smart splitter:
     
-
--   You can double-click the splitter to make it snap into the position used by the previous page (if the same layout).
-    
--   The splitter can snap into these common locations:
-    
+    -   You can double-click the splitter to make it snap into the position used by the previous page (if the same layout).
+        
+    -   The splitter can snap into these common locations:
+        
 
 the position used by the previous page,
 
@@ -86,7 +85,7 @@ square.
 
 -   When controls are hidden:
     
--   -   The dashed lines (![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeHorizontally.png) and ![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeVertical.png)) remain available for use.
+    -   The dashed lines (![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeHorizontally.png) and ![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeVertical.png)) remain available for use.
         
     -   You can type words, work with [formatting](../Basic_tasks/Formatting_text/Formatting_Text_overview.md) ([styles](../../Concepts/Styles.md) or [direct](../Basic_tasks/Formatting_text/Apply_direct_formatting.md)) and [change pictures](Change_picture.md).
         

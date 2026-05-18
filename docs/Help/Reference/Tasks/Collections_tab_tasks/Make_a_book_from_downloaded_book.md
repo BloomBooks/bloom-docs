@@ -1,6 +1,6 @@
 ---
 title: Make a book from downloaded book
-sidebar_position: 1
+sidebar_position: 6
 slug: /Help/Reference/make-a-book-from-downloaded-book
 ---
 

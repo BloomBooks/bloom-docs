@@ -1,6 +1,6 @@
 ---
 title: Pages pane down arrow example
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/pages-pane-down-arrow-example
 ---
 

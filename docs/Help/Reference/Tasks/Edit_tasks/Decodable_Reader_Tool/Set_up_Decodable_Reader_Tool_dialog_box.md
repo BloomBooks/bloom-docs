@@ -1,6 +1,6 @@
 ---
 title: Set up Decodable Reader Tool dialog box
-sidebar_position: 1
+sidebar_position: 11
 slug: /Help/Reference/set-up-decodable-reader-tool-dialog-box
 ---
 

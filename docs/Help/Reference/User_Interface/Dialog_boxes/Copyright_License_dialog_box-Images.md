@@ -1,6 +1,6 @@
 ---
 title: Copyright & License dialog box - Images
-sidebar_position: 1
+sidebar_position: 7
 slug: /Help/Reference/copyright-license-dialog-box-images
 ---
 

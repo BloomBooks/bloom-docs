@@ -1,6 +1,6 @@
 ---
 title: Accessibility
-sidebar_position: 1
+sidebar_position: 24
 slug: /Help/Reference/accessibility
 ---
 

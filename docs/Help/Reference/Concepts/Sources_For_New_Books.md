@@ -1,6 +1,6 @@
 ---
 title: Sources For New Books
-sidebar_position: 1
+sidebar_position: 62
 slug: /Help/Reference/sources-for-new-books
 ---
 
@@ -31,7 +31,7 @@ See: [Make a book from a sample shell](../Tasks/Collections_tab_tasks/Make_a_boo
 -   Click GET MORE SOURCE BOOKS AT BLOOMLIBRARY.ORG to open [https://bloomlibrary.org/](https://bloomlibrary.org/ "https://bloomlibrary.org/").
     
 
-Now you can [get books](../Tasks/Basic_tasks/Get_a_book_from_BloomLibrary.md) that other people [uploaded](../Tasks/Publish_tasks/Publish to Web.htm).
+Now you can [get books](../Tasks/Basic_tasks/Get_a_book_from_BloomLibrary.md) that other people [uploaded](../Tasks/Publish_tasks/Publish%20to%20Web.md).
 
 -   Click SHOW ANOTHER COLLECTION to [open](../Tasks/Collections_tab_tasks/Collections_tab_tasks_overview.md) another collection that is on your computer.
 

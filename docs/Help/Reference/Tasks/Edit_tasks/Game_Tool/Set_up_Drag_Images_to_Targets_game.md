@@ -1,6 +1,6 @@
 ---
 title: Set up Drag Images to Targets game
-sidebar_position: 1
+sidebar_position: 4
 slug: /Help/Reference/set-up-drag-images-to-targets-game
 ---
 
@@ -28,9 +28,8 @@ For this game page, the goal is to allow a reader to click and drag images into 
     
 5.  Do any of the options described in [Set up games overview](Set_up_games_overview.md), including the theme and other options.
     
-
--   Click and drag the end  ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ResizeTextBlock.png) or a corner![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ResizeCorner.png) of an item to resize it, or click and drag the entire item to move it on the page.
-    
+    -   Click and drag the end  ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ResizeTextBlock.png) or a corner![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ResizeCorner.png) of an item to resize it, or click and drag the entire item to move it on the page.
+        
 
 6.  Click Correct in the Game Setup mode. Use any of the controls to change what the reader sees and hears when they get the correct answer.
     
@@ -38,13 +37,12 @@ For this game page, the goal is to allow a reader to click and drag images into 
     
 8.  Click Play in the Game Setup Mode control, and then play the game.
     
-
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/CheckResults.png) to check the results from playing the game.
-    
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/PlayAgain.png) to play the game again.
-    
--   Chick ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ShowCorrectAnswer.png) to see the correct answers.
-    
+    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/CheckResults.png) to check the results from playing the game.
+        
+    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/PlayAgain.png) to play the game again.
+        
+    -   Chick ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ShowCorrectAnswer.png) to see the correct answers.
+        
 
 Then click Start again to continue. Use any of the controls to change the game until it is the game you want readers to experience.
 

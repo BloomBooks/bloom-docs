@@ -1,6 +1,6 @@
 ---
 title: Use the Book Metadata dialog box
-sidebar_position: 1
+sidebar_position: 25
 slug: /Help/Reference/use-the-book-metadata-dialog-box
 ---
 
@@ -22,12 +22,12 @@ The Book Metadata [dialog box](../../User_Interface/Dialog_boxes/Book_Metadata_d
 
 Do these steps in the drop-down subject list that appears:
 
-2.  -   Scroll and expand (![PIC](/ref-docs-assets/images/User_Interface/Dialog_boxes/ExpandSubject+.png)) subjects to navigate to the desired one.
-        
-    -   Select (![PIC](/ref-docs-assets/images/SelectedCheckBox.png)) one or more subjects.
-        
-    -   Click anywhere outside of the list to close the drop-down list.
-        
+-   Scroll and expand (![PIC](/ref-docs-assets/images/User_Interface/Dialog_boxes/ExpandSubject+.png)) subjects to navigate to the desired one.
+    
+-   Select (![PIC](/ref-docs-assets/images/SelectedCheckBox.png)) one or more subjects.
+    
+-   Click anywhere outside of the list to close the drop-down list.
+    
 
 To remove a subject you had selected, click the small gray x (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/RemoveSubjectX.png)) at the end of the subject or display the list again and clear (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/ClearedCheckBoxOption.png)) its check box.
 

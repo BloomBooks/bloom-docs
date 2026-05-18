@@ -1,6 +1,6 @@
 ---
 title: About word lists and sample texts
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/about-word-lists-and-sample-texts
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Set playback order
-sidebar_position: 1
+sidebar_position: 7
 slug: /Help/Reference/set-playback-order
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Roles
-sidebar_position: 1
+sidebar_position: 55
 slug: /Help/Reference/roles
 ---
 
@@ -16,7 +16,7 @@ Here are some possible roles and tasks. You might work in a group with fewer or 
     
 -   Set up [styles](Styles.md) and [text box properties](../User_Interface/Dialog_boxes/Text_Box_Properties_dialog_box.md).
     
--   [Download](Sources_For_New_Shells.md) shells from or [upload](../Tasks/Publish_tasks/Publish to Web.htm) shells to Bloom Library.
+-   [Download](Sources_For_New_Shells.md) shells from or [upload](../Tasks/Publish_tasks/Publish%20to%20Web.md) shells to Bloom Library.
     
 -   [Create templates](../Tasks/Advanced_tasks/Create_a_template.md).
     

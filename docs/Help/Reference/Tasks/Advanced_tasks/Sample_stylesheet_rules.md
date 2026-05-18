@@ -1,6 +1,6 @@
 ---
 title: Sample stylesheet rules
-sidebar_position: 1
+sidebar_position: 11
 slug: /Help/Reference/sample-stylesheet-rules
 ---
 

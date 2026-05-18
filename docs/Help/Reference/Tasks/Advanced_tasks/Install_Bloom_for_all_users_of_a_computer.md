@@ -1,6 +1,6 @@
 ---
 title: Install Bloom for all users of a computer
-sidebar_position: 1
+sidebar_position: 10
 slug: /Help/Reference/install-bloom-for-all-users-of-a-computer
 ---
 

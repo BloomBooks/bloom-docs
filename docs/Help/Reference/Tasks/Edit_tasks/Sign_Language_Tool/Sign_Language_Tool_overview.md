@@ -18,7 +18,7 @@ It is usually used with the Sign Language [template](../../../Concepts/Template.
     
 -   [Using the Sign Language Tool](Using_the_Sign_Languager_Tool.md)
     
--   -   [Trim a video](Trim_a_video.md)
+    -   [Trim a video](Trim_a_video.md)
         
     -   [Edit a video](Edit_a_video.md)
         

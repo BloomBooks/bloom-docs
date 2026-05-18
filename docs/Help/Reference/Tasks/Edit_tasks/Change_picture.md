@@ -1,6 +1,7 @@
 ---
 title: Change picture
-sidebar_position: 1
+sidebar_label: "Change Picture"
+sidebar_position: 4
 slug: /Help/Reference/change-picture
 ---
 
@@ -8,8 +9,8 @@ slug: /Help/Reference/change-picture
 
 On any page with a [picture or placeholder](../../Concepts/Picture.md), hold your mouse pointer over the picture (image) or placeholder. Use any of these buttons or controls:
 
-1.  -   Click ![PICTURE](/ref-docs-assets/images/Tasks/Edit_tasks/ChoosePictureButton.png) (Change Image) to open the [Image Toolbox](../../User_Interface/Dialog_boxes/Image_Toolbox.md).
-        
+-   Click ![PICTURE](/ref-docs-assets/images/Tasks/Edit_tasks/ChoosePictureButton.png) (Change Image) to open the [Image Toolbox](../../User_Interface/Dialog_boxes/Image_Toolbox.md).
+    
 
 Use it to choose an image, [crop](Crop_a_picture.md) it and [specify metadata](Change_picture_metadata.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Quiz Page
-sidebar_position: 1
+sidebar_position: 53
 slug: /Help/Reference/quizpage
 ---
 

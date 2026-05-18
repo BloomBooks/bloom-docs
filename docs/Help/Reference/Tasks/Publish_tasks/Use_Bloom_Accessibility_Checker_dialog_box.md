@@ -1,6 +1,6 @@
 ---
 title: Use Bloom Accessibility Checker dialog box
-sidebar_position: 1
+sidebar_position: 21
 slug: /Help/Reference/use-bloom-accessibility-checker-dialog-box
 ---
 
@@ -30,8 +30,8 @@ When ![PIC](/ref-docs-assets/images/Tasks/Publish_tasks/EPUB_buttonSmall.png) [e
         You can leave this tab open as you correct accessibility problems. Click the Refresh button to update the tab.
         
 
-4.  -   Click and review information displayed in the Metadata, Outlines and Images tabs as desired or needed.
-        
+-   Click and review information displayed in the Metadata, Outlines and Images tabs as desired or needed.
+    
 
 #### Related Topics
 

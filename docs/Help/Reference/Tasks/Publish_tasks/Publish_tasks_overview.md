@@ -1,5 +1,6 @@
 ---
 title: Publish tasks overview
+sidebar_label: "Publish tab tasks overview"
 sidebar_position: 1
 slug: /Help/Reference/publish-tasks-overview
 ---
@@ -16,21 +17,20 @@ PDF & Print
 
 -   [Publish to PDF & Print](PDF_and_Print.md)
     
-
--   [Multiple color profiles](Multiple_color_profiles_for_PDF_output.md)
-    
--   [Print a PDF file](Print.md)
-    
--   [Save PDF file](Save_PDF_file.md)
-    
+    -   [Multiple color profiles](Multiple_color_profiles_for_PDF_output.md)
+        
+    -   [Print a PDF file](Print.md)
+        
+    -   [Save PDF file](Save_PDF_file.md)
+        
 
 ![](/ref-docs-assets/images/Tasks/Publish_tasks/UploadNew.png)
 
 Web
 
--   [Publish to Web](Publish to Web.htm)
+-   [Publish to Web](Publish%20to%20Web.md)
     
--   -   [Sign up for BloomLibrary.org](Sign_up_for_BloomLibrary.md)
+    -   [Sign up for BloomLibrary.org](Sign_up_for_BloomLibrary.md)
         
     -   [About Book Features](Features.md)
         

@@ -1,6 +1,7 @@
 ---
 title: Viewing BloomPUBs on Bloom Reader (Android)
-sidebar_position: 1
+sidebar_label: "Viewing BloomPUBs on Bloom Reader Android"
+sidebar_position: 22
 slug: /Help/Reference/make-a-bloompub-file-overview
 ---
 
@@ -16,13 +17,12 @@ To publish your book so you and others can view it on Android devices, do these
     
 3.  If you will view your book with the [Bloom Reader app](../../Concepts/Bloom_Reader_App.md), do these steps:
     
-
--   [Install](Install_Bloom_Reader_app.md) the app on your device. You only need to do this the first time.
-    
--   [Launch](Launch_the_Bloom_Reader_app.md) the app on your device.
-    
--   [Connect](Connect_your_Android_device.md) your device with a USB cable or Wi-Fi if you will use one of these options.
-    
+    -   [Install](Install_Bloom_Reader_app.md) the app on your device. You only need to do this the first time.
+        
+    -   [Launch](Launch_the_Bloom_Reader_app.md) the app on your device.
+        
+    -   [Connect](Connect_your_Android_device.md) your device with a USB cable or Wi-Fi if you will use one of these options.
+        
 
 #### Note
 

@@ -1,6 +1,6 @@
 ---
 title: Using the Image Description Tool
-sidebar_position: 1
+sidebar_position: 4
 slug: /Help/Reference/using-the-image-description-tool
 ---
 
@@ -20,7 +20,7 @@ Do the steps below to add or edit a description of an image:
         
     -   If the image needs a description, do these steps:
         
-    -   -   Type or paste a description in one or more language, as available according to the [toolbar](../../../User_Interface/Toolbar/Edit_tab_toolbar.md) selection.
+        -   Type or paste a description in one or more language, as available according to the [toolbar](../../../User_Interface/Toolbar/Edit_tab_toolbar.md) selection.
             
         -   Click cogged gear (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) to [open and use](../../../User_Interface/Dialog_boxes/Format_dialog_box.md) the Format dialog box in one or more text box that has an image description.
             

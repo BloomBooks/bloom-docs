@@ -1,6 +1,6 @@
 ---
 title: Using the Sign Language Tool
-sidebar_position: 1
+sidebar_position: 8
 slug: /Help/Reference/using-the-sign-languager-tool
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Choose Picture or Word pages
-sidebar_position: 1
+sidebar_position: 17
 slug: /Help/Reference/choose-picture-or-word-pages
 ---
 

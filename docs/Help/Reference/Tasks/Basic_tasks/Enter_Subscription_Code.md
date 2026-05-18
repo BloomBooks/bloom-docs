@@ -1,6 +1,6 @@
 ---
 title: Enter your Subscription Code
-sidebar_position: 1
+sidebar_position: 14
 slug: /Help/Reference/enter-subscription-code
 ---
 
@@ -14,11 +14,10 @@ You might want to become familiar with the [Bloom Feature Matrix](https://bloom
     
 3.  Click the Subscription Code box, and then do one of these steps:
     
-
--   Type your subscription code.
-    
--   If the subscription code in on you computer clipboard, click ![](/ref-docs-assets/images/Tasks/Basic_tasks/PasteCode.png) PASTE.
-    
+    -   Type your subscription code.
+        
+    -   If the subscription code in on you computer clipboard, click ![](/ref-docs-assets/images/Tasks/Basic_tasks/PasteCode.png) PASTE.
+        
 
 4.  Click OK.
     

@@ -1,6 +1,6 @@
 ---
 title: Sort words in the current stage
-sidebar_position: 1
+sidebar_position: 14
 slug: /Help/Reference/sort-words-in-the-stage
 ---
 
@@ -14,12 +14,12 @@ Below Words in this stage is a list of words. These words that are in [sample te
 2.  Click one of the these buttons to sort the display of the words:
     
 
-1.  -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/SortAlphabetically.png) Sort alphabetically
-        
-    -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/SortByWordLength.png) Sort by word length
-        
-    -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/SortByFrequency.png) Sort by frequency (not available for [Allowed words](Allowed_Words_Files.md)).
-        
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/SortAlphabetically.png) Sort alphabetically
+    
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/SortByWordLength.png) Sort by word length
+    
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/SortByFrequency.png) Sort by frequency (not available for [Allowed words](Allowed_Words_Files.md)).
+    
 
 #### Related Topics
 

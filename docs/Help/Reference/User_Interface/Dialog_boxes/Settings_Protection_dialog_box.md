@@ -1,6 +1,7 @@
 ---
 title: Settings Protection dialog box
-sidebar_position: 1
+sidebar_label: "Setting Protection dialog box"
+sidebar_position: 18
 slug: /Help/Reference/settings-protection-dialog-box
 ---
 

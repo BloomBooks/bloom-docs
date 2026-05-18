@@ -1,6 +1,6 @@
 ---
 title: Copy and paste a page
-sidebar_position: 1
+sidebar_position: 10
 slug: /Help/Reference/copy-and-paste-a-page
 ---
 
@@ -34,12 +34,12 @@ The book opens in the Edit tab.
 6.  In the left pane, click the book into which you want to paste the page. Then do one of these steps:
     
 
-1.  -   Double-click it.
-        
-    -   Click the Edit tab.
-        
-    -   Click ![](/ref-docs-assets/images/Tasks/editbook.png)EDIT THIS BOOK.
-        
+-   Double-click it.
+    
+-   Click the Edit tab.
+    
+-   Click ![](/ref-docs-assets/images/Tasks/editbook.png)EDIT THIS BOOK.
+    
 
 The book opens in the Edit tab.
 

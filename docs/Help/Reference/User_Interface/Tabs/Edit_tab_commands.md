@@ -1,6 +1,6 @@
 ---
 title: Edit tab commands
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/edit-tab-commands
 ---
 

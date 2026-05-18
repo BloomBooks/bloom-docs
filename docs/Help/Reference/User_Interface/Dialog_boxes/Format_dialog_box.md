@@ -1,6 +1,6 @@
 ---
 title: Format dialog box
-sidebar_position: 1
+sidebar_position: 11
 slug: /Help/Reference/format-dialog-box
 ---
 

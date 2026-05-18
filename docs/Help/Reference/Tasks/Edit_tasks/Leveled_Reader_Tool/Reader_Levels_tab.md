@@ -1,6 +1,6 @@
 ---
 title: Reader Levels tab
-sidebar_position: 1
+sidebar_position: 7
 slug: /Help/Reference/reader-levels-tab
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Make a wall calendar
-sidebar_position: 1
+sidebar_position: 7
 slug: /Help/Reference/make-a-wall-calendar
 ---
 
@@ -31,17 +31,17 @@ The Pages (left) pane shows the pages of the calendar.
 
 The text boxes in the calendar pages use only the local language.
 
-3.  -   [Choose the page layout](../Edit_tasks/Choose_page_size_and_orientation.md).
-        
+-   [Choose the page layout](../Edit_tasks/Choose_page_size_and_orientation.md).
+    
 
 Most calendars only allow A5 Landscape.
 
-3.  -   Click the text box near the top of the Front Cover page. Then, type a title in the local language.
-        
-    -   [Choose the picture](../Edit_tasks/Change_picture.md) that you want on the cover page.
-        
-    -   [Choose a topic](../Edit_tasks/Choose_a_topic.md).
-        
+-   Click the text box near the top of the Front Cover page. Then, type a title in the local language.
+    
+-   [Choose the picture](../Edit_tasks/Change_picture.md) that you want on the cover page.
+    
+-   [Choose a topic](../Edit_tasks/Choose_a_topic.md).
+    
 
 6.  In the Pages pane, click the Inside Front Cover page and then type any information in that page that you want to display on that side of the cover.
     

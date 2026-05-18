@@ -29,7 +29,7 @@ Here are tasks that require knowledge that some users will not have:
     
 -   [Text-to-Speech overview](Text_to_Speech_overview.md)
     
--   -   [Create a transliteration rules file](Create_a_transliteration_rules_file.md)
+    -   [Create a transliteration rules file](Create_a_transliteration_rules_file.md)
         
     -   [Create an empty conversion file](Create_an_empty_conversion_file.md)
         

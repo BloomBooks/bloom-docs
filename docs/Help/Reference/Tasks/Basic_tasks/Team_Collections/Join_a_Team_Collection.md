@@ -1,6 +1,6 @@
 ---
 title: Join a Team Collection
-sidebar_position: 1
+sidebar_position: 4
 slug: /Help/Reference/join-a-team-collection
 ---
 

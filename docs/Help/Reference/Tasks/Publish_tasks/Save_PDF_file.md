@@ -1,6 +1,6 @@
 ---
 title: Save PDF file
-sidebar_position: 1
+sidebar_position: 18
 slug: /Help/Reference/save-pdf-file
 ---
 

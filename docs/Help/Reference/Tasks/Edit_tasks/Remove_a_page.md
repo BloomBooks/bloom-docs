@@ -1,6 +1,6 @@
 ---
 title: Remove a page
-sidebar_position: 1
+sidebar_position: 18
 slug: /Help/Reference/remove-a-page
 ---
 

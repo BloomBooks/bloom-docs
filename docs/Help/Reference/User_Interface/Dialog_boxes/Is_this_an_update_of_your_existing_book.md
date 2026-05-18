@@ -1,12 +1,12 @@
 ---
 title: Is this an update of your existing book
-sidebar_position: 1
+sidebar_position: 13
 slug: /Help/Reference/is-this-an-update-of-your-existing-book
 ---
 
 ## Is this an update of your existing book? dialog box
 
-When you [make](../../Tasks/Collections_tab_tasks/Collections_tab_tasks_overview.md) a new book, Bloom generates a unique book ID and assigns it to your book. This ID is an internal identifier which will stay with that book wherever your book is, even if it is [published](../../Tasks/Publish_tasks/Publish to Web.htm) to the [BloomLibrary.org](https://bloomlibrary.org/ "https://bloomlibrary.org/").
+When you [make](../../Tasks/Collections_tab_tasks/Collections_tab_tasks_overview.md) a new book, Bloom generates a unique book ID and assigns it to your book. This ID is an internal identifier which will stay with that book wherever your book is, even if it is [published](../../Tasks/Publish_tasks/Publish%20to%20Web.md) to the [BloomLibrary.org](https://bloomlibrary.org/ "https://bloomlibrary.org/").
 
 If you copied the book folder manually in your computer file explorer and edited the copy, the original and copy will have the same book ID. To prevent that, use [Duplicate (copy) a book](../../Tasks/Basic_tasks/Duplicate_a_book.md) and this Bloom feature will provide a different book ID for the copy of the book.
 
@@ -14,9 +14,8 @@ When you publish a book, Bloom checks to see if there is an existing book there 
 
 1.  Select (![](/ref-docs-assets/images/Tasks/Publish_tasks/SendRadioButton.png)) one of these options:
     
-
--   Yes, I want to update this book.
-    
+    -   Yes, I want to update this book.
+        
 
 In this case, the existing version of the book is removed and replaced with the one you are uploading now.
 

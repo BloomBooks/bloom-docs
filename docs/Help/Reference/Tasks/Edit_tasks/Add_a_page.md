@@ -1,6 +1,6 @@
 ---
 title: Add a page
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/add-a-page
 ---
 

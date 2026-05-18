@@ -1,6 +1,7 @@
 ---
 title: ImageToolbox
-sidebar_position: 1
+sidebar_label: "Image Toolbox"
+sidebar_position: 12
 slug: /Help/Reference/image-toolbox
 ---
 
@@ -12,13 +13,13 @@ When you [change a picture](../../Tasks/Edit_tasks/Change_picture.md) ([image](.
 
 -   Click the source: ![](/ref-docs-assets/images/Tasks/artofreading.png) Art of Reading, ![](/ref-docs-assets/images/Tasks/scanner.png) Scanner, ![](/ref-docs-assets/images/Tasks/camera.png) Camera or ![](/ref-docs-assets/images/Tasks/File.png) File.
     
--   1.  For Art of Reading, do either of these steps:
+    1.  For Art of Reading, do either of these steps:
         
     
-    1.  -   If [Art Of Reading](https://bloomlibrary.org/artofreading "https://bloomlibrary.org/artofreading") version 3.1 (or later) is installed and you have the appropriate keyboard, you can type a word in the Search the Art of Reading Gallery box in other languages. Click the down-arrow (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/DownArrow.png)) that is next to the search box, and then click the desired language. Type the word that describes the picture you want to find.
-            
-        -   For older versions of Art of Reading, in the search box, type an English word that describes the picture you want to find.
-            
+    -   If [Art Of Reading](https://bloomlibrary.org/artofreading "https://bloomlibrary.org/artofreading") version 3.1 (or later) is installed and you have the appropriate keyboard, you can type a word in the Search the Art of Reading Gallery box in other languages. Click the down-arrow (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/DownArrow.png)) that is next to the search box, and then click the desired language. Type the word that describes the picture you want to find.
+        
+    -   For older versions of Art of Reading, in the search box, type an English word that describes the picture you want to find.
+        
     
     2.  Click the search button (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/SearchButton.png)).
         
@@ -36,7 +37,7 @@ When you [change a picture](../../Tasks/Edit_tasks/Change_picture.md) ([image](.
 
 -   Click the link that appears, either Set up metadata or Edit.
     
--   -   Then [use](Copyright_License_dialog_box-Images.md) the Copyright and License dialog box.
+    -   Then [use](Copyright_License_dialog_box-Images.md) the Copyright and License dialog box.
         
 
 Other links may appear. Some open Internet sites if you have an Internet connection.

@@ -1,6 +1,6 @@
 ---
 title: Create an empty conversion file
-sidebar_position: 1
+sidebar_position: 4
 slug: /Help/Reference/create-an-empty-conversion-file
 ---
 
@@ -41,4 +41,4 @@ If this does not work, delete this file and **[create a transliteration rules f
 
 #### Related Internet Sites
 
-[http://espeak.sourceforge.net/languages.html](http://espeak.sourceforge.net/languages.md)
+[http://espeak.sourceforge.net/languages.html](http://espeak.sourceforge.net/languages.html)

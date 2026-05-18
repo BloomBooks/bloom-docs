@@ -1,6 +1,6 @@
 ---
 title: Sign Language
-sidebar_position: 1
+sidebar_position: 59
 slug: /Help/Reference/sign-language
 ---
 

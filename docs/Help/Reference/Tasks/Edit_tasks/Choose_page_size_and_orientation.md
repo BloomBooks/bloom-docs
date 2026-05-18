@@ -1,6 +1,6 @@
 ---
 title: Choose page size and orientation
-sidebar_position: 1
+sidebar_position: 9
 slug: /Help/Reference/choose-page-size-and-orientation
 ---
 

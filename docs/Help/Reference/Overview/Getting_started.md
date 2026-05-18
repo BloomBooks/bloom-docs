@@ -1,6 +1,6 @@
 ---
 title: Getting started
-sidebar_position: 1
+sidebar_position: 4
 slug: /Help/Reference/getting-started
 ---
 
@@ -18,7 +18,7 @@ Depending on your [role](../Concepts/Roles.md), you can [open](../Tasks/Basic_ta
     
 -   [Frequently Asked Questions (FAQ)](../FAQ/New_Topic.md)
     
--   -   [Instructional Videos](../FAQ/Instructional_Videos.md)
+    -   [Instructional Videos](../FAQ/Instructional_Videos.md)
         
     -   [Other documentation](../User_Interface/Help_menu/Help_menu.md)
         

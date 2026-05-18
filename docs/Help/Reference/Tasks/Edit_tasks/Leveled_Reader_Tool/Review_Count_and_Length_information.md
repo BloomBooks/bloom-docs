@@ -1,6 +1,6 @@
 ---
 title: Review Count and Length information
-sidebar_position: 1
+sidebar_position: 8
 slug: /Help/Reference/review-count-and-length-information
 ---
 
@@ -17,10 +17,10 @@ Here is what you do with the resulting information:
 
 Numbers in the Actual columns can change color:
 
-1.  -   Green: Actual is less than or equal to Max.
-        
-    -   Orange: Actual is greater than Max. You need to make word or sentence changes to correct them.
-        
+-   Green: Actual is less than or equal to Max.
+    
+-   Orange: Actual is greater than Max. You need to make word or sentence changes to correct them.
+    
 
 #### Note
 

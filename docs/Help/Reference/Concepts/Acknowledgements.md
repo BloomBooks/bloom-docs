@@ -1,6 +1,6 @@
 ---
 title: Acknowledgements
-sidebar_position: 1
+sidebar_position: 4
 slug: /Help/Reference/acknowledgements
 ---
 

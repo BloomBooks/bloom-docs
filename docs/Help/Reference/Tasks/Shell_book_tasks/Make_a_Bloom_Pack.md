@@ -1,6 +1,6 @@
 ---
 title: Make a Bloom Pack
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/make-a-bloom-pack
 ---
 

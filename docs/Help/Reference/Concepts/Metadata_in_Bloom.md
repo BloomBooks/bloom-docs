@@ -1,6 +1,6 @@
 ---
 title: Metadata in Bloom
-sidebar_position: 1
+sidebar_position: 45
 slug: /Help/Reference/metadata-in-bloom
 ---
 
@@ -26,7 +26,7 @@ In Bloom, metadata includes:
     
 -   [Project Information](Project_Information.md)
     
--   [Publish to Web](../Tasks/Publish_tasks/Publish to Web.htm)
+-   [Publish to Web](../Tasks/Publish_tasks/Publish%20to%20Web.md)
     
 -   [Title](Title_Page.md)
     
@@ -51,4 +51,4 @@ In Bloom, metadata includes:
 
 [http://en.wikipedia.org/wiki/Metadata](http://en.wikipedia.org/wiki/Metadata "http://en.wikipedia.org/wiki/Metadata")
 
-[http://www.mpcer.nau.edu/metadata/WhatIsMetadata.htm](http://www.mpcer.nau.edu/metadata/WhatIsMetadata.md "http://www.mpcer.nau.edu/metadata/WhatIsMetadata.md")
+[http://www.mpcer.nau.edu/metadata/WhatIsMetadata.htm](http://www.mpcer.nau.edu/metadata/WhatIsMetadata.htm "http://www.mpcer.nau.edu/metadata/WhatIsMetadata.htm")

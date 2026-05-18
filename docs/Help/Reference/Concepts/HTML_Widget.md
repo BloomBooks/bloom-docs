@@ -1,6 +1,6 @@
 ---
 title: HTML Widget
-sidebar_position: 1
+sidebar_position: 34
 slug: /Help/Reference/html-widget
 ---
 
@@ -35,4 +35,4 @@ If you are [set up](../User_Interface/Dialog_boxes/Settings_dialog_box.md) with 
 
 [https://blog.kotobee.com/book-widgets-everything-you-need-to-know/](https://blog.kotobee.com/book-widgets-everything-you-need-to-know/)
 
-[http://idpf.org/epub/sc/pkg/packaging-20140528.html](http://idpf.org/epub/sc/pkg/packaging-20140528.md)
+[http://idpf.org/epub/sc/pkg/packaging-20140528.html](http://idpf.org/epub/sc/pkg/packaging-20140528.html)

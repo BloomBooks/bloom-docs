@@ -1,6 +1,6 @@
 ---
 title: Get shell books from others
-sidebar_position: 1
+sidebar_position: 17
 slug: /Help/Reference/get-shell-books-from-others
 ---
 
@@ -20,8 +20,8 @@ This installs the shell books and templates on your computer.
 
 A message box appears and states, "The `<name>` Collection is now ready to use on this computer".
 
-1.  -   Click OK.
-        
+-   Click OK.
+    
 
 3.  Close and restart Bloom.
     

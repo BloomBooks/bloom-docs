@@ -1,6 +1,6 @@
 ---
 title: Using the Language tab
-sidebar_position: 1
+sidebar_position: 26
 slug: /Help/Reference/using-the-language-tab
 ---
 
@@ -14,13 +14,13 @@ Then, do these steps to choose the language for this [text box](../../Concepts/T
     
 2.  Select (![](/ref-docs-assets/images/Tasks/Edit_tasks/SelectedRadioButton.png)) the language option you want to use for the current text box.
     
-3.  -   To make the text box use only one language, select one of the language options.
+    -   To make the text box use only one language, select one of the language options.
         
     -   Select Normal to clear the language option. Then it will use languages as set in the Languages tab of the Settings dialog box.
         
-4.  Click outside of the dialog box to close it.
+3.  Click outside of the dialog box to close it.
     
-5.  Click the end of the Change Layout [control](About_the_Change_Layout_controls.md) to hide the controls.
+4.  Click the end of the Change Layout [control](About_the_Change_Layout_controls.md) to hide the controls.
     
 
 #### Important
@@ -29,7 +29,7 @@ Then, do these steps to choose the language for this [text box](../../Concepts/T
     
 -   In the Settings dialog box:
     
--   -   [Use](../Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md) the Book Making tab to work with font and script settings for languages. You can also choose the language you want for page numbers in that dialog box.
+    -   [Use](../Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md) the Book Making tab to work with font and script settings for languages. You can also choose the language you want for page numbers in that dialog box.
         
     -   [Use](../../User_Interface/Dialog_boxes/Languages_tab.md) the Languages tab to [change or set languages](../Basic_tasks/Change_languages.md) for the collection.
         

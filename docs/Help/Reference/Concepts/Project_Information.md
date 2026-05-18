@@ -1,6 +1,6 @@
 ---
 title: Project Information
-sidebar_position: 1
+sidebar_position: 52
 slug: /Help/Reference/project-information
 ---
 

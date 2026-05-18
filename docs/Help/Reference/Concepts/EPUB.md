@@ -1,6 +1,6 @@
 ---
 title: ePUB
-sidebar_position: 1
+sidebar_position: 25
 slug: /Help/Reference/epub
 ---
 
@@ -42,7 +42,7 @@ Internet URL: Copy the desired URL from your browser's address bar. Paste it int
 
 -   Fonts:
     
--   -   Fonts are embedded if they indicate that they can be embedded.  
+    -   Fonts are embedded if they indicate that they can be embedded.  
         Exceptions: Bold and italic font variants are not embedded even if they are used in the text.
         
     -   Fonts are excluded if they indicate that they cannot be embedded. But, there is no warning if a font is excluded.  

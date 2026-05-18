@@ -1,6 +1,6 @@
 ---
 title: Leveled Readers
-sidebar_position: 1
+sidebar_position: 42
 slug: /Help/Reference/leveled-readers
 ---
 

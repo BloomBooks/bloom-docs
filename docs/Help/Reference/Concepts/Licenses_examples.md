@@ -1,6 +1,6 @@
 ---
 title: Licenses - Examples
-sidebar_position: 1
+sidebar_position: 43
 slug: /Help/Reference/licenses-examples
 ---
 
@@ -71,7 +71,7 @@ See Also: [About Creative Commons](About_Creative_Commons.md).
     
 -   For proper archiving and content, some metadata must conform to the [Dublin Core Metadata Initiative](http://dublincore.org/ "http://dublincore.org/").
     
--   The license appears in the Book Metadata dialog box (ePUB) and as metadata when you [Publish to Web](../Tasks/Publish_tasks/Publish to Web.htm).
+-   The license appears in the Book Metadata dialog box (ePUB) and as metadata when you [Publish to Web](../Tasks/Publish_tasks/Publish%20to%20Web.md).
     
 
 #### Related Topics

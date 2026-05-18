@@ -1,6 +1,6 @@
 ---
 title: Page
-sidebar_position: 1
+sidebar_position: 47
 slug: /Help/Reference/page
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Collections tab toolbar
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/collections-toolbar
 ---
 
@@ -20,7 +20,7 @@ This [toolbar](Toolbars_overview.md) appears in the ![](/ref-docs-assets/images/
     
 -   ![](/ref-docs-assets/images/User_Interface/Toolbar/LocalizeButton.png) - Click it to [change](../../Tasks/Basic_tasks/Change_User_Interface_language.md) the User Interface (UI) language.
     
--   -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpUsTranslateButton.png) Help us Translate Bloom to open [https://crowdin.com/project/sil-bloom](https://crowdin.com/project/sil-bloom) on the Internet.
+    -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpUsTranslateButton.png) Help us Translate Bloom to open [https://crowdin.com/project/sil-bloom](https://crowdin.com/project/sil-bloom) on the Internet.
         
     -   Select (![](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) Show translations which have not been approved yet if you need to see or use an unapproved UI language.
         

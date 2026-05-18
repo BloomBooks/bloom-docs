@@ -1,6 +1,6 @@
 ---
 title: Source text
-sidebar_position: 1
+sidebar_position: 61
 slug: /Help/Reference/source-text
 ---
 
@@ -32,7 +32,7 @@ A Source text is the words for a [book](Book.md). These words are provided in on
 
 -   If the source text is available in more than two languages, a number appears next to the tabs. The picture below shows an example that has 3 languages. There are two tabs with the language name, and one more that shows that there is another language. You could see a larger number.
     
--   -   Click the number to see the other language or languages. Then, click the language you want to see in a tab.
+    -   Click the number to see the other language or languages. Then, click the language you want to see in a tab.
         
 
 ![](/ref-docs-assets/images/Concepts/3langExample.png)

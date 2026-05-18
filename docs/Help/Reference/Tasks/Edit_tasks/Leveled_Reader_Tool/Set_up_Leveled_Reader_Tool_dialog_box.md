@@ -1,6 +1,6 @@
 ---
 title: Set up Leveled Reader Tool dialog box
-sidebar_position: 1
+sidebar_position: 10
 slug: /Help/Reference/set-up-leveled-reader-tool-dialog-box
 ---
 

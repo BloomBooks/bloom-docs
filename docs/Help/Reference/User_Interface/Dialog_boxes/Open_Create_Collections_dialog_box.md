@@ -1,6 +1,6 @@
 ---
 title: Open/Create Collections dialog box
-sidebar_position: 1
+sidebar_position: 15
 slug: /Help/Reference/open-create-collections-dialog-box
 ---
 
@@ -8,7 +8,7 @@ slug: /Help/Reference/open-create-collections-dialog-box
 
 -   To open the ![](/ref-docs-assets/images/BloomIcon_red.gif) Open/Create Collections dialog box, do either of these steps:
     
--   -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/OpenButtonColor.png) Other Collection on the [toolbar](../Toolbar/Collections_toolbar.md).
+    -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/OpenButtonColor.png) Other Collection on the [toolbar](../Toolbar/Collections_toolbar.md).
         
     -   Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../Tabs/Tabs_overview.md).
         

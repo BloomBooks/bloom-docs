@@ -1,6 +1,6 @@
 ---
 title: Book Metadata dialog box
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/book-metadata-dialog-box
 ---
 
@@ -51,7 +51,7 @@ Meanings:
     
 -   For more information:
     
--   -   [http://www.idpf.org/epub/a11y/accessibility.html#sec-acc-pub-wcag](http://www.idpf.org/epub/a11y/accessibility.html#sec-acc-pub-wcag "http://www.idpf.org/epub/a11y/accessibility.html#sec-acc-pub-wcag")
+    -   [http://www.idpf.org/epub/a11y/accessibility.html#sec-acc-pub-wcag](http://www.idpf.org/epub/a11y/accessibility.html#sec-acc-pub-wcag "http://www.idpf.org/epub/a11y/accessibility.html#sec-acc-pub-wcag")
         
     -   [http://www.idpf.org/epub/a11y/techniques/techniques.html#meta-004](http://www.idpf.org/epub/a11y/techniques/techniques.html#meta-004 "http://www.idpf.org/epub/a11y/techniques/techniques.html#meta-004")
         

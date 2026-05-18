@@ -1,6 +1,6 @@
 ---
 title: Create a transliteration rules file
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/create-a-transliteration-rules-file
 ---
 
@@ -17,11 +17,10 @@ Do these steps if you need to provide transliteration rules for Bloom:
     
 3.  Use and editor, such as Notepad, to create a simple tab-separated values (TSV) file with two columns:
     
-
--   In column 1, list the specified characters in the source (from) language.
-    
--   In column 2, list the specified characters of the target (to) language, which must be one of the TTS languages.
-    
+    -   In column 1, list the specified characters in the source (from) language.
+        
+    -   In column 2, list the specified characters of the target (to) language, which must be one of the TTS languages.
+        
 
 You can type any number of transliteration rules.
 
@@ -60,4 +59,4 @@ This file is used when you [use](../Edit_tasks/Record_Audio/Using_the_Talking_Bo
 
 [https://en.wikipedia.org/wiki/Tab-separated\_values](https://en.wikipedia.org/wiki/Tab-separated_values "https://en.wikipedia.org/wiki/Tab-separated_values")
 
-[http://espeak.sourceforge.net/languages.html](http://espeak.sourceforge.net/languages.md)
+[http://espeak.sourceforge.net/languages.html](http://espeak.sourceforge.net/languages.html)

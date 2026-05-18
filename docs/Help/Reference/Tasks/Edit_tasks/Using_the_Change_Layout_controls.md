@@ -1,6 +1,6 @@
 ---
 title: Using the Change Layout controls
-sidebar_position: 1
+sidebar_position: 25
 slug: /Help/Reference/using-the-change-layout-controls
 ---
 
@@ -42,11 +42,10 @@ Then you can type words, [change formatting](../Basic_tasks/Formatting_text/Form
 
 -   About the smart splitter:
     
-
--   You can double-click the splitter to make it snap into the position used by the previous page (if the same layout).
-    
--   The splitter can snap into these common locations:
-    
+    -   You can double-click the splitter to make it snap into the position used by the previous page (if the same layout).
+        
+    -   The splitter can snap into these common locations:
+        
 
 the position used by the previous page,
 

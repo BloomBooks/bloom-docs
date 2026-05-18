@@ -1,6 +1,6 @@
 ---
 title: Show the Impairment Visualizer
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/show-the-impairment-visualizer
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Set up Levels
-sidebar_position: 1
+sidebar_position: 11
 slug: /Help/Reference/set-up-levels
 ---
 

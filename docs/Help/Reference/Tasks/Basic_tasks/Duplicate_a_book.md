@@ -1,6 +1,6 @@
 ---
 title: Duplicate a book
-sidebar_position: 1
+sidebar_position: 11
 slug: /Help/Reference/duplicate-a-book
 ---
 

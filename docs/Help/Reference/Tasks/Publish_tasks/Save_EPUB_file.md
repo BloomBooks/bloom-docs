@@ -1,6 +1,6 @@
 ---
 title: Save ePUB file
-sidebar_position: 1
+sidebar_position: 17
 slug: /Help/Reference/save-epub-file
 ---
 
@@ -24,7 +24,7 @@ Then, do these steps:
     
 7.  In the Save As dialog box, navigate to the folder where you want to save the file.
     
-8.  -   Edit the file name (optional). Do not change type of file. It needs to be \*.epub.
+    -   Edit the file name (optional). Do not change type of file. It needs to be \*.epub.
         
     -   Click Save.
         

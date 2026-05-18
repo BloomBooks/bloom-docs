@@ -1,6 +1,6 @@
 ---
 title: Keyboards
-sidebar_position: 1
+sidebar_position: 40
 slug: /Help/Reference/keyboards
 ---
 
@@ -51,7 +51,7 @@ Linux - Set up a keyboard you add in the Keyboard Layout dialog box, IBus, KMFL 
 
 [https://support.microsoft.com/en-us/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences](https://support.microsoft.com/en-us/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences "https://support.microsoft.com/en-us/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences")
 
-[https://www.shorttutorials.com/linux/ubuntu/keyboard-settings.html](https://www.shorttutorials.com/linux/ubuntu/keyboard-settings.md "https://www.shorttutorials.com/linux/ubuntu/keyboard-settings.md")
+[https://www.shorttutorials.com/linux/ubuntu/keyboard-settings.html](https://www.shorttutorials.com/linux/ubuntu/keyboard-settings.html "https://www.shorttutorials.com/linux/ubuntu/keyboard-settings.html")
 
 [http://www.tavultesoft.com/keyman/](http://www.tavultesoft.com/keyman/ "http://www.tavultesoft.com/keyman/")
 

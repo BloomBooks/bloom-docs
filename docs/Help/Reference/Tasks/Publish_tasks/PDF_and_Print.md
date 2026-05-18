@@ -1,6 +1,6 @@
 ---
 title: Publish to PDF & Print
-sidebar_position: 1
+sidebar_position: 15
 slug: /Help/Reference/pdf-and-print
 ---
 
@@ -12,7 +12,7 @@ In the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collecti
     
 2.  In the right pane, click one of these options (if available):
     
-3.  -    ![pic](/ref-docs-assets/images/Tasks/Publish_tasks/SimplePDFIcon.png) Simple to make a simple \*.pdf file from entire book, instead of a booklet.
+    -    ![pic](/ref-docs-assets/images/Tasks/Publish_tasks/SimplePDFIcon.png) Simple to make a simple \*.pdf file from entire book, instead of a booklet.
         
     -    ![pic](/ref-docs-assets/images/Tasks/Publish_tasks/BookletCoverIcon.png) Booklet Cover to make a \*.pdf file from only the [front cover](../../Concepts/Front_Cover_page.md), [credits](../../Concepts/Credits_Page.md) and [back cover](../../Concepts/Back_cover_pages.md) pages in the file. You might print the cover on colored paper, or on heavier weight paper.
         
@@ -45,11 +45,10 @@ You can use the keyboard shortcut Ctrl+Alt+G to select the page number you will
 
 5.  Below Prepare for Printshop, do any of these optional steps:
     
-
--   Select (![pic](/ref-docs-assets/images/Tasks/Publish_tasks/SelectedCheckBoxGreen.png)) Full Bleed ![](/ref-docs-assets/images/User_Interface/BloomEnterprise%20button.png) . 
-    
--   Choose a CMYK option, None or U.S. Web Coated (SWOP) v2.
-    
+    -   Select (![pic](/ref-docs-assets/images/Tasks/Publish_tasks/SelectedCheckBoxGreen.png)) Full Bleed ![](/ref-docs-assets/images/User_Interface/BloomEnterprise%20button.png) . 
+        
+    -   Choose a CMYK option, None or U.S. Web Coated (SWOP) v2.
+        
 
 6.  [Save](Save_PDF_file.md) or [print](Print.md) the file.
     

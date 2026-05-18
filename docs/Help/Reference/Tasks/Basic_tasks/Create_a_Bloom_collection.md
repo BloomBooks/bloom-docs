@@ -1,6 +1,6 @@
 ---
 title: Create a Bloom collection
-sidebar_position: 1
+sidebar_position: 7
 slug: /Help/Reference/create-a-bloom-collection
 ---
 
@@ -16,11 +16,10 @@ The Create New Bloom Collection [dialog box](../../User_Interface/Dialog_boxes/C
 
 3.  In Choose the main language for this collection, start typing the name or code or country for the language.
     
-
--   If you see the desired language in the list that appears, click it.
-    
--   If you see different scripts you can choose, click the one that you want to use. 
-    
+    -   If you see the desired language in the list that appears, click it.
+        
+    -   If you see different scripts you can choose, click the one that you want to use. 
+        
 
 The BCP 47 Tag can include that script.
 
@@ -37,11 +36,10 @@ Later, you can do the steps in [Change or Set languages](Change_languages.md), 
 
 4.  In Font and Script, choose the font.
     
-
--   Then, then select one or both of the check boxes, such as to indicate that the script is written from right to left. If necessary, choose a different default line spacing.
-    
--   Click Next.
-    
+    -   Then, then select one or both of the check boxes, such as to indicate that the script is written from right to left. If necessary, choose a different default line spacing.
+        
+    -   Click Next.
+        
 
 5.  In Give Language Location, edit or enter the country, province or district names if desired. Click Next.
     

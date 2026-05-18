@@ -1,6 +1,6 @@
 ---
 title: Get Reader Template Bloom Pack from others
-sidebar_position: 1
+sidebar_position: 16
 slug: /Help/Reference/get-reader-template-bloom-pack-from-others
 ---
 
@@ -20,8 +20,8 @@ This installs the shell books and templates, reader settings and words on your c
 
 A message box appears and states, "The `<name>` Collection is now ready to use on this computer".
 
-1.  -   Click OK.
-        
+-   Click OK.
+    
 
 3.  Close and restart Bloom.
     

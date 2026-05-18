@@ -1,6 +1,6 @@
 ---
 title: Using the Motion Tool
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/using-the-motion-tool
 ---
 
@@ -37,19 +37,19 @@ If the rectangles do not overlap on any edge, the area between them will be pann
 6.  Do these steps to preview the motion:
     
 
-1.  -   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) Voice if you want to hear the recorded audio during the preview.
-        
-    -   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) Music if you want to hear the music during the preview.
-        
-    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PreviewButton.png) (Preview) to start a preview.
-        
+-   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) Voice if you want to hear the recorded audio during the preview.
+    
+-   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) Music if you want to hear the music during the preview.
+    
+-   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PreviewButton.png) (Preview) to start a preview.
+    
 
 The Preview button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PreviewButton.png)) changes to become a pause button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PauseButton.png)).
 
-1.  -   Reposition or resize the rectangles as desired.
-        
-    -   Repeat these steps until you are satisfied with the motion.
-        
+-   Reposition or resize the rectangles as desired.
+    
+-   Repeat these steps until you are satisfied with the motion.
+    
 
 7.  Click another page until all of them have motion or a cleared (![](/ref-docs-assets/images/UncheckedBox.PNG)) Enable Motion on this page check box.
     

@@ -1,6 +1,6 @@
 ---
 title: Credits Page
-sidebar_position: 1
+sidebar_position: 21
 slug: /Help/Reference/credits-page
 ---
 

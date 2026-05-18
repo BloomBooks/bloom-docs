@@ -1,6 +1,6 @@
 ---
 title: Collections tab commands
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/collections-tab-commands
 ---
 
@@ -25,7 +25,7 @@ Click it and then click View on BloomLibrary.org to open the collection there.
         
     -   Troubleshooting:
         
-    -   -   Do Checks of All Books: It checks all the books in the collection. A pop-up window shows any problem identified. If you see problems, run Do Updates of All Books. If there are still problems, [get more help](../../Overview/Get_More_Help.md).
+        -   Do Checks of All Books: It checks all the books in the collection. A pop-up window shows any problem identified. If you see problems, run Do Updates of All Books. If there are still problems, [get more help](../../Overview/Get_More_Help.md).
             
         -   Do Updates of All Books: It updates all of the books to use the most-recent front/back matter. It compresses all of the pictures and updates the picture metadata.
             
@@ -34,22 +34,22 @@ Click it and then click View on BloomLibrary.org to open the collection there.
 
 ### Thumbnail for a book, template or sample shell
 
-1.  -   Right-click (or click) a book [thumbnail](../../Concepts/Thumbnail.md) to see the down arrow (![](/ref-docs-assets/images/Book%20Down%20Arrow.png)), and then click it to see some or all of these commands:
+-   Right-click (or click) a book [thumbnail](../../Concepts/Thumbnail.md) to see the down arrow (![](/ref-docs-assets/images/Book%20Down%20Arrow.png)), and then click it to see some or all of these commands:
+    
+-   Rename Book: See [Rename a book thumbnail](../../Tasks/Basic_tasks/Rename_a_book_thumbnail.md). You can rename the book thumbnail and book folder without changing the book [title](../../Concepts/Book_Title.md).
+    
+-   Duplicate Book: It allows you to [duplicate](../../Tasks/Basic_tasks/Duplicate_a_book.md) that book.
+    
+-   Show in File Explorer: It opens the folder on your hard drive that stores the book. You would do this, for example, to manually [delete](../../Tasks/Basic_tasks/Delete_or_rename_a_collection.md) a collection or [edit](../../Tasks/Advanced_tasks/Editing_stylesheets.md) a stylesheet.
+    
+-   ![](/ref-docs-assets/images/Delete.png) Delete Book: It [deletes](../../Tasks/Basic_tasks/Delete_a_book.md) the [book](../../Concepts/Book.md).
+    
+-   More ![](/ref-docs-assets/images/LeftArrow.png)
+    
+    -   Export to Word or LibreOffice: It opens the HTML document in Microsoft® Word or LibreOffice. The layout is lost, but there may be reasons you would want to export a book. Printing a draft or to check spellings could be reasons.
         
-    -   Rename Book: See [Rename a book thumbnail](../../Tasks/Basic_tasks/Rename_a_book_thumbnail.md). You can rename the book thumbnail and book folder without changing the book [title](../../Concepts/Book_Title.md).
+    -   Export to Spreadsheet ![](/ref-docs-assets/images/User_Interface/BloomEnterprise%20button.png) : It [exports](../../Tasks/Basic_tasks/Export_to_Spreadsheet.md) a file with the file type \*.xlsx.
         
-    -   Duplicate Book: It allows you to [duplicate](../../Tasks/Basic_tasks/Duplicate_a_book.md) that book.
-        
-    -   Show in File Explorer: It opens the folder on your hard drive that stores the book. You would do this, for example, to manually [delete](../../Tasks/Basic_tasks/Delete_or_rename_a_collection.md) a collection or [edit](../../Tasks/Advanced_tasks/Editing_stylesheets.md) a stylesheet.
-        
-    -   ![](/ref-docs-assets/images/Delete.png) Delete Book: It [deletes](../../Tasks/Basic_tasks/Delete_a_book.md) the [book](../../Concepts/Book.md).
-        
-    -   More ![](/ref-docs-assets/images/LeftArrow.png)
-        
-        -   Export to Word or LibreOffice: It opens the HTML document in Microsoft® Word or LibreOffice. The layout is lost, but there may be reasons you would want to export a book. Printing a draft or to check spellings could be reasons.
-            
-        -   Export to Spreadsheet ![](/ref-docs-assets/images/User_Interface/BloomEnterprise%20button.png) : It [exports](../../Tasks/Basic_tasks/Export_to_Spreadsheet.md) a file with the file type \*.xlsx.
-            
 
 This is a [Bloom Enterprise](../../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature. The Export to Spreadsheet [dialog box](../Dialog_boxes/Export_to_Spreadsheet_dialog_box.md) lists limitations.
 

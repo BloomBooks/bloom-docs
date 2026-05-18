@@ -1,6 +1,6 @@
 ---
 title: Video/Video Placeholder
-sidebar_position: 1
+sidebar_position: 74
 slug: /Help/Reference/video
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Resize a picture
-sidebar_position: 1
+sidebar_position: 20
 slug: /Help/Reference/resize-a-picture
 ---
 

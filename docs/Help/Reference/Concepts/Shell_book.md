@@ -1,6 +1,6 @@
 ---
 title: Shell book
-sidebar_position: 1
+sidebar_position: 57
 slug: /Help/Reference/shell-book
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Book
-sidebar_position: 1
+sidebar_position: 14
 slug: /Help/Reference/book
 ---
 

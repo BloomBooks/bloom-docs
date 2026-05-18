@@ -1,6 +1,6 @@
 ---
 title: Show the Decodable Reader Tool
-sidebar_position: 1
+sidebar_position: 13
 slug: /Help/Reference/show-the-decodable-reader-tool
 ---
 

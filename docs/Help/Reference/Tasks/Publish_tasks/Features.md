@@ -1,6 +1,6 @@
 ---
 title: About Book Features
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/features
 ---
 

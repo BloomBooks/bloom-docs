@@ -1,6 +1,6 @@
 ---
 title: Show the Game Tool
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/show-the-game-tool
 ---
 
@@ -12,9 +12,8 @@ Not all of the game pages you can add will cause the Game Tool appear.
     
 2.  Click a game page that uses the Game Tool.
     
-
--   If no existing page uses this tool, [add](../Add_a_page.md) one.
-    
+    -   If no existing page uses this tool, [add](../Add_a_page.md) one.
+        
 
 3.  Look at the right side of the Bloom window and then do these steps:
     

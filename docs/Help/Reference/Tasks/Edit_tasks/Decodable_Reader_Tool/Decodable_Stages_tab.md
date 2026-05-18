@@ -1,6 +1,6 @@
 ---
 title: Decodable Stages tab
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/decodable-stages-tab
 ---
 
@@ -24,17 +24,16 @@ In the Set up Decodable Reader Tool dialog box, use this tab to add, reorder, re
     do these steps:
     
 
-1.  1.  In the left pane, click the stage you want to configure.
-        
-    2.  In the right pane, do these steps:
-        
+1.  In the left pane, click the stage you want to configure.
     
-    1.  -   In the New Sight Words box, type or paste [sight words](../../../Concepts/Sight_words.md) that you want to introduce in this stage. Separate the words with spaces.
-            
-        -   [Add letters](Add_letters_to_a_stage.md) that you want to introduce in this stage.
-            
-        -   Review the set of [matching words](../../../Concepts/Matching_words.md).
-            
+2.  In the right pane, do these steps:
+    
+    -   In the New Sight Words box, type or paste [sight words](../../../Concepts/Sight_words.md) that you want to introduce in this stage. Separate the words with spaces.
+        
+    -   [Add letters](Add_letters_to_a_stage.md) that you want to introduce in this stage.
+        
+    -   Review the set of [matching words](../../../Concepts/Matching_words.md).
+        
 
 ### Reorder levels
 

@@ -1,6 +1,6 @@
 ---
 title: Choose settings protections
-sidebar_position: 1
+sidebar_position: 5
 slug: /Help/Reference/choose-settings-protections
 ---
 
@@ -20,9 +20,9 @@ Bloom supports [roles](../../Concepts/Roles.md). Sometimes, a person who should 
         If it is selected, fewer buttons appear on the [toolbars](../../User_Interface/Toolbar/Toolbars_overview.md).
         
 
-1.  -   Require the factory password to get into settings  
-        If it is selected, a [password](../../User_Interface/Dialog_boxes/Setting_Protection_Password_dialog_box.md) is needed. Otherwise, you cannot open the Settings dialog box or the ![](/ref-docs-assets/images/BloomIcon_red.gif) Open/Create Collection dialog box.
-        
+-   Require the factory password to get into settings  
+    If it is selected, a [password](../../User_Interface/Dialog_boxes/Setting_Protection_Password_dialog_box.md) is needed. Otherwise, you cannot open the Settings dialog box or the ![](/ref-docs-assets/images/BloomIcon_red.gif) Open/Create Collection dialog box.
+    
 
 4.  Click OK.
     

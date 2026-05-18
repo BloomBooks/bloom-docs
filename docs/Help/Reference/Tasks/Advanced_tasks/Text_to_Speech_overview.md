@@ -1,6 +1,6 @@
 ---
 title: Text to Speech overview
-sidebar_position: 1
+sidebar_position: 12
 slug: /Help/Reference/text-to-speech-overview
 ---
 
@@ -12,7 +12,7 @@ In the Talking Book Tool, there is an advanced option that lets you [record](../
 
 To hear what this sounds like for text you have recorded, press and hold the Ctrl key down and click the Check [button](../Edit_tasks/Record_Audio/Talking_Book_Tool_legend.md).
 
-The [aeneas](../../Concepts/aeneas.md) / [eSpeak](../../Concepts/eSpeak.md) system that Bloom uses comes with a number of TTS languages. They are listed on the internet [here](http://espeak.sourceforge.net/languages.md "http://espeak.sourceforge.net/languages.md"). If you are making a talking book in one of those languages, it will use the correct language to read your text aloud to itself. But for most languages, Bloom does not have a TTS system and so must use another system, such as English or [Esperanto](https://simple.wikipedia.org/wiki/Esperanto "https://simple.wikipedia.org/wiki/Esperanto"), to approximate what the text should sound like. Many times, this works just fine.
+The [aeneas](../../Concepts/aeneas.md) / [eSpeak](../../Concepts/eSpeak.md) system that Bloom uses comes with a number of TTS languages. They are listed on the internet [here](http://espeak.sourceforge.net/languages.html "http://espeak.sourceforge.net/languages.html"). If you are making a talking book in one of those languages, it will use the correct language to read your text aloud to itself. But for most languages, Bloom does not have a TTS system and so must use another system, such as English or [Esperanto](https://simple.wikipedia.org/wiki/Esperanto "https://simple.wikipedia.org/wiki/Esperanto"), to approximate what the text should sound like. Many times, this works just fine.
 
 #### Issues
 
@@ -56,7 +56,7 @@ To do this, [create a transliteration rules file](Create_a_transliteration_rules
 
 [https://en.wikipedia.org/wiki/Tab-separated\_values](https://en.wikipedia.org/wiki/Tab-separated_values "https://en.wikipedia.org/wiki/Tab-separated_values")
 
-[http://espeak.sourceforge.net/languages.html](http://espeak.sourceforge.net/languages.md)
+[http://espeak.sourceforge.net/languages.html](http://espeak.sourceforge.net/languages.html)
 
 [https://simple.wikipedia.org/wiki/Esperanto](https://simple.wikipedia.org/wiki/Esperanto "https://simple.wikipedia.org/wiki/Esperanto")
 

@@ -1,6 +1,6 @@
 ---
 title: Right-to-left languages
-sidebar_position: 1
+sidebar_position: 24
 slug: /Help/Reference/right-to-left-languages
 ---
 

@@ -43,6 +43,106 @@ const stats: DownloadStats = {
   errors: [],
 };
 
+async function downloadTextAsset(
+  relativePath: string,
+  manifest: FileManifest
+): Promise<string | null> {
+  const url = `${BASE_URL}/${relativePath}`;
+  const outputPath = path.join(OUTPUT_DIR, relativePath);
+  const existingEntry = manifest[relativePath];
+
+  try {
+    const { lastModified, content } = await downloadFile(url, outputPath);
+
+    if (
+      existingEntry &&
+      lastModified &&
+      existingEntry.lastModified === lastModified &&
+      fs.existsSync(outputPath)
+    ) {
+      if (VERBOSE_MODE) {
+        console.log(`⊙ Skipped (unchanged): ${relativePath}`);
+      }
+      stats.skipped++;
+      return fs.readFileSync(outputPath, "utf-8");
+    }
+
+    const textContent = content.toString("utf-8");
+    ensureDirectoryExists(outputPath);
+    fs.writeFileSync(outputPath, textContent, "utf-8");
+
+    manifest[relativePath] = {
+      url,
+      downloadedAt: new Date().toISOString(),
+      lastModified,
+    };
+
+    console.log(`✓ Downloaded: ${relativePath}`);
+    stats.downloaded++;
+    return textContent;
+  } catch (error) {
+    console.error(`✗ Failed: ${relativePath} - ${error}`);
+    stats.errors.push(`${relativePath}: ${error}`);
+    return null;
+  }
+}
+
+interface RoboHelpTocItem {
+  key?: string;
+  name?: string;
+  type?: string;
+  url?: string;
+}
+
+function parseRoboHelpTocScript(scriptContent: string): RoboHelpTocItem[] {
+  const match = scriptContent.match(/var\s+toc\s*=\s*(\[[\s\S]*?\]);/);
+  if (!match) {
+    return [];
+  }
+
+  try {
+    const parsed = JSON.parse(match[1]);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+async function downloadRoboHelpTocAssets(
+  manifest: FileManifest
+): Promise<string[]> {
+  console.log("\nDownloading RoboHelp TOC assets...\n");
+
+  const discoveredTocPaths: string[] = [];
+  const pendingPaths = ["whxdata/toc.new.js"];
+  const visitedPaths = new Set<string>();
+
+  while (pendingPaths.length > 0) {
+    const tocPath = pendingPaths.shift();
+    if (!tocPath || visitedPaths.has(tocPath)) {
+      continue;
+    }
+
+    visitedPaths.add(tocPath);
+    discoveredTocPaths.push(tocPath);
+
+    const content = await downloadTextAsset(tocPath, manifest);
+    if (!content) {
+      continue;
+    }
+
+    for (const item of parseRoboHelpTocScript(content)) {
+      if (item.type !== "book" || !item.key) {
+        continue;
+      }
+
+      pendingPaths.push(`whxdata/${item.key}.new.js`);
+    }
+  }
+
+  return discoveredTocPaths;
+}
+
 function loadManifest(): FileManifest {
   if (fs.existsSync(MANIFEST_FILE)) {
     const content = fs.readFileSync(MANIFEST_FILE, "utf-8");
@@ -210,6 +310,7 @@ async function downloadImagesFromHtml(
 ) {
   try {
     const dom = new JSDOM(htmlContent);
+
     const images = dom.window.document.querySelectorAll("img");
 
     for (const img of Array.from(images)) {
@@ -346,6 +447,10 @@ async function main() {
 
   // Add sitemap.xml to the set so it doesn't get deleted
   currentUrls.add("sitemap.xml");
+
+  for (const auxiliaryPath of await downloadRoboHelpTocAssets(manifest)) {
+    currentUrls.add(auxiliaryPath);
+  }
 
   for (let i = 0; i < urlsToDownload.length; i++) {
     const url = urlsToDownload[i];

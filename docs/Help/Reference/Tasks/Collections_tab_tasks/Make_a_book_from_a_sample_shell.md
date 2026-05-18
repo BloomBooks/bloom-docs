@@ -1,6 +1,6 @@
 ---
 title: Make a book from a sample shell
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/make-a-book-from-a-sample-shell
 ---
 

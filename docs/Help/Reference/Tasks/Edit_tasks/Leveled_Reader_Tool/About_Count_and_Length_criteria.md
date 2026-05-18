@@ -1,6 +1,6 @@
 ---
 title: About Count and Length criteria
-sidebar_position: 1
+sidebar_position: 2
 slug: /Help/Reference/about-count-and-length-criteria
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Report A Problem dialog box
-sidebar_position: 1
+sidebar_position: 16
 slug: /Help/Reference/report-a-problem-dialog-box
 ---
 

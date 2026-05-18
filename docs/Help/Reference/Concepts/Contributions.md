@@ -1,6 +1,6 @@
 ---
 title: Contributions
-sidebar_position: 1
+sidebar_position: 20
 slug: /Help/Reference/contributions
 ---
 

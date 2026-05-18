@@ -1,6 +1,6 @@
 ---
 title: Publish tab toolbar
-sidebar_position: 1
+sidebar_position: 4
 slug: /Help/Reference/publish-tab-toolbar
 ---
 

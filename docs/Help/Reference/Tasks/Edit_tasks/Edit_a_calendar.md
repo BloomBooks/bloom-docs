@@ -1,6 +1,6 @@
 ---
 title: Edit a calendar
-sidebar_position: 1
+sidebar_position: 17
 slug: /Help/Reference/edit-a-calendar
 ---
 

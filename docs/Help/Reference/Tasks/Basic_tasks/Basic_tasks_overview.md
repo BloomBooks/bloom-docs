@@ -38,7 +38,7 @@ Here are [tasks](../Tasks_overview.md) that are usually not limited to a particu
     
 -   [Formatting Text overview](Formatting_text/Formatting_Text_overview.md)
     
--   -   [Apply direct formatting](Formatting_text/Apply_direct_formatting.md)
+    -   [Apply direct formatting](Formatting_text/Apply_direct_formatting.md)
         
     -   [Choose a text color for a style](Formatting_text/Choose_text_color_for_a_style.md)
         

@@ -1,6 +1,6 @@
 ---
 title: Using the Music Tool
-sidebar_position: 1
+sidebar_position: 3
 slug: /Help/Reference/using-the-music-tool
 ---
 
@@ -16,25 +16,25 @@ slug: /Help/Reference/using-the-music-tool
 4.  To start new music, do these steps:
     
 
-1.  -   Click the Choose link (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/ChooseLink.png)).
-        
-    -   In the Open dialog box, click the music file that you want and then click Open.
-        
+-   Click the Choose link (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/ChooseLink.png)).
+    
+-   In the Open dialog box, click the music file that you want and then click Open.
+    
 
 The file name appears after the play button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/PlayButton.png)).
 
-1.  -   Click the play button to hear the music and any [recorded audio](../Record_Audio/Talking_Book_Tool_overview.md) on this page.
-        
+-   Click the play button to hear the music and any [recorded audio](../Record_Audio/Talking_Book_Tool_overview.md) on this page.
+    
 
 The play button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/PlayButton.png)) changes to become a pause button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/StopButton.png)).
 
-1.  -   Adjust the volume with the slider (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/VolumeControl.png)).
-        
+-   Adjust the volume with the slider (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/VolumeControl.png)).
+    
 
 This volume slider changes the volume of the music, but not the recorded audio. The numerical value is logarithmically related to the visual slider so that you have finer control at lower volumes.
 
-1.  -   To stop the playback, click the stop button.
-        
+-   To stop the playback, click the stop button.
+    
 
 5.  In the Pages pane, click the next page.
     
@@ -43,12 +43,12 @@ If a previous page played music, the default selection is Continue music from pr
 
 If you want the music to continue, then click a subsequent page for which you want to have either no music or new music.
 
-1.  -   In the Music Tool tab, select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/SelectedRadioButton.png)) one of these options:
+-   In the Music Tool tab, select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/SelectedRadioButton.png)) one of these options:
+    
+    -   No Music
         
-    -   -   No Music
-            
-        -   Start new music.
-            
+    -   Start new music.
+        
 
 Repeat the steps above to start new music.
 

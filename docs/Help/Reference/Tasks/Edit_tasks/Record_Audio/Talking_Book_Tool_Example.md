@@ -1,6 +1,6 @@
 ---
 title: Talking Book Tool - Examples
-sidebar_position: 1
+sidebar_position: 9
 slug: /Help/Reference/talking-book-tool-example
 ---
 

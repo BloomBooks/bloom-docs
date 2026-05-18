@@ -1,6 +1,6 @@
 ---
 title: Languages tab
-sidebar_position: 1
+sidebar_position: 14
 slug: /Help/Reference/languages-tab
 ---
 
@@ -29,7 +29,7 @@ If Local Language and Language 2 are the same, you need to choose a Language 3 
 -   Sign Language (Optional)
     
 
-You must [choose](../../Tasks/Basic_tasks/Change_languages.md) a sign language here before you can [publish your sign language book](../../Tasks/Publish_tasks/Publish to Web.htm) to the web.
+You must [choose](../../Tasks/Basic_tasks/Change_languages.md) a sign language here before you can [publish your sign language book](../../Tasks/Publish_tasks/Publish%20to%20Web.md) to the web.
 
 #### Important
 

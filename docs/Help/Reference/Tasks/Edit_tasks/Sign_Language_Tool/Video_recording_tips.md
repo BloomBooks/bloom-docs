@@ -1,6 +1,6 @@
 ---
 title: Video recording tips
-sidebar_position: 1
+sidebar_position: 9
 slug: /Help/Reference/video-recording-tips
 ---
 

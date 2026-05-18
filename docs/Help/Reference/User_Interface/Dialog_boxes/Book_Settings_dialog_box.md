@@ -1,6 +1,6 @@
 ---
 title: Book Settings dialog box
-sidebar_position: 1
+sidebar_position: 6
 slug: /Help/Reference/book-settings-dialog-box
 ---
 
