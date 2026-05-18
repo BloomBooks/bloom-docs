@@ -6,7 +6,7 @@ slug: /Help/Reference/background-color-dialog-box
 
 ## Background Color dialog box
 
-Use this dialog box to [choose](../../Tasks/Edit_tasks/Overlay_Tool/Choose_text_or_background_colors.md) a background color for an [overlay](../../Tasks/Edit_tasks/Overlay_Tool/Overlay_Tool_overview.md), or to choose a background color for cover pages in the Book Settings [dialog box](Book_Settings_dialog_box.md).
+Use this dialog box to [choose](../../Tasks/Edit_tasks/Canvas_Tool/Choose_text_or_background_colors.md) a background color for a [Canvas Tool](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) element or to choose a background color for cover pages in the Book Settings [dialog box](Book_Settings_dialog_box.md).
 
 -   ![](/ref-docs-assets/images/User_Interface/Dialog_boxes/ColorSlider.png) Click and drag the color slider control until you see a range of desired colors in the large box above the slider control.
     

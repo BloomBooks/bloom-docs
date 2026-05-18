@@ -51,7 +51,7 @@ In a text box that uses the [style](../../../Concepts/Styles.md) you want to co
 
 1 means that the space between paragraphs is the same as one line of texts.
 
-4.  Highlighting tab - When audio is playing the text in an overlay (speech bubble, text box and so on) that text is highlighted with colors. You choose those colors used for the highlighting in this tab. These colors are used with the style you set in the Style Name tab.
+4.  Highlighting tab - When audio is playing the text in a Canvas Tool element (speech bubble, text box and so on) that text is highlighted with colors. You choose those colors used for the highlighting in this tab. These colors are used with the style you set in the Style Name tab.
     
 
 -   Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) Background color and then click the colored box to open and use the Background color dialog box.
@@ -59,17 +59,15 @@ In a text box that uses the [style](../../../Concepts/Styles.md) you want to co
 -   Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) Text color and then click the colored box to open and use the Text color dialog box.
     
 
-5.  Overlay tab - click the down arrow (![](/ref-docs-assets/images/DownArrowGray.png)) and then click a padding value to set the space between the text and its border.
+5.  Canvas Test tab - click the down arrow (![](/ref-docs-assets/images/DownArrowGray.png)) and then click a padding value to set the space between the text and its border.
     
-
--   In the Pages pane, click each page that uses the style to allow Bloom to apply the change to those pages.
-    
-
 6.  Click anywhere outside of the dialog box to close it.
     
 
 #### Note
 
+-   In the Pages pane, click each page that uses the style to allow Bloom to apply the change to those pages.
+    
 -   The Font control displays one of these symbols:
     
 
@@ -88,7 +86,7 @@ These symbols also appear in the Book Making [tab](../Select_front_matter_or_bac
 
 All the fonts you use are listed in the Book Settings [dialog box](../../../User_Interface/Dialog_boxes/Book_Settings_dialog_box.md). 
 
--   The Background color and Text color dialog boxes are similar to the ones described in this Help topic: [Choose text or background colors](../../Edit_tasks/Overlay_Tool/Choose_text_or_background_colors.md).
+-   The Background color and Text color dialog boxes are similar to the ones described in this Help topic: [Choose text or background colors](../../Edit_tasks/Canvas_Tool/Choose_text_or_background_colors.md).
     
 -   Use the Text Box Properties dialog box to set text box language, vertical alignment and work with hint bubbles.
     

@@ -6,7 +6,7 @@ slug: /Help/Reference/crop-a-picture
 
 ## Crop a picture
 
-There are a few different ways to crop picture ([image](../../Concepts/Picture.md)). Controls for cropping an image are included in the controls you see with pictures. Some are described in [Using the Overlay Tool](Overlay_Tool/Using_the_Overlay_Tool.md).
+There are a few different ways to crop picture ([image](../../Concepts/Picture.md)). Controls for cropping an image are included in the controls you see with pictures. Some are described in [Using the Canvas Tool](Canvas_Tool/Using_the_Canvas_Tool.md).
 
 You can also crop an image in the [Image Toolbox](../../User_Interface/Dialog_boxes/Image_Toolbox.md).
 

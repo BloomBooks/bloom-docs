@@ -19,7 +19,7 @@ slug: /Help/Reference/change-picture-metadata
 
 The Copyright and License dialog box appears.
 
-3.  [Use](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md) the dialog box.
+3.  [Use](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md) the dialog box.
     
 4.  If the Picture Intellectual Property Information question box appears:
     

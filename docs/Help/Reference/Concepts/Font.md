@@ -20,7 +20,7 @@ See Also: [Font Features](../Tasks/Advanced_tasks/Font_features.md).
 
 [Settings dialog box](../User_Interface/Dialog_boxes/Settings_dialog_box.md)
 
-[Using the Overlay Tool](../Tasks/Edit_tasks/Overlay_Tool/Using_the_Overlay_Tool.md)
+[Using the Canvas Tool](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md)
 
 #### Related Internet Sites
 

@@ -52,7 +52,7 @@ Edit tab tasks
 
 -   Edit Copyright & License:
     
-    -   [Images](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md)
+    -   [Images](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md)
         
     -   [Text](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Text.md)
         
@@ -83,6 +83,10 @@ Edit tab tasks
 
 "Tool Box" tasks overviews
 
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool%20Icon%20Green.png) [Canvas Tool](Canvas_Tool/Canvas_Tool_overview.md)
+
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/Leveled_Reader_Tool_icon.png) [Leveled Reader Tool](Leveled_Reader_Tool/Leveled_Reader_Tool_overview.md)
+
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/Decodable_Reader_Tool_icon.png) [Decodable Reader Tool](Decodable_Reader_Tool/Decodable_Reader_Tool_overview.md)
     
 
@@ -98,19 +102,14 @@ Edit tab tasks
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/ImpairmentVisualizerBlueIcon.png) [Impairment Visualizer](Impairment_Visualizer/Impairment_Visualizer_overview.md)
     
 
--   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Overlay_Tool/Overlay%20Tool%20Icon.png) [Overlay Tool](Overlay_Tool/Overlay_Tool_overview.md)
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Sign_Language_Tool/VideoPlaceHolderSMALLblue.png) [Sign Language Tool](Sign_Language_Tool/Sign_Language_Tool_overview.md)
     
 
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/GameToolIcon.png) [Game Tool](Game_Tool/Game_Tool_overview.md)
     
 
--   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Sign_Language_Tool/VideoPlaceHolderSMALLblue.png) [Sign Language Tool](Sign_Language_Tool/Sign_Language_Tool_overview.md)
-    
-
--   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/Leveled_Reader_Tool_icon.png) [Leveled Reader Tool](Leveled_Reader_Tool/Leveled_Reader_Tool_overview.md)
-    
-
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/TalkingBookToolIcon.png) [Talking Book Tool](Record_Audio/Talking_Book_Tool_overview.md)
+    
 
 #### Tip
 
@@ -139,7 +138,7 @@ Edit tab tasks
 
 [Book Metadata dialog box](../../User_Interface/Dialog_boxes/Book_Metadata_dialog_box.md)
 
-[Copyright & License dialog box - Images](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md)
+[Copyright & License dialog box - Images](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md)
 
 [Copyright & License - Text](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Text.md)
 

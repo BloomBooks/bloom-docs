@@ -35,6 +35,8 @@ The new page or pages are added and appear after the page you previously selecte
 
 #### Important
 
+Some pages are not shown if they are used with [experimental features](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) but Show Experimental Features is not selected.
+
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/AddPageBE.png) (dot) — You need a [Bloom Enterprise](Enterprise/EnterpriseRequired.md) subscription to add the page.
     
 -   Keyboard shortcut: Ctrl+N adds a new page without displaying the Add Page dialog box.

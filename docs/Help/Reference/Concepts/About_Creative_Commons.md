@@ -6,7 +6,7 @@ slug: /Help/Reference/about-creative-commons
 
 ## About Creative Commons
 
-You can select (![](/ref-docs-assets/images/SelectedRadioButton.png)) Creative Commons when you choose a license for the book ([here](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Text.md)) or for images ([here](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md)). The symbols that appear correspond to your Yes or No selections.
+You can select (![](/ref-docs-assets/images/SelectedRadioButton.png)) Creative Commons when you choose a license for the book ([here](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Text.md)) or for images ([here](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md)). The symbols that appear correspond to your Yes or No selections.
 
 #### Examples
 
@@ -45,7 +45,7 @@ You can select (![](/ref-docs-assets/images/SelectedRadioButton.png)) Creative C
 
 [Concepts overview](Concepts_overview.md)
 
-[Copyright and License dialog box - Images](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md)
+[Copyright and License dialog box - Images](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md)
 
 [Copyright and License dialog box - Text](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Text.md)
 

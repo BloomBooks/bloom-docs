@@ -27,7 +27,7 @@ Pro: This mode will work with ePUB readers that do not support ePUB 3.
 
 Con: Any custom pages will not look good.
 
-Con: This mode is not available if your book has [overlay](../Tasks/Edit_tasks/Overlay_Tool/Overlay_Tool_overview.md) pages (e.g. comics).
+Con: This mode is not available if your book has pages with [Canvas Tool](../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) elements (e.g. comics).
 
 See [https://docs.bloomlibrary.org/ePUB-notes](https://docs.bloomlibrary.org/ePUB-notes "https://docs.bloomlibrary.org/ePUB-notes") to learn more about the performance of these ePUB modes and readers.
 

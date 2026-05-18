@@ -6,7 +6,7 @@ slug: /Help/Reference/make-a-book-from-big-book
 
 ## Make a book from Big Book template
 
-1.  Click ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Tabs_overview.md).
+1.  Click ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Collections_tab_commands.md).
     
 2.  Below Sources for New Books, click the Big Book [template](../../Concepts/Template.md).
     

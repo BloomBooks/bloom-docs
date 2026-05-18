@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /Help/Reference/motion-tool-overview
 ---
 
-## Motion Tool overview
+## Motion Tool overview ![](/ref-docs-assets/images/EnterpriseStar.png)
 
 The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PanZoomIcon.png) Motion Tool is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
 

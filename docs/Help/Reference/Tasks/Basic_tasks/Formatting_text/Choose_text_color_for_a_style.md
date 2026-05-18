@@ -26,7 +26,7 @@ Use this dialog box to choose the text color for the current [style](Configure_a
 
 #### Related Topics
 
-[Choose text or background colors for overlays](../../Edit_tasks/Overlay_Tool/Choose_text_or_background_colors.md) 
+[Choose text or background colors for Canvas Tool elements](../../Edit_tasks/Canvas_Tool/Choose_text_or_background_colors.md)
 
 [Edit tab tasks overview](../../Edit_tasks/Edit_tasks_overview.md)
 

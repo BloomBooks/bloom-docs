@@ -11,7 +11,7 @@ You might want to review [Adjust Timings](Adjust_Timings.md) and [Fine-tuning A
 1.  In the Pages [pane](../../../User_Interface/Tabs/Tabs_overview.md), click a page that has words in a [text box](../../../Concepts/Text_Box.md).
     
 
-This includes text boxes, captions and speech bubbles [added](../Overlay_Tool/Using_the_Overlay_Tool.md) to images and can include image descriptions. You may want to start with the text box for the book title on the [Front Cover page](../../../Concepts/Front_Cover_page.md).
+This includes text boxes, captions and speech bubbles [added](../Canvas_Tool/Using_the_Canvas_Tool.md) to images and can include image descriptions. You may want to start with the text box for the book title on the [Front Cover page](../../../Concepts/Front_Cover_page.md).
 
 2.  Click ![PIC](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/Advanced_closed.png) Advanced.
     

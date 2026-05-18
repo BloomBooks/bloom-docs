@@ -68,7 +68,7 @@ Select (![](/ref-docs-assets/images/CheckedBox.PNG)) to enable automatic updated
 -   Experimental Features
     
 
- ![](/ref-docs-assets/images/User_Interface/EnterpriseStar.png) Team Collections - select (![](/ref-docs-assets/images/CheckedBox.PNG)) if you want to have a [team collection](../../Concepts/Team_Collection.md).
+ ![](/ref-docs-assets/images/User_Interface/EnterpriseStar.png) Team Collections select (![](/ref-docs-assets/images/CheckedBox.PNG)) if you want have a [team collection](../../Concepts/Team_Collection.md).
 
  
 

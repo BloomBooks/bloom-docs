@@ -12,35 +12,35 @@ When this tool is [shown](Show_the_Game_Tool.md), and if the current game page a
 
 Here are things you can see in the Game Tool tab:
 
--   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/Image_game.png)
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/Movable_Image_GameTool.png) or ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/Image_game.png)
     
 
 This adds an image placeholder so you can add an image to the page. There is one that can be dragged by the reader, and one that is fixed in place.
 
--   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/SignLangVideo_game.png)
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/Movable_Sign_GameTool.png) or![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/SignLangVideo_game.png)
     
 
 This adds a video placeholder so you can add a sign language video to the page. There is one that can be dragged by the reader, and one that is fixed in place.
-
--   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/WORDobject.png)
-    
-
-This adds a placeholder that can hold words and an audio file that will play a sound with the item is touched.
-
--   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/GIF_game.png)
-    
-
-This adds a placeholder that can hold a \*.gif image, which can be animated.
 
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/SoundButton.png)
     
 
 This adds a placeholder that can hold an audio file that will play a sound with the item is touched.
 
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/WORDobject.png)
+    
+
+This adds a placeholder that can hold words and an audio file that will play a sound with the item is touched.
+
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/TargetBox.png)
     
 
 This add a square to the page that you can fill or leave empty. You can add it as a border around other items.
+
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/GIF_game.png)
+    
+
+This adds a placeholder that can hold a \*.gif image, which can be animated.
 
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/InstructionsOrOtherLabel_game.png) 
     
@@ -49,6 +49,9 @@ This adds a text box you can use for instructions or any other information to he
 
 -   Theme allows you to choose the color theme for the objects and background.
     
+
+For more information, see: [https://docs.bloomlibrary.org/custom-game-theme/](https://docs.bloomlibrary.org/custom-game-theme/ "https://docs.bloomlibrary.org/custom-game-theme/")
+
 -   Options has these three buttons:
     
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/KeepSameSELECTED_Game%20.png) Keep all items and targets the same size. In this case, if you resize an image or a target, all of them change size. 

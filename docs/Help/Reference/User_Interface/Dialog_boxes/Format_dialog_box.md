@@ -6,7 +6,7 @@ slug: /Help/Reference/format-dialog-box
 
 ## Format dialog box
 
--   To open this dialog box, click the cogged gear (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) which appears near the bottom of each [text box](../../Concepts/Text_Box.md) and in the toolbar that appears with [Overlay Tool](../../Tasks/Edit_tasks/Overlay_Tool/Using_the_Overlay_Tool.md) overlays (![](/ref-docs-assets/images/Tasks/Edit_tasks/Overlay_Tool/ToolbarExample.png)).
+-   To open this dialog box, click the cogged gear (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) which appears near the bottom of each [text box](../../Concepts/Text_Box.md) and in the toolbar that appears with the [Canvas Tool](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) elements (![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/ToolbarExample.png)).
     
 
 The name of the current style appears in the statement at the bottom of the dialog box. This information is important because changes you make affect all other text boxes that use the same language and [style](../../Concepts/Styles.md).
@@ -20,9 +20,9 @@ Characters tab - [configure](../../Tasks/Basic_tasks/Formatting_text/Configure_a
 
 Paragraph tab - [configure](../../Tasks/Basic_tasks/Formatting_text/Configure_a_style.md) paragraph elements of the chosen or default style.
 
-Highlighting tab - choose background colors and text colors to use in [overlays](../../Tasks/Edit_tasks/Overlay_Tool/Using_the_Overlay_Tool.md) when audio is playing.
+Highlighting tab - choose background colors and text colors to use in [canvas](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) when audio is playing.
 
-Overlay tab - choose padding between the text and the [overlay](../../Tasks/Edit_tasks/Overlay_Tool/Using_the_Overlay_Tool.md) border.
+Canvas Text tab - choose padding between the text and the [canvas](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) border. 
 
 #### Note
 
@@ -31,6 +31,8 @@ Overlay tab - choose padding between the text and the [overlay](../../Tasks/Edit
 
 The combination of font size, line spacing and word spacing can cause a [red font color](../../Concepts/Red_font_color.md) or red line.
 
+-   If you make a change to a style, you should visit each page that uses that style. This will allow Bloom to fully apply your style.
+    
 -   Currently, to delete an unwanted style or edit a style name, you would need to edit the book's \*.htm file. You may want to [get more help](../../Overview/Get_More_Help.md).
     
 

@@ -8,7 +8,7 @@ slug: /Help/Reference/picture
 
 In Bloom, picture and image are used interchangeably. Both refer, generically, to a picture/photograph, line art or similar. Pictures (images) can be in various [formats](Picture_format.md).
 
-They decorate or distinguish a [Front Cover page](Front_Cover_page.md) or function as illustrations.
+They decorate or distinguish a [Front Cover page](Front_Cover_page.md) or function as illustration.
 
 You can [paste](../Tasks/Edit_tasks/Change_picture.md) an image you previously copied to your computer's clipboard. However, typically, you use the [Image Toolbox](../User_Interface/Dialog_boxes/Image_Toolbox.md) to:
 
@@ -18,7 +18,7 @@ You can [paste](../Tasks/Edit_tasks/Change_picture.md) an image you previously c
     
 -   crop the image (use a portion of it)
     
--   [open](../Tasks/Edit_tasks/Change_picture_metadata.md) the Copyright and License [dialog box](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md) so you can specify image metadata. Bloom embeds this information in the image file itself.
+-   [open](../Tasks/Edit_tasks/Change_picture_metadata.md) the Copyright and License [dialog box](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md) so you can specify image metadata. Bloom embeds this information in the image file itself.
     
 -   Paste image credit information with [Contributions](Contributions.md).
     
@@ -36,7 +36,7 @@ You can [paste](../Tasks/Edit_tasks/Change_picture.md) an image you previously c
 
 ![](/ref-docs-assets/images/Tasks/imageplaceholder.png) This is a picture placeholder. It can appear in various sizes on pages that can have pictures.
 
-Hold your mouse pointer over a placeholder or existing picture to display these buttons (not visible if the Overlay Tool is open in the [tool box](Tool_Box.md)):
+Hold your mouse pointer over a placeholder or existing picture to display these buttons (not visible if the Canvas Tool is open in the [tool box](Tool_Box.md)):
 
  
 
@@ -85,7 +85,7 @@ Crop
     
 -   [Use](../Tasks/Edit_tasks/Image_Description_Tool/Using_the_Image_Description_Tool.md) the Image Description Tool to add descriptions of images.
     
--   [Use](../Tasks/Edit_tasks/Overlay_Tool/Using_the_Overlay_Tool.md) the Overlay Tool to add bubbles, text boxes or captions to images.
+-   [Use](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) the Canvas Tool to add bubbles, text boxes or captions to images.
     
 
 ### Motion

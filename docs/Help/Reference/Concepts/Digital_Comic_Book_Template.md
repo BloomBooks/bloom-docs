@@ -6,7 +6,7 @@ slug: /Help/Reference/digital-comic-book-template
 
 ## Digital Comic Book Template
 
-Digital Comic Book is one of the [templates](Template.md) you can use when you [use](../Tasks/Edit_tasks/Overlay_Tool/Using_the_Overlay_Tool.md) the Overlay Tool.
+Digital Comic Book is one of the [templates](Template.md) you can use when you [use](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) the Canvas Tool.
 
 When you [add a page](../Tasks/Edit_tasks/Add_a_page.md) based on this template, the Digital Comic Book page you can add will have a full page image with no margins, with a text footer over the image.
 
@@ -18,7 +18,7 @@ You put the words for the page in speech bubbles, text blocks or captions. You c
     
 -   Comic books made with this template have a different page order that other books.
     
--   [Overlays](../Tasks/Edit_tasks/Overlay_Tool/Overlay_Tool_overview.md) are not supported in [ePUB](EPUB.md).
+-   [Canvas Tool](../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) elements are not supported in [ePUB](EPUB.md).
     
 
 #### Related Topics

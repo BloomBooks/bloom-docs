@@ -25,7 +25,7 @@ When your mouse pointer is over a playback order button, a minus sign (![](/ref-
         
     -   Continue until each location where there is text shows the desired playback order number.
         
-    -   If you changed the playback order of the image description, it will typically play after the other text boxes and overlays.
+    -   If you changed the playback order of the image description, it will typically play after the other text boxes and Canvas Tool element.
         
 
 3.  Disable (![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/DisabledSliderControl.png)) Show playback order buttons to make other Talking Book Tool features available again.

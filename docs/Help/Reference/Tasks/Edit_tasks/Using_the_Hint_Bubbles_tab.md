@@ -49,7 +49,7 @@ The language names you see are set when you [Change or Set languages](../Basic_t
 
 -   Unlike setting a [style](../../Concepts/Styles.md), this property is for the current text box only. It will persist if you use Duplicate Page. However, if you change it later in one of the pages, it will not change in any other pages.
     
--   These texts boxes are not the same as those you can add [using](Overlay_Tool/Using_the_Overlay_Tool.md) the Overlay Tool.
+-   These texts boxes are not the same as those you can add when you [use](Canvas_Tool/Using_the_Canvas_Tool.md) the Canvas Tool.
     
 
 #### Related Topics

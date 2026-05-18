@@ -24,6 +24,8 @@ The Custom page layout allows you to design your own page layout from scratch. S
 
 #### Important
 
+-   Some pages are not shown if they are used with [experimental features](Settings_dialog_box.md) but Show Experimental Features is not selected.
+    
 -   A similar dialog box appears when you use the Choose Different Layout command.
     
 

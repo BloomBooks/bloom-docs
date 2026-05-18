@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /Help/Reference/music-tool-overview
 ---
 
-## Music Tool overview
+## Music Tool overview ![](/ref-docs-assets/images/EnterpriseStar.png)
 
 The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Music_Tool/MusicToolIcon.png) Music Tool is one of the tools in the [tool box](../../../Concepts/Tool_Box.md). It allows you to set up background music that plays when a book is viewed in the Bloom Reader app.
 

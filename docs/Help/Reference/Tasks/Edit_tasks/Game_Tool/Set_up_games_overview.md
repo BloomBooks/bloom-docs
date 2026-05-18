@@ -42,7 +42,7 @@ The more button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Overlay_Tool/Overl
     
 -   Click ![](/ref-docs-assets/images/CopyImageOverlay.png) Copy image to copy the current image to your clipboard.
     
--   Click ![](/ref-docs-assets/images/SetImageInfoOverlay.png) Set image information to open and use the Copyright and License [dialog box](../../../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md). If the image is locked, you can only view the image credits, Copyright and License information.
+-   Click ![](/ref-docs-assets/images/SetImageInfoOverlay.png) Set image information to open and use the Copyright and License [dialog box](../../../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md). If the image is locked, you can only view the image credits, Copyright and License information.
     
 -   Click ![PICTURE](/ref-docs-assets/images/Concepts/ResetImage.png) Reset image to reset the size after you cropped the image to be smaller.
     

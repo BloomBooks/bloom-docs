@@ -8,7 +8,7 @@ slug: /Help/Reference/make-a-book-from-basic-book
 
 Here, the steps are for the Basic Book template, but the steps for [other](Collections_tab_tasks_overview.md) available [templates](../../Concepts/Template.md) are similar. See Also: [Is this an update of your existing book?](../../User_Interface/Dialog_boxes/Is_this_an_update_of_your_existing_book.md)
 
-1.  Click ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Tabs_overview.md).
+1.  Click ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Collections_tab_commands.md).
     
 2.  Below Sources for New Books, click the Basic Book template.
     

@@ -14,7 +14,7 @@ Here are things you can do with a thumbnail:
     
 -   In the ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) Publish tab, [choose](../Tasks/Publish_tasks/Share_your_BloomPUB_file.md) a thumbnail color when you send your book to the [Bloom Reader app](Bloom_Reader_App.md).
     
--   Create a custom thumbnail for an [epub](EPUB.md). It can include a title and subtitle that overlays a [picture](Picture.md).
+-   Create a custom thumbnail for an [epub](EPUB.md). It can include a title and subtitle that has a [picture](Picture.md) added [using](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) the Canvas Tool.
     
 
 Do these steps:

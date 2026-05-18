@@ -8,7 +8,7 @@ slug: /Help/Reference/rename-a-book-thumbnail
 
 By default, the name in the thumbnail matches the [book title](../../Concepts/Book_Title.md) automatically. However, you can rename the thumbnail separately. Doing this also renames the book folder but does not rename the [book title](../../Concepts/Book_Title.md). This might be helpful if you are organizing books with long titles.
 
-Do these steps in the Collections [tab](../../User_Interface/Tabs/Tabs_overview.md):
+Do these steps in the Collections [tab](../../User_Interface/Tabs/Collections_tab_commands.md):
 
 1.  If the book is in a [Team Collection](Team_Collections/Team_Collections_overview.md), check out that book.
     

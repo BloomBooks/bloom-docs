@@ -80,6 +80,6 @@ See Also: [About Creative Commons](About_Creative_Commons.md).
 
 [Concepts overview](Concepts_overview.md)
 
-[Copyright and License dialog box - Images](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md)
+[Copyright and License dialog box - Images](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md)
 
 [Copyright and License dialog box - Text](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Text.md)

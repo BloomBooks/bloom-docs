@@ -74,7 +74,7 @@ Other About links appear depending on your selections (![](/ref-docs-assets/imag
 
 [Credits Page](../../Concepts/Credits_Page.md)
 
-[Copyright and License dialog box - Images](Copyright_License_dialog_box_Images.md)
+[Copyright and License dialog box - Images](Copyright_License_dialog_box-Images.md)
 
 [Edit a book](../../Tasks/Edit_tasks/Edit_a_book.md)
 

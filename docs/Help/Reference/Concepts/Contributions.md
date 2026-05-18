@@ -22,7 +22,7 @@ Edited by: `<name>`
 -   Click Paste Image Credits to paste image credit information into the text box.
     
 
-This [information](../Tasks/Edit_tasks/Change_picture_metadata.md) was [set up](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md) in the Copyright and License [dialog box](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md).
+This [information](../Tasks/Edit_tasks/Change_picture_metadata.md) was [set up](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md) in the Copyright and License [dialog box](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md).
 
 If you need to update it, select and delete the information that was previously pasted and then click Paste Image Credits again.
 

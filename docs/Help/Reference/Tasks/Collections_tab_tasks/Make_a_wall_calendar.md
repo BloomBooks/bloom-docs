@@ -6,7 +6,7 @@ slug: /Help/Reference/make-a-wall-calendar
 
 ## Make a Wall Calendar
 
-1.  Click the Collections [tab](../../User_Interface/Tabs/Tabs_overview.md).
+1.  Click the Collections [tab](../../User_Interface/Tabs/Collections_tab_commands.md).
     
 2.  In the left pane, below Sources For New Books, click the Wall Calendar [template](../../Concepts/Template.md).
     

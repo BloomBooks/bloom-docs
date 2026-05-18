@@ -21,7 +21,7 @@ A tab changes color when
 -   you click it.
     
 
-A colored dot (![](/ref-docs-assets/images/Concepts/PurpleDot.png)) indicates a [Bloom Enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature.
+A colored symbol (![](/ref-docs-assets/images/EnterpriseStar.png)) indicates a [Bloom Enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature.
 
 To make a tool available for use, do these steps:
 
@@ -67,6 +67,8 @@ In some languages, words or letters can be difficult to read in the tool box. Th
 
 [Edit tab tasks overview](../Tasks/Edit_tasks/Edit_tasks_overview.md)
 
+[Show the Canvas Tool](../Tasks/Edit_tasks/Canvas_Tool/Show_the_Canvas_Tool.md)
+
 [Show the Decodable Reader Tool](../Tasks/Edit_tasks/Decodable_Reader_Tool/Show_the_Decodable_Reader_Tool.md)
 
 [Show the Game Tool](../Tasks/Edit_tasks/Game_Tool/Show_the_Game_Tool.md)
@@ -80,8 +82,6 @@ In some languages, words or letters can be difficult to read in the tool box. Th
 [Show the Motion Tool](../Tasks/Edit_tasks/Motion_Tool/Show_the_Motion_Tool.md)
 
 [Show the Music Tool](../Tasks/Edit_tasks/Music_Tool/Show_the_Music_Tool.md)
-
-[Show the Overlay Tool](../Tasks/Edit_tasks/Overlay_Tool/Show_the_Overlay_Tool.md)
 
 [Show the Sign Language Tool](../Tasks/Edit_tasks/Sign_Language_Tool/Show_the_Sign_Language_Tool.md)
 

@@ -16,7 +16,7 @@ In Bloom, metadata includes:
     
 -   [Contributions](Contributions.md)
     
--   [Copyright and license -Images](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Images.md)
+-   [Copyright and license -Images](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md)
     
 -   [Copyright and license - Text](../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Text.md)
     

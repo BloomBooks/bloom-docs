@@ -6,7 +6,7 @@ slug: /Help/Reference/copyright-and-license
 
 ## ![](/ref-docs-assets/images/Overview/SIL_Logo.png) Copyright and License
 
-Copyright © 2011-2025 SIL Global
+Copyright © 2011-2026 SIL Global
 
 This software is licensed under the MIT License ([https://sil.mit-license.org/](https://sil.mit-license.org/ "https://sil.mit-license.org/")).
 

@@ -36,7 +36,7 @@ When you [change a picture](../../Tasks/Edit_tasks/Change_picture.md) ([image](.
 
 -   Click the link that appears, either Set up metadata or Edit.
     
--   -   Then [use](Copyright_License_dialog_box_Images.md) the Copyright and License dialog box.
+-   -   Then [use](Copyright_License_dialog_box-Images.md) the Copyright and License dialog box.
         
 
 Other links may appear. Some open Internet sites if you have an Internet connection.

@@ -18,7 +18,7 @@ These dialog boxes can appear in Bloom:
     
 -   [Book Settings](Book_Settings_dialog_box.md)
     
--   [Copyright and License - Images](Copyright_License_dialog_box_Images.md)
+-   [Copyright and License - Images](Copyright_License_dialog_box-Images.md)
     
 -   [Copyright and License - Text](Copyright_License_dialog_box_Text.md)
     

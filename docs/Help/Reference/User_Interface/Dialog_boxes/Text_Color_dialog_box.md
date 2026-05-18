@@ -6,7 +6,7 @@ slug: /Help/Reference/text-color-dialog-box
 
 ## Text Color dialog box
 
-This dialog box appears when you [choose](../../Tasks/Basic_tasks/Formatting_text/Choose_text_color_for_a_style.md) a color for a [style](../../Tasks/Basic_tasks/Formatting_text/Configure_a_style.md), or you [choose](../../Tasks/Edit_tasks/Overlay_Tool/Choose_text_or_background_colors.md) a color for text in an [overlay](../../Tasks/Edit_tasks/Overlay_Tool/Overlay_Tool_overview.md).
+This dialog box appears when you [choose](../../Tasks/Basic_tasks/Formatting_text/Choose_text_color_for_a_style.md) a color for a [style](../../Tasks/Basic_tasks/Formatting_text/Configure_a_style.md), or you [choose](../../Tasks/Edit_tasks/Canvas_Tool/Choose_text_or_background_colors.md) a color for text in a [Canvas Tool](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) element.
 
 Here are ways to choose a color:
 

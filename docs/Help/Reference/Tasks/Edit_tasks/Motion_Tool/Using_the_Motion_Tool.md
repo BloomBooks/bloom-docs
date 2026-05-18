@@ -25,10 +25,10 @@ Rectangle ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Rectangle1.pn
 
 Rectangle ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Rectangle2.png) indicates the area in focus when the motion finishes.
 
-5.  Re-position and resize these rectangles as desired:
+5.  Reposition and resize these rectangles as desired:
     
 
-Re-position: Click and drag a rectangle by a numbered corner.
+Reposition: Click and drag a rectangle by a numbered corner.
 
 Resize: Click and drag the lower right corner (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/CornerDrag1.png) or ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/CornerDrag2.png)), or move your mouse pointer over a line, and then click and drag a double-headed arrow (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Rt_Lft%20(1).png) or ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/UpDwn.png)).
 
@@ -46,7 +46,7 @@ If the rectangles do not overlap on any edge, the area between them will be pann
 
 The Preview button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PreviewButton.png)) changes to become a pause button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PauseButton.png)).
 
-1.  -   Re-position or resize the rectangles as desired.
+1.  -   Reposition or resize the rectangles as desired.
         
     -   Repeat these steps until you are satisfied with the motion.
         
@@ -56,9 +56,9 @@ The Preview button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Pre
 
 #### Tip
 
--   If you change the [page size and orientation](../Choose_page_size_and_orientation.md) or [choose a different layout](../Choose_Different_Layout.md) after you have set the rectangles, you should preview them again. Re-position or resize them if necessary.
+-   If you change the [page size and orientation](../Choose_page_size_and_orientation.md) or [choose a different layout](../Choose_Different_Layout.md) after you have set the rectangles, you should preview them again. Reposition or resize them if necessary.
     
--   You may notice odd results if only some of the sentences on a page have recorded audio or you have you have cleared and re-recorded the audio for one of the sentences in a paragraph. If you see odd results, clear and record the audio again. Then, re-position or resize the rectangles.
+-   You may notice odd results if only some of the sentences on a page have recorded audio or you have you have cleared and re-recorded the audio for one of the sentences in a paragraph. If you see odd results, clear and record the audio again. Then, reposition or resize the rectangles.
     
 
 #### Related Topics

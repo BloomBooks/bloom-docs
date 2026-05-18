@@ -50,7 +50,7 @@ Click STOP PUBLISHING in the Publishing dialog box when your book has been sent.
 
 -   Optionally, click [Make All BloomPUBs from Collection](Make_All_BloomPUBS_from_Collection.md). A [Bloom Enterprise Subscription](../Edit_tasks/Enterprise/EnterpriseRequired.md) is required.
     
--   The Thumbnail control is not for use with [comics](../Edit_tasks/Overlay_Tool/Overlay_Tool_overview.md).
+-   The Thumbnail control is not for use with [comics](../Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md).
     
 -   Below Help, you can
     

@@ -10,7 +10,7 @@ The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/TalkingBookToolIco
 
 You can make an audio recording of a book translated into the Local Language.
 
-You can record [image descriptions](../Image_Description_Tool/Image_Description_Tool_overview.md) and [Overlay Tool](../Overlay_Tool/Overlay_Tool_overview.md) bubbles, text blocks and captions.
+You can record [image descriptions](../Image_Description_Tool/Image_Description_Tool_overview.md) and [Canvas Tool](../Canvas_Tool/Canvas_Tool_overview.md) bubbles, text blocks and captions.
 
 Recordings can be heard on [ePUB readers](../../../Concepts/Epub_Readers.md) and with the [Bloom Reader App](../../../Concepts/Bloom_Reader_App.md).
 

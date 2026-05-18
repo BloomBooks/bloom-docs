@@ -25,12 +25,12 @@ You can clear (![pic](/ref-docs-assets/images/Tasks/Publish_tasks/ClearedCheckBo
 
 -   ![pic](/ref-docs-assets/images/Tasks/Publish_tasks/Feature_Activity.png) Activity is automatically selected (![pic](/ref-docs-assets/images/Tasks/Publish_tasks/Feature_CheckMark.png)) if the book has activity (Game Pages) [pages](../../User_Interface/Dialog_boxes/Add_Page_dialog_box.md).
     
--   ![pic](/ref-docs-assets/images/Tasks/Publish_tasks/Feature_Comic.png) Comics is automatically selected (![](/ref-docs-assets/images/Tasks/Publish_tasks/SelectedCheckBoxGreen.png)) if the book has [overlays](../Edit_tasks/Overlay_Tool/Overlay_Tool_overview.md).
+-   ![pic](/ref-docs-assets/images/Tasks/Publish_tasks/Feature_Comic.png) Comics is automatically selected (![](/ref-docs-assets/images/Tasks/Publish_tasks/SelectedCheckBoxGreen.png)) if the book has [Canvas Tool](../Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) elements.
     
 
 You can clear (![pic](/ref-docs-assets/images/Tasks/Publish_tasks/ClearedCheckBoxGreen.png)) that check box if you do not want to declare this book to be a comic.
 
-Books that are not comics can have overlays.
+Books that are not comics can have Canvas Tool elements.
 
 -   ![pic](/ref-docs-assets/images/Tasks/Publish_tasks/Feature_MotionBook.png) Motion Book - You can select (![](/ref-docs-assets/images/Tasks/Publish_tasks/SelectedCheckBoxGreen.png)) this if the book has [motion](../Edit_tasks/Motion_Tool/Motion_Tool_overview.md).
     

@@ -6,30 +6,32 @@ slug: /Help/Reference/book-settings-dialog-box
 
 ## Book Settings dialog box
 
-To open the Book Settings dialog box, click Book Settings (![](/ref-docs-assets/images/User_Interface/Toolbar/BookSettings.png)) in the Edit tab [toolbar](../Toolbar/Edit_tab_toolbar.md). The dialog box has four tabs.
+To open the Book Settings dialog box, click Book Settings (![](/ref-docs-assets/images/User_Interface/Toolbar/BookSettings.png)) in the Edit tab [toolbar](../Toolbar/Edit_tab_toolbar.md). The dialog box has four areas.
 
 ### Cover
 
 Here are options you can select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) or clear (![](/ref-docs-assets/images/UncheckedBoxGray.png)) for the [front cover page](../../Concepts/Front_Cover_page.md):
 
--   Select the languages you want to use for the book title.
+-   Show Title in: Select the language or languages you want to use for the book title.
     
--   Select if you want those languages names to appear near the bottom of the front cover.
+-   Show Language name: Select if you want those languages names to appear near the bottom of the front cover.
     
--   Select if you want to the [topic](../../Tasks/Edit_tasks/Choose_a_topic.md) to appear on the front cover.
+-   Show Topic: Select if you want to the [topic](../../Tasks/Edit_tasks/Choose_a_topic.md) to appear on the front cover.
+    
+-   Show Credits: Clear this check box if you want to hide the credits and allow the front cover picture to fill that space.
     
 -   Background Color: Click the color control and then use the [dialog box](Background_Color_dialog_box.md) to choose the desired color.
     
 
 ### Content Pages
 
--   Page Theme: Click the down arrow (![](/ref-docs-assets/images/Tasks/Publish_tasks/Downarrow.png)) and then click the theme you want to use [inside pages](../../Concepts/Inside_pages.md) with contents.
+-   Click the down arrow (![](/ref-docs-assets/images/Tasks/Publish_tasks/Downarrow.png)) and then click the page theme you want to use [inside pages](../../Concepts/Inside_pages.md) with contents.
     
 -   Show Page Numbers: Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) to see page numbers or clear (![](/ref-docs-assets/images/UncheckedBoxGray.png)) to hide page numbers.
     
 -   Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) the languages you want to show in normal [text boxes](../../Concepts/Text_Box.md). Clear (![](/ref-docs-assets/images/UncheckedBoxGray.png)) any other languages.
     
--   Advanced Layout: Click the down arrow and then click the best Text Padding and Page Gutter options.
+-   Advanced Layout: Click the down arrow and then click the best option for spacing around text boxes.
     
 
 ### BloomPUB

@@ -6,7 +6,7 @@ slug: /Help/Reference/adjust-timings
 
 ## Adjust Timings
 
-You can record all the sentences in a text box on a page, or in an [overlay](../Overlay_Tool/Overlay_Tool_overview.md), at the same time or [import](Import_Recording.md) an audio file. Then, you can adjust the timing for each sentence, so that highlighting matches the current sentence during playback.
+You can record all the sentences in a text box on a page, or in a [Canvas Tool](../Canvas_Tool/Canvas_Tool_overview.md) element, at the same time or [import](Import_Recording.md) an audio file. Then, you can adjust the timing for each sentence, so that highlighting matches the current sentence during playback.
 
 To enable the Adjust Timing control, do these steps:
 

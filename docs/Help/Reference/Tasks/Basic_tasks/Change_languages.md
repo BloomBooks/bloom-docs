@@ -15,7 +15,7 @@ slug: /Help/Reference/change-languages
     -   Use the Choose Language dialog box to search for and select the language. You can also edit the language name to change how it is displayed.
         
 
-If necessary, if you clicked Change, and a language was chosen, you can also click ![](/ref-docs-assets/images/Tasks/Edit_tasks/EditPencil_black.png) CUSTOMIZE to open the Custom Language Tag dialog box. Choose the script, country where it is used, and enter any variant (dialect). The BCP 47 Tag will show the language and also that script, country and variant. Click OK.
+If necessary, if you clicked Change, and a language was chosen, you can also click ![](/ref-docs-assets/images/EditPencil_black.png) CUSTOMIZE to open the Custom Language Tag dialog box. Choose the script, country where it is used, and enter any variant (dialect). The BCP 47 Tag will show the language and also that script, country and variant. Click OK.
 
 If necessary, if you clicked Set or have not yet chosen a language, the CREATE UNLISTED LANGUAGE (qaa-x-) control appears. You can click it and then enter the name and country in the Unlisted Language Tag dialog box. The BCP 47 Tag will show qaa and that name and country. Click OK.
 
