@@ -1,5 +1,6 @@
 ---
 title: Get a book from BloomLibrary
+hide_title: true
 sidebar_label: "Get a book from BloomLibrary online"
 sidebar_position: 15
 slug: /Help/Reference/get-a-book-from-bloomlibrary

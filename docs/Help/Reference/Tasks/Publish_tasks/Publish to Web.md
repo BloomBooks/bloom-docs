@@ -1,5 +1,6 @@
 ---
 title: Publish to Web
+hide_title: true
 sidebar_position: 16
 slug: /Help/Reference/publish to web
 ---

@@ -1,5 +1,6 @@
 ---
 title: Simply Reading/Ace
+hide_title: true
 sidebar_label: "Simply Reading / Ace"
 sidebar_position: 60
 slug: /Help/Reference/simply-reading

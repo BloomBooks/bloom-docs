@@ -1,5 +1,6 @@
 ---
 title: Import Content from Spreadsheet
+hide_title: true
 sidebar_position: 19
 slug: /Help/Reference/import-content-from-spreadsheet
 ---

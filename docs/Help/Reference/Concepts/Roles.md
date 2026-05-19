@@ -1,5 +1,6 @@
 ---
 title: Roles
+hide_title: true
 sidebar_position: 55
 slug: /Help/Reference/roles
 ---

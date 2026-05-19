@@ -1,5 +1,6 @@
 ---
 title: Edit tab toolbar
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/edit-tab-toolbar
 ---

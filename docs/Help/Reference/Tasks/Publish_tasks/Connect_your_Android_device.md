@@ -1,5 +1,6 @@
 ---
 title: Connect your Android device
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/connect-your-android-device
 ---

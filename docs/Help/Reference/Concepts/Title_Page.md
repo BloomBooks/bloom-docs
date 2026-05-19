@@ -1,5 +1,6 @@
 ---
 title: Title Page
+hide_title: true
 sidebar_position: 71
 slug: /Help/Reference/title-page
 ---

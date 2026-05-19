@@ -1,5 +1,6 @@
 ---
 title: Delete a book
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/delete-a-book
 ---

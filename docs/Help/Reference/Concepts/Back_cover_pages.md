@@ -1,5 +1,6 @@
 ---
 title: Back cover pages
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/back-cover-pages
 ---

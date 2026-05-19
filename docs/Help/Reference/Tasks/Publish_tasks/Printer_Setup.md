@@ -1,5 +1,6 @@
 ---
 title: Printer Setup
+hide_title: true
 sidebar_position: 12
 slug: /Help/Reference/printer-setup
 ---

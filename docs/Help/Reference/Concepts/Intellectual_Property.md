@@ -1,5 +1,6 @@
 ---
 title: Intellectual_Property
+hide_title: true
 sidebar_label: "Intellectual Property"
 sidebar_position: 37
 slug: /Help/Reference/intellectual-property

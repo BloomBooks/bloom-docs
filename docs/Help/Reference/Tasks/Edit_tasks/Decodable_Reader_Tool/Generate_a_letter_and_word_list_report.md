@@ -1,5 +1,6 @@
 ---
 title: Generate a letter and word list report
+hide_title: true
 sidebar_position: 7
 slug: /Help/Reference/generate-a-letter-and-word-list-report
 ---

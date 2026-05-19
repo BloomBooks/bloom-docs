@@ -1,5 +1,6 @@
 ---
 title: Show the Impairment Visualizer
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/show-the-impairment-visualizer
 ---

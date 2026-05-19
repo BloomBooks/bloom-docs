@@ -1,5 +1,6 @@
 ---
 title: Collections tab tasks overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/collections-tab-tasks-overview
 ---

@@ -1,5 +1,6 @@
 ---
 title: Sources For New Books
+hide_title: true
 sidebar_position: 62
 slug: /Help/Reference/sources-for-new-books
 ---

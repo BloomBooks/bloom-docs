@@ -1,5 +1,6 @@
 ---
 title: Save
+hide_title: true
 sidebar_position: 56
 slug: /Help/Reference/save
 ---

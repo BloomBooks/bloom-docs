@@ -1,5 +1,6 @@
 ---
 title: Make Bloom suggest words
+hide_title: true
 sidebar_position: 9
 slug: /Help/Reference/make-bloom-suggest-words
 ---

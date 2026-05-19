@@ -1,5 +1,6 @@
 ---
 title: Making BloomPUB Apps with Reading App Builder
+hide_title: true
 sidebar_position: 9
 slug: /Help/Reference/making-bloompub-apps-with-reading-app-builder
 ---

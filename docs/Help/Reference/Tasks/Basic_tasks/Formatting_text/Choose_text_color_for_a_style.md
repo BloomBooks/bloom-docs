@@ -1,5 +1,6 @@
 ---
 title: Choose text color for a style
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/choose-text-color-for-a-style
 ---

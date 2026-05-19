@@ -1,5 +1,6 @@
 ---
 title: Inside pages
+hide_title: true
 sidebar_position: 35
 slug: /Help/Reference/inside-pages
 ---

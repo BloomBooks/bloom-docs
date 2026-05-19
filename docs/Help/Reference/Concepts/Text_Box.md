@@ -1,5 +1,6 @@
 ---
 title: Text Box
+hide_title: true
 sidebar_label: "Text box"
 sidebar_position: 69
 slug: /Help/Reference/text-box

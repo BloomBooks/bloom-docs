@@ -1,5 +1,6 @@
 ---
 title: Instructional Videos
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/instructional-videos
 ---

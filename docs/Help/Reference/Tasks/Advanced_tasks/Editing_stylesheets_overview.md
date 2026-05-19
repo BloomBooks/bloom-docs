@@ -1,5 +1,6 @@
 ---
 title: Editing stylesheets overview
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/editing-stylesheets-overview
 ---

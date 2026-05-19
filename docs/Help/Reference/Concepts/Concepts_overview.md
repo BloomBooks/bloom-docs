@@ -1,5 +1,6 @@
 ---
 title: Concepts overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/concepts-overview
 ---

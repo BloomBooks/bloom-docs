@@ -1,5 +1,6 @@
 ---
 title: Crop a picture
+hide_title: true
 sidebar_position: 13
 slug: /Help/Reference/crop-a-picture
 ---

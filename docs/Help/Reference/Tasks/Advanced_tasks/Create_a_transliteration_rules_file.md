@@ -1,5 +1,6 @@
 ---
 title: Create a transliteration rules file
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/create-a-transliteration-rules-file
 ---

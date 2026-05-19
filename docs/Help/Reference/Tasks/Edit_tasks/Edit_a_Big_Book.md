@@ -1,5 +1,6 @@
 ---
 title: Edit a Big Book
+hide_title: true
 sidebar_position: 16
 slug: /Help/Reference/edit-a-big-book
 ---

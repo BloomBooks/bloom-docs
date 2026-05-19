@@ -1,5 +1,6 @@
 ---
 title: Trim a video
+hide_title: true
 sidebar_position: 7
 slug: /Help/Reference/trim-a-video
 ---

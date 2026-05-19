@@ -1,5 +1,6 @@
 ---
 title: Rename a book thumbnail
+hide_title: true
 sidebar_position: 22
 slug: /Help/Reference/rename-a-book-thumbnail
 ---

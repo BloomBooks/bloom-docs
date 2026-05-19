@@ -1,5 +1,6 @@
 ---
 title: Edit tab tasks overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/edit-tasks-overview
 ---

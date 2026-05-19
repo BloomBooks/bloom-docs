@@ -1,5 +1,6 @@
 ---
 title: Invisible characters
+hide_title: true
 sidebar_position: 38
 slug: /Help/Reference/invisible-characters
 ---

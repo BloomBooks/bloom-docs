@@ -1,5 +1,6 @@
 ---
 title: Add someone to a Team Collection
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/add-someone-to-a-team-collection
 ---

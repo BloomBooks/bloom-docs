@@ -1,5 +1,6 @@
 ---
 title: Setup dialog box
+hide_title: true
 sidebar_position: 19
 slug: /Help/Reference/setup-dialog-box
 ---

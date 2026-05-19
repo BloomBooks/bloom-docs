@@ -1,5 +1,6 @@
 ---
 title: Letters tab
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/letters-tab
 ---

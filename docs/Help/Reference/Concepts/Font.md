@@ -1,5 +1,6 @@
 ---
 title: Font
+hide_title: true
 sidebar_position: 29
 slug: /Help/Reference/font
 ---

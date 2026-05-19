@@ -1,5 +1,6 @@
 ---
 title: Copyright & License dialog box - Text
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/copyright-license-dialog-box-text
 ---

@@ -1,5 +1,6 @@
 ---
 title: Open/Create Collections dialog box
+hide_title: true
 sidebar_position: 15
 slug: /Help/Reference/open-create-collections-dialog-box
 ---

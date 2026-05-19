@@ -1,5 +1,6 @@
 ---
 title: Choose an HTML Widget
+hide_title: true
 sidebar_position: 7
 slug: /Help/Reference/choose-an-html-widget
 ---

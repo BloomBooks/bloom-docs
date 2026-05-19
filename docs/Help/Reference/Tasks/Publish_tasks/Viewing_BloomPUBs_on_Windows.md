@@ -1,5 +1,6 @@
 ---
 title: Viewing BloomPUBs on Windows
+hide_title: true
 sidebar_position: 23
 slug: /Help/Reference/viewing-bloompubs-on-windows
 ---

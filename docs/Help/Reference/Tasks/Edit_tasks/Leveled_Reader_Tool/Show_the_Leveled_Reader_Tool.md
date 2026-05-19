@@ -1,5 +1,6 @@
 ---
 title: Show the Leveled Reader Tool
+hide_title: true
 sidebar_position: 9
 slug: /Help/Reference/show-the-leveled-reader-tool
 ---

@@ -1,5 +1,6 @@
 ---
 title: Adjust Timings dialog box
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/adjust-timings-dialog-box
 ---

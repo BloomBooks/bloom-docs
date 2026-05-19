@@ -1,5 +1,6 @@
 ---
 title: Settings Protection Password dialog box
+hide_title: true
 sidebar_position: 24
 slug: /Help/Reference/setting-protection-password-dialog-box
 ---

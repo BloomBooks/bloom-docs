@@ -1,5 +1,6 @@
 ---
 title: Sort words in the current stage
+hide_title: true
 sidebar_position: 14
 slug: /Help/Reference/sort-words-in-the-stage
 ---

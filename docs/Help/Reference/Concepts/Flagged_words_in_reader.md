@@ -1,5 +1,6 @@
 ---
 title: Flagged words in reader
+hide_title: true
 sidebar_label: "Flagged words in Reader"
 sidebar_position: 28
 slug: /Help/Reference/flagged-words-in-reader

@@ -1,5 +1,6 @@
 ---
 title: Template
+hide_title: true
 sidebar_position: 67
 slug: /Help/Reference/template
 ---

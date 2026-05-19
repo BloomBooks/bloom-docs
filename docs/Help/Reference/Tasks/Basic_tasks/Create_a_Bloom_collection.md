@@ -1,5 +1,6 @@
 ---
 title: Create a Bloom collection
+hide_title: true
 sidebar_position: 7
 slug: /Help/Reference/create-a-bloom-collection
 ---

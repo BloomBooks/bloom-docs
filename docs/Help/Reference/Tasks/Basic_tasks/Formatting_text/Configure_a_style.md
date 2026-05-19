@@ -1,5 +1,6 @@
 ---
 title: Configure a style
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/configure-a-style
 ---

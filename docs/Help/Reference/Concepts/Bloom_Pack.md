@@ -1,5 +1,6 @@
 ---
 title: Bloom Pack
+hide_title: true
 sidebar_label: "BloomPack"
 sidebar_position: 12
 slug: /Help/Reference/bloom-pack

@@ -1,5 +1,6 @@
 ---
 title: Picture format
+hide_title: true
 sidebar_position: 51
 slug: /Help/Reference/picture-format
 ---

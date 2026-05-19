@@ -1,5 +1,6 @@
 ---
 title: Collections tab commands
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/collections-tab-commands
 ---

@@ -1,5 +1,6 @@
 ---
 title: ePUB Readers
+hide_title: true
 sidebar_position: 26
 slug: /Help/Reference/epub-readers
 ---

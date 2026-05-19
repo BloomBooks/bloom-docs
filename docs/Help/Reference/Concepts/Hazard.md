@@ -1,5 +1,6 @@
 ---
 title: Hazard
+hide_title: true
 sidebar_position: 33
 slug: /Help/Reference/hazard
 ---

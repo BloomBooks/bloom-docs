@@ -1,5 +1,6 @@
 ---
 title: Show the Canvas Tool
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/show-the-canvas-tool
 ---

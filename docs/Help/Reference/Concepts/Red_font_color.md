@@ -1,5 +1,6 @@
 ---
 title: Red font color
+hide_title: true
 sidebar_label: "Red font color/red line"
 sidebar_position: 54
 slug: /Help/Reference/red-font-color

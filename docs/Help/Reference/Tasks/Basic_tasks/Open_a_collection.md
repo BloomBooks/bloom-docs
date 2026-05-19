@@ -1,5 +1,6 @@
 ---
 title: Open a collection
+hide_title: true
 sidebar_position: 21
 slug: /Help/Reference/open-a-collection
 ---

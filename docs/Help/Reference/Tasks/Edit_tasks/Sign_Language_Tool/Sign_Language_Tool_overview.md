@@ -1,5 +1,6 @@
 ---
 title: Sign Language Tool overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/sign-language-tool-overview
 ---

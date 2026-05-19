@@ -1,5 +1,6 @@
 ---
 title: Sample Words tab
+hide_title: true
 sidebar_position: 10
 slug: /Help/Reference/words-tab
 ---

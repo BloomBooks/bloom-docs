@@ -1,5 +1,6 @@
 ---
 title: Edit a book
+hide_title: true
 sidebar_position: 15
 slug: /Help/Reference/edit-a-book
 ---

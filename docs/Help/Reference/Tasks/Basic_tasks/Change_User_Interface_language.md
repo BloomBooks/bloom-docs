@@ -1,5 +1,6 @@
 ---
 title: Change User Interface language
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/change-user-interface-language
 ---

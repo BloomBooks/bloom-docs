@@ -1,5 +1,6 @@
 ---
 title: Credits Page
+hide_title: true
 sidebar_position: 21
 slug: /Help/Reference/credits-page
 ---

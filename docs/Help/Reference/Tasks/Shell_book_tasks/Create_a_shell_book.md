@@ -1,5 +1,6 @@
 ---
 title: Create a shell book
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/create-a-shell-book
 ---

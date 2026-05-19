@@ -1,5 +1,6 @@
 ---
 title: Big Book
+hide_title: true
 sidebar_position: 10
 slug: /Help/Reference/big-book
 ---

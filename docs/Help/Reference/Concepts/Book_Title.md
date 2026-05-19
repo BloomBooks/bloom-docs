@@ -1,5 +1,6 @@
 ---
 title: Book title
+hide_title: true
 sidebar_position: 15
 slug: /Help/Reference/book-title
 ---

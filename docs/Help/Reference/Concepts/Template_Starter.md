@@ -1,5 +1,6 @@
 ---
 title: Template Starter
+hide_title: true
 sidebar_position: 68
 slug: /Help/Reference/template-starter
 ---

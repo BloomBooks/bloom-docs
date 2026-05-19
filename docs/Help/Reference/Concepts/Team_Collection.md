@@ -1,5 +1,6 @@
 ---
 title: Team Collection
+hide_title: true
 sidebar_position: 66
 slug: /Help/Reference/team-collection
 ---

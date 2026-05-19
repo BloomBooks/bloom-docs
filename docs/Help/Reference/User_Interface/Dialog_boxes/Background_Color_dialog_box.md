@@ -1,5 +1,6 @@
 ---
 title: Background Color dialog box
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/background-color-dialog-box
 ---

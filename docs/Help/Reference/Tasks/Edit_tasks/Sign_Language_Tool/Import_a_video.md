@@ -1,5 +1,6 @@
 ---
 title: Import/Change a video
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/import-a-video
 ---

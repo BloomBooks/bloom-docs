@@ -1,5 +1,6 @@
 ---
 title: Choose or create a style
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/choose-or-create-a-style
 ---

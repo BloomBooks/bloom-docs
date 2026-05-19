@@ -1,5 +1,6 @@
 ---
 title: Keyboards
+hide_title: true
 sidebar_position: 40
 slug: /Help/Reference/keyboards
 ---

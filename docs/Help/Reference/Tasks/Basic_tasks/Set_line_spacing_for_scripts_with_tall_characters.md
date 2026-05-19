@@ -1,5 +1,6 @@
 ---
 title: Set line spacing for scripts with tall characters
+hide_title: true
 sidebar_position: 26
 slug: /Help/Reference/set-line-spacing-for-scripts-with-tall-characters
 ---

@@ -1,5 +1,6 @@
 ---
 title: Add letters to a stage
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/add-letters-to-a-stage
 ---

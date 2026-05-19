@@ -1,5 +1,6 @@
 ---
 title: About the Change Layout controls
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/about-the-change-layout-controls
 ---

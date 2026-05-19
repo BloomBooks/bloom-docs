@@ -1,5 +1,6 @@
 ---
 title: Using the Language tab
+hide_title: true
 sidebar_position: 26
 slug: /Help/Reference/using-the-language-tab
 ---

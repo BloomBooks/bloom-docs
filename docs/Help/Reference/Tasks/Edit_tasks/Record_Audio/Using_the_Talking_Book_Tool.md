@@ -1,5 +1,6 @@
 ---
 title: Using the Talking Book Tool
+hide_title: true
 sidebar_position: 11
 slug: /Help/Reference/using-the-talking-book-tool
 ---

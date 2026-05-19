@@ -1,5 +1,6 @@
 ---
 title: Show In Folder
+hide_title: true
 sidebar_position: 6
 slug: /Help/Reference/show-in-folder
 ---

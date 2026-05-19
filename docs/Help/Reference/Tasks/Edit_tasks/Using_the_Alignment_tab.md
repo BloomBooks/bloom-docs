@@ -1,5 +1,6 @@
 ---
 title: Using the Alignment tab
+hide_title: true
 sidebar_position: 23
 slug: /Help/Reference/using-the-alignment-tab
 ---

@@ -1,5 +1,6 @@
 ---
 title: Using the Book Making tab
+hide_title: true
 sidebar_position: 27
 slug: /Help/Reference/select-front-matter-or-back-matter-from-a-pack
 ---

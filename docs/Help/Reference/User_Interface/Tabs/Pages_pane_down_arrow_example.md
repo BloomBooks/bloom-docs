@@ -1,5 +1,6 @@
 ---
 title: Pages pane down arrow example
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/pages-pane-down-arrow-example
 ---

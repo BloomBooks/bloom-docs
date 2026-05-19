@@ -1,5 +1,6 @@
 ---
 title: Special Characters panel examples
+hide_title: true
 sidebar_position: 21
 slug: /Help/Reference/special-characters-panel-examples
 ---

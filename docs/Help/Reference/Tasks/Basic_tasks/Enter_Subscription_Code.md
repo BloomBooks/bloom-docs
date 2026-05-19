@@ -1,5 +1,6 @@
 ---
 title: Enter your Subscription Code
+hide_title: true
 sidebar_position: 14
 slug: /Help/Reference/enter-subscription-code
 ---

@@ -1,5 +1,6 @@
 ---
 title: Decodable Stages tab
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/decodable-stages-tab
 ---

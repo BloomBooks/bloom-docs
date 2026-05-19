@@ -1,5 +1,6 @@
 ---
 title: Navigation overview
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/navigation-overview
 ---

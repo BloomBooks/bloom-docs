@@ -1,5 +1,6 @@
 ---
 title: Using the Border & Background tab
+hide_title: true
 sidebar_position: 24
 slug: /Help/Reference/using-the-border-background-tab
 ---

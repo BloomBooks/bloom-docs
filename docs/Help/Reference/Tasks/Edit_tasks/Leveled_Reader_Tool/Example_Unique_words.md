@@ -1,5 +1,6 @@
 ---
 title: Example - Unique words
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/example-unique-words
 ---

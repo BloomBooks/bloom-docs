@@ -1,5 +1,6 @@
 ---
 title: Tool Box
+hide_title: true
 sidebar_position: 72
 slug: /Help/Reference/tool-box
 ---

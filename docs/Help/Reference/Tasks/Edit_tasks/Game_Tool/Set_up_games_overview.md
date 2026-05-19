@@ -1,5 +1,6 @@
 ---
 title: Set up games overview
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/set-up-games-overview
 ---

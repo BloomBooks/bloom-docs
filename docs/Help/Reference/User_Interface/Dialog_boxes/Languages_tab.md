@@ -1,5 +1,6 @@
 ---
 title: Languages tab
+hide_title: true
 sidebar_position: 14
 slug: /Help/Reference/languages-tab
 ---

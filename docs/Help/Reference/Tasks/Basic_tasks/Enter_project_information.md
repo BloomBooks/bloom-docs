@@ -1,5 +1,6 @@
 ---
 title: Enter project information
+hide_title: true
 sidebar_position: 12
 slug: /Help/Reference/enter-project-information
 ---

@@ -1,5 +1,6 @@
 ---
 title: Choose Different Layout
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/choose-different-layout
 ---

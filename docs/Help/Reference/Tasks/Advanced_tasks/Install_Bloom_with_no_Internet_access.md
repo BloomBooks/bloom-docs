@@ -1,5 +1,6 @@
 ---
 title: Install Bloom with no Internet access
+hide_title: true
 sidebar_position: 9
 slug: /Help/Reference/install-bloom-with-no-internet-access
 ---

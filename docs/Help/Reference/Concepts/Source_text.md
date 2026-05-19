@@ -1,5 +1,6 @@
 ---
 title: Source text
+hide_title: true
 sidebar_position: 61
 slug: /Help/Reference/source-text
 ---

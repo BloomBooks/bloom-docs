@@ -1,5 +1,6 @@
 ---
 title: Motion Book
+hide_title: true
 sidebar_position: 46
 slug: /Help/Reference/motion-book
 ---

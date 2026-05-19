@@ -1,5 +1,6 @@
 ---
 title: Collection
+hide_title: true
 sidebar_position: 19
 slug: /Help/Reference/collection
 ---

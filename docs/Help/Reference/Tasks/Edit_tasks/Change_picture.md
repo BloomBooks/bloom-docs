@@ -1,5 +1,6 @@
 ---
 title: Change picture
+hide_title: true
 sidebar_label: "Change Picture"
 sidebar_position: 4
 slug: /Help/Reference/change-picture

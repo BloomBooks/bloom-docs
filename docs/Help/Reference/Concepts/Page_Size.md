@@ -1,5 +1,6 @@
 ---
 title: Page Size
+hide_title: true
 sidebar_position: 48
 slug: /Help/Reference/page-size
 ---

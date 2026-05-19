@@ -1,5 +1,6 @@
 ---
 title: aeneas
+hide_title: true
 sidebar_position: 6
 slug: /Help/Reference/aeneas
 ---

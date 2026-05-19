@@ -1,5 +1,6 @@
 ---
 title: Publish as ePUB
+hide_title: true
 sidebar_position: 14
 slug: /Help/Reference/make-an-epub-book-overview
 ---

@@ -1,5 +1,6 @@
 ---
 title: Adobe Digital Editions
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/adobe-digital-editions
 ---

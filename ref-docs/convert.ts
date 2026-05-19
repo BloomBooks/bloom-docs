@@ -1233,6 +1233,7 @@ function generateFrontMatter(title: string, relativePath: string): string {
 
   return `---
 title: ${title}
+hide_title: true
 ${sanitizedSidebarLabel && sanitizedSidebarLabel !== title ? `sidebar_label: ${JSON.stringify(sanitizedSidebarLabel)}\n` : ""}sidebar_position: ${sidebarPosition}
 slug: ${slug}
 ---

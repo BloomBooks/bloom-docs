@@ -1,5 +1,6 @@
 ---
 title: Add custom thumbnail for Bloom Library
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/add-custom-thumbnail-for-bloomlibrary
 ---

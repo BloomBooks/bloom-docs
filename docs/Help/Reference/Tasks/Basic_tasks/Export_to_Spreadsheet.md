@@ -1,5 +1,6 @@
 ---
 title: Export to Spreadsheet
+hide_title: true
 sidebar_position: 13
 slug: /Help/Reference/export-to-spreadsheet
 ---

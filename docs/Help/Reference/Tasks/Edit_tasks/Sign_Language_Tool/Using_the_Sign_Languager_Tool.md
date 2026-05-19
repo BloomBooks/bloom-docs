@@ -1,5 +1,6 @@
 ---
 title: Using the Sign Language Tool
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/using-the-sign-languager-tool
 ---

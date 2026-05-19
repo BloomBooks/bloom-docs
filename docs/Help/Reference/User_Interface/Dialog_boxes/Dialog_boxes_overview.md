@@ -1,5 +1,6 @@
 ---
 title: Dialog boxes overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/dialog-boxes-overview
 ---

@@ -1,5 +1,6 @@
 ---
 title: Show the Image Description Tool
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/show-the-image-description-tool
 ---

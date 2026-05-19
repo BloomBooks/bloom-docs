@@ -1,5 +1,6 @@
 ---
 title: Publish tab commands
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/publish-tab-commands
 ---

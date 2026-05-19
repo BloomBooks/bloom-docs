@@ -1,5 +1,6 @@
 ---
 title: Change or Set languages
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/change-languages
 ---

@@ -1,5 +1,6 @@
 ---
 title: Formatting Text overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/formatting-text-overview
 ---

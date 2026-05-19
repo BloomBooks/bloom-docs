@@ -1,5 +1,6 @@
 ---
 title: Using the Change Layout controls
+hide_title: true
 sidebar_position: 25
 slug: /Help/Reference/using-the-change-layout-controls
 ---

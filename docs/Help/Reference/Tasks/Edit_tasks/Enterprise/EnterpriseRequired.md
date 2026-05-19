@@ -1,5 +1,6 @@
 ---
 title: Bloom Enterprise
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/enterpriserequired
 ---

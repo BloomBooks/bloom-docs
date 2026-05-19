@@ -1,5 +1,6 @@
 ---
 title: Create an empty conversion file
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/create-an-empty-conversion-file
 ---

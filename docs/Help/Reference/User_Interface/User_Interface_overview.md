@@ -1,5 +1,6 @@
 ---
 title: User Interface overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/user-interface-overview
 ---

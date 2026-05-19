@@ -1,5 +1,6 @@
 ---
 title: Duplicate a page
+hide_title: true
 sidebar_position: 14
 slug: /Help/Reference/duplicate-a-page
 ---

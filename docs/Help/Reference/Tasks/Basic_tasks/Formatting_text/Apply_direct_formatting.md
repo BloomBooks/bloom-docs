@@ -1,5 +1,6 @@
 ---
 title: Apply direct formatting
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/apply-direct-formatting
 ---

@@ -1,5 +1,6 @@
 ---
 title: Format dialog box
+hide_title: true
 sidebar_position: 11
 slug: /Help/Reference/format-dialog-box
 ---

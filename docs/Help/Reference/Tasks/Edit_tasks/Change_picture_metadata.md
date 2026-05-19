@@ -1,5 +1,6 @@
 ---
 title: Change picture metadata
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/change-picture-metadata
 ---

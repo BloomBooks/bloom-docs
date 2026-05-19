@@ -1,5 +1,6 @@
 ---
 title: Using the Hint Bubbles tab
+hide_title: true
 sidebar_position: 27
 slug: /Help/Reference/using-the-hint-bubbles-tab
 ---

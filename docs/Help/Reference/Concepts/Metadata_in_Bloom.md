@@ -1,5 +1,6 @@
 ---
 title: Metadata in Bloom
+hide_title: true
 sidebar_position: 45
 slug: /Help/Reference/metadata-in-bloom
 ---

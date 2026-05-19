@@ -1,5 +1,6 @@
 ---
 title: Sources For New Shells
+hide_title: true
 sidebar_position: 63
 slug: /Help/Reference/sources-for-new-shells
 ---

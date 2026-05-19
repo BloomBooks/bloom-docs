@@ -1,5 +1,6 @@
 ---
 title: Set up Drag Images to Targets game
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/set-up-drag-images-to-targets-game
 ---

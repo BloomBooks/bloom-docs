@@ -1,5 +1,6 @@
 ---
 title: Choose text or background colors
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/choose-text-or-background-colors
 ---

@@ -1,5 +1,6 @@
 ---
 title: Digital publishing options
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/digital-publishing-options
 ---

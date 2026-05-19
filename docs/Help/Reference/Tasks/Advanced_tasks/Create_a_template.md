@@ -1,5 +1,6 @@
 ---
 title: Create a template
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/create-a-template
 ---

@@ -1,5 +1,6 @@
 ---
 title: Widget Page
+hide_title: true
 sidebar_position: 76
 slug: /Help/Reference/widget-page
 ---

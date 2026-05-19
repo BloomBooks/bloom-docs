@@ -1,5 +1,6 @@
 ---
 title: Decodable Reader Tool overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/decodable-reader-tool-overview
 ---

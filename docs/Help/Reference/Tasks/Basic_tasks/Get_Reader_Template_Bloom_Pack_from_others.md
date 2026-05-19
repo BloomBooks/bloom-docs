@@ -1,5 +1,6 @@
 ---
 title: Get Reader Template Bloom Pack from others
+hide_title: true
 sidebar_position: 16
 slug: /Help/Reference/get-reader-template-bloom-pack-from-others
 ---

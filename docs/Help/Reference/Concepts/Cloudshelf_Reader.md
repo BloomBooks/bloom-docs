@@ -1,5 +1,6 @@
 ---
 title: Cloudshelf Reader
+hide_title: true
 sidebar_position: 18
 slug: /Help/Reference/cloudshelf-reader
 ---

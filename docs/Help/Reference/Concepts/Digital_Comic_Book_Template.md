@@ -1,5 +1,6 @@
 ---
 title: Digital Comic Book Template
+hide_title: true
 sidebar_position: 23
 slug: /Help/Reference/digital-comic-book-template
 ---

@@ -1,5 +1,6 @@
 ---
 title: Publish tasks overview
+hide_title: true
 sidebar_label: "Publish tab tasks overview"
 sidebar_position: 1
 slug: /Help/Reference/publish-tasks-overview

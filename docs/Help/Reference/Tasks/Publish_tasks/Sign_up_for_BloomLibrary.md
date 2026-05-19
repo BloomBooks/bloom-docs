@@ -1,5 +1,6 @@
 ---
 title: Sign up for BloomLibrary
+hide_title: true
 sidebar_position: 20
 slug: /Help/Reference/sign-up-for-bloomlibrary
 ---

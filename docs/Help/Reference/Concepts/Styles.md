@@ -1,5 +1,6 @@
 ---
 title: Styles
+hide_title: true
 sidebar_position: 65
 slug: /Help/Reference/styles
 ---

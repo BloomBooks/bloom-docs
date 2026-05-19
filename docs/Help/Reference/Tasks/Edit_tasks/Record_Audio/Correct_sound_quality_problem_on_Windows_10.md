@@ -1,5 +1,6 @@
 ---
 title: Correct sound quality problem on Windows 10
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/correct-sound-quality-problem-on-windows-10
 ---

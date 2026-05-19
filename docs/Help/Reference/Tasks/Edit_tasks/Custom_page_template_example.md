@@ -1,5 +1,6 @@
 ---
 title: Custom page template example
+hide_title: true
 sidebar_position: 12
 slug: /Help/Reference/custom-page-template-example
 ---

@@ -1,5 +1,6 @@
 ---
 title: Bloom Reader App
+hide_title: true
 sidebar_position: 13
 slug: /Help/Reference/bloom-reader-app
 ---

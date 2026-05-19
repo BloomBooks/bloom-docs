@@ -1,5 +1,6 @@
 ---
 title: Punctuation tab
+hide_title: true
 sidebar_position: 6
 slug: /Help/Reference/punctuation-tab
 ---

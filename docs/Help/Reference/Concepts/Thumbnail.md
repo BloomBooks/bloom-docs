@@ -1,5 +1,6 @@
 ---
 title: Thumbnail
+hide_title: true
 sidebar_position: 70
 slug: /Help/Reference/thumbnail
 ---

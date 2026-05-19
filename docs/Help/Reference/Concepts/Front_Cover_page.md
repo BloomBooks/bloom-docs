@@ -1,5 +1,6 @@
 ---
 title: Front Cover page
+hide_title: true
 sidebar_position: 30
 slug: /Help/Reference/front-cover-page
 ---

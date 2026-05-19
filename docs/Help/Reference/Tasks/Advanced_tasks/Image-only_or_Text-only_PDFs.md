@@ -1,5 +1,6 @@
 ---
 title: Image-only or Text-only PDFs
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/image-only-or-text-only-pdfs
 ---

@@ -1,5 +1,6 @@
 ---
 title: Copy and paste a page
+hide_title: true
 sidebar_position: 10
 slug: /Help/Reference/copy-and-paste-a-page
 ---

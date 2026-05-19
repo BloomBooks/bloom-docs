@@ -1,5 +1,6 @@
 ---
 title: HTML Widget
+hide_title: true
 sidebar_position: 34
 slug: /Help/Reference/html-widget
 ---

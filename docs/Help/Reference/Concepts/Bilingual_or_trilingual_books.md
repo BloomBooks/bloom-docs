@@ -1,5 +1,6 @@
 ---
 title: Bilingual or trilingual books
+hide_title: true
 sidebar_position: 11
 slug: /Help/Reference/bilingual-or-trilingual-books
 ---

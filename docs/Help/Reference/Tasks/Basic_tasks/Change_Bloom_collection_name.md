@@ -1,5 +1,6 @@
 ---
 title: Change Bloom Collection Name
+hide_title: true
 sidebar_label: "Change Bloom collection name"
 sidebar_position: 2
 slug: /Help/Reference/change-bloom-collection-name

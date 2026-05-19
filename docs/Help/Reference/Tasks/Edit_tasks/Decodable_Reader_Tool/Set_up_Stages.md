@@ -1,5 +1,6 @@
 ---
 title: Set up Stages
+hide_title: true
 sidebar_position: 12
 slug: /Help/Reference/set-up-stages
 ---

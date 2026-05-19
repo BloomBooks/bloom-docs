@@ -1,5 +1,6 @@
 ---
 title: Game Tool overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/game-tool-overview
 ---

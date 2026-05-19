@@ -1,5 +1,6 @@
 ---
 title: Book Metadata dialog box
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/book-metadata-dialog-box
 ---

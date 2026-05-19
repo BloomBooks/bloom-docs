@@ -1,5 +1,6 @@
 ---
 title: Publish to PDF & Print
+hide_title: true
 sidebar_position: 15
 slug: /Help/Reference/pdf-and-print
 ---

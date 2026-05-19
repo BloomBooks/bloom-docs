@@ -1,5 +1,6 @@
 ---
 title: Collections tab toolbar
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/collections-toolbar
 ---

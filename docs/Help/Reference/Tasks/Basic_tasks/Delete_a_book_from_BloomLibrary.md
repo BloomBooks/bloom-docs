@@ -1,5 +1,6 @@
 ---
 title: Delete a book from BloomLibrary
+hide_title: true
 sidebar_label: "Delete a book from BloomLibrary online"
 sidebar_position: 9
 slug: /Help/Reference/delete-a-book-from-bloomlibrary

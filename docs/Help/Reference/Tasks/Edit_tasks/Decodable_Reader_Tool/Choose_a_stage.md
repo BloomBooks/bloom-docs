@@ -1,5 +1,6 @@
 ---
 title: Choose a stage
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/choose-a-stage
 ---

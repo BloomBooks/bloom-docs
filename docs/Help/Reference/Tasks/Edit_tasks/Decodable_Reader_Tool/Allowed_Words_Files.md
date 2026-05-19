@@ -1,5 +1,6 @@
 ---
 title: Allowed Words Files
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/allowed-words-files
 ---

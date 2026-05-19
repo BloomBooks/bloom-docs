@@ -1,5 +1,6 @@
 ---
 title: Audio recording tips
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/recording-tips
 ---

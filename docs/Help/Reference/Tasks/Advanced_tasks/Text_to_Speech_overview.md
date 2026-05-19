@@ -1,5 +1,6 @@
 ---
 title: Text to Speech overview
+hide_title: true
 sidebar_position: 11
 slug: /Help/Reference/text-to-speech-overview
 ---

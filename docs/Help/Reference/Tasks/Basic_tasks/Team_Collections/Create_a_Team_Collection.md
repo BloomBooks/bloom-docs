@@ -1,5 +1,6 @@
 ---
 title: Create a Team Collection
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/create-a-team-collection
 ---

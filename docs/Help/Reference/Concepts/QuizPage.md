@@ -1,5 +1,6 @@
 ---
 title: Quiz Page
+hide_title: true
 sidebar_position: 53
 slug: /Help/Reference/quizpage
 ---

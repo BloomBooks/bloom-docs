@@ -1,5 +1,6 @@
 ---
 title: Make a template from Template Starter template
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/make-a-template-from-template-starter
 ---

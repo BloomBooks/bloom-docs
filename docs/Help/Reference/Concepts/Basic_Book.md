@@ -1,5 +1,6 @@
 ---
 title: Basic Book
+hide_title: true
 sidebar_position: 9
 slug: /Help/Reference/basic-book
 ---

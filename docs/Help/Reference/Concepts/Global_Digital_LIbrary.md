@@ -1,5 +1,6 @@
 ---
 title: Global Digital LIbrary (GDL)
+hide_title: true
 sidebar_position: 32
 slug: /Help/Reference/global-digital-library
 ---

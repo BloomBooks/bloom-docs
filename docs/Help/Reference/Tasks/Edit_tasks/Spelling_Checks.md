@@ -1,5 +1,6 @@
 ---
 title: Spelling Checks
+hide_title: true
 sidebar_position: 22
 slug: /Help/Reference/spelling-checks
 ---

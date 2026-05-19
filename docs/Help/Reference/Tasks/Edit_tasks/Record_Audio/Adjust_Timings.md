@@ -1,5 +1,6 @@
 ---
 title: Adjust Timings
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/adjust-timings
 ---

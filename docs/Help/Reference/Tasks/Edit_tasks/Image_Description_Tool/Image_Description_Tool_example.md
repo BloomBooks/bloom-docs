@@ -1,5 +1,6 @@
 ---
 title: Image Description Tool example
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/image-description-tool-example
 ---

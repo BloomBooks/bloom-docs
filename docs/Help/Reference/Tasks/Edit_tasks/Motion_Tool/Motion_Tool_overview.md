@@ -1,5 +1,6 @@
 ---
 title: Motion Tool overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/motion-tool-overview
 ---

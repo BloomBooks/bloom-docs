@@ -1,5 +1,6 @@
 ---
 title: Copy Leveled Reader statistics
+hide_title: true
 sidebar_position: 12
 slug: /Help/Reference/copy-leveled-reader-statistics
 ---

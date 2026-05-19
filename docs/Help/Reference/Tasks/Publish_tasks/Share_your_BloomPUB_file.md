@@ -1,5 +1,6 @@
 ---
 title: Publish your BlooomPUB
+hide_title: true
 sidebar_position: 19
 slug: /Help/Reference/share-your-bloompub-file
 ---

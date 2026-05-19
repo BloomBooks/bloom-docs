@@ -1,5 +1,6 @@
 ---
 title: Using the Music Tool
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/using-the-music-tool
 ---

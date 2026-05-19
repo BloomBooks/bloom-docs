@@ -1,5 +1,6 @@
 ---
 title: Picture
+hide_title: true
 sidebar_label: "Picture / Picture Placeholder"
 sidebar_position: 50
 slug: /Help/Reference/picture

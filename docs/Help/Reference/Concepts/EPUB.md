@@ -1,5 +1,6 @@
 ---
 title: ePUB
+hide_title: true
 sidebar_position: 25
 slug: /Help/Reference/epub
 ---

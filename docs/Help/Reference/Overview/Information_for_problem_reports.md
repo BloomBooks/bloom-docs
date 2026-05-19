@@ -1,5 +1,6 @@
 ---
 title: Information for problem reports
+hide_title: true
 sidebar_position: 5
 slug: /Help/Reference/information-for-problem-reports
 ---

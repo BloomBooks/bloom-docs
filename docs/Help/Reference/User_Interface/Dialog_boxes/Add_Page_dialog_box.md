@@ -1,5 +1,6 @@
 ---
 title: Add Page dialog box
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/add-page-dialog-box
 ---

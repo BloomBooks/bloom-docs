@@ -1,5 +1,6 @@
 ---
 title: Viewing BloomPUBs on Bloom Reader (Android)
+hide_title: true
 sidebar_label: "Viewing BloomPUBs on Bloom Reader Android"
 sidebar_position: 22
 slug: /Help/Reference/make-a-bloompub-file-overview

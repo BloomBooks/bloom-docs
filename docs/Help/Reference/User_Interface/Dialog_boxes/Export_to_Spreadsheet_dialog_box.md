@@ -1,5 +1,6 @@
 ---
 title: Export to Spreadsheet dialog box
+hide_title: true
 sidebar_position: 10
 slug: /Help/Reference/export-to-spreadsheet-dialog-box
 ---

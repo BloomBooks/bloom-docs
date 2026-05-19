@@ -1,5 +1,6 @@
 ---
 title: Keyboard Shortcuts overview
+hide_title: true
 sidebar_position: 1
 slug: /Help/Reference/keyboard-shortcuts-overview
 ---

@@ -1,5 +1,6 @@
 ---
 title: Text Box Properties dialog box
+hide_title: true
 sidebar_position: 20
 slug: /Help/Reference/text-box-properties-dialog-box
 ---

@@ -1,5 +1,6 @@
 ---
 title: Delete a video
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/delete-a-video
 ---

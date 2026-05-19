@@ -1,5 +1,6 @@
 ---
 title: Using the Motion Tool
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/using-the-motion-tool
 ---

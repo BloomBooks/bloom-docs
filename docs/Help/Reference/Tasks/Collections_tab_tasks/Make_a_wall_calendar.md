@@ -1,5 +1,6 @@
 ---
 title: Make a wall calendar
+hide_title: true
 sidebar_position: 7
 slug: /Help/Reference/make-a-wall-calendar
 ---

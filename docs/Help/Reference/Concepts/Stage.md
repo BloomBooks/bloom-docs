@@ -1,5 +1,6 @@
 ---
 title: Stage
+hide_title: true
 sidebar_position: 64
 slug: /Help/Reference/stage
 ---

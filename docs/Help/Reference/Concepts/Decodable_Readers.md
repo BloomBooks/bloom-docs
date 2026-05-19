@@ -1,5 +1,6 @@
 ---
 title: Decodable Readers
+hide_title: true
 sidebar_position: 22
 slug: /Help/Reference/decodable-readers
 ---

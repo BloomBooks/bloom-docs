@@ -1,5 +1,6 @@
 ---
 title: Example - Previous and New Letters grid
+hide_title: true
 sidebar_position: 6
 slug: /Help/Reference/example-previous-and-new-letters-grid
 ---

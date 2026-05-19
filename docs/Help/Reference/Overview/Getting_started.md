@@ -1,5 +1,6 @@
 ---
 title: Getting started
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/getting-started
 ---

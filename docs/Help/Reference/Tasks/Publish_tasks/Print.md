@@ -1,5 +1,6 @@
 ---
 title: Print
+hide_title: true
 sidebar_position: 11
 slug: /Help/Reference/print
 ---

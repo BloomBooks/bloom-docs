@@ -1,5 +1,6 @@
 ---
 title: Translation Instructions
+hide_title: true
 sidebar_position: 73
 slug: /Help/Reference/translation-instructions
 ---

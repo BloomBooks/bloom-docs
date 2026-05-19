@@ -1,5 +1,6 @@
 ---
 title: Save ePUB file
+hide_title: true
 sidebar_position: 17
 slug: /Help/Reference/save-epub-file
 ---

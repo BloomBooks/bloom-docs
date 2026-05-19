@@ -1,5 +1,6 @@
 ---
 title: Show the Talking Book Tool
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/show-the-talking-book-tool
 ---

@@ -1,5 +1,6 @@
 ---
 title: Using the Impairment Visualizer
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/using-the-impairment-visualizer
 ---

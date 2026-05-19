@@ -1,5 +1,6 @@
 ---
 title: Using the Special Characters panel
+hide_title: true
 sidebar_position: 28
 slug: /Help/Reference/using-the-special-characters-panel
 ---

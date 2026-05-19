@@ -1,5 +1,6 @@
 ---
 title: Get More Help
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/get-more-help
 ---

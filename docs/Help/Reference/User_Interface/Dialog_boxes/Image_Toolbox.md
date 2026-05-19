@@ -1,5 +1,6 @@
 ---
 title: ImageToolbox
+hide_title: true
 sidebar_label: "Image Toolbox"
 sidebar_position: 12
 slug: /Help/Reference/image-toolbox

@@ -1,5 +1,6 @@
 ---
 title: Use Bloom Accessibility Checker dialog box
+hide_title: true
 sidebar_position: 21
 slug: /Help/Reference/use-bloom-accessibility-checker-dialog-box
 ---

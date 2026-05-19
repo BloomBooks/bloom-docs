@@ -1,5 +1,6 @@
 ---
 title: Page
+hide_title: true
 sidebar_position: 47
 slug: /Help/Reference/page
 ---

@@ -1,5 +1,6 @@
 ---
 title: Font features
+hide_title: true
 sidebar_label: "Font Features"
 sidebar_position: 7
 slug: /Help/Reference/font-features

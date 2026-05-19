@@ -1,5 +1,6 @@
 ---
 title: About Creative Commons
+hide_title: true
 sidebar_position: 2
 slug: /Help/Reference/about-creative-commons
 ---

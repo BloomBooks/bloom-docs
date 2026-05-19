@@ -1,5 +1,6 @@
 ---
 title: Review Count and Length information
+hide_title: true
 sidebar_position: 8
 slug: /Help/Reference/review-count-and-length-information
 ---

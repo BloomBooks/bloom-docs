@@ -1,5 +1,6 @@
 ---
 title: Using the Image Description Tool
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/using-the-image-description-tool
 ---

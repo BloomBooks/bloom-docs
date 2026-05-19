@@ -1,5 +1,6 @@
 ---
 title: Make a book from Basic Book template
+hide_title: true
 sidebar_position: 4
 slug: /Help/Reference/make-a-book-from-basic-book
 ---

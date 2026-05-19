@@ -1,5 +1,6 @@
 ---
 title: Resize panes
+hide_title: true
 sidebar_position: 23
 slug: /Help/Reference/resize-panes
 ---

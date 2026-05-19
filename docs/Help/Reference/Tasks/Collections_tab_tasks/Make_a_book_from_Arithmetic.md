@@ -1,5 +1,6 @@
 ---
 title: Make a book from Arithmetic template
+hide_title: true
 sidebar_position: 3
 slug: /Help/Reference/make-a-book-from-arithmetic
 ---

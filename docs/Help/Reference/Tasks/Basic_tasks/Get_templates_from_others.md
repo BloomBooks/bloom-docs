@@ -1,5 +1,6 @@
 ---
 title: Get templates from others
+hide_title: true
 sidebar_position: 18
 slug: /Help/Reference/get-templates-from-others
 ---

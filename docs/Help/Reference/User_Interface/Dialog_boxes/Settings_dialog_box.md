@@ -1,5 +1,6 @@
 ---
 title: Settings dialog box
+hide_title: true
 sidebar_position: 17
 slug: /Help/Reference/settings-dialog-box
 ---
