@@ -12,7 +12,7 @@ In a “customer interview,” a user communicated that:
 > It's sometimes confusing for clients like us to understand tagging and branding books. The documentation could be clearer. We suggested that it would be helpful to know what analytics fields are available so new clients know what the app can and can't report. Tagging isn’t about book genres like biography or fiction; it's about identifying who owns the books or who funded the project. In PNG, we have different projects like the Rise Project, and we need to differentiate the books in the database based on these projects. We currently rely on SIL-PNG to manage this, but clearer documentation would help us handle it better on our own.
 
 
-# Summary {#b0e5acd8a00642c885a4608952bfd96b}
+## Summary {#b0e5acd8a00642c885a4608952bfd96b}
 
 
 Below is an overview of the statistics you will see when you view statistics for a collection:
@@ -87,16 +87,16 @@ Below is an overview of the statistics you will see when you view statistics for
 - Device hardware IDs
 - Named Device IDs
 
-# Analytics Fields {#c2e2aaf25f2a4507a6f130a1c0c12791}
+## Analytics Fields {#c2e2aaf25f2a4507a6f130a1c0c12791}
 
 
 [Analytics Fields](/analytic-fields)
 
 
-# Internet Connection Issues {#3b3ffb59d443404989a2c87bf9d2bbfa}
+## Internet Connection Issues {#3b3ffb59d443404989a2c87bf9d2bbfa}
 
 
-## How much bandwidth? {#a2162aee401349f49dba03f0b6b77d7b}
+### How much bandwidth? {#a2162aee401349f49dba03f0b6b77d7b}
 
 
 These are the most common analytics events sent by Bloom Reader:
@@ -109,7 +109,7 @@ These are the most common analytics events sent by Bloom Reader:
 Each event is less than 3KB. So a person who runs Bloom Reader, reads 2 books, then quits will send less than 18KB.
 
 
-## What if the user is not connected to the internet? {#0b3df2601fd64fc1a921de9826faf100}
+### What if the user is not connected to the internet? {#0b3df2601fd64fc1a921de9826faf100}
 
 
 If the user is not connected to the internet, Bloom Reader will cache their events. The cache is limited to 1000 events.

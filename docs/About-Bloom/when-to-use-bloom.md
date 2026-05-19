@@ -12,7 +12,7 @@ Bloom offers an integrated approach to book-making, providing a robust and susta
 Despite these awesome qualifications, Bloom is not the right tool for every situation. 
 
 
-# When using Bloom is a good choice {#c3a2873ee2074452abfc5a41d3024a93}
+## When using Bloom is a good choice {#c3a2873ee2074452abfc5a41d3024a93}
 
 
 Bloom is a good tool to use under the following circumstances:
@@ -25,7 +25,7 @@ Bloom is a good tool to use under the following circumstances:
 - People want to create sign language books or books for the visually impaired.
 - You want to provide writers with reader templates to help them write books that meet certain specifications.
 
-# When Bloom may not be a good choice {#6814b06dff6b49fab0a1fea3e31eb786}
+## When Bloom may not be a good choice {#6814b06dff6b49fab0a1fea3e31eb786}
 
 
 Bloom is not good for every purpose. 
@@ -38,11 +38,11 @@ Here are a number of needs that Bloom does not accommodate:
 - There are limitations to Bloom's text formatting capabilities: for example, bulleted and numbered lists are not possible.
 - Currently, Bloom does not support tables.
 
-# Other limitations of Bloom {#45bd439e3f064882828bc31c8f66118f}
+## Other limitations of Bloom {#45bd439e3f064882828bc31c8f66118f}
 
 - Bloom does not have built-in tools for editing images, audio, or video. Bloom allows you to crop an image, but it cannot make any other changes to it.
 
-# When you may need a Bloom Subscription {#f8a9e97302bb418a8d2fd164d5e207f1}
+## When you may need a Bloom Subscription {#f8a9e97302bb418a8d2fd164d5e207f1}
 
 
 Bloom is free to use for many kinds of projects. But some advanced features require a paid subscription. These features include:

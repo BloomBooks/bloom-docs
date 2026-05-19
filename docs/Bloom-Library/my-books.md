@@ -7,7 +7,7 @@ keywords: [Bloom Library]
 
 
 
-# Access your books {#352f7432fae64d5f9cb4ba4cad5c4ed6}
+## Access your books {#352f7432fae64d5f9cb4ba4cad5c4ed6}
 
 
 When you are logged into your Bloom Library account, there is a convenient way to view all of the books you have uploaded to the library. 
@@ -38,7 +38,7 @@ After signing in, your avatar will be displayed in the top right corner.
 Following this, all of your books will be presented. Click on any book to view the book detail page.
 
 
-# The Book detail page {#3604a01f4bc3428389540fcd293dbf52}
+## The Book detail page {#3604a01f4bc3428389540fcd293dbf52}
 
 
  If you click on a book you uploaded, you will see something like this:

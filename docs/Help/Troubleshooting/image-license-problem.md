@@ -6,7 +6,7 @@ slug: /image-license-problem
 
 
 
-# Oops! There's a Problem with Your Picture {#9aa0ba0b1cc24b1bab0c8d1578228153}
+## Oops! There's a Problem with Your Picture {#9aa0ba0b1cc24b1bab0c8d1578228153}
 
 
 Sometimes Bloom can't add special information to your picture. When this happens, we need your help to fix it.
@@ -24,7 +24,7 @@ Here's what to do:
 That's it! You've helped fix the problem. Now try importing your new picture to our app again. If you still have trouble, let us know and we'll help you out!
 
 
-# Technical Details for the Curious {#ca704c77e0e04805b58fa680d7f88c88}
+## Technical Details for the Curious {#ca704c77e0e04805b58fa680d7f88c88}
 
 
 If you require some background information, please read on.
@@ -42,7 +42,7 @@ Note: some images have the copyright and license locked so that they cannot be c
 
 
 
-## How image files are structured {#8e7965ff1b56479ea419fd139657dbac}
+### How image files are structured {#8e7965ff1b56479ea419fd139657dbac}
 
 
 Most image files have two sections: 
@@ -50,7 +50,7 @@ Most image files have two sections:
 1. The image data section. The section stores the actual picture.
 2. A “metadata” section. This section stores information about the image such as when it was created and who created it.  It is in this section that the copyright and license information is stored.
 
-## Problem “reading” the image metadata {#a3235e6f7dc046b48622dee673030cb0}
+### Problem “reading” the image metadata {#a3235e6f7dc046b48622dee673030cb0}
 
 
 When Bloom has trouble reading or writing the metadata for an image file, there are two possible causes: 1) the metadata section has somehow gotten corrupted, or 2) Bloom does not recognize the particular format of the metadata for the image.  

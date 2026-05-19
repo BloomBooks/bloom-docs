@@ -15,7 +15,7 @@ The [Bloom Community Forum](https://community.software.sil.org/c/bloom/5) is the
 
 
 
-# Step 1: Sign Up for the Web Forum {#64aeca2190ba4906b40e4fb455d12ce0}
+## Step 1: Sign Up for the Web Forum {#64aeca2190ba4906b40e4fb455d12ce0}
 
 
 <div class='notion-row'>
@@ -38,7 +38,7 @@ The [Bloom Community Forum](https://community.software.sil.org/c/bloom/5) is the
 </div>
 
 
-# Step 2: Go to the Bloom Section {#c21552b29bd54db2a4dbfae08c1094d3}
+## Step 2: Go to the Bloom Section {#c21552b29bd54db2a4dbfae08c1094d3}
 
 
 <div class='notion-row'>
@@ -60,7 +60,7 @@ The [Bloom Community Forum](https://community.software.sil.org/c/bloom/5) is the
 </div>
 
 
-# Step 3: Turn on email notifications for Bloom Topics {#ed958ead95e640f5872bdaa8875d9978}
+## Step 3: Turn on email notifications for Bloom Topics {#ed958ead95e640f5872bdaa8875d9978}
 
 
 Finally, in order to get emails of announcements and discussions:

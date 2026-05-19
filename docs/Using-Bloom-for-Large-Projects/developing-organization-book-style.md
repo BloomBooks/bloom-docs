@@ -27,7 +27,7 @@ Of course, this style should be tested with your intended audience to ensure you
 In this article, we will briefly highlight two organizations that have adopted different design characteristics for their books.
 
 
-# Education for Life {#61413ffc86754103ac248a99068041fd}
+## Education for Life {#61413ffc86754103ac248a99068041fd}
 
 
 Education for Life (EFL) is a team of Bloom fans in Papua New Guinea. To best reach their target audiences, they have focused mainly on digital ‘Talking Books’ to be enjoyed on Android devices using Bloom Reader. Since their books are not designed for print, EFL has set their books to have either no margin or a narrow margin. This allows them to exploit the entire canvas on a page fully:
@@ -57,7 +57,7 @@ Using Bloom’s **Template Starter**, your organization can create its own book 
 ![](./developing-organization-book-style.2764bb19-df12-8081-a2f1-dc63d9af132d.png)
 
 
-# Little Zebra books {#5d11d49b499549b2a5df94ee41749657}
+## Little Zebra books {#5d11d49b499549b2a5df94ee41749657}
 
 
 In contrast to EFL, all Little Zebra books are designed to be printed:
@@ -66,7 +66,7 @@ In contrast to EFL, all Little Zebra books are designed to be printed:
 ![](./developing-organization-book-style.c97d281c-58b0-4a88-92a9-690c92a70c9f.png)
 
 
-# Review {#0d4f7ee76f04419e9802b218bbdd86f0}
+## Review {#0d4f7ee76f04419e9802b218bbdd86f0}
 
 
 There are no right and wrong ways to format books, but some formats will better serve the goals of your organization than will others. The key questions to ask before beginning to make books in Bloom are:
