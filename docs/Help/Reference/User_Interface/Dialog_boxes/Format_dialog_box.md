@@ -9,27 +9,27 @@ slug: /Help/Reference/format-dialog-box
 -   To open this dialog box, click the cogged gear (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) which appears near the bottom of each [text box](../../Concepts/Text_Box.md) and in the toolbar that appears with the [Canvas Tool](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) elements (![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/ToolbarExample.png)).
     
 
-The name of the current style appears in the statement at the bottom of the dialog box. This information is important because changes you make affect all other text boxes that use the same language and [style](../../Concepts/Styles.md).
+The name of the current style appears in the statement at the bottom of the dialog box. This information is important because changes you make affect all other text boxes that use the _same_ language and [style](../../Concepts/Styles.md).
 
--   The Format dialog box has two or more tabs depending on the context:
+-   The **Format** dialog box has two _or_ more tabs depending on the context:
     
 
-Style Name tab - [choose or create](../../Tasks/Basic_tasks/Formatting_text/Choose_or_create_a_style.md) a style (not on cover pages).
+**Style Name** tab - [choose or create](../../Tasks/Basic_tasks/Formatting_text/Choose_or_create_a_style.md) a style (_not_ on cover pages).
 
-Characters tab - [configure](../../Tasks/Basic_tasks/Formatting_text/Configure_a_style.md) character elements of the chosen or default style.
+**Characters** tab - [configure](../../Tasks/Basic_tasks/Formatting_text/Configure_a_style.md) _character_ elements of the chosen or default style.
 
-Paragraph tab - [configure](../../Tasks/Basic_tasks/Formatting_text/Configure_a_style.md) paragraph elements of the chosen or default style.
+**Paragraph** tab - [configure](../../Tasks/Basic_tasks/Formatting_text/Configure_a_style.md) _paragraph_ elements of the chosen or default style.
 
-Highlighting tab - choose background colors and text colors to use in [canvas](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) when audio is playing.
+**Highlighting** tab - choose background colors and text colors to use in [canvas](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) when audio is playing.
 
-Canvas Text tab - choose padding between the text and the [canvas](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) border. 
+**Canvas Text** tab - choose padding between the text and the [canvas](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) border. 
 
 #### Note
 
 -   If the text box has words, you can see the effect of your change immediately. 
     
-
-The combination of font size, line spacing and word spacing can cause a [red font color](../../Concepts/Red_font_color.md) or red line.
+    The combination of font size, line spacing and word spacing can cause a [red font color](../../Concepts/Red_font_color.md) or red line.
+    
 
 -   If you make a change to a style, you should visit each page that uses that style. This will allow Bloom to fully apply your style.
     

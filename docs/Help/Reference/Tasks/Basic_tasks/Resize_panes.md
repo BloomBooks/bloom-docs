@@ -8,7 +8,7 @@ slug: /Help/Reference/resize-panes
 
 You can resize the entire Bloom window in any of these ways:
 
--   Use the Maximize (![](/ref-docs-assets/images/Tasks/Basic_tasks/MaximizeButton.png)) and Restore Down (![](/ref-docs-assets/images/Tasks/Basic_tasks/RestoreDownButton.png)) buttons that are located in the top title bar.
+-   Use the **Maximize** (![](/ref-docs-assets/images/Tasks/Basic_tasks/MaximizeButton.png)) and **Restore Down** (![](/ref-docs-assets/images/Tasks/Basic_tasks/RestoreDownButton.png)) buttons that are located in the top title bar.
     
 -   Click and drag an edge of the Bloom window.
     

@@ -6,7 +6,7 @@ slug: /Help/Reference/acknowledgements
 
 ## Acknowledgments
 
-If a person or an organization helped in any way, it must be made known. That is, it must be acknowledged. The help may be direct or indirect. Your statement can include a dedication.
+If a person or an organization helped in any way, it must be made known. That is, it must be _acknowledged_. The help may be direct or indirect. Your statement can include a dedication.
 
 For many books, you can type (write about) acknowledgements in text boxes. Each text box has a [Bloom callout box](Callout_box.md) that describes its purpose and usually the language that the text box is set to use.
 

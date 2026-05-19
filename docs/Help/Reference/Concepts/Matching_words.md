@@ -6,13 +6,13 @@ slug: /Help/Reference/matching-words
 
 ## Matching words
 
-In the Decodable Stages tab, the box on the right side can show matching words.
+In the **Decodable Stages** tab, the box on the right side can show _matching words_.
 
 You cannot type in this box. Instead, Bloom adds a word there if it meets at least one of the following conditions:
 
--   It is a sight word in the current stage or a previous stage.
+-   It is a _sight word_ in the current stage or a previous stage.
     
--   It is in a [file](About_word_lists_and_sample_texts.md) or it was typed in the Words tab and uses only [letters](../Tasks/Edit_tasks/Decodable_Reader_Tool/Add_letters_to_a_stage.md) that have been [introduced](../Tasks/Edit_tasks/Decodable_Reader_Tool/Decodable_Stages_tab.md).
+-   It is in a [file](About_word_lists_and_sample_texts.md) or it was typed in the **Words** tab _and_ uses only [letters](../Tasks/Edit_tasks/Decodable_Reader_Tool/Add_letters_to_a_stage.md) that have been [introduced](../Tasks/Edit_tasks/Decodable_Reader_Tool/Decodable_Stages_tab.md).
     
 
 Matching words are cumulative. The number of matching words for each stage appears in the box label. Therefore, you should see a larger number as you click later stages.
@@ -29,17 +29,17 @@ Blue
 
 These are [sight words](Sight_words.md).
 
-Bold words are sight words that are new in the current stage.
+**Bold** words are sight words that are _new_ in the current stage.
 
 Red
 
-The words, or letters in them, are new to the current stage.
+The words, or letters in them, are _new_ to the current stage.
 
 Black
 
 These words matched in a previous stage.
 
--   See Also: [Make Bloom suggest words for a decodable reader](../Tasks/Edit_tasks/Decodable_Reader_Tool/Make_Bloom_suggest_words.md).
+-   **See Also:** [Make Bloom suggest words for a decodable reader](../Tasks/Edit_tasks/Decodable_Reader_Tool/Make_Bloom_suggest_words.md).
     
 
 #### Related Topics

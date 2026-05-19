@@ -6,7 +6,7 @@ slug: /Help/Reference/settings-dialog-box
 
 ## Settings dialog box
 
--   To open this dialog box, click ![](/ref-docs-assets/images/User_Interface/Toolbar/SettingsButton.png) Settings on the [toolbar](../Toolbar/Collections_toolbar.md). A [password](Setting_Protection_Password_dialog_box.md) may be required.
+-   To open this dialog box, click ![](/ref-docs-assets/images/User_Interface/Toolbar/SettingsButton.png) **Settings** on the [toolbar](../Toolbar/Collections_toolbar.md). A [password](Setting_Protection_Password_dialog_box.md) may be required.
     
 
 This dialog box has tabs and a hyperlink:
@@ -17,58 +17,58 @@ Tab
 
 Tasks
 
-Languages
+**Languages**
 
 -   [Change or Set languages](../../Tasks/Basic_tasks/Change_languages.md)
     
 
-See Also: [Languages tab](Languages_tab.md)
+**See Also:** [Languages tab](Languages_tab.md)
 
-Book Making
+**Book Making**
 
 -   [Use the Book Making tab](../../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md) to select:
     
-    -   the default [font](../../Concepts/Font.md) for each language
+    -   the _default_ [font](../../Concepts/Font.md) for each language
         
-    -   Special Script Settings (the direction of the writing system or if the script requires taller lines)
+    -   **Special Script Settings** (the _direction_ of the writing system or if the script requires taller lines)
         
-    -   Page Numbering Style
+    -   **Page Numbering Style**
         
     -   a [Front/Back Matter Pack](../../Concepts/Front_Back_Matter_Pack.md)
         
-    -   Bloom Library Bookshelf ![](/ref-docs-assets/images/EnterpriseStar.png) (so you can choose a bookshelf)
+    -   **Bloom Library Bookshelf** ![](/ref-docs-assets/images/EnterpriseStar.png) (so you can choose a bookshelf)
         
 
-Project Information
+**Project Information**
 
 -   [Enter project information](../../Tasks/Basic_tasks/Enter_project_information.md)
     
 -   [Change Bloom collection name](../../Tasks/Basic_tasks/Change_Bloom_collection_name.md)
     
 
-Bloom Subscription
+**Bloom Subscription**
 
 -   [Enter your Subscription Code](../../Tasks/Basic_tasks/Enter_Subscription_Code.md)
     
 
-Team Collection
+**Team Collection**
 
 -   [Create](../../Tasks/Basic_tasks/Team_Collections/Create_a_Team_Collection.md) and learn about [Team Collections](../../Concepts/Team_Collection.md)
     
 
-Advanced Program Settings
+**Advanced Program Settings**
 
--   Automatically Update Bloom
+-   **Automatically Update Bloom**
     
 
 Select (![](/ref-docs-assets/images/CheckedBox.PNG)) to enable automatic updated to Bloom.
 
-(Windows® only; Internet access is required.)
+(Windows® _only_; Internet access is required.)
 
--   Experimental Features
+-   **Experimental Features**
     
 
- ![](/ref-docs-assets/images/User_Interface/EnterpriseStar.png) Team Collections select (![](/ref-docs-assets/images/CheckedBox.PNG)) if you want have a [team collection](../../Concepts/Team_Collection.md).
+![](/ref-docs-assets/images/User_Interface/EnterpriseStar.png) **Team Collections** select (![](/ref-docs-assets/images/CheckedBox.PNG)) if you want have a [team collection](../../Concepts/Team_Collection.md).
 
  
 
@@ -76,7 +76,7 @@ Hyperlink
 
 Task
 
-Settings Protection
+**Settings Protection**
 
 -   [Choose settings protections](../../Tasks/Basic_tasks/Choose_settings_protections.md)
     

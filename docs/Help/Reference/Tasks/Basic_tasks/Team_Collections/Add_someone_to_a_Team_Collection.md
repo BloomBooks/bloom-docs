@@ -10,8 +10,8 @@ Only the person who [created](Create_a_Team_Collection.md) the Team Collection, 
 
 1.  Share the folder that has the team collection with each team member.
     
-
-This folder is typically a subfolder and its name ends with \- TC.
+    This folder is typically a subfolder and its name ends with **\-** **TC**.
+    
 
 2.  Inform each team member when the folder has been shared and how to access it.
     

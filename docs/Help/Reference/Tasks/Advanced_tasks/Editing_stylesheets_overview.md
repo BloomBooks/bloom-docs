@@ -12,7 +12,7 @@ which is "CSS" (Cascading Style Sheets).
 
 In most situations, you will never see one of these stylesheets directly; Bloom maintains them for you using various parts of its user interface. However, occasionally you may need some layout or style feature that is not directly accessible from the Bloom user interface. In that case, Bloom lets you add rules directly to the stylesheet system.
 
-The customCollectionStyles.css file is found at the root of each collection folder on your hard drive. You can [edit](Editing_stylesheets.md) it in a simple text editor like Notepad (Windows®) or a Linux equivalent. Any rules that you type or paste into this file will be applied to all books.
+The **customCollectionStyles.css** file is found at the root of each collection folder on your hard drive. You can [edit](Editing_stylesheets.md) it in a simple text editor like Notepad (Windows®) or a Linux equivalent. Any rules that you type or paste into this file will be applied to all books.
 
 Normally, if you need a custom rule, Bloom support staff will give you the rule to paste into the file.
 
@@ -27,10 +27,10 @@ However, if you are interested in working with this yourself, here are topics wi
 
 #### Tip
 
--   Bloom will also use (but not create) a customBookStyles.css. It works just like customCollectionStyles.css, but only applies to the book.
+-   Bloom will also use (but not create) a **customBookStyles.css**. It works just like **customCollectionStyles.css**, but only applies to the book.
     
 
-You can copy and rename the customCollectionStyles.css. In needs to be in the same folder as the book that you want to control.
+You can copy and rename the **customCollectionStyles.css**. In needs to be in the same folder as the book that you want to control.
 
 #### Related Topics
 

@@ -18,7 +18,7 @@ Meaning
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/RecordingLevel.png) or ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/RecordingLevelHeadSet.png)
 
-The icon informs you about the device that Bloom is using. See: [Audio recording tips](Recording_tips.md).
+The icon informs you about the device that Bloom is using. **See:** [Audio recording tips](Recording_tips.md).
 
 The recording-level indicator helps you know if you are recording at an acceptable level. If you do not see the indicator move when you speak, you might need to correct hardware problems.
 
@@ -38,7 +38,7 @@ Highlighting shows the text will be recorded, is being recorded or is being list
 
   
 
-3) Speak
+**3) Speak**
 
 Meaning
 
@@ -61,7 +61,7 @@ The current text has a recording.
 
   
 
-4) Check
+**4) Check**
 
 Meaning
 
@@ -101,7 +101,7 @@ Task
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_button.png)
 
-You have selected () By Whole Text box.
+You have selected () **By Whole Text box**.
 
 [Adjust Timings](Adjust_Timings.md)
 
@@ -122,7 +122,7 @@ There is another sentence to move forward to.
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/NextArrowWith_Audio.png)
 
-You just used the Check button for the current sentence. There is another sentence to move forward to.
+You just used the **Check** button for the current sentence. There is another sentence to move forward to.
 
 -   Click to move to the next sentence so you can record it.
 

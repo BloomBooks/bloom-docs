@@ -11,7 +11,7 @@ The cat sat on the mat.
 -   The sentence above has six words.
     
 
-Five words are unique (distinct), because "the" is used twice.
+Five words are _unique_ (distinct), because "the" is used twice.
 
 #### Related Topics
 

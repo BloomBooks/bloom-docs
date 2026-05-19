@@ -6,10 +6,10 @@ slug: /Help/Reference/using-the-special-characters-panel
 
 ## Using the Special Character panel
 
--   This feature may be disabled if you are using a Keyman (![PIC](/ref-docs-assets/images/Tasks/Edit_tasks/KeymanIcon.png)) keyboard.
+-   This feature may be disabled if you are using a _Keyman_ (![PIC](/ref-docs-assets/images/Tasks/Edit_tasks/KeymanIcon.png)) keyboard.
     
 
-Sometimes you need to type a special character in a [text box](../../Concepts/Text_Box.md), or in the [tabs](Decodable_Reader_Tool/Set_up_Decodable_Reader_Tool_dialog_box.md) that are in the Set up Decodable Reader Tool dialog box. An example could be an IPA character. The Special Character panel allows you to see characters and choose the one you want to insert.
+Sometimes you need to type a special character in a [text box](../../Concepts/Text_Box.md), or in the [tabs](Decodable_Reader_Tool/Set_up_Decodable_Reader_Tool_dialog_box.md) that are in the **Set up Decodable Reader Tool** dialog box. An example could be an IPA character. The Special Character panel allows you to see characters and choose the one you want to insert.
 
 You can press and hold lower-case letters or upper-case letters, the spacebar on your keyboard, or any of these:
 
@@ -20,8 +20,8 @@ Do these steps:
 
 1.  Press and hold the keyboard key for the base of the special character you need.
     
-
-The Special Character panel appears ([examples](Special_Characters_panel_examples.md)).
+    The Special Character panel appears ([examples](Special_Characters_panel_examples.md)).
+    
 
 2.  While you hold down the key, click the letter you want to insert.
     
@@ -43,11 +43,11 @@ The character that you clicked or that was in focus is inserted into the text bo
 
 #### Important
 
--   If the Special Character panel cannot find a special character that matches the key you pressed, you may inadvertently type many instances of that letter in the text box. You may need to delete them.  
+-   If the Special Character panel _cannot find_ a special character that matches the key you pressed, you may inadvertently type many instances of that letter in the text box. You may need to delete them.  
     This can happen more often with non-English keyboards.
     
 
--   This feature is also referred to as LongPress.
+-   This feature is also referred to as _LongPress._
     
 
 #### Tip

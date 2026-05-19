@@ -8,16 +8,16 @@ slug: /Help/Reference/using-the-impairment-visualizer
 
 Do these steps to have Bloom [simulate](Impairment_Visualizer_overview.md) visual impairments:
 
-1.  In the Pages pane, click a page that has an [image](../../../Concepts/Picture.md).
+1.  In the **Pages** pane, click a page that has an [image](../../../Concepts/Picture.md).
     
-2.  Click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/ImpairmentVisualizerBlueIcon.png) Impairment Visualizer tab in the [tool box](../../../Concepts/Tool_Box.md).
+2.  Click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/ImpairmentVisualizerBlueIcon.png) **Impairment Visualizer** tab in the [tool box](../../../Concepts/Tool_Box.md).
     
 3.  Select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Image_Description_Tool/SelectedReminder.png)) one or both of these visual impairments:
     
 
-Cataracts
+**Cataracts**
 
-Color Blindness. Then, select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/SelectedRadioButton.png)) a type of color blindness.
+**Color Blindness**. Then, select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/SelectedRadioButton.png)) a type of color blindness.
 
 -   If the image becomes too difficult to see, [choose](../Change_picture.md) a different image. Otherwise, edit the image in an editing tool to change the colors, contrast levels, line densities and so on.
     
@@ -31,14 +31,14 @@ Color Blindness. Then, select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Impa
 
 #### Note
 
--   Types (Red-Green, Blue-Yellow or Complete) are described here:
+-   Types (**Red-Green**, **Blue-Yellow** or **Complete**) are described here:
     
-
-[http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/](http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/ "http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/")
+    [http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/](http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/ "http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/")
+    
 
 -   Editing images, whether they are line drawing or photographs, are beyond the scope of these Bloom Helps. Numerous sites on the Internet describe and review image editing software.
     
--   No essential information by color is a checklist item in the Bloom Accessibility Checker dialog box.
+-   **No essential information by color** is a checklist item in the **Bloom Accessibility Checker** dialog box.
     
 
 #### Related Topics

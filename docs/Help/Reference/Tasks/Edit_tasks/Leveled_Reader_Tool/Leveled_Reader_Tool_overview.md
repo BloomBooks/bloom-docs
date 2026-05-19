@@ -6,7 +6,7 @@ slug: /Help/Reference/leveled-reader-tool-overview
 
 ## Leveled Reader Tool overview
 
-The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/Leveled_Reader_Tool_icon.png) Leveled Reader Tool is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
+The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/Leveled_Reader_Tool_icon.png) **Leveled Reader Tool** is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
 
 This tool has some [levels](../../../Concepts/Level.md) by default. You can also add or remove levels.
 
@@ -18,7 +18,7 @@ Related Tasks
 
 See Also
 
-Set up Levels
+**Set up Levels**
 
 (![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/SetUpLevels.png))
 
@@ -34,11 +34,11 @@ Set up Levels
 -   [Readers Levels tab](Reader_Levels_tab.md)
     
 
-![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageLeftArrow.png)  Level # of # ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageRightArrow.png)
+![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageLeftArrow.png)  **Level** # **of** # ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageRightArrow.png)
 
 [Choose a level](Choose_a_level.md)
 
-Counts and Lengths
+**Counts and Lengths**
 
 [Review Count and Length information](Review_Count_and_Length_information.md)
 
@@ -49,30 +49,30 @@ Counts and Lengths
 -   [Flagged words in a reader](../../../Concepts/Flagged_words_in_reader.md)
     
 
-For this Level
+**For this Level**
 
 [Set up levels](Set_up_Levels.md)
 
 -   [Readers Levels tab](Reader_Levels_tab.md)
     
 
-Keep in mind
+**Keep in mind**
 
 Click an item to open a file with information. This file (html) is installed with Bloom.
 
-![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/CopyLR_stats.png) COPY BOOK STATS
+![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/CopyLR_stats.png) **COPY BOOK STATS**
 
 [Copy Level Reader statistics](Copy_Leveled_Reader_statistics.md)
 
-![](/ref-docs-assets/images/Tasks/Edit_tasks/Is_Not%20Leveled_slider.png) Book is not Leveled
+![](/ref-docs-assets/images/Tasks/Edit_tasks/Is_Not%20Leveled_slider.png) **Book is not Leveled**
 
-Slide this control (![](/ref-docs-assets/images/Tasks/Edit_tasks/IsLeveled_slider.png)) to turn on the Leveled Reader Tools. 
+Slide this control (![](/ref-docs-assets/images/Tasks/Edit_tasks/IsLeveled_slider.png)) to turn on the **Leveled Reader Tools**. 
 
 #### Note
 
 -   [Show the Leveled Reader Tool](Show_the_Leveled_Reader_Tool.md).
     
--   [https://vimeo.com/123325405](https://vimeo.com/123325405 "https://vimeo.com/123325405") is a [video](../../../FAQ/Instructional_Videos.md) that can help you learn about the Leveled Reader Tool.
+-   [https://vimeo.com/123325405](https://vimeo.com/123325405 "https://vimeo.com/123325405") is a [video](../../../FAQ/Instructional_Videos.md) that can help you learn about the **Leveled Reader Tool**.
     
 
 #### Related Topics
@@ -85,6 +85,6 @@ Slide this control (![](/ref-docs-assets/images/Tasks/Edit_tasks/IsLeveled_slide
 
 #### Related Internet Sites
 
-[https://vimeo.com/channels/bloomlibrary/videos/search:Reader/sort:alphabetical/format:detail](https://vimeo.com/channels/bloomlibrary/videos/search%3aReader/sort%3aalphabetical/format%3adetail "https://vimeo.com/channels/bloomlibrary/videos/search:Reader/sort:alphabetical/format:detail")
+[https://vimeo.com/channels/bloomlibrary/**videos**/search:Reader/sort:alphabetical/format:detail](https://vimeo.com/channels/bloomlibrary/videos/search%3aReader/sort%3aalphabetical/format%3adetail "https://vimeo.com/channels/bloomlibrary/videos/search:Reader/sort:alphabetical/format:detail")
 
 [https://www.brighthubeducation.com/teaching-methods-tips/71264-using-leveled-readers-in-the-classroom/](https://www.brighthubeducation.com/teaching-methods-tips/71264-using-leveled-readers-in-the-classroom/ "https://www.brighthubeducation.com/teaching-methods-tips/71264-using-leveled-readers-in-the-classroom/")

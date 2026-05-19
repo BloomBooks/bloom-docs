@@ -10,9 +10,9 @@ slug: /Help/Reference/editing-stylesheets
 
 To edit a stylesheet, do these steps:
 
-1.  In the Collections [tab](../../User_Interface/Tabs/Collections_tab_commands.md), right-click a book and then click Show in File Explorer.
+1.  In the **Collections** [tab](../../User_Interface/Tabs/Collections_tab_commands.md), right-click a book and then click **Show in File Explorer**.
     
-2.  Find the customCollectionStyles.css or customBookStyles.css file.
+2.  Find the customCollectionStyles.css _or_ customBookStyles.css file.
     
     -   Open it for edit in a simple text editor.
         

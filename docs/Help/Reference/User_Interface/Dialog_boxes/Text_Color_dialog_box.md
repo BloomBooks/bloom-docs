@@ -30,7 +30,7 @@ For example: 
 
 -   [Apply direct formatting](../../Tasks/Basic_tasks/Formatting_text/Apply_direct_formatting.md) is different.
     
--   The Background Color [dialog box](Background_Color_dialog_box.md) is similar.
+-   The **Background Color** [dialog box](Background_Color_dialog_box.md) is similar.
     
 
 #### Related Topics

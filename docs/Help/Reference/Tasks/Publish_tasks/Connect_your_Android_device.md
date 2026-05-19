@@ -11,7 +11,7 @@ slug: /Help/Reference/connect-your-android-device
 2.  Enable the Wi-Fi network if you will use that option.
     
 
-In Bloom, click Learn More to learn how to make a temporary Wi-Fi network using a phone or laptop.
+In Bloom, click **Learn More** to learn how to make a temporary Wi-Fi network using a phone or laptop.
 
 #### Related Topics
 

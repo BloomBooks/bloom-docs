@@ -6,13 +6,13 @@ slug: /Help/Reference/back-cover-pages
 
 ## Back Cover pages
 
-In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit [tab](../User_Interface/Tabs/Tabs_overview.md) you see the Pages pane. The Inside Back Cover and Outside Back Cover pages are shown there. They come after [inside pages](Inside_pages.md).
+In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab](../User_Interface/Tabs/Tabs_overview.md) you see the **Pages** pane. The **Inside Back Cover** and **Outside Back Cover** pages are shown there. They come after [inside pages](Inside_pages.md).
 
-These Back Cover pages can contain:
+These **Back Cover** pages can contain:
 
 -   Any information about the book that you want the reader to see. You can also use the [inside front cover](Front_Cover_page.md) page.
     
--   Depending on your [Bloom Subscription](../Tasks/Basic_tasks/Enter_Subscription_Code.md), [brand logo(s)](../Tasks/Edit_tasks/Enterprise/Custom_Branding.md) can appear on the Outside Back Cover page.
+-   Depending on your [Bloom Subscription](../Tasks/Basic_tasks/Enter_Subscription_Code.md), [brand logo(s)](../Tasks/Edit_tasks/Enterprise/Custom_Branding.md) can appear on the **Outside Back Cover** page.
     
 
 #### Note

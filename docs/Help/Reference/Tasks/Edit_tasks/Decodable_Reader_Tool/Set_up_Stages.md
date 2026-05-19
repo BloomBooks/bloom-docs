@@ -6,10 +6,10 @@ slug: /Help/Reference/set-up-stages
 
 ## Set up Stages
 
-1.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/Decodable_Reader_Tool_icon.png) Decodable Reader Tool, click the Set up Stages link.
+1.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/Decodable_Reader_Tool_icon.png) **Decodable Reader Tool**, click the **Set up Stages** link.
     
-
-The Set up Decodable Reader Tool dialog box appears.
+    The **Set up Decodable Reader Tool** dialog box appears.
+    
 
 2.  Use each of these tabs:
     

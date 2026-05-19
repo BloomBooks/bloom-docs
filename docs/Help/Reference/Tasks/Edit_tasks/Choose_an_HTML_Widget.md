@@ -6,7 +6,7 @@ slug: /Help/Reference/choose-an-html-widget
 
 ## Choose an HTML Widget
 
-You can [add](Add_a_page.md) a Widget Page. Or, in other pages, you can [use](Using_the_Change_Layout_controls.md) the Change Layout controls to add a box that can hold an [HTML Widget](../../Concepts/HTML_Widget.md).
+You can [add](Add_a_page.md) a **Widget Page**. Or, in other pages, you can [use](Using_the_Change_Layout_controls.md) the **Change Layout** controls to add a box that can hold an [HTML Widget](../../Concepts/HTML_Widget.md).
 
 Then, do these steps:
 
@@ -14,7 +14,7 @@ Then, do these steps:
     
 2.  Find and click the widget file you want (\*.wdgt or \*.html file).
     
-3.  Click Open.
+3.  Click **Open**.
     
 4.  The widget appears.
     

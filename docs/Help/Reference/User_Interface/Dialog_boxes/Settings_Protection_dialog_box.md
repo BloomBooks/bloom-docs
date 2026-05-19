@@ -9,7 +9,7 @@ slug: /Help/Reference/settings-protection-dialog-box
 
 You can [use](../../Tasks/Basic_tasks/Choose_settings_protections.md) this dialog box to protect settings.
 
--   You can hide the Settings and Other Collection buttons from the [toolbar](../Toolbar/Collections_toolbar.md).
+-   You can _hide_ the **Settings** and **Other Collection** buttons from the [toolbar](../Toolbar/Collections_toolbar.md).
     
 -   You can require users to type a [password](Setting_Protection_Password_dialog_box.md) to use these buttons.
     

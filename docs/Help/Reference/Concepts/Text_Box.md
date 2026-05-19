@@ -7,7 +7,7 @@ slug: /Help/Reference/text-box
 
 ## Text box
 
-In Bloom, a text box is an outlined area on the page where you can type text. [Source text](Source_text.md) and [Bloom callout box](Callout_box.md) show examples.
+In Bloom, a _text box_ is an outlined area on the page where you can type text. [Source text](Source_text.md) and [Bloom callout box](Callout_box.md) show examples.
 
 Some of the features of text boxes:
 
@@ -17,12 +17,12 @@ Some of the features of text boxes:
     
 -   A [red font color](Red_font_color.md) or a red line in a text box means that it is too full.
     
--   Click the gear (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) in the lower corner of a text box to open the Format dialog box.
+-   Click the gear (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) in the lower corner of a text box to open the **Format** dialog box.
     
--   You can [use](../Tasks/Edit_tasks/Using_the_Change_Layout_controls.md) the Change Layout [controls](../Tasks/Edit_tasks/About_the_Change_Layout_controls.md) to insert text boxes on pages.
+-   You can [use](../Tasks/Edit_tasks/Using_the_Change_Layout_controls.md) the **Change Layout** [controls](../Tasks/Edit_tasks/About_the_Change_Layout_controls.md) to insert text boxes on pages.
     
-
-You can change [properties](../User_Interface/Dialog_boxes/Text_Box_Properties_dialog_box.md) of text boxes in the Text Box Properties dialog box.
+    You can change [properties](../User_Interface/Dialog_boxes/Text_Box_Properties_dialog_box.md) of text boxes in the **Text Box Properties** dialog box.
+    
 
 -   If you select one or more characters or words, the [direct formatting](../Tasks/Basic_tasks/Formatting_text/Apply_direct_formatting.md) panel appears.
     
@@ -35,9 +35,9 @@ You can change [properties](../User_Interface/Dialog_boxes/Text_Box_Properties_d
 
 #### Tip
 
--   You add speech bubbles and more [using](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) the Canvas Tool.
+-   You add speech bubbles and more [using](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) the **Canvas Tool**.
     
--   The Image Description Tool uses text boxes that can be hidden and stored metadata about pictures. Until it is changed, it inherits the default font and font size independent of the Normal style.
+-   The **Image Description Tool** uses text boxes that can be hidden and stored metadata about pictures. Until it is changed, it inherits the default font and font size independent of the Normal style.
     
 
 #### Related Topics

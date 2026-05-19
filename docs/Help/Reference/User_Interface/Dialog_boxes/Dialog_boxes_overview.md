@@ -44,21 +44,21 @@ These dialog boxes can appear in Bloom:
     
 -   [Settings](Settings_dialog_box.md)
     
-    -   [Advanced Program Settings tab](Settings_dialog_box.md)
+    -   [Advanced Program Settings _tab_](Settings_dialog_box.md)
         
     
-    -   [Book Making tab](../../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md)
+    -   [Book Making _tab_](../../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md)
         
         -   [Special Script Settings](../../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md)
             
-    -   [Languages tab](Languages_tab.md)
+    -   [Languages _tab_](Languages_tab.md)
         
         -   [Choose Language](../../Tasks/Basic_tasks/Change_languages.md)
             
     
-    -   [Project Information tab](../../Tasks/Basic_tasks/Enter_project_information.md)
+    -   [Project Information _tab_](../../Tasks/Basic_tasks/Enter_project_information.md)
         
-    -   [Bloom Subscription tab](../../Tasks/Basic_tasks/Enter_Subscription_Code.md)
+    -   [Bloom Subscription _tab_](../../Tasks/Basic_tasks/Enter_Subscription_Code.md)
         
     -   [Settings Protection](Settings_Protection_dialog_box.md)
         

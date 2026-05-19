@@ -8,12 +8,12 @@ slug: /Help/Reference/example-previous-and-new-letters-grid
 
 When you [add letters to a stage](Add_letters_to_a_stage.md), colors and borders can help distinguish the letters.
 
--   Colored border and bold font mean that the letters were added to a previous stage (a lower stage number).
+-   Colored border and bold font mean that the letters were added to a _previous_ stage (a lower stage number).
     
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/ExampleAddLetters.png)
 
--   The colored background means that the letters have been added to the current stage (selected).
+-   The colored background means that the letters have been added to the _current_ stage (selected).
     
 
 The remaining letters are not yet in any stage and you can click them to add them to the current state.

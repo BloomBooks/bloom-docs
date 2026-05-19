@@ -6,11 +6,11 @@ slug: /Help/Reference/install-bloom-reader-app
 
 ## Install the Bloom Reader app
 
-You only need to do this once, the first time.
+You only need to do this _once_, the first time.
 
-1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) Publish tab, and then click ![](/ref-docs-assets/images/Tasks/Publish_tasks/Android_Button_New.png) BloomPUB.
+1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) **Publish** tab, and then click ![](/ref-docs-assets/images/Tasks/Publish_tasks/Android_Button_New.png) **BloomPUB**.
     
-2.  Below Help, click ![](/ref-docs-assets/images/Tasks/Publish_tasks/BRAppIcon.png) Get Bloom Reader App.
+2.  Below **Help**, click ![](/ref-docs-assets/images/Tasks/Publish_tasks/BRAppIcon.png) **Get Bloom Reader App**.
     
     -   Alternatively, go to [https://play.google.com/store/apps](https://play.google.com/store/apps "https://play.google.com/store/apps"), and then search for SIL Bloom Reader.  
         You need to have a Google account.

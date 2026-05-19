@@ -8,7 +8,7 @@ slug: /Help/Reference/get-more-help
 
 Go to [https://bloomlibrary.org/page/support](https://bloomlibrary.org/page/support "https://bloomlibrary.org/page/support"). There you can learn ways to get more help.
 
-In addition, the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (Get Help) [menu](../User_Interface/Help_menu/Help_menu.md) lists other documentation and ways to make a suggestion or submit a problem report.
+In addition, the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (**Get Help**) [menu](../User_Interface/Help_menu/Help_menu.md) lists other documentation and ways to make a suggestion or submit a problem report.
 
 #### Tip
 

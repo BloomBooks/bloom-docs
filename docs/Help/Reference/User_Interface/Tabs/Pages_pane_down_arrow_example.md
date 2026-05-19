@@ -6,7 +6,7 @@ slug: /Help/Reference/pages-pane-down-arrow-example
 
 ## Pages pane down arrow example
 
-In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit [tab](Edit_tab_commands.md), the Pages pane displays a button that looks like a down arrow. It is just below the current [page](../../Concepts/Page.md). The current page is a newly-added page or another page that you clicked.
+In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab](Edit_tab_commands.md), the **Pages** pane displays a button that looks like a down arrow. It is just below the _current_ [page](../../Concepts/Page.md). The current page is a newly-added page or another page that you clicked.
 
 When you click it, a menu appears. Here is an example:
 

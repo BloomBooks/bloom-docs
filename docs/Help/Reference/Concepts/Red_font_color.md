@@ -7,9 +7,9 @@ slug: /Help/Reference/red-font-color
 
 # Red font color/red line
 
-When a [text box](Text_Box.md) is too full, we refer to it as an overflow. This is not the same as a text box with [too many words](../Tasks/Edit_tasks/Leveled_Reader_Tool/Example_too_many_words.md) in a decodable reader.
+When a [text box](Text_Box.md) is too full, we refer to it as an _overflow_. This is _not_ the same as a text box with [too many words](../Tasks/Edit_tasks/Leveled_Reader_Tool/Example_too_many_words.md) in a decodable reader.
 
-A page that has an overflowing text box is flagged (![](/ref-docs-assets/images/Concepts/OverflowFLAG.png)) in the Pages pane. On that page, you will see either a red font and border, or a red line.
+A page that has an overflowing text box is flagged (![](/ref-docs-assets/images/Concepts/OverflowFLAG.png)) in the **Pages** pane. On that page, you will see either a red font and border, or a red line.
 
 -   For most pages, a red font and red border color indicates a text box overflow.
     

@@ -13,22 +13,22 @@ The [Title Page](Title_Page.md) has a [text box](Text_Box.md) for contributions.
 -   Type the names of people and how they contributed to the book. Include anyone who wrote, illustrated, edited and so on. Here is one possible format:
     
 
-Written by: `<name>`
+**Written by:** `<name>`
 
-Illustrations by: `<name>`
+**Illustrations by:** `<name>`
 
-Edited by: `<name>`
+**Edited by:** `<name>`
 
--   Click Paste Image Credits to paste image credit information into the text box.
+-   Click **Paste Image Credits** to paste image credit information into the text box.
     
 
-This [information](../Tasks/Edit_tasks/Change_picture_metadata.md) was [set up](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md) in the Copyright and License [dialog box](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md).
+This [information](../Tasks/Edit_tasks/Change_picture_metadata.md) was [set up](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md) in the **Copyright and License** [dialog box](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md).
 
-If you need to update it, select and delete the information that was previously pasted and then click Paste Image Credits again.
+If you need to update it, select and delete the information that was previously pasted and then click **Paste Image Credits** again.
 
-If you select the [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/ "https://creativecommons.org/publicdomain/zero/1.0/") license, the Copyright Year and Copyright Holder are hidden.
+If you select the [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/ "https://creativecommons.org/publicdomain/zero/1.0/") license, the **Copyright Year** and **Copyright Holder** are hidden.
 
--   [Format](../User_Interface/Dialog_boxes/Format_dialog_box.md) the text in this text box (optional).
+-   [Format](../User_Interface/Dialog_boxes/Format_dialog_box.md) the text in this text box (_optional_).
     
 
 #### Related Topics

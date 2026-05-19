@@ -6,14 +6,14 @@ slug: /Help/Reference/open-create-collections-dialog-box
 
 ## Open/Create Collections dialog box
 
--   To open the ![](/ref-docs-assets/images/BloomIcon_red.gif) Open/Create Collections dialog box, do either of these steps:
+-   To open the ![](/ref-docs-assets/images/BloomIcon_red.gif) **Open/Create Collections** dialog box, do either of these steps:
     
-    -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/OpenButtonColor.png) Other Collection on the [toolbar](../Toolbar/Collections_toolbar.md).
+    -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/OpenButtonColor.png) **Other Collection** on the [toolbar](../Toolbar/Collections_toolbar.md).
         
-    -   Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../Tabs/Tabs_overview.md).
+    -   Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../Tabs/Tabs_overview.md).
         
 
-Then, click the down arrow (![](/ref-docs-assets/images/Tasks/Basic_tasks/WhiteDownArrow.png)) that appears next to the collection name and then click Open or Create Another Collection.
+Then, click the down arrow (![](/ref-docs-assets/images/Tasks/Basic_tasks/WhiteDownArrow.png)) that appears next to the collection name and then click **Open or Create Another Collection**.
 
 A [password](Setting_Protection_Password_dialog_box.md) may be required.
 

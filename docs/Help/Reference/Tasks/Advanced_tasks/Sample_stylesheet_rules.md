@@ -12,8 +12,8 @@ However, if you are interested in working with this yourself, here are some usef
 
 -   Make room for staples on the left of the front cover by moving everything to the right and making it a bit more narrow:
     
-
-.A5Portrait.frontCover .marginBox `{` left: 20mm; width: 112mm;`}`
+    .A5Portrait.frontCover .marginBox `{` left: 20mm; width: 112mm;`}`
+    
 
 -   Draw a horizontal line between languages in multi-lingual books:
     

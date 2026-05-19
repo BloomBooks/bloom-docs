@@ -6,11 +6,11 @@ slug: /Help/Reference/new-topic
 
 ## FAQ Overview
 
-Frequently Asked Questions (FAQ) include these:
+_Frequently Asked Questions_ (FAQ) include these:
 
 ### General
 
--   How do I
+-   **How do I**
     
     -   [Change the font or font size?](../User_Interface/Dialog_boxes/Format_dialog_box.md)
         
@@ -37,12 +37,12 @@ Frequently Asked Questions (FAQ) include these:
     -   More: [Tasks overview](../Tasks/Tasks_overview.md)
         
 
--   Configure mailto: to work with gmail, instead of outlook?  
+-   Configure **mailto:** to work with gmail, instead of outlook?  
     See:  
     [http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook](http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook "http://superuser.com/questions/487495/how-to-make-mailto-links-open-in-gmail-instead-of-outlook")
     
 
--   What is a/the
+-   **What is a/the**
     
     -   [Bloom Enterprise?](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md)
         
@@ -52,7 +52,7 @@ Frequently Asked Questions (FAQ) include these:
         
     -   [Tool box?](../Concepts/Tool_Box.md)
         
--   Where is/are
+-   **Where is/are**
     
     -   [My book?](../Concepts/Collection.md)
         
@@ -64,19 +64,19 @@ Frequently Asked Questions (FAQ) include these:
         
     -   [Videos?](Instructional_Videos.md) (to help me learn how to use Bloom)
         
--   Why can't I
+-   **Why can't I**
     
     -   [Add new pages in my book?](../Tasks/Edit_tasks/Add_a_page.md)
         
 
--   Which features are available to me?
+-   **Which features are available to me?**
     
     -   [https://bloomlibrary.org/page/resources/page/feature-matrix](https://bloomlibrary.org/page/resources/page/feature-matrix "https://bloomlibrary.org/page/resources/page/feature-matrix")
         
 
 ### Decodable Readers
 
--   How do I
+-   **How do I**
     
     -   [Add background music?](../Tasks/Edit_tasks/Music_Tool/Music_Tool_overview.md)
         
@@ -91,7 +91,7 @@ Frequently Asked Questions (FAQ) include these:
 
 ### Leveled Readers
 
--   How do I
+-   **How do I**
     
     -   [Find (show) tools in the Tool box?](../Concepts/Tool_Box.md)
         
@@ -100,7 +100,7 @@ Frequently Asked Questions (FAQ) include these:
 
 ### Sign Language
 
--   How do I
+-   **How do I**
     
     -   [Use the Sign Language Tool?](../Tasks/Edit_tasks/Sign_Language_Tool/Using_the_Sign_Languager_Tool.md)
         
@@ -112,7 +112,7 @@ Frequently Asked Questions (FAQ) include these:
 
 #### Important
 
--   The ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (Get Help) [menu](../User_Interface/Help_menu/Help_menu.md) lists other documents where you can learn about Bloom.
+-   The ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (**Get Help**) [menu](../User_Interface/Help_menu/Help_menu.md) lists other documents where you can learn about Bloom.
     
 -   In these Bloom Helps, [Concepts overview](../Concepts/Concepts_overview.md) is used instead of a Glossary of Terms. These concept topics offer definitions and other information.
     

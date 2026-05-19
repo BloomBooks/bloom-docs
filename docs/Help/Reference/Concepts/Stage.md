@@ -6,13 +6,13 @@ slug: /Help/Reference/stage
 
 ## Stage
 
-In the Decodable Reader Tool, you make groups of [letters](../Tasks/Edit_tasks/Decodable_Reader_Tool/Letters_tab.md), [sight words](Sight_words.md) and other [matching words](Matching_words.md).
+In the **Decodable Reader Tool**, you make groups of [letters](../Tasks/Edit_tasks/Decodable_Reader_Tool/Letters_tab.md), [sight words](Sight_words.md) and other [matching words](Matching_words.md).
 
 We call each of these groups a stage. You can introduce words and letters and words in a sequence, one stage at a time.
 
 Stages are numbered.
 
-Stages are cumulative. All the letters and words from stages with lower numbers are included in stages with higher numbers.
+Stages are _cumulative_. All the letters and words from stages with lower numbers are included in stages with higher numbers.
 
 #### Note
 

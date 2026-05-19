@@ -6,18 +6,18 @@ slug: /Help/Reference/video-recording-tips
 
 ## Video recording tips
 
-Here are some things to consider to help you make a high-quality [video](../../../Concepts/Video.md) with the Sign Language Tool.
+Here are some things to consider to help you make a high-quality [video](../../../Concepts/Video.md) with the **Sign Language Tool**.
 
 ### Camera
 
 -   A video camera must be connected to your computer.
     
 
-Otherwise, Recording button is disabled.
+Otherwise, **Recording** button is disabled.
 
 It should be the highest quality camera that you can use consistently.
 
--   Position the camera to capture only what you want to video to show. In the Sign Language Tool, you can see what your camera sees before you start recording.
+-   Position the camera to capture only what you want to video to show. In the **Sign Language Tool**, you can see what your camera sees before you start recording.
     
 
 Make sure it is mounted in a stable way. If you use the camera built into a laptop or other mobile device, make sure it is on a stable surface.

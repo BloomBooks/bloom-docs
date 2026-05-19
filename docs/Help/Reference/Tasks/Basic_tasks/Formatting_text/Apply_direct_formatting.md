@@ -12,15 +12,15 @@ Additionally, you can apply direct formatting to specifically selected character
 
 1.  Select one or more characters, or one or more words.
     
-
-The direct formatting panel appears in the upper right corner of that text box.
-
-2.  In the panel, click B (bold), I (italic), U (underline), or A2 (superscripted) or ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/DownArrowA.png) (color).
+    The direct formatting panel appears in the upper right corner of that text box.
     
 
-The selection changes to show that direct formatting or you can choose a color for the selected text.
+2.  In the panel, click **B** (bold), _I_ (italic), **U** (underline), or **A**2 (superscripted) or ![](/ref-docs-assets/images/Tasks/Basic_tasks/Formatting_text/DownArrowA.png) (color).
+    
+    The selection changes to show that direct formatting or you can choose a color for the selected text.
+    
 
-3.  To remove the direct formatting, select the characters or words again, and then click B (bold), I (italic), U (underline) or A2 (superscripted) in the panel. Or click Automatic to remove the color.
+3.  To remove the direct formatting, select the characters or words again, and then click **B** (bold), _I_ (italic), **U** (underline) or **A**2 (superscripted) in the panel. Or click **Automatic** to remove the color.
     
 
 #### Tip

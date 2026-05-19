@@ -7,13 +7,13 @@ slug: /Help/Reference/publish-tasks-overview
 
 ## Publish tab tasks overview
 
-In the ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) Publish [tab](../../User_Interface/Tabs/Tabs_overview.md), you can do the tasks listed below to publish your book whether printed on paper or published [digitally](Digital_publishing_options.md).
+In the ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) **Publish** [tab](../../User_Interface/Tabs/Tabs_overview.md), you can do the tasks listed below to publish your book whether printed on paper or published [digitally](Digital_publishing_options.md).
 
  
 
 ![](/ref-docs-assets/images/Tasks/Publish_tasks/PDFandPrint.png)
 
-PDF & Print
+**PDF & Print**
 
 -   [Publish to PDF & Print](PDF_and_Print.md)
     
@@ -26,7 +26,7 @@ PDF & Print
 
 ![](/ref-docs-assets/images/Tasks/Publish_tasks/UploadNew.png)
 
-Web
+**Web**
 
 -   [Publish to Web](Publish%20to%20Web.md)
     
@@ -39,9 +39,9 @@ Web
 
 ![](/ref-docs-assets/images/Tasks/Publish_tasks/Android_Button_New.png)
 
-BloomPUB
+**BloomPUB**
 
-Publish as BloomPUB
+**Publish as BloomPUB**
 
 -   [Making BloomPUB Apps with Reader App Builder](Making_BloomPUB_Apps_with_Reading_App_Builder.md)
     
@@ -52,7 +52,7 @@ Publish as BloomPUB
 
 ![](/ref-docs-assets/images/Tasks/Publish_tasks/VideoButton.png)
 
-Audio & Video
+**Audio & Video**
 
 -   [Publish as Audio or Video](Create_audio_or_video_of_book.md)
     
@@ -74,7 +74,7 @@ ePUB
 
 #### Important
 
--   If the Enterprise Required message box appears, see [Bloom Enterprise](../Edit_tasks/Enterprise/EnterpriseRequired.md) for more information.
+-   If the **Enterprise Required** message box appears, see [Bloom Enterprise](../Edit_tasks/Enterprise/EnterpriseRequired.md) for more information.
     
 -   You might see this dialog box: [Is this an update of your existing book?](../../User_Interface/Dialog_boxes/Is_this_an_update_of_your_existing_book.md) 
     

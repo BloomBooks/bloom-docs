@@ -6,13 +6,13 @@ slug: /Help/Reference/book-title
 
 ## Book title
 
-A text box that holds the book title appears on both the [Front Cover](Front_Cover_page.md) page and on the [Title Page](Title_Page.md).
+A text box that holds the book title appears on _both_ the [Front Cover](Front_Cover_page.md) page and on the [Title Page](Title_Page.md).
 
 -   You can type, edit or [format](../User_Interface/Dialog_boxes/Format_dialog_box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) the title of the book on those pages.
     
--   Language 3 is not used for titles.
+-   **Language 3** is not used for titles.
     
--   The book title appears in the Book Metadata dialog box, but not in the Language 2 or Language 3.
+-   The book title appears in the **Book Metadata** dialog box, but not in the **Language 2** or **Language 3**.
     
 
 #### Related Topics

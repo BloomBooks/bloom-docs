@@ -12,7 +12,7 @@ In Bloom, metadata includes:
 
 -   [Acknowledgements](Acknowledgements.md)
     
--   Content [collected or entered](../User_Interface/Dialog_boxes/Book_Metadata_dialog_box.md) in the Book Metadata dialog box
+-   Content [collected or entered](../User_Interface/Dialog_boxes/Book_Metadata_dialog_box.md) in the **Book Metadata** dialog box
     
 -   [Contributions](Contributions.md)
     

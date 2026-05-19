@@ -6,7 +6,7 @@ slug: /Help/Reference/front-back-matter-pack
 
 ## Front/Back Matter Pack
 
-In the Book Making tab (Settings dialog box), you can use the Front/Back Matter Pack control to [choose](../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md) a pack.
+In the **Book Making** tab (**Settings** dialog box), you can use the **Front/Back Matter Pack** control to [choose](../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md) a pack.
 
 When you click a pack that was installed with Bloom, a brief explanation appears. It describes the purpose of the pack.
 

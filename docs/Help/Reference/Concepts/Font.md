@@ -6,11 +6,11 @@ slug: /Help/Reference/font
 
 ## Font
 
-The default font (font face) for each language is [set](../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md) in the Settings dialog box. The Fonts tab in the Book Settings [dialog box](../User_Interface/Dialog_boxes/Book_Settings_dialog_box.md) shows a table of all the fonts used in the current book.
+The _default_ font (font face) for each language is [set](../Tasks/Basic_tasks/Select_front_matter_or_back_matter_from_a_pack.md) in the **Settings** dialog box. The **Fonts** tab in the **Book Settings** [dialog box](../User_Interface/Dialog_boxes/Book_Settings_dialog_box.md) shows a table of all the fonts used in the current book.
 
-In each [text box](Text_Box.md) the gear icon (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) in the lower corner opens the Format dialog box. You can use it to [change the formatting](../Tasks/Basic_tasks/Formatting_text/Formatting_Text_overview.md) for that text box and any other text boxes that use the same language and [style](Styles.md).
+In each [text box](Text_Box.md) the gear icon (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) in the lower corner opens the **Format** dialog box. You can use it to [change the formatting](../Tasks/Basic_tasks/Formatting_text/Formatting_Text_overview.md) for that text box and any other text boxes that use the same _language_ and _[style](Styles.md)_.
 
-See Also: [Font Features](../Tasks/Advanced_tasks/Font_features.md).
+**See Also:** [Font Features](../Tasks/Advanced_tasks/Font_features.md).
 
 #### Related Topics
 

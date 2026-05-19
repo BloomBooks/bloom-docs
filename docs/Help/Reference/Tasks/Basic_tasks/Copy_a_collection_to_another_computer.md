@@ -6,14 +6,14 @@ slug: /Help/Reference/copy-a-collection-to-another-computer
 
 ## Copy a collection to another computer
 
-A folder named Bloom is added to your computer when you install the program. It contains one or more subfolders. Each of those subfolders is a [collection](../../Concepts/Collection.md). It stores the [books](../../Concepts/Book.md) and [stylesheets](../Advanced_tasks/Editing_stylesheets.md).
+A folder named **Bloom** is added to your computer when you install the program. It contains one or more subfolders. Each of those subfolders is a [collection](../../Concepts/Collection.md). It stores the [books](../../Concepts/Book.md) and [stylesheets](../Advanced_tasks/Editing_stylesheets.md).
 
-1.  Go to your Bloom folder.
+1.  Go to your **Bloom** folder.
     
 
-Windows® - My Documents\\Bloom or Documents\\Bloom
+Windows® - **My Documents****\\Bloom** or **Documents\\Bloom**
 
-Linux - /home/`<user name>`/Bloom.
+Linux - **/home/**`<user name>`**/Bloom**.
 
 2.  Look for the subfolder that has the same name as the [collection](../../Concepts/Collection.md) and then copy that subfolder to a USB Flash Drive (or a similar device).
     
@@ -24,7 +24,7 @@ Linux - /home/`<user name>`/Bloom.
 
 You can put it in the default folder or in another place.
 
-[Find](Open_a_collection.md) it with the Browse for another collection on this computer command, if necessary.
+[Find](Open_a_collection.md) it with the **Browse for another collection on this computer** command, if necessary.
 
 #### Tip
 

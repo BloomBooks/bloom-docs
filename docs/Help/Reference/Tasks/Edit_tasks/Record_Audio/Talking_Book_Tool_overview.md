@@ -6,9 +6,9 @@ slug: /Help/Reference/talking-book-tool-overview
 
 ## Talking Book Tool overview
 
-The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/TalkingBookToolIcon.png) Talking Book Tool is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
+The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/TalkingBookToolIcon.png) **Talking Book Tool** is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
 
-You can make an audio recording of a book translated into the Local Language.
+You can make an audio recording of a book translated into the **Local Language**.
 
 You can record [image descriptions](../Image_Description_Tool/Image_Description_Tool_overview.md) and [Canvas Tool](../Canvas_Tool/Canvas_Tool_overview.md) bubbles, text blocks and captions.
 
@@ -44,10 +44,10 @@ Task Topics
 
 -   You need to have a microphone connected to your computer.
     
+    ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/MicProblem.png) and other symbols are described in the [Legend.](Talking_Book_Tool_legend.md) A pop-up message can appear if Bloom was not able to find a microphone because of computer or device settings.
+    
 
-![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/MicProblem.png) and other symbols are described in the [Legend.](Talking_Book_Tool_legend.md) A pop-up message can appear if Bloom was not able to find a microphone because of computer or device settings.
-
--   You can [use](../Motion_Tool/Using_the_Motion_Tool.md) the Motion Tool with recorded audio.
+-   You can [use](../Motion_Tool/Using_the_Motion_Tool.md) the **Motion Tool** with recorded audio.
     
 
 #### Related Topics

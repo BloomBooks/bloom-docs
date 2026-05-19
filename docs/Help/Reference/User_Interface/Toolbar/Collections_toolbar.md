@@ -6,7 +6,7 @@ slug: /Help/Reference/collections-toolbar
 
 ## Collections tab toolbar
 
-This [toolbar](Toolbars_overview.md) appears in the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../Tabs/Tabs_overview.md):
+This [toolbar](Toolbars_overview.md) appears in the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../Tabs/Tabs_overview.md):
 
 ![](/ref-docs-assets/images/User_Interface/Toolbar/SourceCollection.png)
 
@@ -20,16 +20,16 @@ This [toolbar](Toolbars_overview.md) appears in the ![](/ref-docs-assets/images/
     
 -   ![](/ref-docs-assets/images/User_Interface/Toolbar/LocalizeButton.png) - Click it to [change](../../Tasks/Basic_tasks/Change_User_Interface_language.md) the User Interface (UI) language.
     
-    -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpUsTranslateButton.png) Help us Translate Bloom to open [https://crowdin.com/project/sil-bloom](https://crowdin.com/project/sil-bloom) on the Internet.
+    -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpUsTranslateButton.png) **Help us Translate Bloom** to open [https://crowdin.com/project/sil-bloom](https://crowdin.com/project/sil-bloom) on the Internet.
         
-    -   Select (![](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) Show translations which have not been approved yet if you need to see or use an unapproved UI language.
+    -   Select (![](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) **Show translations which have not been approved yet** if you need to see or use an unapproved UI language.
         
     -   Move your mouse pointer over a language to see how much has been translated.
         
 
 ![](/ref-docs-assets/images/User_Interface/Toolbar/LocalizeButtonExpanded_Collections.png)
 
--   ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButton.png) - Click to open the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (Get Help) [menu](../Help_menu/Help_menu.md).
+-   ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButton.png) - Click to open the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (**Get Help**) [menu](../Help_menu/Help_menu.md).
     
 
 #### Important

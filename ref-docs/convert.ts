@@ -501,6 +501,25 @@ function findPreviousSiblingList(element: HTMLElement): HTMLElement | null {
   return null;
 }
 
+function findNextSiblingList(element: HTMLElement): HTMLElement | null {
+  let sibling = element.nextElementSibling as HTMLElement | null;
+
+  while (sibling) {
+    if (["UL", "OL"].includes(sibling.tagName)) {
+      return sibling;
+    }
+
+    if (sibling.tagName === "P" && isBlankText(sibling.textContent)) {
+      sibling = sibling.nextElementSibling as HTMLElement | null;
+      continue;
+    }
+
+    return null;
+  }
+
+  return null;
+}
+
 function getDirectListItems(list: HTMLElement): HTMLElement[] {
   return Array.from(list.children).filter(
     (child): child is HTMLElement => child.tagName === "LI"
@@ -594,6 +613,42 @@ function normalizeListStructure(root: ParentNode) {
       }
 
       parentListItem.appendChild(list);
+      changed = true;
+      break;
+    }
+
+    if (changed) {
+      continue;
+    }
+
+    for (const paragraph of Array.from(root.querySelectorAll("p"))) {
+      const htmlParagraph = paragraph as HTMLElement;
+
+      if (
+        isBlankText(htmlParagraph.textContent) ||
+        getMarginLeftPx(htmlParagraph) <= 0
+      ) {
+        continue;
+      }
+
+      const previousList = findPreviousSiblingList(htmlParagraph);
+      const nextList = findNextSiblingList(htmlParagraph);
+
+      if (
+        !previousList ||
+        !nextList ||
+        previousList.parentElement !== htmlParagraph.parentElement ||
+        nextList.parentElement !== htmlParagraph.parentElement
+      ) {
+        continue;
+      }
+
+      const parentListItem = getDirectListItems(previousList).at(-1);
+      if (!parentListItem) {
+        continue;
+      }
+
+      parentListItem.appendChild(htmlParagraph);
       changed = true;
       break;
     }
@@ -840,6 +895,105 @@ function buildSourceOrderLookup(sourceRoot: string): SourceOrderLookup {
   };
 }
 
+function getInlineFormattingTags(element: Element): Array<"strong" | "em"> {
+  const tags: Array<"strong" | "em"> = [];
+  const style = element.getAttribute("style") || "";
+
+  if (
+    element.classList.contains("Strong") ||
+    element.classList.contains("UserInterface") ||
+    /font-weight\s*:\s*(bold|[5-9]00)\b/i.test(style)
+  ) {
+    tags.push("strong");
+  }
+
+  if (
+    element.classList.contains("Emphasis") ||
+    /font-style\s*:\s*(italic|oblique)\b/i.test(style)
+  ) {
+    tags.push("em");
+  }
+
+  return tags;
+}
+
+function hasMeaningfulInlineText(element: Element): boolean {
+  return (element.textContent || "").replace(/\u00a0/g, " ").trim().length > 0;
+}
+
+function createFormattingWrappers(
+  document: Document,
+  formattingTags: Array<"strong" | "em">
+): { outermost: Element; innermost: Element } {
+  let outermost: Element | null = null;
+  let innermost: Element | null = null;
+
+  for (const tagName of formattingTags) {
+    const wrapper = document.createElement(tagName);
+
+    if (!outermost) {
+      outermost = wrapper;
+    }
+
+    if (innermost) {
+      innermost.appendChild(wrapper);
+    }
+
+    innermost = wrapper;
+  }
+
+  return {
+    outermost: outermost!,
+    innermost: innermost!,
+  };
+}
+
+function normalizeInlineFormatting(root: Element) {
+  for (const span of Array.from(root.querySelectorAll("span"))) {
+    const formattingTags = getInlineFormattingTags(span);
+
+    if (formattingTags.length === 0 || !hasMeaningfulInlineText(span)) {
+      continue;
+    }
+
+    const replacement = root.ownerDocument.createDocumentFragment();
+    let activeWrapper:
+      | { outermost: Element; innermost: Element }
+      | null = null;
+
+    for (const childNode of Array.from(span.childNodes)) {
+      if (childNode.nodeType === root.ownerDocument.ELEMENT_NODE) {
+        const childElement = childNode as Element;
+
+        if (childElement.tagName === "IMG") {
+          if (activeWrapper) {
+            replacement.appendChild(activeWrapper.outermost);
+            activeWrapper = null;
+          }
+
+          replacement.appendChild(childNode);
+          continue;
+        }
+      }
+
+      if (!activeWrapper) {
+        activeWrapper = createFormattingWrappers(
+          root.ownerDocument,
+          formattingTags
+        );
+      }
+
+      activeWrapper.innermost.appendChild(childNode);
+    }
+
+    if (activeWrapper) {
+      replacement.appendChild(activeWrapper.outermost);
+    }
+
+    span.replaceWith(replacement);
+  }
+}
+
 function cleanHtmlContent(dom: JSDOM): string {
   const doc = dom.window.document;
 
@@ -856,6 +1010,7 @@ function cleanHtmlContent(dom: JSDOM): string {
 
   rewriteInternalLinks(content);
   normalizeListStructure(content);
+  normalizeInlineFormatting(content);
 
   return content?.innerHTML || "";
 }

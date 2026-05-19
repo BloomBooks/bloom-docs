@@ -6,15 +6,15 @@ slug: /Help/Reference/html-widget
 
 ## HTML Widget
 
-An HTML Widget is a small computer program that runs in a browser. A widget can be available as an \*.wdgt or an \*.html file.
+An _HTML Widget_ is a small computer program that runs in a browser. A widget can be available as an \*.wdgt or an \*.html file.
 
 [https://docs.bloomlibrary.org/html5-widgets/](https://docs.bloomlibrary.org/html5-widgets/ "https://docs.bloomlibrary.org/html5-widgets/") provides more information about widgets.
 
 If you are [set up](../User_Interface/Dialog_boxes/Settings_dialog_box.md) with a [Bloom Enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) subscription, here are things you can do:
 
--   You can [add](../Tasks/Edit_tasks/Add_a_page.md) a Widget Page and then [choose](../Tasks/Edit_tasks/Choose_an_HTML_Widget.md) one.
+-   You can [add](../Tasks/Edit_tasks/Add_a_page.md) a **Widget Page** and then [choose](../Tasks/Edit_tasks/Choose_an_HTML_Widget.md) one.
     
--   For other existing pages, [use](../Tasks/Edit_tasks/Using_the_Change_Layout_controls.md) the Bloom Change Layout controls to add a box that can hold an HTML Widget. Then, [choose](../Tasks/Edit_tasks/Choose_an_HTML_Widget.md) one for that box.
+-   For other existing pages, [use](../Tasks/Edit_tasks/Using_the_Change_Layout_controls.md) the Bloom **Change Layout** controls to add a box that can hold an HTML Widget. Then, [choose](../Tasks/Edit_tasks/Choose_an_HTML_Widget.md) one for that box.
     
 
 #### Related Topics

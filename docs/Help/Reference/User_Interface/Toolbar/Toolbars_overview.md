@@ -26,7 +26,7 @@ Each [tab](../Tabs/Tabs_overview.md) has a toolbar you can use:
 
 -   Click a predefined size for the Bloom window.
 
--   Select (![PIC](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) Start Measure Performance if you want to measure Bloom performance and later see the results.
+-   Select (![PIC](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) **Start Measure Performance** if you want to measure Bloom performance and later see the results.
     
 
 This selection is cleared each time you close Bloom. You might want to [get more help](../../Overview/Get_More_Help.md) if you have performance issues.

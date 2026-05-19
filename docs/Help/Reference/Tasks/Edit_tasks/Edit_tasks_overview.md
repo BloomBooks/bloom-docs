@@ -6,7 +6,7 @@ slug: /Help/Reference/edit-tasks-overview
 
 ## Edit tab tasks overview
 
-In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit [tab](../../User_Interface/Tabs/Tabs_overview.md), you can do the tasks listed here.
+In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab](../../User_Interface/Tabs/Tabs_overview.md), you can do the tasks listed here.
 
  
 
@@ -115,9 +115,9 @@ Edit tab tasks
 
 -   If the book is in a [Team Collection](../../Concepts/Team_Collection.md), only one person at a time can work in that book. See [Team Collection overview](../Basic_tasks/Team_Collections/Team_Collections_overview.md) for more information.
     
--   Some of the editable content appears in the Book Metadata dialog box. For example, the [front cover](../../Concepts/Front_Cover_page.md) picture, [book title](../../Concepts/Book_Title.md) and [license](../../Concepts/Licenses_examples.md).
+-   Some of the editable content appears in the **Book Metadata** dialog box. For example, the [front cover](../../Concepts/Front_Cover_page.md) picture, [book title](../../Concepts/Book_Title.md) and [license](../../Concepts/Licenses_examples.md).
     
--   See Also: [About Book Features](../Publish_tasks/Features.md)
+-   **See Also:** [About Book Features](../Publish_tasks/Features.md)
     
     -   [Bloom Enterprise](Enterprise/EnterpriseRequired.md)
         

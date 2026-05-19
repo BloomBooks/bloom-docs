@@ -6,7 +6,7 @@ slug: /Help/Reference/launch-the-bloom-reader-app
 
 ## Launch the Bloom Reader app
 
--   Find and tap the [Bloom Reader app](../../Concepts/Bloom_Reader_App.md) on your device.
+-   Find and tap the [_Bloom Reader_ app](../../Concepts/Bloom_Reader_App.md) on your device.
 
 #### Tip
 

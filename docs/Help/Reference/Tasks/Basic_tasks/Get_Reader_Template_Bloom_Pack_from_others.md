@@ -10,17 +10,17 @@ Do these steps to install a Reader Template Bloom Pack that was [distributed](..
 
 1.  Copy the Bloom Pack file onto your computer.
     
-
-You can copy into the Bloom folder that is under My Documents. However, you can put it in another convenient folder.
+    You can copy into the **Bloom** folder that is under **My Documents**. However, you can put it in another convenient folder.
+    
 
 2.  Double-click that file.
     
 
 This installs the shell books and templates, reader settings and words on your computer.
 
-A message box appears and states, "The `<name>` Collection is now ready to use on this computer".
+A message box appears and states, "**The `<name>` Collection is now ready to use on this computer**".
 
--   Click OK.
+-   Click **OK**.
     
 
 3.  Close and restart Bloom.

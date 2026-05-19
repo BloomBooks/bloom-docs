@@ -6,7 +6,7 @@ slug: /Help/Reference/espeak
 
 ## eSpeak
 
-eSpeak is a speech synthesizer. It is installed with [aeneas](aeneas.md).
+_eSpeak_ is a speech synthesizer. It is installed with [aeneas](aeneas.md).
 
 Here are places to learn more about eSpeak:
 

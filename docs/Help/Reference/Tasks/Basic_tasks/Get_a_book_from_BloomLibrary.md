@@ -16,9 +16,9 @@ BloomLibrary.org has books that others have [published to the web](../Publish_ta
 
 Do these steps:
 
-1.  Click the Collections [tab](../Collections_tab_tasks/Collections_tab_tasks_overview.md).
+1.  Click the **Collections** [tab](../Collections_tab_tasks/Collections_tab_tasks_overview.md).
     
-2.  Click the link called GET MORE SOURCE BOOKS FROM BLOOMLIBRARY.ORG.
+2.  Click the link called **GET MORE SOURCE BOOKS FROM BLOOMLIBRARY.ORG**.
     
     The Internet site opens to [https://bloomlibrary.org/read](https://bloomlibrary.org/read "https://bloomlibrary.org/read").
     
@@ -26,13 +26,12 @@ Do these steps:
     
 4.  You can read it.
     
-
-If the author allowed these options, you can also:
-
--   Download it into Bloom.
+    If the author allowed these options, you can also:
     
--   Download it as a PDF, EPUB or BloomPUB file.
-    
+    -   Download it into Bloom.
+        
+    -   Download it as a PDF, EPUB or BloomPUB file.
+        
 
 #### Note
 

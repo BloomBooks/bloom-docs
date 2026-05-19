@@ -6,9 +6,9 @@ slug: /Help/Reference/level
 
 ## Level
 
-A reader is a book that is used for reading exercises.
+A _reader_ is a book that is used for reading exercises.
 
-A level is a rating. It reflects the difficulty to do a task. Here the task is to read.
+A _level_ is a rating. It reflects the difficulty to do a task. Here the task is to read.
 
 The level of a [reader](Leveled_Readers.md) is determined by various [criteria](../Tasks/Edit_tasks/Leveled_Reader_Tool/About_Count_and_Length_criteria.md) like these:
 
@@ -23,7 +23,7 @@ The level of a [reader](Leveled_Readers.md) is determined by various [criteria](
 
 Bloom has some levels by default. You can [configure](../Tasks/Edit_tasks/Leveled_Reader_Tool/Reader_Levels_tab.md) them differently or add more levels.
 
-Each level has a Word counts display. You need to [review word count information](../Tasks/Edit_tasks/Leveled_Reader_Tool/Review_Count_and_Length_information.md).
+Each level has a **Word counts** display. You need to [review word count information](../Tasks/Edit_tasks/Leveled_Reader_Tool/Review_Count_and_Length_information.md).
 
 #### Keep in mind
 
@@ -37,9 +37,9 @@ Also there may be other useful information on the internet:
     
 -   [Getting the Most Out of Picture Books](http://www.rif.org/us/literacy-resources/articles/getting-the-most-out-of-picture-books.htm "http://www.rif.org/us/literacy-resources/articles/getting-the-most-out-of-picture-books.htm")
     
--   [The Literacy Dictionary at books.google.com](http://books.google.com/books?id=ugWzGuZSd60C&pg=PA40&lpg=PA40&dq=literacy+concept+load&source=bl&ots=yRKQYrx2PW&sig=hdP5gw6s1a8reC6pa70eb6OEuSM&hl=en&sa=X&ei=J0RVU8mvE8Kz2gXU_YFw&ved=0CC0Q6AEwAA#v=onepage&q=literacy concept load&f=false "http://books.google.com/books?id=ugWzGuZSd60C&pg=PA40&lpg=PA40&dq=literacy+concept+load&source=bl&ots=yRKQYrx2PW&sig=hdP5gw6s1a8reC6pa70eb6OEuSM&hl=en&sa=X&ei=J0RVU8mvE8Kz2gXU_YFw&ved=0CC0Q6AEwAA#v=onepage&q=literacy%20concept%20load&f=false")
+-   [The Literacy Dictionary at books.google.com](<http://books.google.com/books?id=ugWzGuZSd60C&pg=PA40&lpg=PA40&dq=literacy+concept+load&source=bl&ots=yRKQYrx2PW&sig=hdP5gw6s1a8reC6pa70eb6OEuSM&hl=en&sa=X&ei=J0RVU8mvE8Kz2gXU_YFw&ved=0CC0Q6AEwAA#v=onepage&q=literacy concept load&f=false> "http://books.google.com/books?id=ugWzGuZSd60C&pg=PA40&lpg=PA40&dq=literacy+concept+load&source=bl&ots=yRKQYrx2PW&sig=hdP5gw6s1a8reC6pa70eb6OEuSM&hl=en&sa=X&ei=J0RVU8mvE8Kz2gXU_YFw&ved=0CC0Q6AEwAA#v=onepage&q=literacy%20concept%20load&f=false")
     
--   [Literacy Tutoring Handbook at books.google.com](http://books.google.com/books?id=BBTwHStpbigC&pg=PA58&dq=literacy+topic+familiarity&hl=en&sa=X&ei=X0RVU6vsKOLS2AW69YGIBw&ved=0CEIQ6AEwAg#v=onepage&q=literacy topic familiarity&f=false "http://books.google.com/books?id=BBTwHStpbigC&pg=PA58&dq=literacy+topic+familiarity&hl=en&sa=X&ei=X0RVU6vsKOLS2AW69YGIBw&ved=0CEIQ6AEwAg#v=onepage&q=literacy%20topic%20familiarity&f=false")
+-   [Literacy Tutoring Handbook at books.google.com](<http://books.google.com/books?id=BBTwHStpbigC&pg=PA58&dq=literacy+topic+familiarity&hl=en&sa=X&ei=X0RVU6vsKOLS2AW69YGIBw&ved=0CEIQ6AEwAg#v=onepage&q=literacy topic familiarity&f=false> "http://books.google.com/books?id=BBTwHStpbigC&pg=PA58&dq=literacy+topic+familiarity&hl=en&sa=X&ei=X0RVU6vsKOLS2AW69YGIBw&ved=0CEIQ6AEwAg#v=onepage&q=literacy%20topic%20familiarity&f=false")
     
 -   [Using Leveled Readers in the Classroom](http://www.brighthubeducation.com/teaching-methods-tips/71264-using-leveled-readers-in-the-classroom/ "http://www.brighthubeducation.com/teaching-methods-tips/71264-using-leveled-readers-in-the-classroom/")
     

@@ -6,21 +6,21 @@ slug: /Help/Reference/hazard
 
 ## Hazard
 
-In the Book Metadata dialog box, there is a group of check boxes associated with a label called Hazards. You [use](../Tasks/Publish_tasks/Use_the_Book_Metadata_dialog_box.md) those check boxes to provide metadata that informs potential readers whether these hazards exist in the book.
+In the **Book Metadata** dialog box, there is a group of check boxes associated with a label called **Hazards**. You [use](../Tasks/Publish_tasks/Use_the_Book_Metadata_dialog_box.md) those check boxes to provide metadata that informs potential readers whether these hazards exist in the book.
 
 Here are hazards you need to prevent in your book:
 
  
 
-Hazard
+**Hazard**
 
-Description
+**Description**
 
-Flashing Hazard
+**Flashing Hazard**
 
 Flashes of more than three times per second can cause seizures (e.g. video and animations).
 
-Motion Simulation Hazard
+**Motion Simulation Hazard**
 
 Simulated motion can cause a user to become nauseated.
 

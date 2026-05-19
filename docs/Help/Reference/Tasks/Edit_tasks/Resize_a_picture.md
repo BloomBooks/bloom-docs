@@ -17,8 +17,8 @@ First, move your mouse pointer over the horizontal edges of adjacent boxes.
 
 1.  Hold your mouse pointer over one of the squares. 
     
-
-The mouse pointer becomes a double-headed arrow (![](/ref-docs-assets/images/Tasks/doubleheadedresizeimage.png) or ![](/ref-docs-assets/images/Tasks/doubleheadedresizeimage2.png)).
+    The mouse pointer becomes a double-headed arrow (![](/ref-docs-assets/images/Tasks/doubleheadedresizeimage.png) or ![](/ref-docs-assets/images/Tasks/doubleheadedresizeimage2.png)).
+    
 
 2.  Click one of the squares and drag it in a direction that makes the picture larger or smaller.
     
@@ -46,10 +46,10 @@ square.
 
 -   The splitter moves only by full percentage points.
     
--   If you need more precision, hold down the CTRL key to move by tenths of a percent, ignoring the snap points.
+-   If you need more precision, hold down the **CTRL** key to move by tenths of a percent, ignoring the snap points.
     
 
-This is not the same as setting the maximum image size with the Book Settings [dialog box](../../User_Interface/Dialog_boxes/Book_Settings_dialog_box.md).
+This is not the same as setting the maximum image size with the **Book Settings** [dialog box](../../User_Interface/Dialog_boxes/Book_Settings_dialog_box.md).
 
 #### Related Topics
 

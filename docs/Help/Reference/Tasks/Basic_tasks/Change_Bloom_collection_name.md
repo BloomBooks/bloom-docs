@@ -7,27 +7,27 @@ slug: /Help/Reference/change-bloom-collection-name
 
 ## Change Bloom Collection Name
 
-The name of the Bloom collection is part of the set of [project information](../../Concepts/Project_Information.md). These steps change the name of the ![](/ref-docs-assets/images/Tasks/Basic_tasks/FileNameIcon.png) `<name>`.bloomCollection file and the [folder](../../User_Interface/Tabs/Collections_tab_commands.md) that stores it.
+The name of the Bloom collection is part of the set of [project information](../../Concepts/Project_Information.md). These steps change the name of the ![](/ref-docs-assets/images/Tasks/Basic_tasks/FileNameIcon.png) `<name>`.**bloomCollection** file _and_ the [folder](../../User_Interface/Tabs/Collections_tab_commands.md) that stores it.
 
-1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the Settings dialog box.
+1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** dialog box.
     
-2.  Click the Project Information tab.
+2.  Click the **Project Information** tab.
     
-3.  Edit the name in the Bloom Collection Name box.
+3.  Edit the name in the **Bloom Collection Name** box.
     
-4.  Click Restart.
+4.  Click **Restart**.
     
 
 Bloom will close and then reopen the project with the changed settings.
 
 #### Note
 
--   The name of the language is not changed.
+-   The name of the _language_ is _not_ changed.
     
 
 The language name is from an international database.
 
-To use a different language name, open the ![](/ref-docs-assets/images/Tasks/Basic_tasks/FileNameIcon.png) `<name>`.bloomCollection file in an editor, like Notepad. Manually edit its name there.
+To use a different language name, open the ![](/ref-docs-assets/images/Tasks/Basic_tasks/FileNameIcon.png) `<name>`**.bloomCollection** file in an editor, like Notepad. Manually edit its name there.
 
 #### Related Topics
 

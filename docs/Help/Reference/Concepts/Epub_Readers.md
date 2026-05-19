@@ -6,12 +6,12 @@ slug: /Help/Reference/epub-readers
 
 ## ePUB Readers
 
-An ePUB reader lets you read a book that was [published](../Tasks/Publish_tasks/Digital_publishing_options.md) as an [ePUB](EPUB.md) on electronic devices, such as smart-phones, tablets, computers, and so on.
+An _ePUB reader_ lets you read a book that was [published](../Tasks/Publish_tasks/Digital_publishing_options.md) as an [ePUB](EPUB.md) on electronic devices, such as smart-phones, tablets, computers, and so on.
 
 -   See [https://docs.bloomlibrary.org/ePUB-notes](https://docs.bloomlibrary.org/ePUB-notes "https://docs.bloomlibrary.org/ePUB-notes") to learn about the performance of various ePUB readers.
     
 
-Both fixed and flowable [ePUB modes](EPUB.md) are considered there. 
+Both _fixed_ and _flowable_ [ePUB modes](EPUB.md) are considered there. 
 
 #### Tip
 

@@ -10,24 +10,24 @@ There are a few different ways to crop picture ([image](../../Concepts/Picture.
 
 You can also crop an image in the [Image Toolbox](../../User_Interface/Dialog_boxes/Image_Toolbox.md).
 
-1.  In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit [tab](../../User_Interface/Tabs/Tabs_overview.md), display the picture ([image](../../Concepts/Picture.md)).
+1.  In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab](../../User_Interface/Tabs/Tabs_overview.md), display the picture ([image](../../Concepts/Picture.md)).
     
-2.  Move your mouse pointer over the image. Then, click ![PICTURE](/ref-docs-assets/images/Concepts/ChoosePictureButton.png) (Change Image).
+2.  Move your mouse pointer over the image. Then, click ![PICTURE](/ref-docs-assets/images/Concepts/ChoosePictureButton.png) (**Change Image**).
     
-
-The Image Toolbox appears.
-
-3.  In the Image Toolbox, click ![](/ref-docs-assets/images/Tasks/crop.png) Crop. Notice that dark rectangles appear at each edge of the image.
+    The **Image Toolbox** appears.
     
 
-Do this for each edge:
+3.  In the **Image Toolbox**, click ![](/ref-docs-assets/images/Tasks/crop.png) **Crop**. Notice that dark rectangles appear at each edge of the image.
+    
+    Do this for each edge:
+    
 
 -   Click a rectangle and drag it to remove the unwanted part from that edge.
     
 
 Release the mouse button. Look at the image on the right to see the result.
 
-4.  Click OK.
+4.  Click **OK**.
     
 
 #### Tip

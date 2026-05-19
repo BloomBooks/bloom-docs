@@ -6,14 +6,14 @@ slug: /Help/Reference/choose-picture-or-word-pages
 
 ## Choose Picture from Word or Choose Word from Picture Pages
 
-In the Add Page dialog box, below Game Pages, you see interactive pages. Here are two of them:
+In the **Add Page** dialog box, below **Game Pages**, you see interactive pages. Here are two of them:
 
--   Choose Word from Picture shows one picture and multiple words. The reader needs to tap the correct word.
+-   **Choose Word from Picture** shows one picture and multiple words. The reader needs to tap the correct word.
     
--   Choose Picture from Word shows one word and multiple picture. The reader needs to tap the correct picture.
+-   **Choose Picture from Word** shows one word and multiple picture. The reader needs to tap the correct picture.
     
 
-In both cases, you type instructions for the page in the top box. Then, you must enter the correct answer in the first box. Bloom will shuffle the answers.
+In both cases, you type instructions for the page in the top box. Then, you must enter the correct answer in the _first_ box. Bloom will shuffle the answers.
 
 [https://docs.bloomlibrary.org/release-notes-5-4/](https://docs.bloomlibrary.org/release-notes-5-4/ "https://docs.bloomlibrary.org/release-notes-5-4/") also discusses these pages.
 
@@ -21,9 +21,9 @@ In both cases, you type instructions for the page in the top box. Then, you must
 
 -   The dot (![](/ref-docs-assets/images/Concepts/AddPageBE.png)) means this is a [Bloom Enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature. You can [add](../Tasks/Edit_tasks/Add_a_page.md) one or more pages to help people learn.
     
--   These pages are not included in [ePUB](../Tasks/Publish_tasks/Make_an_ePUB_book_overview.md) publications.
+-   These pages are _not_ included in [ePUB](../Tasks/Publish_tasks/Make_an_ePUB_book_overview.md) publications.
     
--   You can [reorder](../Tasks/Edit_tasks/Reorder_pages.md) pages in the Pages pane.
+-   You can [reorder](../Tasks/Edit_tasks/Reorder_pages.md) pages in the **Pages** pane.
 
 #### Related Topics
 

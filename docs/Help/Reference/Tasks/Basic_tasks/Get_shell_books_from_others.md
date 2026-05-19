@@ -10,23 +10,23 @@ Do these steps to install a basic Bloom Pack that was [distributed](../../Concep
 
 1.  Copy the Bloom Pack file onto your computer.
     
-
-You can copy into the Bloom folder that is under My Documents. However, you can put in another convenient folder.
+    You can copy into the **Bloom** folder that is under **My Documents**. However, you can put in another convenient folder.
+    
 
 2.  Double-click that file.
     
 
 This installs the shell books and templates on your computer.
 
-A message box appears and states, "The `<name>` Collection is now ready to use on this computer".
+A message box appears and states, "**The `<name>` Collection is now ready to use on this computer**".
 
--   Click OK.
+-   Click **OK**.
     
 
 3.  Close and restart Bloom.
     
 
-The new sources appear below Sources for New Books on the Collections [tab](../../User_Interface/Tabs/Tabs_overview.md).
+The new sources appear below **Sources for New Books** on the **Collections** [tab](../../User_Interface/Tabs/Tabs_overview.md).
 
 #### Tip
 

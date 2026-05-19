@@ -8,7 +8,7 @@ slug: /Help/Reference/page-size
 
 Paper size information can be important when you [print](../Tasks/Publish_tasks/Print.md).
 
-#### International paper size standard, ISO 216
+#### _International paper size standard_, ISO 216
 
   
 
@@ -18,25 +18,25 @@ Page Dimensions (mm)
 
 Page Dimensions (rounded inches)
 
-A3
+**A3**
 
 297 x 420
 
 11.7 x 16.5
 
-A4
+**A4**
 
 210 × 297
 
 8.3 × 11.7
 
-A5
+**A5**
 
 148 × 210
 
 5.8 × 8.3
 
-A6
+**A6**
 
 105 × 148
 
@@ -52,43 +52,43 @@ Page Dimensions (rounded mm)
 
 Page Dimensions (inches)
 
-Tabloid
+**Tabloid**
 
 279 x 432
 
 11 x 17
 
-Letter
+**Letter**
 
 216 × 279
 
 8.5 × 11
 
-Half-letter
+**Half-letter**
 
 140 × 216
 
 5.5 × 8.5
 
-6 in. x 9 in.
+**6 in. x 9 in.**
 
 152 x 229
 
 6.0 x 9.0
 
-5.25 in. x 8.25 in.
+**5.25 in. x 8.25 in.**
 
 5.25 in. x 8.25 in.
 
-5.8 in. x 8.7 in.
+**5.8 in. x 8.7 in.**
 
 5.8 in. x 8.7 in.
 
 #### Note
 
--   The above tables are not complete. There are various extensions to the ISO standard and other standards also exist.
+-   The above tables are _not complete_. There are various extensions to the ISO standard and other standards also exist.
     
--   Source: [http://en.wikipedia.org/wiki/Paper\_size](http://en.wikipedia.org/wiki/Paper_size)
+-   **Source:** [http://en.wikipedia.org/wiki/Paper\_size](http://en.wikipedia.org/wiki/Paper_size)
     
 
 #### Related Topics

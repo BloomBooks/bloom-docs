@@ -6,7 +6,7 @@ slug: /Help/Reference/bilingual-or-trilingual-books
 
 ## Bilingual or Trilingual books
 
-The top language in the Languages [tab](../User_Interface/Dialog_boxes/Languages_tab.md) is called Local Language. You choose it in the Create New Bloom Collection [dialog box](../User_Interface/Dialog_boxes/Create_New_Bloom_Collection_dialog_box.md).
+The top language in the **Languages** [tab](../User_Interface/Dialog_boxes/Languages_tab.md) is called **Local Language**. You choose it in the **Create New Bloom Collection** [dialog box](../User_Interface/Dialog_boxes/Create_New_Bloom_Collection_dialog_box.md).
 
 You can [choose](../Tasks/Basic_tasks/Change_languages.md) more languages.
 
@@ -14,8 +14,8 @@ Then, you can use a button on the [toolbar](../User_Interface/Toolbar/Edit_tab_t
 
 -   ![](/ref-docs-assets/images/User_Interface/Toolbar/OneLang.png) - Only the selected (![](/ref-docs-assets/images/User_Interface/Toolbar/SelectedLang.png)) language is used (monolingual).
     
-
-This may or not be the language [chosen](../User_Interface/Dialog_boxes/Languages_tab.md) as Local Language.
+    This may or not be the language [chosen](../User_Interface/Dialog_boxes/Languages_tab.md) as ****Local Language****.
+    
 
 -   ![](/ref-docs-assets/images/User_Interface/Toolbar/TwoLang.png) - Two selected (![](/ref-docs-assets/images/User_Interface/Toolbar/SelectedLang.png)) languages are used (bilingual).
     
@@ -29,9 +29,9 @@ This may or not be the language [chosen](../User_Interface/Dialog_boxes/Language
 
 A [red font color](Red_font_color.md) or red line means that there is not enough room for all the words.
 
-Some pages cannot use three languages.
+Some pages _cannot_ use three languages.
 
--   You can also use the Text Box Properties dialog box to [select](../User_Interface/Dialog_boxes/Text_Box_Properties_dialog_box.md) (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/SelectedLangTxtBox.png)) a language for an individual text box.
+-   You can also use the **Text Box Properties** dialog box to [select](../User_Interface/Dialog_boxes/Text_Box_Properties_dialog_box.md) (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/SelectedLangTxtBox.png)) a language for an individual text box.
     
 -   [Change or Set languages](../Tasks/Basic_tasks/Change_languages.md) has additional information.
     

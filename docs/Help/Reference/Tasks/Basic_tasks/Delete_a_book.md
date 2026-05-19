@@ -8,12 +8,12 @@ slug: /Help/Reference/delete-a-book
 
 1.  [Open](Open_a_collection.md) the collection that has the [book](../../Concepts/Book.md) (book, calendar, and so on) that you want to delete.
     
-2.  In the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Tabs_overview.md), [right-click](../../User_Interface/Tabs/Collections_tab_commands.md) the book that you want to delete, and then click ![](/ref-docs-assets/images/Tasks/Basic_tasks/DeleteBook.png) Delete Book.
+2.  In the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../../User_Interface/Tabs/Tabs_overview.md), [right-click](../../User_Interface/Tabs/Collections_tab_commands.md) the book that you want to delete, and then click ![](/ref-docs-assets/images/Tasks/Basic_tasks/DeleteBook.png) **Delete Book**.
+    
+    The **Confirm Delete** dialog box appears.
     
 
-The Confirm Delete dialog box appears.
-
--   To move that book to the Recycle Bin, click ![](/ref-docs-assets/images/Tasks/reddeleterecordx.gif) Delete. Otherwise, click Cancel.
+-   To move that book to the Recycle Bin, click ![](/ref-docs-assets/images/Tasks/reddeleterecordx.gif) **Delete**. Otherwise, click **Cancel**.
     
 
 #### Related Topics

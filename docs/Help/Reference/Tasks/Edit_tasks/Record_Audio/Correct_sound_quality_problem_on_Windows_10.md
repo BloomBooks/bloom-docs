@@ -6,23 +6,23 @@ slug: /Help/Reference/correct-sound-quality-problem-on-windows-10
 
 ## Correct sound quality problems on Windows®10
 
-If you hear a poor sound quality from your Bloom audio books, one possible solution is to disable the audio enhancements.
+If you hear a poor sound quality from your Bloom audio books, one possible solution is to _disable_ the audio enhancements.
 
 Your particular computer or audio system installation may be slightly different, but here are the general steps:
 
-1.  Open Hardware and Sound on your computer's Control Panel.
+1.  Open **Hardware and Sound** on your computer's **Control Panel**.
     
-2.  Click the Sound link.
+2.  Click the **Sound** link.
     
-3.  In the Sound dialog box, Recording tab, right-click your default recording device and then click Properties.
+3.  In the **Sound** dialog box, **Recording** tab, right-click your default recording device and then click **Properties**.
     
 4.  Do one of these steps (depending on your computer and audio system installation):
     
-    -   Click the Enhancements tab, and then select (![](/ref-docs-assets/images/CheckedBox.PNG)) the Disable check box.
+    -   Click the **Enhancements** tab, and then select (![](/ref-docs-assets/images/CheckedBox.PNG)) the **Disable** check box.
         
-    -   Click the Advanced tab, and then clear (![](/ref-docs-assets/images/UncheckedBox.PNG)) the Enable Audio enhancements check box (under Signal Enhancements).
+    -   Click the **Advanced** tab, and then clear (![](/ref-docs-assets/images/UncheckedBox.PNG)) the **Enable Audio enhancements** check box (under **Signal Enhancements**).
         
-5.  Click OK.
+5.  Click **OK**.
     
 
 #### Related Topics

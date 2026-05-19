@@ -12,10 +12,10 @@ To see the templates, do these steps:
 
 1.  [Open](../Tasks/Basic_tasks/Open_a_collection.md) a collection.
     
-2.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../User_Interface/Tabs/Tabs_overview.md).
+2.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../User_Interface/Tabs/Tabs_overview.md).
     
 
-Below Sources For New Books you see Templates or Specialized Templates.
+Below **Sources For New Books** you see **Templates** or **Specialized Templates**.
 
 Here you see [templates](Template.md) that were installed with Bloom.
 

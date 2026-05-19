@@ -9,7 +9,7 @@ slug: /Help/Reference/change-picture
 
 On any page with a [picture or placeholder](../../Concepts/Picture.md), hold your mouse pointer over the picture (image) or placeholder. Use any of these buttons or controls:
 
--   Click ![PICTURE](/ref-docs-assets/images/Tasks/Edit_tasks/ChoosePictureButton.png) (Change Image) to open the [Image Toolbox](../../User_Interface/Dialog_boxes/Image_Toolbox.md).
+-   Click ![PICTURE](/ref-docs-assets/images/Tasks/Edit_tasks/ChoosePictureButton.png) (**Change Image**) to open the [Image Toolbox](../../User_Interface/Dialog_boxes/Image_Toolbox.md).
     
 
 Use it to choose an image, [crop](Crop_a_picture.md) it and [specify metadata](Change_picture_metadata.md).
@@ -18,10 +18,10 @@ Use it to choose an image, [crop](Crop_a_picture.md) it and [specify metadata](C
 
 -   For an overview of the various controls, see [Picture](../../Concepts/Picture.md).
     
--   When you use Paste Image, but the image on the computer clipboard does not have a name, Bloom will name the files Image, Image1, Image2 and so on. If it already has a name, then Bloom keeps that name.
+-   When you use **Paste Image**, but the image on the computer clipboard does not have a name, Bloom will name the files **Image**, **Image1**, **Image2** and so on. If it already has a name, then Bloom keeps that name.
     
 
-You see those names when you use the [command](../../User_Interface/Tabs/Collections_tab_commands.md) Show in File Explorer.
+You see those names when you use the [command](../../User_Interface/Tabs/Collections_tab_commands.md) **Show in File Explorer**.
 
 #### Related Topics
 

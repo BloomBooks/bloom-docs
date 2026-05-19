@@ -6,7 +6,7 @@ slug: /Help/Reference/choose-page-size-and-orientation
 
 ## Choose page size or orientation
 
--   In the Edit [tab](../../User_Interface/Tabs/Tabs_overview.md), click the button on the [toolbar](../../User_Interface/Toolbar/Edit_tab_toolbar.md) and choose a page size and orientation.
+-   In the **Edit** [tab](../../User_Interface/Tabs/Tabs_overview.md), click the button on the [toolbar](../../User_Interface/Toolbar/Edit_tab_toolbar.md) and choose a page size and orientation.
     
 
  

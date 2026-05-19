@@ -6,19 +6,19 @@ slug: /Help/Reference/enter-project-information
 
 ## Enter project information
 
-1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the Settings [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md).
+1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md).
     
-2.  Click the Project Information tab.
+2.  Click the **Project Information** tab.
+    
+    Type or edit names in any of these boxes: **Country**, **Province**, **District**, or **Bloom Collection Name**.
     
 
-Type or edit names in any of these boxes: Country, Province, District, or Bloom Collection Name.
-
-3.  Click OK.
+3.  Click **OK**.
     
 
 #### Tip
 
--   You might also want to [enter your Subscription Code](Enter_Subscription_Code.md) while the Settings dialog box is open.
+-   You might also want to [enter your Subscription Code](Enter_Subscription_Code.md) while the **Settings** dialog box is open.
     
 -   Continue with the steps in [Create a Bloom collection](Create_a_Bloom_collection.md) if that is what you are doing.
     

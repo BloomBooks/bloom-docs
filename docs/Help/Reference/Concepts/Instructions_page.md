@@ -6,7 +6,7 @@ slug: /Help/Reference/instructions-page
 
 ## Instructions page
 
-The Instructions page comes before the Inside Back Cover page in the Big Book template and books made from that template.
+The **Instructions** page comes before the **Inside Back Cover** page in the **Big Book** template and books made from that template.
 
 It describes how purpose and use of books made with this template.
 

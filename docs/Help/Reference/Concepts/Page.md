@@ -6,11 +6,11 @@ slug: /Help/Reference/page
 
 ## Page
 
-A page is typically defined as one side of a sheet of something printed or written such as a [book](Book.md).
+A _page_ is typically defined as one side of a sheet of something printed or written such as a [book](Book.md).
 
 About pages in Bloom:
 
--   In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit [tab](../User_Interface/Tabs/Edit_tab_commands.md), the right pane is called the Pages pane.
+-   In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab](../User_Interface/Tabs/Edit_tab_commands.md), the right pane is called the **Pages** pane.
     
 
 -   It shows a thumbnail for each page in the current book.

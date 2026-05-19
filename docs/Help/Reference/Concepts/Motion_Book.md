@@ -6,13 +6,13 @@ slug: /Help/Reference/motion-book
 
 ## Motion Book
 
-Motion Books are books in which otherwise still [pictures](Picture.md) appear to have motion. Normally, they are [Talking Books](../Tasks/Edit_tasks/Record_Audio/Talking_Book_Tool_overview.md) to which you add motion.
+_Motion Books_ are books in which otherwise still [pictures](Picture.md) appear to have motion. Normally, they are [Talking Books](../Tasks/Edit_tasks/Record_Audio/Talking_Book_Tool_overview.md) to which you add motion.
 
-The motion is a pan and zoom from rectangle 1 to rectangle 2. You see these rectangles when you [use](../Tasks/Edit_tasks/Motion_Tool/Using_the_Motion_Tool.md) the Motion Tool. You can add this motion to only the first picture on each [inside page](Inside_pages.md).
+The motion is a pan and zoom from rectangle 1 to rectangle 2. You see these rectangles when you [use](../Tasks/Edit_tasks/Motion_Tool/Using_the_Motion_Tool.md) the **Motion Tool**. You can add this motion to only the first picture on each [inside page](Inside_pages.md).
 
-If you select (![](/ref-docs-assets/images/CheckedBox.PNG)) Motion Book when you [send](../Tasks/Publish_tasks/Share_your_BloomPUB_file.md) a book to the [Bloom Reader App](Bloom_Reader_App.md), then it has two modes on your device:
+If you select (![](/ref-docs-assets/images/CheckedBox.PNG)) **Motion Book** when you [send](../Tasks/Publish_tasks/Share_your_BloomPUB_file.md) a book to the [Bloom Reader App](Bloom_Reader_App.md), then it has two modes on your device:
 
--   ![](/ref-docs-assets/images/Tasks/Publish_tasks/Portrait.png) Portrait - When you look at your book in a portrait view, you do not see motion.
+-   ![](/ref-docs-assets/images/Tasks/Publish_tasks/Portrait.png) Portrait - When you look at your book in a portrait view, you do _not_ see motion.
     
 -   ![](/ref-docs-assets/images/Tasks/Publish_tasks/Landscape.png) Landscape - When you turn the device sideways for a landscape view, pictures fill the screen and you see the motion.
     

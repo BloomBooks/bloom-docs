@@ -15,26 +15,26 @@ If you experience a problem (bug) with Bloom, please report it.
 
 To submit a problem report, do these steps:
 
-1.  On the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (Get Help) [menu](../Help_menu/Help_menu.md), click Report a Problem.
+1.  On the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (**Get Help**) [menu](../Help_menu/Help_menu.md), click **Report a Problem**.
     
-
-The Report A Problem dialog box opens.
+    The **Report A Problem** dialog box opens.
+    
 
 2.  See [Information for problem reports](../../Overview/Information_for_problem_reports.md) to learn what to type.
     
 3.  Click and drag the slider control (![](/ref-docs-assets/images/Overview/SilderControl.png)) to indicate how often this problem happens.
     
-4.  Enter your email address, if it is not already shown in the Email box.
+4.  Enter your email address, if it is not already shown in the **Email** box.
     
 5.  Do any of these steps:
     
-    -   Select (![](/ref-docs-assets/images/Overview/SelectedCheckBoxGreen.png)) Include Book if you think it would be helpful to include the book.
+    -   Select (![](/ref-docs-assets/images/Overview/SelectedCheckBoxGreen.png)) **Include Book** if you think it would be helpful to include the book.
         
-    -   Leave Include this screenshot selected (![](/ref-docs-assets/images/Overview/SelectedCheckBoxGreen.png)) (recommended).
+    -   Leave **Include this screenshot** selected (![](/ref-docs-assets/images/Overview/SelectedCheckBoxGreen.png)) (_recommended_).
         
-    -   Click ![](/ref-docs-assets/images/Overview/WarningYellow.png) LEARN MORE to see the other information that will be sent automatically with your report (optional).
+    -   Click ![](/ref-docs-assets/images/Overview/WarningYellow.png) **LEARN MORE** to see the other information that will be sent automatically with your report (_optional_).
         
-6.  Click SUBMIT.
+6.  Click **SUBMIT**.
     
 
 #### Important
@@ -42,9 +42,9 @@ The Report A Problem dialog box opens.
 -   The report you submit will be visible on the Internet.
     
 
-If you want your report to remain private, email your report to private@bloomlibrary.org.
+If you want your report to remain _private_, email your report to private@bloomlibrary.org.
 
-The Will not be private link informs you of this email address.
+The _Will not be private link_ informs you of this email address.
 
 #### Related Topics
 

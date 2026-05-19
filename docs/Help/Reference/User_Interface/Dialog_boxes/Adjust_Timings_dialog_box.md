@@ -6,7 +6,7 @@ slug: /Help/Reference/adjust-timings-dialog-box
 
 ## Adjust Timings dialog box
 
-To open this dialog box, click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_button.png) Adjust Timings button in the [Talking Book Tool](../../Tasks/Edit_tasks/Record_Audio/Talking_Book_Tool_overview.md).
+To open this dialog box, click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_button.png) **Adjust Timings** button in the [Talking Book Tool](../../Tasks/Edit_tasks/Record_Audio/Talking_Book_Tool_overview.md).
 
 ### Example
 
@@ -17,9 +17,9 @@ To open this dialog box, click the ![](/ref-docs-assets/images/Tasks/Edit_tasks
   
  ![PIC](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_SegmentLine.png) 
 
--   Segment lines in this dialog box may be segment markers that pause-based or aeneas added and any you inserted with the Insert Segment Marker control.
+-   Segment lines in this dialog box may be segment markers that pause-based or aeneas added and any you inserted with the **Insert** **Segment Marker** control.
     
--   The More (![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_More_Button.png)) button opens this list of options:
+-   The **More** (![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_More_Button.png)) button opens this list of options:
     
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_MORE.png)

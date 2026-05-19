@@ -6,9 +6,9 @@ slug: /Help/Reference/install-bloom-with-no-internet-access
 
 # Install Bloom without Internet access
 
-If there is no internet access where Bloom will be used, advanced users who have Internet access can save the installer and other items on a USB Flash Drive (or equivalent). Then, they can install Bloom where there is no Internet Access.
+If there is no internet access where Bloom will be used, _advanced users_ who have Internet access can save the installer and other items on a USB Flash Drive (or equivalent). Then, they can install Bloom where there is no Internet Access.
 
-Here is an outline of things to do for computers that use Windows®:
+Here is an _outline_ of things to do for computers that use Windows®:
 
 1.  Insert the USB Flash Drive in a computer that has Internet Access.
     
@@ -16,7 +16,7 @@ Here is an outline of things to do for computers that use Windows®:
     
     -   Save the downloaded file on the USB Flash Drive.
         
-3.  If you do not have the Art of Reading package on a CD-ROM, download it from [https://bloomlibrary.org/artofreading](https://bloomlibrary.org/artofreading "https://bloomlibrary.org/artofreading").
+3.  If you do not have the _Art of Reading_ package on a CD-ROM, download it from [https://bloomlibrary.org/artofreading](https://bloomlibrary.org/artofreading "https://bloomlibrary.org/artofreading").
     
     -   Save the downloaded file on the USB Flash Drive.
         
@@ -52,18 +52,18 @@ Bloom installs SIL’s Andika font. It was designed specifically for easier re
 
 -   Andika - designed for literacy materials, especially for beginning readers.
     
-
-[https://software.sil.org/andika/download/](https://software.sil.org/andika/download/ "https://software.sil.org/andika/download/")
+    [https://software.sil.org/andika/download/](https://software.sil.org/andika/download/ "https://software.sil.org/andika/download/")
+    
 
 -   Annapurna - for languages that use Devanagari script.
     
-
-[https://software.sil.org/annapurna/download/](https://software.sil.org/annapurna/download/ "https://software.sil.org/annapurna/download/")
+    [https://software.sil.org/annapurna/download/](https://software.sil.org/annapurna/download/ "https://software.sil.org/annapurna/download/")
+    
 
 -   Scheherazade - an extended Arabic script font.
     
-
-[https://software.sil.org/scheherazade/download/](https://software.sil.org/scheherazade/download/ "https://software.sil.org/scheherazade/download/")
+    [https://software.sil.org/scheherazade/download/](https://software.sil.org/scheherazade/download/ "https://software.sil.org/scheherazade/download/")
+    
 
 -   Abyssinica - an Ethiopic script font (also sometimes called “fidel” script).
     

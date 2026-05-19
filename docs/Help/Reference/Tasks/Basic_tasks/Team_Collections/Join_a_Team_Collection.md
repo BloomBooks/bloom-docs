@@ -8,7 +8,7 @@ slug: /Help/Reference/join-a-team-collection
 
 Team members can do these steps using Dropbox or a LAN (Local Area Network) folder.
 
-If your team will use Dropbox:
+**If your team will use Dropbox:**
 
 -   You must have a Dropbox account.
     
@@ -16,7 +16,7 @@ If your team will use Dropbox:
     
 -   The Team Collection administrator has shared the folder.
     
--   You have added the shared folder to the Dropbox folder on your computer.
+-   You have added the shared folder to the **Dropbox** folder on your computer.
     
 
 Do these steps:
@@ -25,15 +25,15 @@ Do these steps:
     
 2.  On your computer (not in a web browser), open the folder that has the Team Collection.
     
-
-The name of this folder will end in \- TC.
-
-3.  Double-click the file called ![](/ref-docs-assets/images/Tasks/Basic_tasks/Team_Collections/JoinIcon.png) Join this Team Collection.JoinBloomTC.
+    The name of this folder will end in **\- TC**.
     
 
-The Join the Team Collection dialog box appears.
+3.  Double-click the file called ![](/ref-docs-assets/images/Tasks/Basic_tasks/Team_Collections/JoinIcon.png) **Join this Team Collection.JoinBloomTC**.
+    
+    The **Join the Team Collection** dialog box appears.
+    
 
-4.  Click JOIN or MERGE & JOIN.
+4.  Click **JOIN** or **MERGE & JOIN**.
     
 
 #### Tip
@@ -45,7 +45,7 @@ The Join the Team Collection dialog box appears.
     
 -   Two or more people already have different versions of the collection, but the team has already sorted out any conflicts and has one master copy they want everyone to have. In this case, everyone else should delete or rename theirs before joining the Team Collection created from the master copy.
     
--   There are several versions of the collection around; the Team Collection should end up with all the books from all of them. In this case, make sure all are named the same, and then MERGE & JOIN will do the job.
+-   There are several versions of the collection around; the Team Collection should end up with all the books from all of them. In this case, make sure all are named the same, and then **MERGE & JOIN** will do the job.
     
 
 #### Related Topics

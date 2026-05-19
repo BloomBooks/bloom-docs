@@ -6,7 +6,7 @@ slug: /Help/Reference/basic-book
 
 ## Basic Book
 
-Basic Book is one of the [templates](Template.md) that you can use to make a new book or shell book.
+**Basic Book** is one of the [templates](Template.md) that you can use to make a new book or shell book.
 
 It has these pages: [Front Cover](Front_Cover_page.md), [Credits Page](Credits_Page.md), [Title Page,](Title_Page.md) and [Back Cover pages](Back_cover_pages.md). In addition, it gives you a number of different templates. You see them when you [add a page](../Tasks/Edit_tasks/Add_a_page.md).
 
@@ -21,9 +21,9 @@ You can [add a page](../Tasks/Edit_tasks/Add_a_page.md) (an [inside page](Inside
 
 #### Tip
 
--   [https://vimeo.com/album/3146448/video/112825489](https://vimeo.com/album/3146448/video/112825489 "https://vimeo.com/album/3146448/video/112825489") is about the Basic Book template. It will help you understand other [videos](../FAQ/Instructional_Videos.md) better.
+-   [https://vimeo.com/album/3146448/video/112825489](https://vimeo.com/album/3146448/video/112825489 "https://vimeo.com/album/3146448/video/112825489") is about the **Basic Book** template. It will help you understand other [videos](../FAQ/Instructional_Videos.md) better.
     
--   In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit [tab](../User_Interface/Tabs/Tabs_overview.md), you can use the [toolbar](../User_Interface/Toolbar/Edit_tab_toolbar.md) to set the [page size and orientation](../Tasks/Edit_tasks/Choose_page_size_and_orientation.md).
+-   In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab](../User_Interface/Tabs/Tabs_overview.md), you can use the [toolbar](../User_Interface/Toolbar/Edit_tab_toolbar.md) to set the [page size and orientation](../Tasks/Edit_tasks/Choose_page_size_and_orientation.md).
     
 
 #### Related Topics

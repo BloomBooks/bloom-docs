@@ -6,7 +6,7 @@ slug: /Help/Reference/punctuation-tab
 
 ## Punctuation tab
 
-For Bloom to accurately determine the [word count](Review_Count_and_Length_information.md) information, it must know all the sentence-ending punctuation. Bloom already knows which characters in the world's languages always mark the end of sentences, but you can add more.
+For Bloom to accurately determine the [word count](Review_Count_and_Length_information.md) information, it must know all the sentence-ending punctuation. Bloom _already knows_ which characters in the world's languages always mark the end of sentences, but you can add more.
 
 -   Type the Unicode character escape sequences you need to add, separated by a space.
     

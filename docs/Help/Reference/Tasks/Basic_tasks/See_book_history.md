@@ -6,9 +6,9 @@ slug: /Help/Reference/see-book-history
 
 ## See book history
 
-1.  In the left pane of the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Tabs_overview.md), click the [book](../../Concepts/Book.md).
+1.  In the left pane of the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../../User_Interface/Tabs/Tabs_overview.md), click the [book](../../Concepts/Book.md).
     
-2.  In the right pane, click HISTORY.
+2.  In the right pane, click **HISTORY**.
     
 
 A window with of history of events for the current book appears.

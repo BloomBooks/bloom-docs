@@ -6,7 +6,7 @@ slug: /Help/Reference/topics-dialog-box
 
 ## Topics dialog box
 
-Use this dialog box to [choose a topic](../../Tasks/Edit_tasks/Choose_a_topic.md). The topic is word or phrase that describes the book. It appears near the bottom of the Front Cover page.
+Use this dialog box to [choose a topic](../../Tasks/Edit_tasks/Choose_a_topic.md). The _topic_ is word or phrase that describes the book. It appears near the bottom of the **Front Cover** page.
 
 #### Note
 

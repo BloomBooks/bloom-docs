@@ -6,7 +6,7 @@ slug: /Help/Reference/team-collection
 
 ## Team Collection
 
-A Team Collection is a [collection](Collection.md) that is stored in a shared folder.
+A _Team Collection_ is a [collection](Collection.md) that is stored in a shared folder.
 
 -   Team Collection is currently [experimental](../User_Interface/Dialog_boxes/Settings_dialog_box.md).
     

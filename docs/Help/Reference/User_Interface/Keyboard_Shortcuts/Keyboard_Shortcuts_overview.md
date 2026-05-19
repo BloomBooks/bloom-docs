@@ -12,101 +12,101 @@ Keys
 
 Behavior
 
--   Ctrl+Shift
+-   **Ctrl**+Shift
     
 
 Display items hidden by [settings protection](../../Tasks/Basic_tasks/Choose_settings_protections.md)
 
-![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit tab (some match Bloom [toolbar](../Toolbar/Edit_tab_toolbar.md) controls):
+![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** tab (some match Bloom [toolbar](../Toolbar/Edit_tab_toolbar.md) controls):
 
--   Ctrl+Alt+0
+-   **Ctrl**+Alt+0
     
 
 Normal style
 
--   Ctrl+Alt+1
+-   **Ctrl**+Alt+1
     
 
 Heading 1 style
 
--   Ctrl+Alt+2
+-   **Ctrl**+Alt+2
     
 
 Heading 2 style
 
--   Ctrl+A
+-   **Ctrl**+A
     
 
 Select All (all the content in the current box or page)
 
--   Ctrl+B
+-   **Ctrl**+B
     
 
 Bold text
 
--   Ctrl+C
+-   **Ctrl**+C
     
 
 Copy selected text to clipboard
 
--   Ctrl+I
+-   **Ctrl**+I
     
 
 Italic text
 
--   Ctrl+L
+-   **Ctrl**+L
     
 
 Left-align
 
--   Ctrl+N
+-   **Ctrl**+N
     
 
 [Add a page](../../Tasks/Edit_tasks/Add_a_page.md)
 
--   Ctrl+R
+-   **Ctrl**+R
     
 
 Right-align
 
--   Ctrl+U
+-   **Ctrl**+U
     
 
 Underline text
 
--   Ctrl+V or Shift+Insert
+-   **Ctrl**+V _or_ **Shift**+**Insert**
     
 
 Paste text from clipboard to location of cursor (insertion point). The text is pasted as plain text, without bold, italics and so on.
 
--   Ctrl+X
+-   **Ctrl**+X
     
 
 Cut selected text from text box to clipboard
 
--   Ctrl+Z
+-   **Ctrl**+Z
     
 
-Ctrl+Y
+**Ctrl**+**Y**
 
-Undo - reverse the most recent typed change.
+Undo - reverse the most recent _typed_ change.
 
-Redo - reverse most recent Undo operation.
+Redo - reverse most recent **Undo** operation.
 
--   Tab or Shift+Tab
+-   **Tab** or **Shift**+**Tab**
     
 
 If a page has two text boxes:
 
--   Tab moves forward to second text box
+-   **Tab** moves forward to second text box
     
 -   Shift+Tab moves back to first text box.
     
 
--   Ctrl+Spacebar
+-   **Ctrl**+Spacebar
     
 
-Clears Ctrl+B, Ctrl+U and Ctrl+I.
+Clears **Ctrl**+B, **Ctrl**+U and **Ctrl**+I.
 
 -   Paste text with \\v
     
@@ -114,29 +114,29 @@ Clears Ctrl+B, Ctrl+U and Ctrl+I.
 Example:  
 If you copy and paste \\v123, you will see 123 (superscript).
 
- ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) Publish tab:
+![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) **Publish** tab:
 
--   Ctrl+P
+-   **Ctrl**+P
     
 
 Print file
 
--   Ctrl+Minus
+-   **Ctrl**+Minus
     
 
 Zoom out
 
--   Ctrl+Plus
+-   **Ctrl**+Plus
     
 
 Zoom in
 
--   Shift+Ctrl+N
+-   Shift+**Ctrl**+N
     
 
 Go to specific page
 
--   Shift+Ctrl+S
+-   Shift+**Ctrl**+S
     
 
 Save a copy

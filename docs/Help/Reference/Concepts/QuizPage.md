@@ -6,9 +6,9 @@ slug: /Help/Reference/quizpage
 
 ## Quiz Page
 
-In the Add Page dialog box, you see Quiz Page below Game Pages.
+In the **Add Page** dialog box, you see **Quiz Page** below **Game Pages**.
 
-Quiz Page is an interactive page. You can [add](../Tasks/Edit_tasks/Add_a_page.md) one or more and use them to ask comprehension questions and provide possible answers.
+**Quiz Page** is an interactive page. You can [add](../Tasks/Edit_tasks/Add_a_page.md) one or more and use them to ask comprehension questions and provide possible answers.
 
 Instructions for each text box appear in a yellow box.
 
@@ -24,7 +24,7 @@ Quiz pages are not included in [ePUB](../Tasks/Publish_tasks/Make_an_ePUB_book_o
 
 -   The dot (![](/ref-docs-assets/images/Concepts/AddPageBE.png)) means this is a [Bloom Enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature.
     
--   You can [reorder](../Tasks/Edit_tasks/Reorder_pages.md) pages in the Pages pane.
+-   You can [reorder](../Tasks/Edit_tasks/Reorder_pages.md) pages in the **Pages** pane.
     
 
 #### Related Topics

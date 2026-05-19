@@ -10,9 +10,9 @@ slug: /Help/Reference/change-user-interface-language
     
 2.  If the language you want is not listed, do any of these options:
     
-    -   Select (![](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) Show translations which have not been approved yet if you need to see or use an unapproved UI language.
+    -   Select (![](/ref-docs-assets/images/User_Interface/Toolbar/ShowTranslationsCheckMark.png)) **Show translations which have not been approved yet** if you need to see or use an unapproved UI language.
         
-    -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpUsTranslateButton.png) Help us Translate Bloom to open [https://crowdin.com/project/sil-bloom](https://crowdin.com/project/sil-bloom) in the Internet.
+    -   Click ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpUsTranslateButton.png) **Help us Translate Bloom** to open [https://crowdin.com/project/sil-bloom](https://crowdin.com/project/sil-bloom) in the Internet.
         
     -   [Get more help](../../Overview/Get_More_Help.md).
         

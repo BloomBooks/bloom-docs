@@ -6,7 +6,7 @@ slug: /Help/Reference/image-description-tool-example
 
 ## Image Description Tool example
 
-The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Image_Description_Tool/ImageDescriptionTool_Blue.png) Image Description Tool is on the right side.
+The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Image_Description_Tool/ImageDescriptionTool_Blue.png) **Image Description Tool** is on the right side.
 
 The text box for the description is next to the image.
 

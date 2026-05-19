@@ -9,7 +9,7 @@ slug: /Help/Reference/delete-a-book-from-bloomlibrary
 
 BloomLibrary.org has books that you and others have [published](../Publish_tasks/Publish%20to%20Web.md).
 
-You can delete books that you uploaded.
+You can delete books that _you_ uploaded.
 
 #### Prerequisites
 

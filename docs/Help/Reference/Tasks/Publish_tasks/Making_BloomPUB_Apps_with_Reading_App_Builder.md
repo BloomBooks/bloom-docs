@@ -6,14 +6,14 @@ slug: /Help/Reference/making-bloompub-apps-with-reading-app-builder
 
 ## Making BloomPUB Apps with Reading App Builder
 
- ![](/ref-docs-assets/images/Tasks/Publish_tasks/Android_Button_New.png) BloomPUB is one of the [digital publishing options](Digital_publishing_options.md). 
+![](/ref-docs-assets/images/Tasks/Publish_tasks/Android_Button_New.png) **BloomPUB** is one of the [digital publishing options](Digital_publishing_options.md). 
 
 Where to begin:
 
 -   [https://software.sil.org/readingappbuilder/download/](https://software.sil.org/readingappbuilder/download/ "https://software.sil.org/readingappbuilder/download/")
     
-
-From this Internet site, you can download the program, and then install it. 
+    From this Internet site, you can download the program, and then install it. 
+    
 
 -   [https://software.sil.org/readingappbuilder/resources/](https://software.sil.org/readingappbuilder/resources/ "https://software.sil.org/readingappbuilder/resources/")
     

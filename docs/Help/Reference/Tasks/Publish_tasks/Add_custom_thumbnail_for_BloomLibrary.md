@@ -10,8 +10,8 @@ slug: /Help/Reference/add-custom-thumbnail-for-bloomlibrary
     
 2.  Save this file as a \*.png file in the Bloom folder for the book with this name:
     
-
-custom-thumbnail-256.png
+    custom-thumbnail-256.png
+    
 
 3.  Do the steps in [Publish to Web](Publish%20to%20Web.md) to upload your book to Bloom Library.
     
@@ -20,10 +20,10 @@ custom-thumbnail-256.png
 
 #### Tip
 
--   To find the Bloom folder for your book, go to the Collections [tab](../../User_Interface/Tabs/Tabs_overview.md).
+-   To find the Bloom folder for your book, go to the **Collections** [tab](../../User_Interface/Tabs/Tabs_overview.md).
     
 
-[Right-click](../../User_Interface/Tabs/Collections_tab_commands.md) and click Show in File Explorer.
+[Right-click](../../User_Interface/Tabs/Collections_tab_commands.md) and click **Show in File Explorer**.
 
 #### Related Topics
 

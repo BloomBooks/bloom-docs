@@ -12,11 +12,11 @@ A video placeholder (![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoCamera.pn
 
 #### Tip
 
--   Click a video placeholder (![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoCamera.png)) if you do not see the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Sign_Language_Tool/VideoPlaceHolderSMALLblue.png) Sign Language Tool in the [tool box](Tool_Box.md).
+-   Click a video placeholder (![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoCamera.png)) if you do not see the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Sign_Language_Tool/VideoPlaceHolderSMALLblue.png) **Sign Language Tool** in the [tool box](Tool_Box.md).
     
--   The Sign Language Tool displays metadata about the current video. You can [record](../Tasks/Edit_tasks/Sign_Language_Tool/Using_the_Sign_Languager_Tool.md) a video in Bloom or [import](../Tasks/Edit_tasks/Sign_Language_Tool/Import_a_video.md) them.
+-   The **Sign Language Tool** displays metadata about the current video. You can [record](../Tasks/Edit_tasks/Sign_Language_Tool/Using_the_Sign_Languager_Tool.md) a video in Bloom or [import](../Tasks/Edit_tasks/Sign_Language_Tool/Import_a_video.md) them.
     
--   You can use Change Layout [controls](../Tasks/Edit_tasks/Using_the_Change_Layout_controls.md) to insert a video placeholder.
+-   You can use **Change Layout** [controls](../Tasks/Edit_tasks/Using_the_Change_Layout_controls.md) to insert a video placeholder.
     
 -   You should not have more than one video per page.
     

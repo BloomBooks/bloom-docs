@@ -6,24 +6,24 @@ slug: /Help/Reference/collections-tab-tasks-overview
 
 ## Collections tab tasks overview
 
-When the Collections [tab](../../User_Interface/Tabs/Collections_tab_commands.md) is displayed, you can see these links below Books From BloomLibrary.org:
+When the **Collections** [tab](../../User_Interface/Tabs/Collections_tab_commands.md) is displayed, you can see these links below **Books From BloomLibrary.org**:
 
--   GET MORE SOURCE BOOKS AT BLOOMLIBRARY.ORG
+-   **GET MORE SOURCE BOOKS AT BLOOMLIBRARY.ORG**
+    
+    Click this link to open [https://bloomlibrary.org/](https://bloomlibrary.org/ "https://bloomlibrary.org/") so you can [get a book](../Basic_tasks/Get_a_book_from_BloomLibrary.md).
     
 
-Click this link to open [https://bloomlibrary.org/](https://bloomlibrary.org/ "https://bloomlibrary.org/") so you can [get a book](../Basic_tasks/Get_a_book_from_BloomLibrary.md).
-
--   SHOW ANOTHER COLLECTION
+-   **SHOW ANOTHER COLLECTION**
     
 
-Click this link to open the Bloom folder on your computer. If there are other collection folders there, do these steps: double-click to open that folder, click the \*.bloomCollection file, and then click Open. 
+Click this link to open the Bloom folder on your computer. If there are other collection folders there, do these steps: double-click to open that folder, click the \*.bloomCollection file, and then click **Open**. 
 
 The books in that collection appear in Bloom.
 
 -   Click ![](/ref-docs-assets/images/User_Interface/Tabs/HideCollection.png) near the collection name if you do not want to see this collection in Bloom.
     
 
-Do any of these tasks when in the Collections [tab](../../User_Interface/Tabs/Collections_tab_commands.md) is displayed:
+Do any of these tasks when in the **Collections** [tab](../../User_Interface/Tabs/Collections_tab_commands.md) is displayed:
 
 -   [Make a book from Arithmetic template](Make_a_book_from_Arithmetic.md)
     
@@ -37,7 +37,7 @@ Do any of these tasks when in the Collections [tab](../../User_Interface/Tabs/Co
     
 -   [Make a Wall Calendar](Make_a_wall_calendar.md)
     
--   See Also: [Collection tab commands](../../User_Interface/Tabs/Collections_tab_commands.md)
+-   **See Also:** [Collection tab commands](../../User_Interface/Tabs/Collections_tab_commands.md)
     
 
 #### Note

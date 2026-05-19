@@ -6,7 +6,7 @@ slug: /Help/Reference/using-the-change-layout-controls
 
 ## Using the Change Layout controls
 
-[About the Change Layout controls](About_the_Change_Layout_controls.md) describes the Change Layout control (![](/ref-docs-assets/images/Tasks/Edit_tasks/ChangeLayoutHiddenLITE.png)).
+[About the Change Layout controls](About_the_Change_Layout_controls.md) describes the **Change Layout** control (![](/ref-docs-assets/images/Tasks/Edit_tasks/ChangeLayoutHiddenLITE.png)).
 
 1.  To insert the first box, do one of these steps:
     
@@ -31,7 +31,7 @@ slug: /Help/Reference/using-the-change-layout-controls
     
 4.  To change widths of boxes, move your mouse pointer over the vertical edges of adjacent boxes. The mouse pointer changes to be a double-headed arrow (![](/ref-docs-assets/images/Tasks/Edit_tasks/vertical_lines_w_arrows.GIF)) and the splitter line (![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeHorizontally.png)) appears. Click and drag that line.
     
-5.  To change the [language or languages](../../User_Interface/Dialog_boxes/Languages_tab.md) that the text box can use, click the gear button (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)). [Use](Using_the_Language_tab.md) the Text Box Properties dialog box.
+5.  To change the [language or languages](../../User_Interface/Dialog_boxes/Languages_tab.md) that the text box can use, click the gear button (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)). [Use](Using_the_Language_tab.md) the **Text Box Properties** dialog box.
     
 6.  When the boxes you want are in the desired positions, [hide the controls](About_the_Change_Layout_controls.md).
     
@@ -57,7 +57,7 @@ square.
 
 -   The splitter moves only by full percentage points.
     
--   If you need more precision, hold down the CTRL key to move by tenths of a percent, ignoring the snap points.
+-   If you need more precision, hold down the **CTRL** key to move by tenths of a percent, ignoring the snap points.
     
 -   [Custom template page example](Custom_page_template_example.md) discusses the red line that appears when a text box has too many words.
     

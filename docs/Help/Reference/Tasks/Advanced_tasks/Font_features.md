@@ -27,18 +27,18 @@ Currently there is no Bloom UI support for this. However, advanced users can [ed
 
 -   To add support for multiple languages, separate each language definition with a comma:
     
-
-\[lang="kdj"\], \[long="tpi"\]
+    \[lang="kdj"\], \[long="tpi"\]
+    
 
 -   To add support for multiple glyphs, separate each glyph's rule with a comma:
     
-
 ```css
-{  
-  font-feature-settings: "dig4" 1, "i\_tl" 1, "Qalt" 1;  
-  -moz-font-feature-settings: "dig4" 1, "i\_tl" 1, "Qalt" 1;  
-}
+    {  
+      font-feature-settings: "dig4" 1, "i\_tl" 1, "Qalt" 1;  
+      -moz-font-feature-settings: "dig4" 1, "i\_tl" 1, "Qalt" 1;  
+    }
 ```
+    
 
 -   If you use Calibri, you may see that ![](/ref-docs-assets/images/Tasks/Advanced_tasks/FontReplaced.png).
     

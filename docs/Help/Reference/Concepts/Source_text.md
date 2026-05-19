@@ -6,13 +6,13 @@ slug: /Help/Reference/source-text
 
 ## Source text
 
-A Source text is the words for a [book](Book.md). These words are provided in one or more languages of wider communication. These words are typed in [shell books](Shell_book.md). These words are translated into the local language. The words that need to be translated are in boxes. The boxes are along the side of the page. In some cases, you can change the language of the words.
+A _Source text_ is the words for a [book](Book.md). These words are provided in one or more languages of wider communication. These words are typed in [shell books](Shell_book.md). These words are translated into the local language. The words that need to be translated are in boxes. The boxes are along the side of the page. In some cases, you can change the language of the words.
 
 #### Example 1
 
--   The English words are shown at the side the text box.
+-   The **English** words are shown at the side the text box.
     
--   The [toolbar](../User_Interface/Toolbar/Edit_tab_toolbar.md) would show ![](/ref-docs-assets/images/User_Interface/Toolbar/OneLang.png) (One Language). The book would be [monolingual](Bilingual_or_trilingual_books.md).
+-   The [toolbar](../User_Interface/Toolbar/Edit_tab_toolbar.md) would show ![](/ref-docs-assets/images/User_Interface/Toolbar/OneLang.png) (**One Language**). The book would be [monolingual](Bilingual_or_trilingual_books.md).
     
 -   You can click the copy button (![](/ref-docs-assets/images/Concepts/CopyButtonSourceTextBox.png)) to copy the source text to your clipboard. You cannot edit the source texts here.
     
@@ -30,7 +30,7 @@ A Source text is the words for a [book](Book.md). These words are provided in on
 
 #### Important
 
--   If the source text is available in more than two languages, a number appears next to the tabs. The picture below shows an example that has 3 languages. There are two tabs with the language name, and one more that shows that there is another language. You could see a larger number.
+-   If the source text is available in _more_ than two languages, a number appears next to the tabs. The picture below shows an example that has 3 languages. There are two tabs with the language name, and one more that shows that there is another language. You could see a larger number.
     
     -   Click the number to see the other language or languages. Then, click the language you want to see in a tab.
         
@@ -39,7 +39,7 @@ A Source text is the words for a [book](Book.md). These words are provided in on
 
 #### Tip
 
--   You can control how the language name appears in this dialog box. See: [Change or Set languages](../Tasks/Basic_tasks/Change_languages.md).
+-   You can control how the language name appears in this dialog box. **See:** [Change or Set languages](../Tasks/Basic_tasks/Change_languages.md).
     
 -   For a [trilingual](Bilingual_or_trilingual_books.md) book, [choose three languages](../Tasks/Basic_tasks/Change_languages.md).
     

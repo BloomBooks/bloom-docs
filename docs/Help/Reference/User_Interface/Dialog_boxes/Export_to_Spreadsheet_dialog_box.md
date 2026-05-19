@@ -6,7 +6,7 @@ slug: /Help/Reference/export-to-spreadsheet-dialog-box
 
 ## Export to Spreadsheet dialog box
 
-Currently, Spreadsheet Import/Export is a [Bloom Enterprise](../../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature (![](/ref-docs-assets/images/User_Interface/BloomEnterprise%20button.png)).
+Currently, **Spreadsheet Import/Export** is a [Bloom Enterprise](../../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature (![](/ref-docs-assets/images/User_Interface/BloomEnterprise%20button.png)).
 
 This dialog box appears when you [export to spreadsheet](../../Tasks/Basic_tasks/Export_to_Spreadsheet.md).
 

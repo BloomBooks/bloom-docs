@@ -10,20 +10,20 @@ Do the steps below to make a shell book that other people can use to [make](../
 
 1.  [Open](../Basic_tasks/Open_a_collection.md) the collection that uses the language or languages you want the shell book to have.
     
-2.  In the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Tabs_overview.md), click the appropriate [source](../../Concepts/Sources_For_New_Shells.md).
+2.  In the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../../User_Interface/Tabs/Tabs_overview.md), click the appropriate [source](../../Concepts/Sources_For_New_Shells.md).
+    
+    You can click **Arithmetic**, **Basic Book**, **Big Book** or another template or specialized template that was installed with Bloom.
     
 
-You can click Arithmetic, Basic Book, Big Book or another template or specialized template that was installed with Bloom.
-
-3.  Click ![](/ref-docs-assets/images/Tasks/addbook2lib.png) MAKE A BOOK USING THIS SOURCE.
+3.  Click ![](/ref-docs-assets/images/Tasks/addbook2lib.png) **MAKE A BOOK USING THIS SOURCE**.
     
-
-The new book opens in the Edit tab.
+    The new book opens in the **Edit** tab.
+    
 
 4.  [Tasks overview](../Tasks_overview.md) has links to [Collections tab tasks](../Collections_tab_tasks/Collections_tab_tasks_overview.md) and [Edit tab tasks,](../Edit_tasks/Edit_tasks_overview.md) which list steps you can reference.
     
-
-When you are done, minimally, you should have:
+    When you are done, minimally, you should have:
+    
 
 -   typed in the appropriate [metadata](../../Concepts/Metadata_in_Bloom.md)
     

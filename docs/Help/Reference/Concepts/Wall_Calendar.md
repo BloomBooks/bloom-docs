@@ -6,7 +6,7 @@ slug: /Help/Reference/wall-calendar
 
 ## Wall Calendar
 
-In a Local Language [collection](Collection.md), you can use the Wall Calendar [template](Template.md) to make calendars.
+In a Local Language [collection](Collection.md), you can use the **Wall Calendar** [template](Template.md) to make calendars.
 
 You choose the year, and Bloom automatically puts dates on the correct days for each month. The [Setup dialog box](../User_Interface/Dialog_boxes/Setup_dialog_box.md) allows you to type the day abbreviations and month names in your local language.
 

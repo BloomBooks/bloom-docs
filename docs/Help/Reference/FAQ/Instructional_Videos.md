@@ -8,7 +8,7 @@ slug: /Help/Reference/instructional-videos
 
 If you have Internet access, you can watch Bloom training videos.
 
--   ![](/ref-docs-assets/images/User_Interface/Help_menu/VideoIcon.png) Training Videos on the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (Get Help) [menu](../User_Interface/Help_menu/Help_menu.md) opens a list of videos.
+-   ![](/ref-docs-assets/images/User_Interface/Help_menu/VideoIcon.png) **Training** **Videos** on the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (**Get Help**) [menu](../User_Interface/Help_menu/Help_menu.md) opens a list of videos.
     
 -   Some topics in these Helps have links to a related video.
     
@@ -37,7 +37,7 @@ Videos may be added or updated separately from Bloom releases. Consequently, alb
 
 -   The information in [https://vimeo.com/album/3146448/video/112825489](https://vimeo.com/album/3146448/video/112825489 "https://vimeo.com/album/3146448/video/112825489") will help you understand other videos better.
     
--   If you click the Decodable Reader or a Leveled Reader template below Sources for New Books, the information that appears includes a hyperlink to a list of the related videos.
+-   If you click the **Decodable Reader** or a **Leveled Reader** template below **Sources for New Books**, the information that appears includes a hyperlink to a list of the related videos.
     
 
 #### Related Topics

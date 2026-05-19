@@ -8,7 +8,7 @@ slug: /Help/Reference/example-too-many-words
 
 ### Example
 
-The sentence below has more words (Actual) than the current [level](../../../Concepts/Level.md) allows (Max).
+The sentence below has more words (**Actual**) than the current [level](../../../Concepts/Level.md) allows (**Max**).
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/YellowWavyNumber.png)
 

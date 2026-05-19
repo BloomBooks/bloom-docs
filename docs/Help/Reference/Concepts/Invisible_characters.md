@@ -12,7 +12,7 @@ Here is how you can learn where the invisible characters are in your text:
 
 1.  Click a text box, a [Canvas Tool](../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) element or wherever you typed text.
     
-2.  On your keyboard, press Ctrl+Shift+Spacebar.
+2.  On your keyboard, press **Ctrl+Shift+Spacebar**.
     
 
 Any invisible characters are identified in temporary tool-tips.

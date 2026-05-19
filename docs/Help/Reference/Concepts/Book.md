@@ -6,7 +6,7 @@ slug: /Help/Reference/book
 
 ## Book
 
-In these Bloom Helps, the generic term "book" means any document in a [collection](Collection.md).
+In these Bloom Helps, the generic term "book" means _any document in a_ [collection](Collection.md).
 
 This can include any of the following:
 

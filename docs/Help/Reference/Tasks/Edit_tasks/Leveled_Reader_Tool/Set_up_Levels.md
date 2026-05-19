@@ -6,15 +6,15 @@ slug: /Help/Reference/set-up-levels
 
 ## Set up levels
 
-1.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/Leveled_Reader_Tool_icon.png) Leveled Reader Tool [tab](../../../Concepts/Tool_Box.md), click Set up Levels (![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/SetUpLevels.png)).
+1.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/Leveled_Reader_Tool_icon.png) **Leveled Reader Tool** [tab](../../../Concepts/Tool_Box.md), click **Set up Levels** (![](/ref-docs-assets/images/Tasks/Edit_tasks/Leveled_Reader_Tool/SetUpLevels.png)).
+    
+    The **Set up Leveled Reader Tool** dialog box opens.
     
 
-The Set up Leveled Reader Tool dialog box opens.
-
-2.  [Use](Reader_Levels_tab.md) the Reader Levels tab to add, configure, reorder or remove levels. This includes For this Level statements.
+2.  [Use](Reader_Levels_tab.md) the **Reader Levels** tab to add, configure, reorder or remove levels. This includes **For this Level** statements.
     
 
-3.  [Use](Punctuation_tab.md) the Punctuation tab if you need to add more special sentence-ending characters. This helps Bloom determine the [word count](Review_Count_and_Length_information.md) information.
+3.  [Use](Punctuation_tab.md) the **Punctuation** tab if you need to add more special sentence-ending characters. This helps Bloom determine the [word count](Review_Count_and_Length_information.md) information.
     
 
 #### Related Topics

@@ -6,27 +6,28 @@ slug: /Help/Reference/choose-a-topic
 
 ## Choose a topic
 
-1.  If the Front Cover page is not already in view, do these steps:
+1.  If the **Front Cover** page is not already in view, do these steps:
     
-    -   In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit [tab](../../User_Interface/Tabs/Tabs_overview.md), look in the Pages pane.
+    -   In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab](../../User_Interface/Tabs/Tabs_overview.md), look in the **Pages** pane.
         
-    -   Click the Front Cover page.
+    -   Click the **Front Cover** page.
         
-
-It appears in the center pane.
-
-2.  Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Click2ChooseTopic.png) (Click to choose topic). It is near the bottom of the page.
+    
+    It appears in the center pane.
     
 
-The Topics dialog box opens.
+2.  Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Click2ChooseTopic.png) (**Click to choose topic**). It is near the bottom of the page.
+    
+    The **Topics** dialog box opens.
+    
 
 3.  Do one of these steps:
     
     -   Click the topic that describes the book.
         
-    -   Click (No Topic) to remove a previous selection without choosing another topic.
+    -   Click **(No Topic)** to remove a previous selection without choosing another topic.
         
-4.  Click OK.
+4.  Click **OK**.
     
 
 The topic, if any, appears on the page.

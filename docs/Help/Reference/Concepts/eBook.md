@@ -6,7 +6,7 @@ slug: /Help/Reference/ebook
 
 ## eBook
 
-eBook is one of the [templates](Template.md) that you can use to make a new book or shell book. The default page [size and orientation](../Tasks/Edit_tasks/Choose_page_size_and_orientation.md) is Device 16x9 Landscape.  
+**eBook** is one of the [templates](Template.md) that you can use to make a new book or shell book. The default page [size and orientation](../Tasks/Edit_tasks/Choose_page_size_and_orientation.md) is **Device 16x9 Landscape**.  
 
 It has these pages: [Front Cover](Front_Cover_page.md), [Credits Page](Credits_Page.md), [Title Page,](Title_Page.md) and [Back Cover pages](Back_cover_pages.md). In addition, it gives you a number of different templates. You see them when you [add a page](../Tasks/Edit_tasks/Add_a_page.md).
 

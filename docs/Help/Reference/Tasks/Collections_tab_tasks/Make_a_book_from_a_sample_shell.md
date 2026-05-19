@@ -8,13 +8,13 @@ slug: /Help/Reference/make-a-book-from-a-sample-shell
 
 It is expected that you will use the pictures and pages that are in the sample shell.
 
-1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../../User_Interface/Tabs/Tabs_overview.md).
+1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../../User_Interface/Tabs/Tabs_overview.md).
     
-2.  In the left pane, below Sources For New Books, click the sample shell that you will use as the basis of your book.
+2.  In the _left_ pane, below **Sources For New Books**, click the sample shell that you will use as the basis of your book.
     
-3.  Click ![](/ref-docs-assets/images/Tasks/addbook2lib.png) MAKE A BOOK USING THIS SOURCE.
+3.  Click ![](/ref-docs-assets/images/Tasks/addbook2lib.png) **MAKE A BOOK USING THIS SOURCE**.
     
-    The book is added. It opens in the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit tab. You see the [Front Cover page](../../Concepts/Front_Cover_page.md).
+    The book is added. It opens in the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** tab. You see the [Front Cover page](../../Concepts/Front_Cover_page.md).
     
 4.  The remaining steps you need to do depend on what kind of book the sample shell was (basic book, arithmetic and so on).
     

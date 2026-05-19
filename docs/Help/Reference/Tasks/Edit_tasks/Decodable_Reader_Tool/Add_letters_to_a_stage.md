@@ -6,30 +6,29 @@ slug: /Help/Reference/add-letters-to-a-stage
 
 ## Add letters to a stage
 
-If you selected (![](/ref-docs-assets/images/SelectedRadioButton.png)) We are using letters with sight words to define stages in the Sample Words [tab](Words_tab.md), do these steps.
+If you selected (![](/ref-docs-assets/images/SelectedRadioButton.png)) **We are using letters with sight words to define stages** in the **Sample Words** [tab](Words_tab.md), do these steps.
 
-1.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/Decodable_Reader_Tool_icon.png) Decodable Reader Tool, click the Set up Stages link.
+1.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/Decodable_Reader_Tool_icon.png) **Decodable Reader Tool**, click the **Set up Stages** link.
     
-2.  In the Set up Decodable Reader Tool dialog box, click the Decodable Stages tab.
+2.  In the **Set up Decodable Reader Tool** dialog box, click the **Decodable Stages** tab.
     
-3.  In the left pane, click the stage.
+3.  In the _left_ pane, click the stage.
     
-
-In the right pane, the Previous and New Letters area has a [grid](Example_Previous_and_New_Letters_grid.md) with letters and other word-forming characters.
-
--   Letter and characters with bold font and a colored border have already been added to a previous stage.
+    In the _right_ pane, the **Previous and New Letters** area has a [grid](Example_Previous_and_New_Letters_grid.md) with letters and other word-forming characters.
     
--   Letters and characters with a colored background have already been added to the current stage.
-    
--   Letters and characters with a normal (light gray) font are available to be added.
-    
+    -   Letter and characters with bold font and a colored border have already been added to a previous stage.
+        
+    -   Letters and characters with a colored background have already been added to the _current_ stage.
+        
+    -   Letters and characters with a normal (light gray) font are available to be added.
+        
 
 4.  Click the letters or characters you want to add to the current stage.
     
 
--   If a letter or character you need is not in the grid, add it in the Letters [tab](Letters_tab.md).
+-   If a letter or character you need is not in the grid, add it in the **Letters** [tab](Letters_tab.md).
     
--   If the grid shows a letter more than one time, that letter was added more than once in the Letters and Letter Combinations box.
+-   If the grid shows a letter more than one time, that letter was added more than once in the **Letters and Letter Combinations** box.
     
 -   To remove a letter from the current stage, just click it again. The colored background is removed to tell you that it was removed and is available for adding to another stage.
     

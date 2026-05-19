@@ -6,20 +6,20 @@ slug: /Help/Reference/impairment-visualizer-overview
 
 ## Impairment Visualizer overview
 
-![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/ImpairmentVisualizerBlueIcon.png) Impairment Visualizer is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
+![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/ImpairmentVisualizerBlueIcon.png) **Impairment Visualizer** is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
 
 Your [images](../../../Concepts/Picture.md) may need to be [accessible](../../Publish_tasks/Accessibility.md) to readers who have visual impairments. This tool simulates how your images would appear to a reader who has cataracts and color blindness.
 
--   Cataracts are an opacity or clouding of the lens which reduces its transparency.
+-   _Cataracts_ are an opacity or clouding of the lens which reduces its transparency.
     
--   Color blindness is a decreased ability to see color or distinguish differences in colors.
+-   _Color blindness_ is a decreased ability to see color or distinguish differences in colors.
     
 
-The Bloom Accessibility Checker dialog box has a check box with this label:
+The **Bloom Accessibility Checker** dialog box has a check box with this label:
 
-![](/ref-docs-assets/images/UncheckedBox.PNG) No essential information by color.
+![](/ref-docs-assets/images/UncheckedBox.PNG) **No essential information by color**.
 
-The Impairment Visualizer can help you determine if you can select it.
+The **Impairment Visualizer** can help you determine if you can select it.
 
 ### Task Topics
 

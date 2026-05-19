@@ -10,22 +10,21 @@ In general, a thumbnail is a very small or concise description, representation o
 
 Here are things you can do with a thumbnail:
 
--   In the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) Collections [tab](../User_Interface/Tabs/Collections_tab_commands.md), you can [update](../User_Interface/Tabs/Collections_tab_commands.md) or [rename](../Tasks/Basic_tasks/Rename_a_book_thumbnail.md) it.
+-   In the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../User_Interface/Tabs/Collections_tab_commands.md), you can [update](../User_Interface/Tabs/Collections_tab_commands.md) or [rename](../Tasks/Basic_tasks/Rename_a_book_thumbnail.md) it.
     
--   In the ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) Publish tab, [choose](../Tasks/Publish_tasks/Share_your_BloomPUB_file.md) a thumbnail color when you send your book to the [Bloom Reader app](Bloom_Reader_App.md).
+-   In the ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png) **Publish** tab, [choose](../Tasks/Publish_tasks/Share_your_BloomPUB_file.md) a thumbnail color when you send your book to the [Bloom Reader app](Bloom_Reader_App.md).
     
--   Create a custom thumbnail for an [epub](EPUB.md). It can include a title and subtitle that has a [picture](Picture.md) added [using](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) the Canvas Tool.
+-   Create a custom thumbnail for an [epub](EPUB.md). It can include a title and subtitle that has a [picture](Picture.md) added [using](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) the **Canvas Tool**.
     
-
-Do these steps:
-
-1.  Create a custom thumbnail with the largest dimension of at least 256 pixels.   
-    Some might start with 1200 x 700 pixels. Bloom will reduce it so the largest dimension is 256 pixels.
+    Do these steps:
     
-2.  Save that file with this exact name: epub-thumbnail.png.
-    
-3.  Copy this custom thumbnail to the folder for the book.
-    
+    1.  Create a custom thumbnail with the largest dimension of at least 256 pixels.   
+        Some might start with 1200 x 700 pixels. Bloom will reduce it so the largest dimension is 256 pixels.
+        
+    2.  Save that file with this exact name: _epub-thumbnail.png_.
+        
+    3.  Copy this custom thumbnail to the folder for the book.
+        
 
 #### Tip
 
@@ -51,7 +50,7 @@ Here are recommendations to consider for optimal images for an epub.
     
     -   Cover images work best in portrait orientation, not landscape. This way, they suit the screen size of most e-reading devices.
         
--   See Also: [Add custom thumbnail for Bloom Library](../Tasks/Publish_tasks/Add_custom_thumbnail_for_BloomLibrary.md).
+-   **See Also:** [Add custom thumbnail for Bloom Library](../Tasks/Publish_tasks/Add_custom_thumbnail_for_BloomLibrary.md).
     
 
 #### Related Topics

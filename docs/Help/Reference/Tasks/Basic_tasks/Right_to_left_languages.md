@@ -12,9 +12,9 @@ You can use Bloom to make books that use right-to-left languages. You need to se
 
 Do these steps in the [Book Making tab](Select_front_matter_or_back_matter_from_a_pack.md):
 
-1.  Choose the default [font](../../Concepts/Font.md) that can display the characters for the language.
+1.  Choose the _default_ [font](../../Concepts/Font.md) that can display the characters for the language.
     
-2.  Select (![](/ref-docs-assets/images/CheckedBox.PNG)) the Right to Left Writing System check box for the left to right language.
+2.  Select (![](/ref-docs-assets/images/CheckedBox.PNG)) the **Right to Left Writing System** check box for the left to right language.
     
 
 ### Keyboards

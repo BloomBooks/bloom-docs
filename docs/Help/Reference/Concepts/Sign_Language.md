@@ -6,29 +6,29 @@ slug: /Help/Reference/sign-language
 
 ## Sign Language
 
-A sign language is a system of communication using visual gestures and signs.
+A _sign language_ is a system of communication using visual gestures and signs.
 
-A signer is someone who communications information to deaf people using a sign language.
+A _signer_ is someone who communications information to deaf people using a sign language.
 
-Here are items you can use in Bloom to include videos of a signer in your book.
+Here are items you can use in Bloom to include videos of a _signer_ in your book.
 
 ### Sign Language - Setting dialog box
 
--   Use the Languages [tab](../User_Interface/Dialog_boxes/Languages_tab.md) to [set](../Tasks/Basic_tasks/Change_languages.md) the sign language you will use in [videos](../Tasks/Edit_tasks/Sign_Language_Tool/Sign_Language_Tool_overview.md).
+-   Use the **Languages** [tab](../User_Interface/Dialog_boxes/Languages_tab.md) to [set](../Tasks/Basic_tasks/Change_languages.md) the sign language you will use in [videos](../Tasks/Edit_tasks/Sign_Language_Tool/Sign_Language_Tool_overview.md).
     
 
-See: [About Book Features](../Tasks/Publish_tasks/Features.md).
+**See:** [About Book Features](../Tasks/Publish_tasks/Features.md).
 
 ### Sign Language - Template
 
 -   This is one of the [templates](Template.md) you can use as the basis of a book. When you click this template, information about the template appear in the main (right) pane.
     
 
-When you open it in the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit tab, the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Sign_Language_Tool/VideoPlaceHolderSMALLblue.png) Sign Language Tool opens in the [tool box](Tool_Box.md).
+When you open it in the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** tab, the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Sign_Language_Tool/VideoPlaceHolderSMALLblue.png) **Sign Language Tool** opens in the [tool box](Tool_Box.md).
 
 ### Sign Language - Add Pages
 
--   In the Add Page dialog box you see various pages with a [video placeholder](Video.md) below the Sign Language heading.
+-   In the **Add Page** dialog box you see various pages with a [video placeholder](Video.md) below the **Sign Language** heading.
     
 
 You can [import](../Tasks/Edit_tasks/Sign_Language_Tool/Import_a_video.md) or [record](../Tasks/Edit_tasks/Sign_Language_Tool/Using_the_Sign_Languager_Tool.md) videos in Bloom when you use these pages.

@@ -10,18 +10,18 @@ Goals:
 
 -   It will be simple to use. It will not require a lot of training.
     
-
-This will give confidence to people who are new to computers.
+    This will give confidence to people who are new to computers.
+    
 
 -   There will be real and useful output.
     
-
-Books can be written locally.
+    Books can be written locally.
+    
 
 -   It will support [roles](../Concepts/Roles.md).
     
-
-This can benefit groups who need books and people who help them work together.
+    This can benefit groups who need books and people who help them work together.
+    
 
 -   Books can be [published](../Tasks/Publish_tasks/Publish_tasks_overview.md) digitally or printed on paper.
     
@@ -32,7 +32,7 @@ Bloom uses collections of [shell books](../Concepts/Shell_book.md) and [template
     
 -   That shell book is copied. The copy is given to someone who speaks another language. That person translates the words into their own language. The published book could show words in one, [two or three languages](../Concepts/Bilingual_or_trilingual_books.md).
     
--   Bloom Library has books you can download and use to make books in your language. When you are done, you can upload the books up to Bloom Library for others to use.
+-   _Bloom Library_ has books you can download and use to make books in your language. When you are done, you can upload the books up to Bloom Library for others to use.
     
 -   You can use the various tools in the [Tool Box](../Concepts/Tool_Box.md) to make [talking books](../Tasks/Edit_tasks/Record_Audio/Talking_Book_Tool_overview.md) and [more](../Tasks/Edit_tasks/Edit_tasks_overview.md).
     

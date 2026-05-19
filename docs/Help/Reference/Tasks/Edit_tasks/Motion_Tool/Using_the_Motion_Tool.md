@@ -6,24 +6,24 @@ slug: /Help/Reference/using-the-motion-tool
 
 ## Using the Motion Tool
 
-If you have already [recorded audio](../Record_Audio/Talking_Book_Tool_overview.md) and chosen [background music](../Music_Tool/Music_Tool_overview.md), you can include them as part of the Motion Tool preview. For more, see [Audio recording tips](../Record_Audio/Recording_tips.md).
+If you have already [recorded audio](../Record_Audio/Talking_Book_Tool_overview.md) and chosen [background music](../Music_Tool/Music_Tool_overview.md), you can include them as part of the **Motion Tool** preview. For more, see [Audio recording tips](../Record_Audio/Recording_tips.md).
 
-1.  In the Pages pane, click an [inside page](../../../Concepts/Inside_pages.md).
+1.  In the **Pages** pane, click an [inside page](../../../Concepts/Inside_pages.md).
     
-2.  Click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PanZoomIcon.png) Motion Tool tab in the [tool box](../../../Concepts/Tool_Box.md).
+2.  Click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PanZoomIcon.png) **Motion Tool** tab in the [tool box](../../../Concepts/Tool_Box.md).
     
-3.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PanZoomIcon.png) Motion Tool tab, do one of these steps:
+3.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PanZoomIcon.png) **Motion Tool** tab, do one of these steps:
     
-    -   Clear (![](/ref-docs-assets/images/UncheckedBox.PNG)) the Enable Motion on this page check box if you do not want to add motion the picture on the current page. Then, click another inside page and then do the steps below.
+    -   Clear (![](/ref-docs-assets/images/UncheckedBox.PNG)) the **Enable Motion on this page** check box if you do _not_ want to add motion the picture on the current page. Then, click another inside page and then do the steps below.
         
-    -   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) the Enable Motion on this page check box if you want to add [motion](Motion_Tool_overview.md) the picture on the current page. Then, do the steps below.
+    -   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) the **Enable Motion on this page** check box if you want to add [motion](Motion_Tool_overview.md) the picture on the current page. Then, do the steps below.
         
 4.  Click the picture the shows the rectangles.
     
 
-Rectangle ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Rectangle1.png) indicates the area in focus when the motion begins.
+Rectangle ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Rectangle1.png) indicates the area in focus when the motion _begins_.
 
-Rectangle ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Rectangle2.png) indicates the area in focus when the motion finishes.
+Rectangle ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Rectangle2.png) indicates the area in focus when the motion _finishes_.
 
 5.  Reposition and resize these rectangles as desired:
     
@@ -37,26 +37,26 @@ If the rectangles do not overlap on any edge, the area between them will be pann
 6.  Do these steps to preview the motion:
     
 
--   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) Voice if you want to hear the recorded audio during the preview.
+-   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) **Voice** if you want to hear the recorded audio during the preview.
     
--   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) Music if you want to hear the music during the preview.
+-   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) **Music** if you want to hear the music during the preview.
     
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PreviewButton.png) (Preview) to start a preview.
+-   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PreviewButton.png) (**Preview**) to start a preview.
     
 
-The Preview button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PreviewButton.png)) changes to become a pause button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PauseButton.png)).
+The **Preview** button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PreviewButton.png)) changes to become a _pause_ button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PauseButton.png)).
 
 -   Reposition or resize the rectangles as desired.
     
 -   Repeat these steps until you are satisfied with the motion.
     
 
-7.  Click another page until all of them have motion or a cleared (![](/ref-docs-assets/images/UncheckedBox.PNG)) Enable Motion on this page check box.
+7.  Click another page until all of them have motion or a cleared (![](/ref-docs-assets/images/UncheckedBox.PNG)) **Enable Motion on this page** check box.
     
 
 #### Tip
 
--   If you change the [page size and orientation](../Choose_page_size_and_orientation.md) or [choose a different layout](../Choose_Different_Layout.md) after you have set the rectangles, you should preview them again. Reposition or resize them if necessary.
+-   If you change the [page size and orientation](../Choose_page_size_and_orientation.md) or [choose a different layout](../Choose_Different_Layout.md) _after_ you have set the rectangles, you should preview them again. Reposition or resize them if necessary.
     
 -   You may notice odd results if only some of the sentences on a page have recorded audio or you have you have cleared and re-recorded the audio for one of the sentences in a paragraph. If you see odd results, clear and record the audio again. Then, reposition or resize the rectangles.
     

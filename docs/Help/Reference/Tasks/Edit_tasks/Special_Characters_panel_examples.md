@@ -10,7 +10,7 @@ To see this panel, press and hold lower-case or upper-case letters, or any of th
 
 ### Example 1 - lower-case e
 
-The e key was pressed and held down. Related lower-case letters appear.
+The **e** key was pressed and held down. Related lower-case letters appear.
 
 ![PIC](/ref-docs-assets/images/Tasks/Edit_tasks/SpecialCharactersPanel_e.png)
 
@@ -22,13 +22,13 @@ The Shift+e keys were pressed and held down. Related upper-case letters appear.
 
 ### Example 3 - a symbol
 
-The $ key was pressed and held down. Related symbols appear.
+The **$** key was pressed and held down. Related symbols appear.
 
 ![PIC](/ref-docs-assets/images/Tasks/Edit_tasks/SpecialCharactersPanelDollar.png)
 
 #### Important
 
--   If the Special Character (LongPress) panel cannot find a special character that matches the key you pressed, you may inadvertently type many instances of that letter in the text box. You may need to delete them.  
+-   If the Special Character (_LongPress_) panel _cannot find_ a special character that matches the key you pressed, you may inadvertently type many instances of that letter in the text box. You may need to delete them.  
     This can happen more often with non-English keyboards.
     
 

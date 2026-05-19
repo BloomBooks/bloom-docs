@@ -12,7 +12,7 @@ Task overviews
 
 ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png)
 
-Collections
+**Collections**
 
 -   [Collections tab tasks](Collections_tab_tasks/Collections_tab_tasks_overview.md)
     
@@ -23,7 +23,7 @@ Collections
 
 ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)
 
-Edit
+**Edit**
 
 -   [Edit tab tasks](Edit_tasks/Edit_tasks_overview.md)
     
@@ -32,7 +32,7 @@ Edit
 
 ![](/ref-docs-assets/images/User_Interface/Tabs/PublishTab.png)
 
-Publish
+**Publish**
 
 -   [Publish tab tasks](Publish_tasks/Publish_tasks_overview.md)
     

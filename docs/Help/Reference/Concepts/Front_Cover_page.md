@@ -6,9 +6,9 @@ slug: /Help/Reference/front-cover-page
 
 ## Front Cover page
 
-In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)Edit [tab](../User_Interface/Tabs/Tabs_overview.md) you see the Pages pane. The Front Cover and Inside Front Cover pages are shown there. The Front Cover [page](Page.md) is the top outside page when a printed book is closed and you look at it from the front. For a PDFs or ePUBs, it is the first page.
+In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab](../User_Interface/Tabs/Tabs_overview.md) you see the **Pages** pane. The **Front Cover** and **Inside Front Cover** pages are shown there. The **Front Cover** [page](Page.md) is the top outside page when a printed book is closed and you look at it from the front. For a PDFs or ePUBs, it is the first page.
 
-The Front Cover contains:
+The **Front Cover** contains:
 
 -   [Book title](Book_Title.md) - it can appear in the top two [languages](../User_Interface/Dialog_boxes/Languages_tab.md).
     
@@ -22,7 +22,7 @@ The Front Cover contains:
 -   [Topic](../Tasks/Edit_tasks/Choose_a_topic.md) of the book.
     
 
-The Inside Front Cover can contain:
+The **Inside Front Cover** can contain:
 
 -   Any additional information that you want the reader to see.
     
@@ -31,7 +31,7 @@ You can also use the [back cover pages](Back_cover_pages.md).
 
 #### Note
 
--   The book title and picture appear in the Book Metadata dialog box. The book title is metadata when you [Publish to Web](../Tasks/Publish_tasks/Publish%20to%20Web.md).
+-   The book title and picture appear in the **Book Metadata** dialog box. The book title is metadata when you [Publish to Web](../Tasks/Publish_tasks/Publish%20to%20Web.md).
     
 -   You can [format](../User_Interface/Dialog_boxes/Format_dialog_box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) the text boxes on these pages.
     
