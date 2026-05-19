@@ -4,7 +4,7 @@ This directory contains patches for npm packages that are automatically applied 
 
 ## @docusaurus/utils
 
-**File**: `@docusaurus__utils@3.9.1.patch`
+**File**: `@docusaurus__utils@3.10.1.patch`
 
 **Purpose**:
 1. Forces Docusaurus' markdown image `urlLoaderLimit` to `0`, so markdown images are emitted as regular asset files instead of inline `data:image` blobs.
@@ -23,19 +23,17 @@ This native pnpm patch is referenced from the root `package.json` under `pnpm.pa
 
 ## @docusaurus/theme-search-algolia
 
-**File**: `@docusaurus__theme-search-algolia@3.9.1.patch`
+**File**: `@docusaurus__theme-search-algolia@3.10.1.patch`
 
 **Purpose**: 
-1. Makes `apiKey` and `appId` optional in the Algolia `askAi` configuration, matching the behavior of the Algolia API itself which treats these fields as optional.
-2. Opens external links in search results in a new browser window/tab (configurable).
+1. Opens external links in search results in a new browser window/tab when `openExternalLinksInNewTab` is enabled in the site config.
 
 **Changes**:
 
-- Changed `apiKey` and `appId` from `.required()` to `.optional()` in the validation schema for the `askAi` configuration object
 - Modified the `Hit` component in `SearchBar/index.js` to detect external URLs and render them as anchor tags with `target="_blank"` and `rel="noopener noreferrer"` instead of using the internal `Link` component
 - Added `openExternalLinksInNewTab` configuration option to control this behavior
 
-**Why**: The Algolia API considers these fields optional, so the Docusaurus library should too. This allows you to omit them when not needed:
+**Why**: This repo sets `openExternalLinksInNewTab: true` in the Algolia config and expects external search results to open in a new tab.
 
 ```javascript
 algolia: {
@@ -43,12 +41,6 @@ algolia: {
   apiKey: "...",
   indexName: "bloom",
   openExternalLinksInNewTab: true, // Open external search results in new tab (optional, defaults to false)
-  askAi: {
-    assistantId: "...",
-    indexName: "...",
-    // apiKey: // optional
-    // appId: // optional
-  },
 }
 ```
 

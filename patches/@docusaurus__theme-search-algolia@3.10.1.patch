@@ -1,5 +1,5 @@
 diff --git a/lib/theme/SearchBar/index.js b/lib/theme/SearchBar/index.js
-index 966c260c492589b59a716211d8790f75d2db8cf8..cb62e4eec59416669cba69f4cca26923c6859570 100644
+index 8771a790267f5b93584b7543c47a38a3e64cbf2d..b534ffd7e23aa7958c86529daba2ef1c37bf844c 100644
 --- a/lib/theme/SearchBar/index.js
 +++ b/lib/theme/SearchBar/index.js
 @@ -89,7 +89,19 @@ function useResultsFooterComponent({closeModal}) {
@@ -58,18 +58,3 @@ index 966c260c492589b59a716211d8790f75d2db8cf8..cb62e4eec59416669cba69f4cca26923
              transformSearchClient={transformSearchClient}
              {...(props.searchPagePath && {
                resultsFooterComponent,
-diff --git a/lib/validateThemeConfig.js b/lib/validateThemeConfig.js
-index dceea41130a12078c6866fe4a651b120f0b6ec05..2f7de39cb2ffc2f868f5df8588d89e1b61c62add 100644
---- a/lib/validateThemeConfig.js
-+++ b/lib/validateThemeConfig.js
-@@ -59,8 +59,8 @@ exports.Schema = utils_validation_1.Joi.object({
-         // Full configuration object
-         utils_validation_1.Joi.object({
-             indexName: utils_validation_1.Joi.string().required(),
--            apiKey: utils_validation_1.Joi.string().required(),
--            appId: utils_validation_1.Joi.string().required(),
-+            apiKey: utils_validation_1.Joi.string().optional(),
-+            appId: utils_validation_1.Joi.string().optional(),
-             assistantId: utils_validation_1.Joi.string().required(),
-             searchParameters: utils_validation_1.Joi.object({
-                 facetFilters: FacetFiltersSchema.optional(),
