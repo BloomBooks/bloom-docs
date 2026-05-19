@@ -104,9 +104,6 @@ The books in a Book Grid must be part of your current _collection._ A grid can c
 ## Page Number Position {#29a4bb19df128042b49bd740100c58a5}
 
 
-Subscription Tier: Free
-
-
 ![](./release-notes-6-3.29a4bb19-df12-807a-86e2-cdd8f8dc6651.png)
 
 
@@ -126,16 +123,13 @@ Mostly, you should not notice any difference, but here are a few areas where thi
 
 ### System Requirements {#2994bb19df1280199e68e3fb1f42196e}
 
-- Bloom now requires Windows 11 and a computer with a 64-bit processor.
+- Bloom now requires a computer with a 64-bit processor.
 
 ### Image Toolbox {#2994bb19df1280b2b561fc2979557fef}
 
 - We have removed the scanner and camera buttons from the top of the screen. We recently modernized the underpinnings of Bloom and these old buttons didn’t survive the transition. We think that they were rarely, if ever, used.
 
 ## Language Codes {#2994bb19df1280bf9028d77c04d4cd50}
-
-
-Subscription Tier: Free
 
 
 Occasionally you may find that there are some questions about the actual language code of a text box or a source bubble suggestion. We now show the code of text boxes in the Format tool (1). If you hover over a source tab, you will now see its language code (2). 
