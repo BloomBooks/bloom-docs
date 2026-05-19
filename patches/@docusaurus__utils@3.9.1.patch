@@ -1,8 +1,8 @@
-diff --git a/node_modules/@docusaurus/utils/lib/webpackUtils.js b/node_modules/@docusaurus/utils/lib/webpackUtils.js
-index 1be5a6f..55113ef 100644
---- a/node_modules/@docusaurus/utils/lib/webpackUtils.js
-+++ b/node_modules/@docusaurus/utils/lib/webpackUtils.js
-@@ -23,7 +23,7 @@ function getWebpackLoaderCompilerName(context) {
+diff --git a/lib/webpackUtils.js b/lib/webpackUtils.js
+index 369b436ff3570de963e840e46016df8543f810da..914e7aeb98a50b51eccfc3d1172da5bbf90cffdc 100644
+--- a/lib/webpackUtils.js
++++ b/lib/webpackUtils.js
+@@ -28,7 +28,7 @@ function getWebpackLoaderCompilerName(context) {
  function createFileLoaderUtils({ isServer, }) {
      // Files/images < urlLoaderLimit will be inlined as base64 strings directly in
      // the html

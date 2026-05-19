@@ -1,18 +1,16 @@
-diff --git a/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js b/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
-index 966c260..dd93f36 100644
---- a/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
-+++ b/node_modules/@docusaurus/theme-search-algolia/lib/theme/SearchBar/index.js
-@@ -89,7 +89,21 @@ function useResultsFooterComponent({closeModal}) {
+diff --git a/lib/theme/SearchBar/index.js b/lib/theme/SearchBar/index.js
+index 966c260c492589b59a716211d8790f75d2db8cf8..cb62e4eec59416669cba69f4cca26923c6859570 100644
+--- a/lib/theme/SearchBar/index.js
++++ b/lib/theme/SearchBar/index.js
+@@ -89,7 +89,19 @@ function useResultsFooterComponent({closeModal}) {
      [closeModal],
    );
  }
 -function Hit({hit, children}) {
 +function Hit({hit, children, openExternalLinksInNewTab = false}) {
-+  // Check the config flag first before doing regex work
 +  if (openExternalLinksInNewTab) {
-+    // Check if the URL is external (starts with http:// or https:// and not on the same domain)
 +    const isExternal = /^https?:\/\//.test(hit.url) && !hit.url.startsWith(window.location.origin);
-+    
++
 +    if (isExternal) {
 +      return (
 +        <a href={hit.url} target="_blank" rel="noopener noreferrer">
@@ -21,11 +19,11 @@ index 966c260..dd93f36 100644
 +      );
 +    }
 +  }
-+  
++
    return <Link to={hit.url}>{children}</Link>;
  }
  function ResultsFooter({state, onClose}) {
-@@ -118,7 +132,7 @@ function useSearchParameters({contextualSearch, ...props}) {
+@@ -118,7 +130,7 @@ function useSearchParameters({contextualSearch, ...props}) {
      facetFilters,
    };
  }
@@ -34,19 +32,24 @@ index 966c260..dd93f36 100644
    const navigator = useNavigator({externalUrlRegex});
    const searchParameters = useSearchParameters({...props});
    const transformItems = useTransformItems(props);
-@@ -129,6 +143,11 @@ function DocSearch({externalUrlRegex, ...props}) {
+@@ -129,6 +141,16 @@ function DocSearch({externalUrlRegex, ...props}) {
    const [initialQuery, setInitialQuery] = useState(undefined);
    const {isAskAiActive, currentPlaceholder, onAskAiToggle, extraAskAiProps} =
      useAlgoliaAskAi(props);
-+  // Create a wrapped Hit component with the config
 +  const HitWithConfig = useCallback(
-+    ({hit, children}) => <Hit hit={hit} children={children} openExternalLinksInNewTab={openExternalLinksInNewTab} />,
-+    [openExternalLinksInNewTab]
++    ({hit, children}) => (
++      <Hit
++        hit={hit}
++        children={children}
++        openExternalLinksInNewTab={openExternalLinksInNewTab}
++      />
++    ),
++    [openExternalLinksInNewTab],
 +  );
    const prepareSearchContainer = useCallback(() => {
      if (!searchContainer.current) {
        const divElement = document.createElement('div');
-@@ -201,7 +220,7 @@ function DocSearch({externalUrlRegex, ...props}) {
+@@ -201,7 +223,7 @@ function DocSearch({externalUrlRegex, ...props}) {
              initialQuery={initialQuery}
              navigator={navigator}
              transformItems={transformItems}
@@ -55,10 +58,10 @@ index 966c260..dd93f36 100644
              transformSearchClient={transformSearchClient}
              {...(props.searchPagePath && {
                resultsFooterComponent,
-diff --git a/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js b/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js
-index dceea41..2f7de39 100644
---- a/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js
-+++ b/node_modules/@docusaurus/theme-search-algolia/lib/validateThemeConfig.js
+diff --git a/lib/validateThemeConfig.js b/lib/validateThemeConfig.js
+index dceea41130a12078c6866fe4a651b120f0b6ec05..2f7de39cb2ffc2f868f5df8588d89e1b61c62add 100644
+--- a/lib/validateThemeConfig.js
++++ b/lib/validateThemeConfig.js
 @@ -59,8 +59,8 @@ exports.Schema = utils_validation_1.Joi.object({
          // Full configuration object
          utils_validation_1.Joi.object({

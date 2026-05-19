@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "postinstall": "patch-package",
     "simulate-locally": "pnpm pull && pnpm make-pdf && pnpm crowdin:sync && pnpm serve",
     "docusaurus": "docusaurus",
     "start": "pnpm copy-static-docs && docusaurus start",
@@ -56,8 +55,6 @@
     "@types/turndown": "^5.0.6",
     "@types/xml2js": "^0.4.14",
     "jsdom": "^27.0.1",
-    "patch-package": "^8.0.1",
-    "postinstall-postinstall": "^2.1.0",
     "ts-node": "^10.9.2",
     "turndown": "^7.2.2",
     "typescript": "^5.9.3",
@@ -70,6 +67,10 @@
   "pnpm": {
     "overrides": {
       "webpack": "5.91.0"
+    },
+    "patchedDependencies": {
+      "@docusaurus/utils@3.9.1": "patches/@docusaurus__utils@3.9.1.patch",
+      "@docusaurus/theme-search-algolia@3.9.1": "patches/@docusaurus__theme-search-algolia@3.9.1.patch"
     }
   },
   "browserslist": {
