@@ -15,21 +15,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Install Node.js as specified in package.json
+        uses: volta-cli/action@v5
+      - name: Install pnpm
+        uses: pnpm/action-setup@v5
         with:
-          node-version: lts/*
-          cache: "yarn"
+          version: 10.33.4
+          cache: true
+          run_install: false
       - name: Install dependencies
-        run: yarn install
-        # for some reason it was telling me my lockfile was out of date run: yarn install --frozen-lockfile
+        run: pnpm install --frozen-lockfile
       - name: copy-static-docs
-        run: yarn copy-static-docs
+        run: pnpm copy-static-docs
       - name: Build Docusaurus instance
-        run: yarn build
+        run: pnpm build
       - name: Set S3 Bucket
         id: set-bucket
         run: |
@@ -62,7 +64,7 @@ jobs:
       # This avoids S3 costs and potential timeouts.
       # - name: Start local server for PDF generation
       #   run: |
-      #     yarn serve --port 3000 &
+      #     pnpm serve --port 3000 &
       #     echo $! > server.pid
       #     # Wait for server to be ready
       #     for i in {1..30}; do
@@ -75,7 +77,7 @@ jobs:
       #     done
       #   shell: bash
       # - name: Generate PDFs
-      #   run: yarn make-pdf http://localhost:3000
+      #   run: pnpm make-pdf http://localhost:3000
       # - name: Upload PDFs to S3
       #   run: aws s3 cp ./build/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/downloads/ --recursive --exclude "*" --include "*.pdf"
       #     # aws s3 cp ./build/fr/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"

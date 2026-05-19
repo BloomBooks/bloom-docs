@@ -148,8 +148,8 @@ const config = {
         askAi: {
           assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
           indexName: "bloom-markdown",
-          // apiKey: null, // this should be optional
-          // appId: null, //  this should be optional
+          apiKey: "757ac6eee61ab3ec243a43510136269b",
+          appId: "FI2OI4JBTP",
         },
       },
     }),

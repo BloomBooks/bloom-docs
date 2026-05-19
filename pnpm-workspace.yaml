@@ -1,0 +1,24 @@
+# Delay adoption of newly published versions by 7 days (10080 minutes).
+minimumReleaseAge: 10080
+
+# Reject non-registry transitive dependency sources such as git/file/url deps.
+blockExoticSubdeps: true
+
+# Fail install when a dependency wants to run lifecycle/build scripts unless allowed below.
+strictDepBuilds: true
+
+# Narrow allowlist for packages whose install-time scripts are required in this repo.
+allowBuilds:
+  # core-js postinstall is not required for this docs site and should stay blocked.
+  core-js: false
+  # core-js-pure postinstall is not required for this docs site and should stay blocked.
+  core-js-pure: false
+  # postinstall-postinstall reruns the root postinstall hook after package manager installs.
+  postinstall-postinstall@2.1.0: true
+  # puppeteer downloads the browser binary needed for PDF generation.
+  puppeteer@22.15.0: true
+  # sharp installs the native image-processing binary used by Docusaurus image tooling.
+  sharp@0.32.6: true
+
+# Save exact versions in package.json instead of adding ^ or ~ prefixes.
+savePrefix: ''

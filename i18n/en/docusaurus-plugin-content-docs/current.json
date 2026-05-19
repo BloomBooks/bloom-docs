@@ -210,5 +210,9 @@
   "sidebar.defaultSidebar.category.Comic Books and Full-Page Layouts": {
     "message": "Comic Books and Full-Page Layouts",
     "description": "The label for category Comic Books and Full-Page Layouts in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Games": {
+    "message": "Games",
+    "description": "The label for category Games in sidebar defaultSidebar"
   }
 }

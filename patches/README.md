@@ -1,6 +1,6 @@
 # Patches
 
-This directory contains patches for npm packages that are automatically applied after `yarn install` using [patch-package](https://github.com/ds300/patch-package).
+This directory contains patches for npm packages that are automatically applied after `pnpm install` using [patch-package](https://github.com/ds300/patch-package).
 
 ## @docusaurus/utils
 

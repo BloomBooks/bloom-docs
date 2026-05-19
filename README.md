@@ -8,7 +8,7 @@ This creates a static website using [Docusaurus](https://docusaurus.io/). Conten
 ### Installation
 
 ```
-$ yarn
+pnpm install
 ```
 
 ### Local Development
@@ -23,17 +23,23 @@ Set these 3 environment variables:
 
 ```bash
 # Pull main docs from Notion
-$ yarn pull
+pnpm pull
 
 # Download and convert reference docs
-$ yarn ref-docs
-$ yarn ref-docs:incremental
+pnpm ref-docs
+pnpm ref-docs:incremental
 ```
 
 #### Start the development server:
 
 ```bash
-$ yarn start
+pnpm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Dependency Management
+
+- Direct dependencies should stay on exact versions. `pnpm-workspace.yaml` sets `savePrefix: ''`, so `pnpm add` and `pnpm update` will write exact versions by default.
+- Add or update packages with an explicit version, for example `pnpm add react@17.0.2` or `pnpm add -D typescript@4.9.5`.
+- If pnpm blocks a dependency build script, review it with `pnpm approve-builds` and commit the resulting `allowBuilds` changes in `pnpm-workspace.yaml` only after confirming the package is required.

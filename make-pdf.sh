@@ -43,7 +43,7 @@ fi
 # removed because of https://github.com/kohheepeace/mr-pdf/issues/60
 # --coverImage="https://docs.bloomlibrary.org/pdf-cover.png" \
 
-npx docu-pdf "$URL" \
+pnpm exec docu-pdf "$URL" \
 --coverPath "./pdf-cover.htm" \
 --pageSize "A4" \
 --outputPath "$OUTPUTPATH" \
@@ -58,7 +58,7 @@ npx docu-pdf "$URL" \
 #     cp "$OUTPUTPATH" "build/es/downloads/docs-bloomlibrary-english-a4.pdf"
 # fi
 
-# npx docu-pdf https://docs.bloomlibrary.org/fr \
+# pnpm exec docu-pdf https://docs.bloomlibrary.org/fr \
 # --coverTitle "Docs Bloom" \
 # --coverSub="Créé à partir de docs.bloomlibrary.org le ${today}" \
 # --pageSize "A4" \

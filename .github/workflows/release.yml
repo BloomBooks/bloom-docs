@@ -63,14 +63,16 @@ jobs:
           else
             git checkout ${{ github.ref }}
           fi
-      - name: Setup Node.js
-        uses: actions/setup-node@v5
+      - name: Install Node.js as specified in package.json
+        uses: volta-cli/action@v5
+      - name: Install pnpm
+        uses: pnpm/action-setup@v5
         with:
-          node-version: lts/*
-          cache: "yarn"
+          version: 10.33.4
+          cache: true
+          run_install: false
       - name: Install dependencies
-        run: yarn install
-        # for some reason it was telling me my lockfile was out of date run: yarn install --frozen-lockfile
+        run: pnpm install --frozen-lockfile
 
       # We don't have enough translated yet to make it even worth downloading and processing the translations.
       # For now, we skip (comment out) those bits.
@@ -80,7 +82,7 @@ jobs:
       #  - create (or duplicate from English) localized pdfs in make-pdf.sh
 
       # - name: Crowdin
-      #   run: yarn crowdin:sync
+      #   run: pnpm crowdin:sync
       #   env:
       #     SIL_BLOOM_DOCS_CROWDIN_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_CROWDIN_TOKEN }}
       # - name: Commit New Translations
@@ -89,7 +91,7 @@ jobs:
       #     commit_message: GHAction - Commit incoming translations from Crowdin
 
       - name: Build Docusaurus instance
-        run: yarn build
+        run: pnpm build
       - name: Set S3 Bucket
         id: set-bucket
         run: |
@@ -124,7 +126,7 @@ jobs:
       - name: Start local server for PDF generation
         if: ${{ env.GENERATE_PDFS == 'true' }}
         run: |
-          yarn serve --port 3000 &
+          pnpm serve --port 3000 &
           echo $! > server.pid
           # Wait for server to be ready
           for i in {1..30}; do
@@ -138,10 +140,10 @@ jobs:
         shell: bash
       - name: Generate PDFs
         if: ${{ env.GENERATE_PDFS == 'true' }}
-        run: yarn make-pdf
+        run: pnpm make-pdf
       - name: Upload PDFs to S3
         if: ${{ env.GENERATE_PDFS == 'true' }}
-        run:
+        run: |
           aws s3 cp ./build/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/downloads/ --recursive --exclude "*" --include "*.pdf"
           # aws s3 cp ./build/fr/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/fr/downloads/ --recursive --exclude "*" --include "*.pdf"
           # aws s3 cp ./build/es/downloads/ s3://${{ steps.set-bucket.outputs.bucket }}/es/downloads/ --recursive --exclude "*" --include "*.pdf"

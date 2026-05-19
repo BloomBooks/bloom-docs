@@ -43,25 +43,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Install Node.js as specified in package.json
+        uses: volta-cli/action@v5
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v5
         with:
-          node-version: lts/*
-          cache: "yarn"
+          version: 10.33.4
+          cache: true
+          run_install: false
 
       - name: Install dependencies
-        run: yarn install
+        run: pnpm install --frozen-lockfile
 
       - name: Pull from Notion
         if: ${{ inputs.pull_notion }}
         env:
           SIL_BLOOM_DOCS_NOTION_TOKEN: ${{ secrets.SIL_BLOOM_DOCS_NOTION_TOKEN }}
           SIL_BLOOM_DOCS_NOTION_ROOT_PAGE: ${{ secrets.SIL_BLOOM_DOCS_NOTION_ROOT_PAGE }}
-        run: yarn pull
+        run: pnpm pull
 
       - name: Download reference docs
         if: ${{ inputs.download_ref_docs }}
@@ -86,7 +90,7 @@ jobs:
           fi
 
       - name: copy-static-docs
-        run: yarn copy-static-docs
+        run: pnpm copy-static-docs
 
       - name: Commit New Source Material
         if: ${{ inputs.pull_notion || inputs.download_ref_docs || inputs.convert_ref_docs }}
