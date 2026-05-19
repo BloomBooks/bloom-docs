@@ -6,7 +6,7 @@ slug: /bloom-library-permission
 
 
 
-# Overwrite Permissions {#4ad240ac3bac4a6d92a2dfcd839b4e6a}
+## Overwrite Permissions {#4ad240ac3bac4a6d92a2dfcd839b4e6a}
 
 
 When you upload a book to Bloom Library, Bloom will check and determine if that book already exists on Bloom Library. If the book already exists, Bloom will then decide whether you have permission to _overwrite_ the book or not.
@@ -21,7 +21,7 @@ Permission to overwrite a book on Bloom Library is granted in either of the foll
 If you do _not_ have permission to upload the book, the UPLOAD button will be disabled. 
 
 
-# Changing the Official Uploader {#0c536d0e37f34932a11a0d35bf8ab96a}
+## Changing the Official Uploader {#0c536d0e37f34932a11a0d35bf8ab96a}
 
 
 Bloom Enterprise clients may wish to change the official uploader’s identity. To do this, tick the box indicated below:

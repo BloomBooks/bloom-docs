@@ -194,7 +194,7 @@ After Bloom has finished creating the cloud collection folder, Bloom will restar
 ## 3. The Administrator Shares the Team Collection With the Other Team Members {#fc32002511f04c6fad08415be980e85b}
 
 
-For others to collaborate on your Team Collection, you need to share your Team Collection folders with them. You do this by sharing with them the synchronized folder that contains your cloud collection folder. Assuming you are using Dropbox on Windows, you can do this by [right-clicking](/glossary#ed2779a32ce246d79050e7f2b39374d9) the team collection shadow folder _in Windows File Explorer_ (10a) and then clicking **Share…**. (10b).
+For others to collaborate on your Team Collection, you need to share your Team Collection folders with them. You do this by sharing with them the synchronized folder that contains your cloud collection folder. Assuming you are using Dropbox on Windows, you can do this by [right-clicking](/glossary#0d0d7a4e94d9488996a19af18ce23db7) the team collection shadow folder _in Windows File Explorer_ (10a) and then clicking **Share…**. (10b).
 
 
 ![](./team-collections-getting-started.8e992e19-72f0-4bf8-adcd-1b087eda14c5.png)

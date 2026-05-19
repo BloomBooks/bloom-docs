@@ -6,7 +6,7 @@ slug: /rename-book
 
 
 
-# Book Name vs. Book Title {#8f09204cebf34d4b82e810c85f456a40}
+## Book Name vs. Book Title {#8f09204cebf34d4b82e810c85f456a40}
 
 
 In Bloom, there is a difference between a book’s **title** and a book’s **name:** a book’s name refers to the Windows file and folder name corresponding to the book you create.
@@ -27,7 +27,7 @@ By default, the **name** of a Bloom book matches its **title.** This means that 
 This default naming convention serves the majority of Bloom users, so most users will not need to worry about renaming their books.
 
 
-# Why Rename a Book? {#2244bb19df1280b4880fe08d3d4592d5}
+## Why Rename a Book? {#2244bb19df1280b4880fe08d3d4592d5}
 
 
 However, there are at least three situations where you may wish to **override** Bloom’s default naming convention:
@@ -45,10 +45,10 @@ In the above example, the user has a collection of four different books. But eac
 For any or all of the above reasons, you may wish to override book names to help keep your Bloom book collection tidy and more manageable. 
 
 
-# Rename a Book {#2244bb19df12808e9ad1cd7eb9f4c3ba}
+## Rename a Book {#2244bb19df12808e9ad1cd7eb9f4c3ba}
 
 
-## Override the default book name {#2144bb19df12803992f5dabc35fbc37f}
+### Override the default book name {#2144bb19df12803992f5dabc35fbc37f}
 
 
 If you wish to override the default book name, follow these steps:
@@ -84,7 +84,7 @@ The Windows file name of your book will now match the name you assigned it:
 This file name will be used when saving your published book to disk.
 
 
-## Revert a renamed book back to its title {#2244bb19df12801daf78fb6ddb3ea689}
+### Revert a renamed book back to its title {#2244bb19df12801daf78fb6ddb3ea689}
 
 
 If you wish to remove the override file name, so that the book name reverts back to matching the book’s title, then follow these steps:
@@ -108,7 +108,7 @@ If you wish to remove the override file name, so that the book name reverts back
 The book name will now match the book title.
 
 
-## Rename Your Book Title {#6109595844e04d66a576c31e89fa2319}
+### Rename Your Book Title {#6109595844e04d66a576c31e89fa2319}
 
 
 Lastly, as discussed above, most users change the book name simply by changing the book’s title. This happens automatically. 
@@ -133,7 +133,7 @@ You might update a book title to correct the spelling, translate it into another
 	![](./rename-book.2204bb19-df12-80d2-9e88-d20dd914c792.png)
 
 
-## Tips for Good Titles {#c063e0dd53804b528251ab0bea4c04c2}
+### Tips for Good Titles {#c063e0dd53804b528251ab0bea4c04c2}
 
 - **Match** the story: choose a title that references the main idea or character.
 - **Check** spelling and capitalization.

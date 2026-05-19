@@ -7,7 +7,7 @@ keywords: [fonts]
 
 
 
-# Overview {#dbf73faf644f4fdfa3876fc1129feff8}
+## Overview {#dbf73faf644f4fdfa3876fc1129feff8}
 
 
 Many modern fonts provide two (or more) different “styles” of some of the letters in their alphabets (character sets). The standard style is shown by default (without doing anything special), whereas the non-standard/special style is displayed only if the user specifically requests it.
@@ -39,7 +39,7 @@ The instructions you give are language-specific. For example, to select the “d
 ```
 
 
-# Identifying Feature Settings {#a0192887860b49fca94fb2b696ae1802}
+## Identifying Feature Settings {#a0192887860b49fca94fb2b696ae1802}
 
 
 To find out which feature setting(s) you need, you must research and find the documentation for the specific font you are planning to use in your books. If you are using an [SIL font](https://software.sil.org/fonts/), look for that information on the page for the font in a bolded link saying “font features” or “smart font features”.

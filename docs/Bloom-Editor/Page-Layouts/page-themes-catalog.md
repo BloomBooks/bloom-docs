@@ -19,7 +19,7 @@ Page Themes are available starting in Bloom 6.0
 
 
 
-# Default {#b552e6f9633048a79814e34d6ed09524}
+## Default {#b552e6f9633048a79814e34d6ed09524}
 
 
 <div class='notion-row'>
@@ -68,7 +68,7 @@ A5 Portrait Page using the Default Page Theme, with page numbering on.
 </div>
 
 
-# Zero Margin Ebook {#bc7e6d0c6d214aef9f489c572a4f5be3}
+## Zero Margin Ebook {#bc7e6d0c6d214aef9f489c572a4f5be3}
 
 
 <div class='notion-row'>

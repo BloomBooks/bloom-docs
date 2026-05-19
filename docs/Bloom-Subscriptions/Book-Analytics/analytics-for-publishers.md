@@ -119,16 +119,16 @@ Bloom Reader only:
 - Device hardware IDs
 - Named Device IDs
 
-# Analytics Fields {#4b18c83470b04991ac20fb5d9eed2854}
+## Analytics Fields {#4b18c83470b04991ac20fb5d9eed2854}
 
 
 See [Analytics Fields](/analytic-fields) 
 
 
-# Internet Connection Issues {#68ca19aacadc4babbddfca08ca13acb4}
+## Internet Connection Issues {#68ca19aacadc4babbddfca08ca13acb4}
 
 
-## How Much Bandwidth? {#6a6891fae43f4140ba3109de49c4ae52}
+### How Much Bandwidth? {#6a6891fae43f4140ba3109de49c4ae52}
 
 
 These are the most common analytics events sent by Bloom Reader:
@@ -141,7 +141,7 @@ These are the most common analytics events sent by Bloom Reader:
 Each event is less than 3KB. So a person who runs Bloom Reader, reads 2 books, then quits will send less than 18KB.
 
 
-## What if the User Is Not Connected to the Internet? {#60d35172533f4104baaa59efc2b2baa8}
+### What if the User Is Not Connected to the Internet? {#60d35172533f4104baaa59efc2b2baa8}
 
 
 If the user is not connected to the internet, Bloom Reader will cache their events. The cache is limited to 1000 events.
