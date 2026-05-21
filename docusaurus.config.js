@@ -22,6 +22,11 @@ const config = {
   trailingSlash: true,
 
   markdown: {
+    mdx1Compat: {
+      comments: false,
+      admonitions: false,
+      headingIds: false,
+    },
     hooks: {
       onBrokenMarkdownLinks: "warn"
     }
