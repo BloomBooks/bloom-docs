@@ -122,4 +122,4 @@ There are several ways to download a BloomPUB book from Bloom Library so you can
 
 - [Get books from Bloom Library from within Bloom Reader](/get-books-bloom-reader#3e3abed99e5042d8a0570f79c42a31e4)
 - [Get books from Bloom Library in a Web Browser](/get-books-bloom-reader#0c2e2d830dcd4b769af3d29c24ac0e3c)
-- Download a [BloomPUB file to a computer](/download-books-bloom-library#888bb607ed0b4794b6b50137ee88017e), then [transfer the BloomPUB file to an Android device](/get-books-bloom-reader#e35d8c2330514305aa5622eebaeb57b4).
+- Download a [BloomPUB file to a computer](/BR-distribution#dc35440714c648c4b6a86cc9effd975e), then [transfer the BloomPUB file to an Android device](/get-books-bloom-reader#e35d8c2330514305aa5622eebaeb57b4).

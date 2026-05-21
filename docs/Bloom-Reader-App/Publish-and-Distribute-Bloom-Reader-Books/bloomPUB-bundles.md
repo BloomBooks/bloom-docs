@@ -19,7 +19,7 @@ BloomPUB Bundles are used in connection with the [Bloom Reader](https://bloomlib
 When a person opens a BloomPUB Bundle on an Android device with Bloom Reader installed, Bloom Reader will “unpack” the file and add all of its books and bookshelves to its book list.
 
 
-The normal way to make a BloomPUB bundle is to use the [Make All BloomPUBs](/bloom-bookshelves#9eaab0ca96f44e25ae8a2cae05f545e5) feature in Bloom’s desktop editor.
+The normal way to make a BloomPUB bundle is to use the [Make All BloomPUBs](/create-multiple-bloompubs#21e4bb19df12800b906dc247f015b22c) feature in Bloom’s desktop editor.
 
 
 :::caution

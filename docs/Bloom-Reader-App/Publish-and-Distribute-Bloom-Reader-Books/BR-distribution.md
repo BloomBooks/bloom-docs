@@ -29,7 +29,7 @@ When **Bloom Reader** starts, it automatically looks for an SD card and for cert
 
 There are three steps: 
 
-1. [**Gather your BloomPUBs**](/BR-distribution#0b7163a212984327b4e9bf60de02db60)
+1. [**Gather your BloomPUBs**](/BR-distribution#8bb1ee7ddb8441e4ac73405b55970b2d)
 2. [**Create the required folder on your SD card**](/BR-distribution#f659de0a085545d8b4da927d7ab5a670)
 3. [**Copy over the BloomPUBs**](/BR-distribution#a54b67b77c0649b78e2df708eab086de)
 
