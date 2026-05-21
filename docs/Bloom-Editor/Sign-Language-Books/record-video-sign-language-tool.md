@@ -6,7 +6,7 @@ slug: /record-video-sign-language-tool
 
 
 
-## How to Use the Sign Language Tool {#bb64d2d90ab14799b4a69849c0231491}
+## How to Use the Sign Language Tool {/* #bb64d2d90ab14799b4a69849c0231491 */}
 
 
 You can use the Sign Language Tool to record video directly in Bloom, using your computer’s camera.
@@ -50,7 +50,7 @@ If Bloom cannot find your video camera, you will see a message `No camera found`
 </div>
 
 
-## Record Video in the Sign Language Tool {#80f3aee15fd94098bb2c6ec7f536d0f3}
+## Record Video in the Sign Language Tool {/* #80f3aee15fd94098bb2c6ec7f536d0f3 */}
 
 
 <div class='notion-row'>
@@ -121,7 +121,7 @@ Note: The Sign Language Tool does not record audio.
 
 
 
-## Review Your Video {#f3c16337f74a445db62a3304abddede7}
+## Review Your Video {/* #f3c16337f74a445db62a3304abddede7 */}
 
 
 <div class='notion-row'>
@@ -147,7 +147,7 @@ Click the play icon to review your video.
 </div>
 
 
-## Import Video {#673262d5d17b4904878359c342b09b2b}
+## Import Video {/* #673262d5d17b4904878359c342b09b2b */}
 
 
 You can also import video into the Sign Language Tool. See [Import Video](/import-video).

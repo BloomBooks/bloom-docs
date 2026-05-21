@@ -17,7 +17,7 @@ Please see this page for a more introductory explanation of the Bloom Appearance
 
 
 
-:::caution
+:::warning[caution]
 
 This is a _very_ technical note, intended only for Publishers with technical staff.
 
@@ -26,7 +26,7 @@ This is a _very_ technical note, intended only for Publishers with technical sta
 
 
 
-## How the Appearance System works {#307d47098b9c4f43a471690d59056d56}
+## How the Appearance System works {/* #307d47098b9c4f43a471690d59056d56 */}
 
 
 Each _Theme_ is a CSS file that sets the value of one or more Appearance properties.
@@ -47,7 +47,7 @@ The HTML page then applies these stylesheets in this order (last wins, all other
 2. `appearance.css`
 3. `customBookStyles.css`, `customBookStyles2.css`
 
-# Precedence {#c9d68b5d2da14105bb698e7fe97fd3ce}
+# Precedence {/* #c9d68b5d2da14105bb698e7fe97fd3ce */}
 
 
 A challenge in modern Bloom is that there are a number of things that each influence the final display of a page. These things may even be wanting opposite things to happen. What happens if the Book Settings Dialog is used to turn something on, but a custom css is used to turn it off? Who wins?
@@ -80,7 +80,7 @@ Avoid putting things in a theme that are also part of Book Settings. Be aware th
 
 
 
-## Creating a new Theme {#1edd7c6e6ea44a179c3cfc60b369b2aa}
+## Creating a new Theme {/* #1edd7c6e6ea44a179c3cfc60b369b2aa */}
 
 
 :::note
@@ -153,7 +153,7 @@ We are trying to standardize on `mm` as the unit for measurements that should no
 As before, it is still possible to write arbitrary CSS rules based on what you find in Bloom HTML. However, we really need to move away from that practice. Instead:
 
 
-:::caution
+:::warning[caution]
 
 Before writing CSS rules that use anything other than the official Appearance properties, please consider asking us to add an Appearance property for what you are trying to do. This will lead to a more sustainable Bloom ecosystem.
 
@@ -162,7 +162,7 @@ Before writing CSS rules that use anything other than the official Appearance pr
 
 
 
-:::caution
+:::warning[caution]
 
 Problems with unconstrained “custom CSS”
 For a long time, highly technical Bloom users have been able to go “under the hood” to make tweaks to page layout and styling using the Web’s “Cascading Style Sheets” (CSS) language. This system is useful as a last resort, but it has several problems, including:
@@ -178,7 +178,7 @@ For a long time, highly technical Bloom users have been able to go “under the 
 
 
 
-## Appearance Properties {#94ee30354fbf47a2a9bc020dc74ae3f0}
+## Appearance Properties {/* #94ee30354fbf47a2a9bc020dc74ae3f0 */}
 
 
 | **Variable Name**                                            | TODO: Changes to names<br/>nouns camelCase<br/>dimensions separated by dashes <br/>mostGeneral-moreSpecfic-even-moreSpecific-property<br/><br/>We decided to use natural property names, so “horizontal-gap” instead of “gap-horizontal” | Use Restrictions                                                                                                                               | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | In Themes and Custom CSS | In Book Settings UI |
@@ -231,16 +231,16 @@ For a long time, highly technical Bloom users have been able to go “under the 
 |                                                              |                                                                                                                                                                                                                                          |                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                          |                     |
 
 
-### Examples {#6f9bb848398443d88071b8ed934aa1ae}
+### Examples {/* #6f9bb848398443d88071b8ed934aa1ae */}
 
 
 ![](./appearance-system-css.ee428b47-9756-4224-91e9-d7ef31766e17.png)
 
 
-## Selectors {#3138a62d231343218a72c2f629048e7f}
+## Selectors {/* #3138a62d231343218a72c2f629048e7f */}
 
 
-### Root Selector {#5d3f4d533e0942b19c54f2c19bfe48c9}
+### Root Selector {/* #5d3f4d533e0942b19c54f2c19bfe48c9 */}
 
 
 |             |                                                                                                                                                                                        |
@@ -248,7 +248,7 @@ For a long time, highly technical Bloom users have been able to go “under the 
 | .bloom-page | This is the root that applies to every page. Use this instead of `::root` which is normally recommended in CSS documentation. `::root` will appear to work, but may fail Bloom Reader. |
 
 
-### Special Page Selectors {#a744f88e56da477e80928df26aeb72af}
+### Special Page Selectors {/* #a744f88e56da477e80928df26aeb72af */}
 
 
 | .outsideFrontCover |   |
@@ -260,7 +260,7 @@ For a long time, highly technical Bloom users have been able to go “under the 
 | .outsideBackCover  |   |
 
 
-### Page Size / Layout Selectors {#28b323ed3f8e42448660f6a1ea9c4abf}
+### Page Size / Layout Selectors {/* #28b323ed3f8e42448660f6a1ea9c4abf */}
 
 
 | .A5Portrait            |   |
@@ -294,7 +294,7 @@ For a long time, highly technical Bloom users have been able to go “under the 
 | .bloom-page[class*="Portrait"]     | Apply only to Portrait layouts   |
 
 
-## Migrating old custom CSS {#93cc6fe2fca8440094dff51b91ebfe60}
+## Migrating old custom CSS {/* #93cc6fe2fca8440094dff51b91ebfe60 */}
 
 
 If you have existing customBookStyles.css files, here are some of the main considerations for moving to the Appearance system. First, just try opening your book in Bloom 6.0 (or later). Go to the book settings dialog and see whether the page theme is Default, Legacy (Bloom 5.6), or something else. If it’s something other than Legacy (Bloom 5.6), you’re lucky… we already did the migration for you. It would be good to check that you like the results and see if there’s anything you want to tweak, but you shouldn’t need to do any more, unless you want to clean up padding, as described in the [release notes](/release-notes-6-0).

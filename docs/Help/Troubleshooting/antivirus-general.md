@@ -6,10 +6,10 @@ slug: /antivirus-general
 
 
 
-## Introduction to the problem {#cfcdd04f0abd46cf8b021bdcac920ed9}
+## Introduction to the problem {/* #cfcdd04f0abd46cf8b021bdcac920ed9 */}
 
 
-:::caution
+:::warning[caution]
 
 There is a malware program that shares our name, so make sure that your malware scanner is not actually detecting that. If you open the Windows Task Manager (Ctrl+Shift+Esc) and see any mention of  "Bloom ltd Copyright”, that’s not us, that’s the “adware”.
 
@@ -33,7 +33,7 @@ If your antivirus program is complaining about Bloom, do not write to us about i
 In this article, we will show you how to do this in a couple of different programs. 
 
 
-## General Instructions for Whitelisting Bloom {#72f57368ca7741a1ac8b2694561692a3}
+## General Instructions for Whitelisting Bloom {/* #72f57368ca7741a1ac8b2694561692a3 */}
 
 
 When you install Bloom, it adds a special folder to your computer. The path to this folder will be:

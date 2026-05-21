@@ -34,7 +34,7 @@ If your language uses a non-Roman script or regularly uses special characters ba
 
 
 
-## How to insert a special character {#2d90f198a0724cb7b82dd7ffe60ffd4b}
+## How to insert a special character {/* #2d90f198a0724cb7b82dd7ffe60ffd4b */}
 
 1. **Press and hold** the key that has the **base letter** for the special character (for example: “o”).
 	1. Keep holding the key down.
@@ -44,14 +44,14 @@ If your language uses a non-Roman script or regularly uses special characters ba
 
 3. You can then select the character you need using your **mouse** or the **keyboard**.
 
-### Using the mouse {#5a4facf9ccca4002850da24e7dbcac11}
+### Using the mouse {/* #5a4facf9ccca4002850da24e7dbcac11 */}
 
 - Click on the character that you want to use:
 
 	![](./inserting-special-characters.d7d0877f-a7b0-4a45-b482-ef820ae88de6.gif)
 
 
-### Using the keyboard {#02d08bf9c9b24411a6dd3e7c53a172ed}
+### Using the keyboard {/* #02d08bf9c9b24411a6dd3e7c53a172ed */}
 
 
 When you press and hold the key, each Special Character for that base letter is assigned a key, which you can press to insert that character. The keys are shown at the bottom right corner in each of the special character boxes.

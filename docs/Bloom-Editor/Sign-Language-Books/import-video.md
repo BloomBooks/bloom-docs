@@ -6,7 +6,7 @@ slug: /import-video
 
 
 
-:::caution
+:::warning[caution]
 
 This page was written for an older version of Bloom and may contain outdated content.
 

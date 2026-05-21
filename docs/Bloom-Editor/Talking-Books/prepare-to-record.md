@@ -6,7 +6,7 @@ slug: /prepare-to-record
 
 
 
-## Open the Talking Book Tool {#79db45a29f4e4a4aa273a4829e8c4a72}
+## Open the Talking Book Tool {/* #79db45a29f4e4a4aa273a4829e8c4a72 */}
 
 
 To make a talking book, 
@@ -21,7 +21,7 @@ To make a talking book,
 ![](./prepare-to-record.babac6d9-7e50-495c-adc0-2bb14832db5a.png)
 
 
-## Identify your microphone {#ea2f4b28dcda438d8d9f9a6cddd7fbb8}
+## Identify your microphone {/* #ea2f4b28dcda438d8d9f9a6cddd7fbb8 */}
 
 
 In the Talking Book Tool, you should see a microphone icon. This shows that Bloom has found your microphone. 
@@ -126,13 +126,13 @@ If Bloom cannot find a microphone, or if it is not using the microphone you want
 
 
 
-## Test your microphone {#014584ac45224d01a1094f48a9f99a48}
+## Test your microphone {/* #014584ac45224d01a1094f48a9f99a48 */}
 
 
 If your microphone is working, as you speak, you will see bars next to the microphone or laptop icon. The number of bars highlighted depends on how loud you are speaking. Once your microphone is set up, you are ready to record. 
 
 
-## Recording Mode {#2994bb19df128041af63f7887edd189c}
+## Recording Mode {/* #2994bb19df128041af63f7887edd189c */}
 
 
 Bloom provides two modes for recording audio:

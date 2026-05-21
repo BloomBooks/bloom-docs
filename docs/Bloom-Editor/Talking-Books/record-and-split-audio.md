@@ -19,7 +19,7 @@ See [Bloom Subscriptions](/about-bloom-subscriptions).
 By default, the Talking Book Tool lets you record one sentence at a time. It is often more natural to record an entire text box at once, however. 
 
 
-## Enable Whole Text Box Recording Mode {#758d8d42ceee471a9d2d4ecb3bea8ba6}
+## Enable Whole Text Box Recording Mode {/* #758d8d42ceee471a9d2d4ecb3bea8ba6 */}
 
 
 To record an entire text box at once, you must first switch the Recording Mode: 
@@ -39,13 +39,13 @@ To record an entire text box at once, you must first switch the Recording Mode:
 ![](./record-and-split-audio.2994bb19-df12-80b0-a654-cc1373cad817.png)
 
 
-## Record the Whole Text Box or Import Recording {#2994bb19df128029b6d9fe2530769711}
+## Record the Whole Text Box or Import Recording {/* #2994bb19df128029b6d9fe2530769711 */}
 
 
 Once the Recording Mode has been set to By Whole Text Box, you can either record the text directly in Bloom using the **`Speak`** button, or you can [Import a Recording](/import-audio).
 
 
-## Split the text box recording {#e5a2f2d09ef841faa50963131076bcba}
+## Split the text box recording {/* #e5a2f2d09ef841faa50963131076bcba */}
 
 
 To prepare your recorded text for highlighting during playback, the text must be run through Bloom’s speech Timings analyzer. To do this:  
@@ -73,7 +73,7 @@ Your text will now show various shades of blue to indicate that Bloom has split 
  To verify the accuracy of the guesses of the sentence breaks, click the **`Check`** button.
 
 
-## Fine-tuning the timings using Bloom’s built-in Timings editor {#2994bb19df128060884dc5b03aae025a}
+## Fine-tuning the timings using Bloom’s built-in Timings editor {/* #2994bb19df128060884dc5b03aae025a */}
 
 
 If you are not satisfied with the accuracy of the guesses which Bloom made, click on **`Adjust Timings`** button again and listen to the segment whose timing seems incorrect by clicking on the red arrow:
@@ -88,7 +88,7 @@ After listening to the segment, click and drag the red vertical line to adjust t
 ![](./record-and-split-audio.2994bb19-df12-80c3-923a-fe4cc5a665ee.png)
 
 
-## Aeneas {#2994bb19df1280449de6dfde8fb283d0}
+## Aeneas {/* #2994bb19df1280449de6dfde8fb283d0 */}
 
 
 The above-mentioned method uses Bloom’s built-in Timings analyzer. This analyzer uses a **pause-based** approach to guessing sentence boundaries. This new feature is available starting Bloom 6.2. This is the preferred and recommended method; it will usually produce good results.
@@ -122,7 +122,7 @@ Aeneas will adjust the timings. If you are not satisfied with the timings, you c
 Alternatively, you can edit the timings manually or use Audacity, as explained [here](/edit-timings). This method is much more difficult and is not recommended.
 
 
-## Add audio splits with segment markers {#1b934d5a7cdd47048e84e43b940d3b8d}
+## Add audio splits with segment markers {/* #1b934d5a7cdd47048e84e43b940d3b8d */}
 
 
 Bloom splits a text box recording into sentences by looking for sentence-ending punctuation ( . ? ! ). You can add extra breaks: 
@@ -144,7 +144,7 @@ Bloom splits a text box recording into sentences by looking for sentence-ending 
 ![](./record-and-split-audio.2994bb19-df12-80ee-9127-cdbaff94a542.png)
 
 
-## Re-run pause-based timing guesses {#29a4bb19df12807b941be8c82259d939}
+## Re-run pause-based timing guesses {/* #29a4bb19df12807b941be8c82259d939 */}
 
 
 Whenever you change the number of sentences in a text, or add or remove segment markers, you must re-run the Timings analyzer to split the audio into additional segments:
@@ -165,13 +165,13 @@ Click the `Check` button to make sure that Bloom has properly divided the audio.
 
 
 
-## Special sentence-ending punctuation {#2994bb19df12802bac95c377f215cf84}
+## Special sentence-ending punctuation {/* #2994bb19df12802bac95c377f215cf84 */}
 
 
 For non-standard sentence-ending punctuation, please follow [these instructions](/sentence-ending-punctuation).
 
 
-## Audio Splitting Best Practices {#24f4bb19df12804d86ccf08e8cb10cb1}
+## Audio Splitting Best Practices {/* #24f4bb19df12804d86ccf08e8cb10cb1 */}
 
 
 There are several essential “best practices” to achieve the best results when splitting your audio in Bloom. 

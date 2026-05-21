@@ -37,7 +37,7 @@ In **Bloom Library** and **Bloom Reader**, audio is available for books with a *
 </div>
 
 
-## Audio Pages {#371687d358e94488b593f7fdfafce127}
+## Audio Pages {/* #371687d358e94488b593f7fdfafce127 */}
 
 
 Bloom books can have audio content.
@@ -49,7 +49,7 @@ Audio automatically plays when you change pages:
 <ReactPlayer controls url={video1} />
 
 
-### Pause/Stop Audio {#295cba92d6a54c7cb40d415159e419cc}
+### Pause/Stop Audio {/* #295cba92d6a54c7cb40d415159e419cc */}
 
 
 When audio is playing, you can **pause** or **stop** the audio:
@@ -76,7 +76,7 @@ Audio will not play again until you press the [Play button](/use-talking-book-bl
 
 
 
-### Play Audio {#bba54e2e2852497eb5fa0e266c96d54f}
+### Play Audio {/* #bba54e2e2852497eb5fa0e266c96d54f */}
 
 
 If audio is paused, you can start it again:
@@ -107,7 +107,7 @@ Audio will continue playing unless you [pause](/use-talking-book-bloom-reader#29
 
 
 
-## Change Audio Language {#8257e59c442244c7925cfc102a0f7e13}
+## Change Audio Language {/* #8257e59c442244c7925cfc102a0f7e13 */}
 
 
 Many Bloom books are multilingual. Languages with a speaker icon next to them have an audio version.
@@ -119,7 +119,7 @@ Many Bloom books are multilingual. Languages with a speaker icon next to them ha
 To change the audio language of the book, follow the instructions for [Change Book Language](/read-book-bloom-reader#7a826cbbfc2a4ac19a84c5327fcaad8a).
 
 
-### Books with No Audio {#913ae137e4494d268fe002a96dfb3b02}
+### Books with No Audio {/* #913ae137e4494d268fe002a96dfb3b02 */}
 
 
 :::note

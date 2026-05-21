@@ -15,7 +15,7 @@ BloomPUB Viewer is a Windows program that allows you to view BloomPUB files on y
 
 
 
-## Install BloomPUB Viewer {#af52be2640204e52943fa6aefb612b27}
+## Install BloomPUB Viewer {/* #af52be2640204e52943fa6aefb612b27 */}
 
 
 To install BloomPUB Viewer:
@@ -30,7 +30,7 @@ To install BloomPUB Viewer:
 The program will install and open. 
 
 
-## Use BloomPUB Viewer {#820ea236bc25473d93275a5563de0c76}
+## Use BloomPUB Viewer {/* #820ea236bc25473d93275a5563de0c76 */}
 
 
 To use BloomPUB Viewer, 

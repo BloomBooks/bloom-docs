@@ -21,7 +21,7 @@ Publishing your Bloom book as a PDF file allows you to easily print or share you
 
 
 
-### Steps to Publish Your Book as a PDF file {#da0528b5c0aa4d24b88d6c217e10207f}
+### Steps to Publish Your Book as a PDF file {/* #da0528b5c0aa4d24b88d6c217e10207f */}
 
 1. In the **Collections** tab, click the book you want to publish. Then, click the **Publish** tab.
 
@@ -70,7 +70,7 @@ If you have a Bloom Enterprise subscription, you can take advantage of additiona
 	- **CMYK**: Convert the color space of your book from RGB to CMYK. The current options are `None` (which keeps the colors in RGB) or `U.S. Web Coated (SWOP) v2`.
 6. Save the file or print it directly.
 
-### Related Topics {#c5a58d59118146afb7ef85b120ca295d}
+### Related Topics {/* #c5a58d59118146afb7ef85b120ca295d */}
 
 - Publish tab tasks overview
 - Save PDF file

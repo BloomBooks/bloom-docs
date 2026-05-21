@@ -37,7 +37,7 @@ If you choose to switch to a different theme, Bloom will then start ignoring the
 You will get a similar message, but not offering a Delete button, if your collection has an incompatible `customCollectionStyles.css` . We left out the “Delete” button in this case because you shouldn’t delete `customCollectionStyles.css` until you have switched _every_ book in your collection to a modern theme and are happy with the results.
 
 
-### Reasons to Avoid Deleting customBookStyles.css {#d4b348faf14b4f37acc838a2ab63b2aa}
+### Reasons to Avoid Deleting customBookStyles.css {/* #d4b348faf14b4f37acc838a2ab63b2aa */}
 
 
 There may be circumstances where you wish to integrate your book into the new theme system, yet maintain non-standard margins or similar attributes. By modifying your `customBookStyles.css`, you can substitute the incompatible rules with corresponding ones that utilize [the new CSS variables](/appearance-system-css).

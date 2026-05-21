@@ -24,7 +24,7 @@ The placeholder image is never printed in the published form of a book. If you d
 
 
 
-## Paste from Clipboard {#29b4bb19df1280d8bfc1d19da7008fef}
+## Paste from Clipboard {/* #29b4bb19df1280d8bfc1d19da7008fef */}
 
 
 If you are familiar with using Windows Explorer, this is the easiest method. 
@@ -50,7 +50,7 @@ After copying the image, **paste** it into Bloom:
 ![](./add-image.29b4bb19-df12-801b-b62e-faa197c708be.png)
 
 
-## Using the Image Toolbox {#848d5a8d84334d7a9fa320482f84b876}
+## Using the Image Toolbox {/* #848d5a8d84334d7a9fa320482f84b876 */}
 
 
 Suppose you are unfamiliar with using Windows Explorer. In that case, you can use Bloom's built-in file explorer to add images, or you can add pictures from an installed Image Gallery such as [Art of Reading](/install-art-of-reading).
@@ -81,7 +81,7 @@ The Image Toolbox gives you two methods for inserting images:
 1. **Image Galleries** are searchable collections of images in a special format that Bloom understands. You can [install the free Art of Reading collection](/install-art-of-reading) from SIL International, or you may have another image collection available to you.
 2. A **file** in your computer’s file system.
 
-### Add an Image From an Image Gallery {#de4d254b555a4c378a635319b1973cc1}
+### Add an Image From an Image Gallery {/* #de4d254b555a4c378a635319b1973cc1 */}
 
 
 In this section, we will show how to add an image from the free **Art of Reading** image gallery from SIL International. (If you do not have the Art of Reading installed, you can find instructions on how to install it in [Install Art of Reading](/install-art-of-reading).)
@@ -107,7 +107,7 @@ In this section, we will show how to add an image from the free **Art of Reading
 ![](./add-image.29b4bb19-df12-80df-ba88-f4fa66c4f1eb.png)
 
 
-### Add an Image From a File {#a119c4a3de514c99a6d347ef2db5a2fc}
+### Add an Image From a File {/* #a119c4a3de514c99a6d347ef2db5a2fc */}
 
 
 You can use the Image Toolbox to browse to any location on your computer where an image is stored and insert it. Here are the steps to do this:

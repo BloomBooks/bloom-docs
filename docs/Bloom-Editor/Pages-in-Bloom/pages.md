@@ -6,10 +6,10 @@ slug: /pages
 
 
 
-# Bloom Is Page-Oriented {#3e3ea400b9c4424697aee55d151c5e92}
+# Bloom Is Page-Oriented {/* #3e3ea400b9c4424697aee55d151c5e92 */}
 
 
-## Add a Page to a Book {#7044c9f42b2749d280a4c0e4953fe0fb}
+## Add a Page to a Book {/* #7044c9f42b2749d280a4c0e4953fe0fb */}
 
 
 To add a page to your book, you must be in **Edit mode.**
@@ -102,7 +102,7 @@ The first time you add a page to your book, Bloom places it just after the Credi
 
 
 
-## Reorder a Page {#00e14253dc234f85a6e57400a43238b6}
+## Reorder a Page {/* #00e14253dc234f85a6e57400a43238b6 */}
 
 
 <div class='notion-row'>
@@ -124,7 +124,7 @@ You can reorder a page by **clicking and dragging** its thumbnail icon in the Pa
 </div>
 
 
-## Duplicate a Page {#28bab62b643e46b6b157452cb55e286f}
+## Duplicate a Page {/* #28bab62b643e46b6b157452cb55e286f */}
 
 
 Sometimes you may want to duplicate a page. Perhaps it has a picture that you want to use on another page, or you have changed the formatting or layout of the page and want to use the same kind of page again. 
@@ -160,7 +160,7 @@ Sometimes you may want to duplicate a page. Perhaps it has a picture that you wa
 </div>
 
 
-## Copy and Paste Pages {#995d145615764df9a366149c5f9e819a}
+## Copy and Paste Pages {/* #995d145615764df9a366149c5f9e819a */}
 
 
 You can also duplicate a page by copying and pasting it. 
@@ -198,7 +198,7 @@ You can also duplicate a page by copying and pasting it.
 </div>
 
 
-## Copy and Paste Pages to a Different Book {#09df31db69d74979badbe42cec5ba2e2}
+## Copy and Paste Pages to a Different Book {/* #09df31db69d74979badbe42cec5ba2e2 */}
 
 
 :::note
@@ -215,7 +215,7 @@ You can copy a page from one book using this method:
 
 
 
-## Remove a Page {#3e659e2ddbb348a7a64a3f78dc3bf8b7}
+## Remove a Page {/* #3e659e2ddbb348a7a64a3f78dc3bf8b7 */}
 
 
 <div class='notion-row'>
@@ -262,13 +262,13 @@ Alternately, you can use the page’s context menu:
 </div>
 
 
-## Choose a Different Page Layout {#51be4fab3b284c94b1e075322d0e7829}
+## Choose a Different Page Layout {/* #51be4fab3b284c94b1e075322d0e7829 */}
 
 
 Sometimes you may want to choose a different layout for your page. Maybe you chose a layout with text above a picture, but now you want the text to appear below the picture. 
 
 
-:::caution
+:::warning[caution]
 
 **Changing the layout of a page can cause content to be lost.** It's best to try this first on a copy of the page you want to change.
 

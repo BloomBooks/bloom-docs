@@ -16,7 +16,7 @@ There are four steps to this process:
 3. [Check for an email receipt](/report-problem#d984aa3889d542c98e757b2cef74ba81)
 4. [Follow-up with Correspondence](/report-problem#44c3b90994bc469b8cf07c2d2e1fcb14)
 
-## Start your error report {#742dc066529441c99fd107cc4b5288de}
+## Start your error report {/* #742dc066529441c99fd107cc4b5288de */}
 
 
 To start the process, you must:
@@ -28,7 +28,7 @@ To start the process, you must:
 ![](./report-problem.d8c3674d-2351-4110-89c3-5d3e6f54df35.png)
 
 
-## Report the Problem {#bf297e526e6440b69c0788cd0bdf86e8}
+## Report the Problem {/* #bf297e526e6440b69c0788cd0bdf86e8 */}
 
 
 Following this, the **Report a Problem** dialogue will appear.
@@ -54,7 +54,7 @@ Eventually, you will see a message like this:
 You can close the message.
 
 
-## Check for an email receipt {#d984aa3889d542c98e757b2cef74ba81}
+## Check for an email receipt {/* #d984aa3889d542c98e757b2cef74ba81 */}
 
 
 If you open your email program, you should see a message confirming that your error report was received by the Bloom team. The message will look something like this:
@@ -68,7 +68,7 @@ If you do _not_ receive an email, there are two possible causes:
 - You made a mistake in your email address
 - The email was flagged as SPAM.
 
-## Follow-up with Bloom team {#44c3b90994bc469b8cf07c2d2e1fcb14}
+## Follow-up with Bloom team {/* #44c3b90994bc469b8cf07c2d2e1fcb14 */}
 
 
 Through this email thread, the Bloom team will send responses to you about the status of their investigations. Sometimes, they will ask additional questions. 

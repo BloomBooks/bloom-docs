@@ -16,7 +16,7 @@ There’s a 3-minute training video about creating a Bloom collection:
 
 
 
-## What is a Bloom Collection?  {#90e1bad894004b8ba6f0fd8452b1e6ef}
+## What is a Bloom Collection? {/* #90e1bad894004b8ba6f0fd8452b1e6ef */}
 
 
 In Bloom, every book is part of a **Collection**. A collection is a set of books that share certain characteristics. All the books in a collection have the same settings for their languages and book design. You may have a collection of English books, or French books, or books in some other language. 
@@ -55,13 +55,13 @@ Bloom stores all the books in a collection together in a single folder on your c
 Because every book must be part of a collection, you must have at least one collection **before** you can create a book.
 
 
-## Create a New Collection {#1d6b50d3274041feaf260bfd18d07d4f}
+## Create a New Collection {/* #1d6b50d3274041feaf260bfd18d07d4f */}
 
 
 To create a collection, Bloom needs to gather some basic information about the books that will be part of the collection — especially, the name of the language the books are written in. Bloom will lead you through a series of screens to gather the information it needs. 
 
 
-### Create Your First Collection {#c864fe0c9e214a6db969a63de11c6675}
+### Create Your First Collection {/* #c864fe0c9e214a6db969a63de11c6675 */}
 
 
 When you start Bloom for the first time, Bloom will show you a window that lets you `Open/Create Collections`_._ 
@@ -95,7 +95,7 @@ Now Bloom is ready to gather the information it needs about your collection.
 
 
 
-### Choose the Main Language for the Collection {#51ae111e027546e7b7151d05d85ccec2}
+### Choose the Main Language for the Collection {/* #51ae111e027546e7b7151d05d85ccec2 */}
 
 
 Bloom will show you a long list of languages. 
@@ -111,7 +111,7 @@ Bloom will show you a long list of languages.
 5. If you can’t find your language in the list, click `Can’t find your language?` for more help.
 6. Click `Next`.
 
-### Select the Font To Use for the Main Language (Optional) {#5bef2bd549244665987d586bdd788586}
+### Select the Font To Use for the Main Language (Optional) {/* #5bef2bd549244665987d586bdd788586 */}
 
 
 You can tell Bloom which `Font and Script` to use for the books in your collection. By default, Bloom uses the **Andika** font, which is a good font for new readers. You can change the font and script settings later, either for all the books in your collection or for an individual book.
@@ -134,7 +134,7 @@ Bloom versions prior to 5.5 use Andika New Basic as their default font.
 	1. Then, select the `Default line spacing` (or a taller spacing) from the drop-down list.
 4. Click `Next`.
 
-### Add Language Location Information (Optional) {#6997d5fc0d0b40488a0427e710294aff}
+### Add Language Location Information (Optional) {/* #6997d5fc0d0b40488a0427e710294aff */}
 
 
 You may add details about the Language Location (`Country`, `Province`, and/or `District`).
@@ -159,7 +159,7 @@ The language location will appear on the **title page** of books in this collect
 3. Type the `District` for this language.
 4. Click `Next`.
 
-### Name the Collection {#79d1ab39f9ef4b5fb6b41e5401e60b15}
+### Name the Collection {/* #79d1ab39f9ef4b5fb6b41e5401e60b15 */}
 
 
 You need to give each collection a name. The `Collection Name` is used for the folder that contains your collection’s books.
@@ -180,7 +180,7 @@ The `Collection Name` must be different than all your other project names. If yo
 
 
 
-### Finish Creating the Collection {#822aba30c20e40829966ca01e2bf4546}
+### Finish Creating the Collection {/* #822aba30c20e40829966ca01e2bf4546 */}
 
 
 Now you are `Ready To Create Your New Collection`.
@@ -193,7 +193,7 @@ Now you are `Ready To Create Your New Collection`.
 Bloom will create your collection.
 
 
-## Now You Are Ready To Make a Book! {#c8dab090b53045d287c08826526bcd44}
+## Now You Are Ready To Make a Book! {/* #c8dab090b53045d287c08826526bcd44 */}
 
 
 After Bloom creates your collection, Bloom will show you the **Bloom Editor** window.
@@ -208,7 +208,7 @@ The **Collection pane** (in the upper-left corner of the screen) is empty — re
 See [Create a New Book](/creating-a-new-book) to learn about creating books.
 
 
-## Learn More About Collections {#f0459dea41314721be50cf07647e463e}
+## Learn More About Collections {/* #f0459dea41314721be50cf07647e463e */}
 
 
 To learn more, see [The Collections Tab](/collections-tab).

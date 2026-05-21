@@ -24,7 +24,7 @@ It means that you will need to adapt the book to your desired format.
 Let’s look at one example of adapting a book.
 
 
-## Changing Page Layout and Format: an example {#1f9dac7649de48fc9841906a927b0d27}
+## Changing Page Layout and Format: an example {/* #1f9dac7649de48fc9841906a927b0d27 */}
 
 
 [Sara’s Canoe](https://bloomlibrary.org/Little-Zebra-Books/book/46lBlhj6GA?lang=en) is a storybook designed to be printed as an A5 booklet. Here are two facing (portrait) pages:
@@ -75,7 +75,7 @@ Now that the book has been converted to a Device 16x9 Landscape book, your next 
 Finally, you will want to adjust images and text for a “best fit” for the new layout. 
 
 
-## Having multiple versions of a book {#6d8ac96b58fc4b7cafe51982d31bc835}
+## Having multiple versions of a book {/* #6d8ac96b58fc4b7cafe51982d31bc835 */}
 
 
 When an author makes a book using the Basic Book template, that book is well suited for both print and digital. However, there are limitations. In particular, the basic orientation — portrait vs. landscape — will be the same for both the print and the digital. But if, for example, you wanted a portrait book for print and a landscape book for digital (or vice-versa), then you must create two separate versions of your book.

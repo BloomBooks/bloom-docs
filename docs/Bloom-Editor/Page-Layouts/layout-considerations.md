@@ -23,7 +23,7 @@ A few simple examples:
 This article will outline some basic considerations for designing your book to most effectively reach your intended audience and most effectively “show off” your book and let it shine!
 
 
-## Making Wise Layout Choices: an example {#affd985f60df4b03865f5c7d2b6422aa}
+## Making Wise Layout Choices: an example {/* #affd985f60df4b03865f5c7d2b6422aa */}
 
 
 Consider, for example, the book “[I Am Tashi](https://bloomlibrary.org/topic:Culture/book/NXVaHwbNTH?lang=bo)” from Bloom Library. 
@@ -74,7 +74,7 @@ The point of the above example is simply to encourage you to explore and examine
 With this goal in mind, in this article, we will now discuss a number of areas you would do well to explore and evaluate when designing a new book in Bloom. 
 
 
-## Portrait vs. Landscape Orientation {#f569232f17c64104888da3c0c69cc156}
+## Portrait vs. Landscape Orientation {/* #f569232f17c64104888da3c0c69cc156 */}
 
 
 If your book’s illustrations are all taller than they are wide, typically, this would call for a Portrait layout of your book.
@@ -136,7 +136,7 @@ You can also easily duplicate a book if you decide you need to publish two diffe
 
 
 
-## Print vs. Digital Format {#cf4e1c5fdddd46a8a860445ba6ce4a94}
+## Print vs. Digital Format {/* #cf4e1c5fdddd46a8a860445ba6ce4a94 */}
 
 
 The above section shows how you do not have to choose between print or digital when making Bloom books. In fact, most books designed for print will also display very nicely in digital format (called “Device 16x9” format) without making an extra special version for digital. However, it is important to note that a digital book (16x9) cannot be printed.
@@ -184,7 +184,7 @@ Finally, with the Bloom Reader app, your books can be enjoyed off-line on any An
 Carefully evaluate which format — print or digital — will **best** serve your target audience.
 
 
-## Separate Text-Boxes vs. Overlay? {#5935062ad6744160ab30dc9f2ec73a43}
+## Separate Text-Boxes vs. Overlay? {/* #5935062ad6744160ab30dc9f2ec73a43 */}
 
 
 Bloom’s [Overlay Tool ](/about-canvas)gives you the ability to add speech bubbles, captions, and transparent text over images. This opens up new possibilities for books published to Bloom’s native format, BloomPUB.
@@ -208,7 +208,7 @@ Of course, this is not an either-or choice, you can also have separate text boxe
 ![](./layout-considerations.12456aec-42c8-4886-8856-158d2cfb67a0.png)
 
 
-:::caution
+:::warning[caution]
 
 Note: If your intended readership need to reader your books in ePUB format, be aware that some ePUB readers do not handle Overlays. See [Limitations of ePUB Readers](/ePUB-notes). 
 
@@ -217,7 +217,7 @@ Note: If your intended readership need to reader your books in ePUB format, be a
 
 
 
-## Conclusion {#2924bb19df1280edadbef8fd10bb3223}
+## Conclusion {/* #2924bb19df1280edadbef8fd10bb3223 */}
 
 
 :::tip
@@ -229,7 +229,7 @@ There are no “right” and “wrong” format choices for Bloom books; rather,
 
 
 
-## Related Articles {#2924bb19df128067a572c840d916c1b8}
+## Related Articles {/* #2924bb19df128067a572c840d916c1b8 */}
 
 - [BloomPUB vs. ePUB: What’s the Difference?](/compare-bloomPUB-ePUB)
 - [Limitations of ePUB Readers](/ePUB-notes)

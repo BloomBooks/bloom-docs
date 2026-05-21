@@ -27,13 +27,13 @@ You can do a lot with a custom branding pack, but there are limits: see [What Bl
 
 
 
-## Branding pack samples {#6bfdcc9b92a2444ca7d72edcc3fd1560}
+## Branding pack samples {/* #6bfdcc9b92a2444ca7d72edcc3fd1560 */}
 
 
 Here are some examples of front and back matter pages that have been customized using a custom branding pack
 
 
-### Title Page {#f3f1446f6c664f8c9b2e4ab8e193d0b1}
+### Title Page {/* #f3f1446f6c664f8c9b2e4ab8e193d0b1 */}
 
 
 ![](./what-branding-can-do.d4e1675e-a5b6-4583-a589-67af4f9e9a1a.png)
@@ -44,7 +44,7 @@ Here are some examples of front and back matter pages that have been customized 
 </div>
 
 
-### Credit Page default license & license notes {#b06f70e834b24b2d836daa994b082d16}
+### Credit Page default license & license notes {/* #b06f70e834b24b2d836daa994b082d16 */}
 
 
 <div class='notion-row'>
@@ -64,7 +64,7 @@ _(from Suluh-INOVASI)_
 _(from GRN-REACH)_
 
 
-### Back Cover Bottom {#01d0830a711f4a85b2c7d9efae7a1716}
+### Back Cover Bottom {/* #01d0830a711f4a85b2c7d9efae7a1716 */}
 
 
 ![](./what-branding-can-do.2164bb19-df12-807c-be70-cdbf1485ec6f.png)
@@ -73,7 +73,7 @@ _(from GRN-REACH)_
 _(from Chetana Trust)_
 
 
-## What Bloom branding <u>cannot</u> do {#b681c648ec2e401999e6cefafeb002fa}
+## What Bloom branding <u>cannot</u> do {/* #b681c648ec2e401999e6cefafeb002fa */}
 
 
 Making a branding pack in Bloom is like decorating a house: it’s easy, but there are limits. In contrast, making a custom **Front/Back Matter pack** is like moving walls or adding on new rooms. With a custom front/back matter pack (called an **Xmatter pac**k), you can add new front and back matter pages and new branding slots. Custom Xmatter packs must be created by a Bloom developer.

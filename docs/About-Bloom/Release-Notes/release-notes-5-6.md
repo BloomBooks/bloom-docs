@@ -7,10 +7,10 @@ keywords: [Release Notes]
 
 
 
-## Collection Tab {#495e77f18305415591b5375d0d1383c9}
+## Collection Tab {/* #495e77f18305415591b5375d0d1383c9 */}
 
 
-### Books on BloomLibrary.org Progress Bar {#1e394c764431430e9a5cab1940b55ae9}
+### Books on BloomLibrary.org Progress Bar {/* #1e394c764431430e9a5cab1940b55ae9 */}
 
 
 <div class='notion-row'>
@@ -31,7 +31,7 @@ keywords: [Release Notes]
 </div>
 
 
-### Books on BloomLibrary.org Badges {#47f1b3df61d243b386fb482cd1275861}
+### Books on BloomLibrary.org Badges {/* #47f1b3df61d243b386fb482cd1275861 */}
 
 
 <div class='notion-row'>
@@ -52,7 +52,7 @@ keywords: [Release Notes]
 </div>
 
 
-## Edit Tab {#e17410d3193a4bee9f8cca78ea06c157}
+## Edit Tab {/* #e17410d3193a4bee9f8cca78ea06c157 */}
 
 - You can now hold down Ctrl+Shift+space to see all “invisible” characters, such as non-breaking spaces.
 - We added a new Book Settings dialog. For now, it lets you control the maximum image size used in eBooks that you create from a book.  The default is HD, but you can shrink that or increase it up to 4k resolution. This setting affects BloomPUBs, ePUBs, and books when they are viewed on BloomLibrary.org.
@@ -60,7 +60,7 @@ keywords: [Release Notes]
 ![](./release-notes-5-6.07c1ee1a-0149-41d7-9b21-557d13064f66.png)
 
 
-## Team Collections  {#1ffc2657146a4019ac6a17bc5fefe2c7}
+## Team Collections {/* #1ffc2657146a4019ac6a17bc5fefe2c7 */}
 
 
 <div class='notion-row'>
@@ -81,11 +81,11 @@ keywords: [Release Notes]
 
 - We added a minimal “Check In All” feature. To use it, Click the “Team Collections” button, “Status” tab, and click “Check In All Books”
 
-### Talking Book Tool {#125ca4c8d6aa42338eec70bd525f7ebc}
+### Talking Book Tool {/* #125ca4c8d6aa42338eec70bd525f7ebc */}
 
 - If you have added any sentence-ending punctuation characters in the Leveled Reader Tool settings, the Talking Book Tool will now use those in addition to the universal set of sentence-ending characters.
 
-## Leveled and Decodable Readers {#f1e7802f9103458d8364af8e62716a3b}
+## Leveled and Decodable Readers {/* #f1e7802f9103458d8364af8e62716a3b */}
 
 
 <div class='notion-row'>
@@ -108,7 +108,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 </div>
 
 
-## Publish {#2991d3cfca2f447693ce8d395f102667}
+## Publish {/* #2991d3cfca2f447693ce8d395f102667 */}
 
 
 <div class='notion-row'>
@@ -130,7 +130,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 </div>
 
 
-## Bloom Library {#97542ddb00634cd98c176d8f49a09d80}
+## Bloom Library {/* #97542ddb00634cd98c176d8f49a09d80 */}
 
 - We improved search by introducing two levels. In the initial level, you will see books with titles matching your search more precisely. If that doesn’t find the book you want, you can then click “Search Deeper” to search in copyright, publisher, parts of the title, etc. For example, if you search for “tortoise finds his house”, you would previously be shown 502 books all of which had something to do with tortoises, houses, or finding. After this change, Bloom Library just shows you one book. Clicking on “Search Deeper” still gives you the full list of 502 books.
 
@@ -189,7 +189,7 @@ In previous versions, there was a menu command in the Collection tab that you co
 
 - We made book thumbnails sensitive to what language you are looking in, so that you are more likely to see a book title in your language, even for books that were uploaded with a different primary language.
 
-## Other Improvements {#058e8f3eee2a41dd8852d755b5b8d789}
+## Other Improvements {/* #058e8f3eee2a41dd8852d755b5b8d789 */}
 
 - We retired the “Spiritual” topic and added a “Bible” topic. Books with a copyright matching the most common Bible-material books will automatically be changed. Others will lose their topic. We recommend the “Culture” topic if “Bible” isn’t a good descriptor.
 - We improved our OPDS API.

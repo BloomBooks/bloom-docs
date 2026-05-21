@@ -15,7 +15,7 @@ This material is for Bloom clients holding a Bloom Enterprise subscription.
 
 
 
-## Overview {#df0855b964e24b7394027fff9c54cea3}
+## Overview {/* #df0855b964e24b7394027fff9c54cea3 */}
 
 
 Organizations holding a Bloom Enterprise subscription can organize their books into different bookshelves (book collections). For example, below is a sampling of the Bloom Library bookshelves for the organization **Education for Life**:
@@ -32,7 +32,7 @@ Bloom provides two different bulk operations to its Enterprise clients:
 Both bulk operations depend on grouping books into particular “bookshelves” similar to those shown above for Education for Life.
 
 
-## Essential Steps for Setup {#129a30f7be7b45e59c5b7e6be3b3ae75}
+## Essential Steps for Setup {/* #129a30f7be7b45e59c5b7e6be3b3ae75 */}
 
 
 There are two essential steps before initiating either of these bulk processing operations.
@@ -40,7 +40,7 @@ There are two essential steps before initiating either of these bulk processing 
 1. Set the [Bloom Library Bookshelf](/bloom-bookshelves#8874d41827394c69a5ef00d4508fda2a) for the book collection to set the bookshelf.
 2. Ensure the [publishing settings](/bloom-bookshelves#0ef8e2f1272c4ea88040940a6cdcce56) for each book are correct.
 
-### **Set Bloom Library Bookshelf** {#8874d41827394c69a5ef00d4508fda2a}
+### **Set Bloom Library Bookshelf** {/* #8874d41827394c69a5ef00d4508fda2a */}
 
 
 Here are the steps to select the **Bloom Library Bookshelf**:
@@ -52,7 +52,7 @@ Here are the steps to select the **Bloom Library Bookshelf**:
 2. Select the **bookshelf** from the `Bloom Library Bookshelf` drop-down.
 3. Click `OK`.
 
-:::caution
+:::warning[caution]
 
 Setting up bookshelves is something done in coordination with the Bloom Librarian. 
 
@@ -61,7 +61,7 @@ Setting up bookshelves is something done in coordination with the Bloom Libraria
 
 
 
-### **Check Publishing Settings** {#0ef8e2f1272c4ea88040940a6cdcce56}
+### **Check Publishing Settings** {/* #0ef8e2f1272c4ea88040940a6cdcce56 */}
 
 
 Once the **Bloom Library Bookshelf** has been selected for the collection of books, the second essential step is to carefully set the publishing settings for _each_ individual book in the collection. 
@@ -80,7 +80,7 @@ Once the **Bloom Library Bookshelf** has been selected for the collection of boo
 	- **Cover Color**
 	- **Visibility**
 
-## Bulk Uploading to Web {#9db147e9949e425cb73cb3b013f07c55}
+## Bulk Uploading to Web {/* #9db147e9949e425cb73cb3b013f07c55 */}
 
 
 After completing the two essential steps, the entire collection can be bulk uploaded. 

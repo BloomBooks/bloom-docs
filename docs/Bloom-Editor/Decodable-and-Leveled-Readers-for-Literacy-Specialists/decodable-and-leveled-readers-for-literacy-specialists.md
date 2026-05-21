@@ -6,16 +6,16 @@ slug: /decodable-and-leveled-readers-for-literacy-specialists
 
 
 
-# Decodable and Leveled Readers for Literacy Specialists {#3564bb19df1280cdb6a9e7f0a40ffc3b}
+# Decodable and Leveled Readers for Literacy Specialists {/* #3564bb19df1280cdb6a9e7f0a40ffc3b */}
 
 
-## Intended Audience {#32e4bb19df128005b3f6c7310b199335}
+## Intended Audience {/* #32e4bb19df128005b3f6c7310b199335 */}
 
 
 This documentation is intended for trained **Literacy Specialists** who wish to create [Decodable](/glossary#f89e2ff182c3471a9cbabefaad5fe4f6) and [Leveled](/glossary#32f4bb19df12800e89a9f4f3597c40d9) **Reader Templates**. 
 
 
-:::caution
+:::warning[caution]
 
 Setting up Reader Templates requires a deep understanding of the language, its orthography, and its grammar.
 
@@ -24,7 +24,7 @@ Setting up Reader Templates requires a deep understanding of the language, its o
 
 
 
-## The Goal {#32e4bb19df12803089ecdb541305ac73}
+## The Goal {/* #32e4bb19df12803089ecdb541305ac73 */}
 
 
 After the Literacy Specialist has configured and created these Decodable and Leveled Reader Templates for a given language, they will bundle them into a special file called a “[Reader Template Bloom Pack](/glossary#32f4bb19df12802891c5f7a73c2ed890)” and give it to **local authors** to install on their computers. Local authors will then use these templates to create and publish stories that carefully target a specific reading level.
@@ -39,7 +39,7 @@ Bloom users with a [Bloom Enterprise subscription ](/which-subscription)can orga
 ![](./decodable-and-leveled-readers-for-literacy-specialists.32e4bb19-df12-80e2-a4bc-e14fffa2b820.png)
 
 
-## What the literacy specialist should already know {#32e4bb19df1280a4bd81f4006b34f5aa}
+## What the literacy specialist should already know {/* #32e4bb19df1280a4bd81f4006b34f5aa */}
 
 
 This material assumes you already have a good working knowledge of the Bloom program. 
@@ -60,7 +60,7 @@ This article will not teach you principles related to selecting the order in whi
 
 
 
-## What you will learn {#32e4bb19df1280f3b9f2e5798933fde8}
+## What you will learn {/* #32e4bb19df1280f3b9f2e5798933fde8 */}
 
 
 You will learn how to create a collection of [Reader Templates](/glossary#32f4bb19df1280fdb4a3d77da7c693fd) at various levels/stages and for various purposes (decodable or leveled).
@@ -75,13 +75,13 @@ Finally, you will learn how to create a “Reader Template Bloom Pack” file th
 Before we begin, please review the following key terms in our glossary.
 
 
-## Definitions {#32e4bb19df1280baabaec82ef0dba5d5}
+## Definitions {/* #32e4bb19df1280baabaec82ef0dba5d5 */}
 
 - [Decodable Reader](/glossary#f89e2ff182c3471a9cbabefaad5fe4f6)
 - [Leveled Reader](/glossary#32f4bb19df12800e89a9f4f3597c40d9)
 - [Reader Template Bloom Pack](/glossary#32f4bb19df1280fdb4a3d77da7c693fd)
 
-## Create a new Local Language Collection to hold your templates {#40161bf9f04f4da2ac0cb8acd1ebdc08}
+## Create a new Local Language Collection to hold your templates {/* #40161bf9f04f4da2ac0cb8acd1ebdc08 */}
 
 
 A Local Language Collection combines two things. First, it is a folder on your disk that contains other folders, each of which has all the parts of a single book or template book. As you use Bloom, you add books to your collection. We are focusing here on local language collections because the rules for decodable reader stages and leveled reader levels are specific to a single local language. 
@@ -102,13 +102,13 @@ Hint: you might wish to name this collection “Reader Templates for ____”.
 
 
 
-## Additional Reading (SIL) {#33b4bb19df1280bb9483f4350ed73066}
+## Additional Reading (SIL) {/* #33b4bb19df1280bb9483f4350ed73066 */}
 
 - [Resources for Literacy and Education](https://www.sil.org/literacy-and-education/resources-literacy-and-education).
 - [Resources for Developing Curriculum and Teaching Materials](https://www.sil.org/literacy-education/resources-developing-curriculum-and-teaching-materials).
 - [Education Technology](https://www.sil.org/literacy-education/education-technology).
 
-## Additional Reading (general) {#33b4bb19df1280cc8afff98e461f6421}
+## Additional Reading (general) {/* #33b4bb19df1280cc8afff98e461f6421 */}
 
 - [10 tips for using decodable texts](https://www.thereadingleague.org/media/maria-murrays-10-tips-for-using-decodable-texts/).
 - [A Teacher’s Guide to Decodable Readers](https://readingeggs.com/articles/a-teachers-guide-to-decodable-readers/).

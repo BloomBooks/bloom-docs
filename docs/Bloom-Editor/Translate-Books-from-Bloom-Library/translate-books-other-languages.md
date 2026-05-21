@@ -6,13 +6,13 @@ slug: /translate-books-other-languages
 
 
 
-## Generosity: a key to Bloom’s success {#7e4d1a8a37a7487092d06788a5f752be}
+## Generosity: a key to Bloom’s success {/* #7e4d1a8a37a7487092d06788a5f752be */}
 
 
 One key to Bloom’s success comes from the generosity of authors and organizations that create original content books and freely share them with the world, so that others can benefit and translate them into their languages. 
 
 
-## Find and Download a Book to Translate {#1bf2e026a34c4bd7a4eea9bd70881cd4}
+## Find and Download a Book to Translate {/* #1bf2e026a34c4bd7a4eea9bd70881cd4 */}
 
 
 [Bloom Library](https://bloomlibrary.org/) hosts many thousands of books written in hundreds of languages. The source materials for most of these books can be freely downloaded into the Bloom Editor and translated into other languages and then published. 
@@ -28,7 +28,7 @@ To find a book that you want to translate or adapt, Bloom Library provides you w
 In addition, there are special “bookshelves” for particular publishers and organizations which can be a rich source of engaging storybooks.
 
 
-## Download a Book for Translation {#7b848845e61041dc930d87535f11249d}
+## Download a Book for Translation {/* #7b848845e61041dc930d87535f11249d */}
 
 
 If you have not yet [installed Bloom editor](/installing-bloom-on-windows), please do so now.  
@@ -43,7 +43,7 @@ Once you have found a book you want to translate, simply click on the button “
 After the book has been downloaded, in Bloom Editor, click on the button “Make a book using this source”.
 
 
-## Translate Carefully {#799c071b86214aa1a86ae360e83dd350}
+## Translate Carefully {/* #799c071b86214aa1a86ae360e83dd350 */}
 
 
 Even though many of the books hosted on the Bloom Library are simple story books, you should nevertheless take your time and be careful with your translation, especially before uploading it to Bloom Library.

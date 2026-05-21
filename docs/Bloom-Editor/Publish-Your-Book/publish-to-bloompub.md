@@ -18,7 +18,7 @@ For more information on BloomPUB and how it differs from the widely-used ePUB st
 
 
 
-## How to make a BloomPUB file {#8f81df1a6f04441db2c305dc6af5fa6d}
+## How to make a BloomPUB file {/* #8f81df1a6f04441db2c305dc6af5fa6d */}
 
 
 To make and share a BloomPUB of a book, select the book you want to publish. Then: 
@@ -29,7 +29,7 @@ To make and share a BloomPUB of a book, select the book you want to publish. The
 ![](./publish-to-bloompub.5e4440af-ab0a-4c94-a88c-9ca57a035722.png)
 
 
-### Set Options and View Preview {#ac5af366d9dd4d33ad862d10657f3370}
+### Set Options and View Preview {/* #ac5af366d9dd4d33ad862d10657f3370 */}
 
 
 Next, you can set some options for the book you will upload. 
@@ -51,13 +51,13 @@ Next, you can set some options for the book you will upload.
 
 1. Click `PREVIEW` to view a preview of your book (optional, but recommended)
 
-## Sharing Your BloomPUB {#f7fc4f8b51d3458f9427d2a0c654e22d}
+## Sharing Your BloomPUB {/* #f7fc4f8b51d3458f9427d2a0c654e22d */}
 
 
 Bloom gives you multiple ways to share your BloomPUB book.
 
 
-### Save BloomPUB file {#6e7ebbbc73df46bfb94e791442c8aef3}
+### Save BloomPUB file {/* #6e7ebbbc73df46bfb94e791442c8aef3 */}
 
 
 The surest way to share a BloomPUB book is to save it as a file. Then you can send the file to someone else by email or WhatsApp, save it to an SD card, or any other way you can share a file. You can also view the BloomPUB file on a Windows computer by using the BloomPUB Viewer application. 
@@ -68,7 +68,7 @@ The surest way to share a BloomPUB book is to save it as a file. Then you can se
 ![](./publish-to-bloompub.78b68d61-e5bb-4a86-88d7-7abb24725cb1.png)
 
 
-### Share a BloomPUB over Wi-Fi {#cde8582f3e33455b91d106ab4a0cc716}
+### Share a BloomPUB over Wi-Fi {/* #cde8582f3e33455b91d106ab4a0cc716 */}
 
 
 You may be in a setting where other users can connect to a temporary wi-fi network—for instance, if you are leading a workshop. Bloom can use your computer’s Wi-Fi to create a temporary network for sharing a BloomPUB book. 
@@ -80,7 +80,7 @@ You may be in a setting where other users can connect to a temporary wi-fi netwo
 
 	1. Important Note:
 
-		:::caution
+		:::warning[caution]
 		
 		If your computer’s firewall software prevents you from sharing by Wi-Fi, see [Share a BloomPUB Over Wi-Fi (Firewall Permissions)](/bloom-firewall).
 		
@@ -94,7 +94,7 @@ You may be in a setting where other users can connect to a temporary wi-fi netwo
 
 4. Follow the steps in [Receive books via Wi-Fi](/get-books-bloom-reader#9fce48475dce400ba9ff71c9870976d7) to receive the book on your Android device.
 
-### Share a BloomPub over a USB cable {#ceafe81bd00f47e4be62323b7581e8a9}
+### Share a BloomPub over a USB cable {/* #ceafe81bd00f47e4be62323b7581e8a9 */}
 
 
 You can connect an Android device to your computer with a USB cable and save your BloomPUB directly to the device. 
@@ -106,7 +106,7 @@ You can connect an Android device to your computer with a USB cable and save you
 
 	1. Important notes:
 
-		:::caution
+		:::warning[caution]
 		
 		The Android device must have the [Bloom Reader App](https://bloomlibrary.org/page/resources/bloom-reader) installed.
 		Some Android phones do not allow file transfer with a USB cable. If you are unable to transfer via USB, check the drivers on your computer, the settings on your phone, or try to transfer the BloomPUB file another way.

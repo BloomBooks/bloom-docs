@@ -6,7 +6,7 @@ slug: /set-leveled-reader-levels
 
 
 
-## Leveled Reader Levels {#140de27b23eb4d7884b0fd877bfb7d2c}
+## Leveled Reader Levels {/* #140de27b23eb4d7884b0fd877bfb7d2c */}
 
 
 Each level defines specific targets for word length, sentence length, and number of unique words. These targets can be set for each sentence, each page, and the entire book. Levels also determine appropriate formatting. Levels may also include suggestions for appropriate vocabulary, illustration support, and topics for the given level.
@@ -18,7 +18,7 @@ As you enter text into the book, Bloom helps you keep in mind the level for whic
 Setting up the Leveled Reader Tool is not too much different from setting up decodable stages. In fact, it is easier. There are 6 levels already set for you. You can use them as-is or modify them.
 
 
-:::caution
+:::warning[caution]
 
 While setting up the Leveled Reader Tool is not too difficult, determining the best criteria for it is usually done by someone with specialized skills in literacy education.
 
@@ -27,7 +27,7 @@ While setting up the Leveled Reader Tool is not too difficult, determining the b
 
 
 
-## Make a Leveled Reader template {#32e4bb19df128010b883f2840bda2c2c}
+## Make a Leveled Reader template {/* #32e4bb19df128010b883f2840bda2c2c */}
 
 
 In the Collections tab, look for Sources for New Books in the bottom left of the screen.  There you will see **Specialized Templates**:
@@ -70,7 +70,7 @@ Bloom comes with a set of basic levels. You can edit these to suit your needs or
 
 4. When you are finished, click `OK`.
 
-## Changing any book into a Leveled Reader {#32e4bb19df128017b2a3f04fc4f7929f}
+## Changing any book into a Leveled Reader {/* #32e4bb19df128017b2a3f04fc4f7929f */}
 
 
 Any book can be changed into a Leveled Reader. Follow these steps: 

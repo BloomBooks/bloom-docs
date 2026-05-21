@@ -9,7 +9,7 @@ slug: /workflow-models
 There are two different recommended workflows for Bloom users managing a large number of books. The two workflows differ depending on whether or not the user has reliable internet and a [Bloom Enterprise subscription](/about-bloom-subscriptions). 
 
 
-### Workflow 1: Organizations with reliable Internet _and_ an Enterprise subscription {#2764bb19df128159ac7ff12f7705dd21}
+### Workflow 1: Organizations with reliable Internet _and_ an Enterprise subscription {/* #2764bb19df128159ac7ff12f7705dd21 */}
 
 
 Organizations with reliable internet and an Enterprise subscription should use Bloom’s powerful collaborative tool: [Team Collections](/team-collections-intro).
@@ -24,7 +24,7 @@ Please refer to [Working with Team Collections](/working-with-team-collections) 
 The above is the typical workflow for organizations with reliable internet and an Enterprise subscription. Additional guidance will be needed if your books are going to be subdivided according to reading level.
 
 
-### Workflow 2: Organizations with unreliable internet, or organizations with no Enterprise status {#2764bb19df1281f3b6e0e0dff4026c6e}
+### Workflow 2: Organizations with unreliable internet, or organizations with no Enterprise status {/* #2764bb19df1281f3b6e0e0dff4026c6e */}
 
 
 If the internet is unreliable for your team, Bloom’s Team Collections will not be a viable option. In this case, the project coordinator will need to carefully manage by various other means (USB keys, external hard drives, zip files, etc.) the creation, checking, revision, and publishing of new book titles.

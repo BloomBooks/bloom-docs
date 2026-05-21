@@ -13,7 +13,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 	- Option 2: Create and place a special file on each device. Make sure Bloom Reader has permission to read this file.
 - You will need to be directly reading from our analytics database. This device ID will not be available from a BloomLibrary.org stats page.
 
-### Option 1: Steps for adding the information directly within Bloom Reader {#695205e6282a4f399c1fc677dbf1d653}
+### Option 1: Steps for adding the information directly within Bloom Reader {/* #695205e6282a4f399c1fc677dbf1d653 */}
 
 1. Decide on a project ID and device IDs for each device.
 2. Open the menu by clicking on the menu at the top-left of the book list.
@@ -27,7 +27,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 	1. You may change the IDs using this form, but the only way to remove them completely is to clear the app settings (from the Android settings) or uninstall.
 6. See [Verification](/how-to-collect-bloom-reader-analytics#f009f738890d4b0e82463be2703bff69) below.
 
-### Option 2: Steps for creating the file that identifies each device {#eece883425d34bfeb09fa17c53ec6327}
+### Option 2: Steps for creating the file that identifies each device {/* #eece883425d34bfeb09fa17c53ec6327 */}
 
 1. Decide on a project ID and device IDs for each device.
 2. Create a file called deviceId.json.
@@ -45,7 +45,7 @@ When a project owns and distributes hardware to use with Bloom Reader, it is pos
 	2. Tap “Find lost books”.
 	3. Navigate to the Bloom directory if needed, then tap “Use this Folder” or “Select” to give permission to the directory.
 
-### Verification {#f009f738890d4b0e82463be2703bff69}
+### Verification {/* #f009f738890d4b0e82463be2703bff69 */}
 
 
 To verify the setup was successful, open the menu at the top-left of the book list. There will be a new item at the end which will display `“Stats ID: {device ID} ({project ID})”`.

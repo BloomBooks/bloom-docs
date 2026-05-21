@@ -6,7 +6,7 @@ slug: /change-dropbox-tier
 
 
 
-:::caution
+:::warning[caution]
 
 Changing your Dropbox subscription tier or your Dropbox account can cause havoc for a Bloom Team Collection.
 
@@ -24,7 +24,7 @@ In particular, if you are **downgrading** and your current usage exceeds the n
 Likewise, changing Dropbox accounts can cause havoc. Depending on how you install Dropbox, you may inadvertently create a duplicate Team Collection that is, in fact, totally **disconnected** to the original collection. **This will prevent you from collaborating with your colleagues.**
 
 
-## Instructions for non-administrators {#3024bb19df1280238796dd13a33abcdf}
+## Instructions for non-administrators {/* #3024bb19df1280238796dd13a33abcdf */}
 
 
 If you are not the owner of the Team Collection, but you are a member, please follow the following steps:
@@ -59,7 +59,7 @@ If you are not the owner, you will see a dialog like this:
 Choose "Delete anyway".
 
 
-## Instructions for Administrators {#3024bb19df1280f696a9d2dffb125eb0}
+## Instructions for Administrators {/* #3024bb19df1280f696a9d2dffb125eb0 */}
 
 
 If you are the administrator for the Team Collection and you downgrade your subscription tier, then you will need to ensure you remain within your quota.

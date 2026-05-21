@@ -31,7 +31,7 @@ There are five different tabs in the **Collection Settings** window:
 - [**Bloom Subscription**](/collection-settings#d375f428f63d4ccc9721bb4c81db0f76)**:**
 - [**Advanced Program Settings**](/collection-settings#be4f20d8ed584ed2bceb94d29da72ed7)**:**
 
-## Languages Tab {#666299e09b6c4f36bd368dcbd8a20a10}
+## Languages Tab {/* #666299e09b6c4f36bd368dcbd8a20a10 */}
 
 
 In the Languages tab, you can choose the languages for the books in this collection. 
@@ -49,7 +49,7 @@ The Collection settings tab defines the languages that are available for display
 
 
 
-## Book Making Tab {#ce3b078271804fad95b986b382a8d7eb}
+## Book Making Tab {/* #ce3b078271804fad95b986b382a8d7eb */}
 
 
 Choosing the default fonts and numbering style for the languages in your book, plus front/back matter layouts and Bloom Library bookshelf (for Enterprise customers). 
@@ -79,7 +79,7 @@ You can select the front/back matter arrangement here. The Basic Book template i
 Projects that have Bloom Enterprise subscriptions can arrange for one or more bookshelves on the Bloom Library. All books uploaded from this collection will go into the selected bookshelf.
 
 
-## Project Information Tab {#06fe40e899ee450686c2cf937cd56380}
+## Project Information Tab {/* #06fe40e899ee450686c2cf937cd56380 */}
 
 
 The Project Information tab lets you set the country, province, and district description.
@@ -98,7 +98,7 @@ See [Rename a Collection](/rename-collection) for more info.
 
 
 
-## Bloom Subscription Tab {#d375f428f63d4ccc9721bb4c81db0f76}
+## Bloom Subscription Tab {/* #d375f428f63d4ccc9721bb4c81db0f76 */}
 
 
 [Bloom Subscription](/about-bloom-subscriptions) offers features and services essential for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large. 
@@ -116,7 +116,7 @@ If you have a Bloom Enterprise subscription, click the `Enterprise Subscription`
 If your project is funded by the local community, please contact [subscriptions@bloomlibrary.org](mailto:subscriptions@bloomlibrary.org) to request a community subscription code.
 
 
-## Team Collection {#c9f1df86137140738adb9c016f45158a}
+## Team Collection {/* #c9f1df86137140738adb9c016f45158a */}
 
 
 [Team Collections](/team-collections-intro) are a way for a group of authors, illustrators, and editors to work together on a collection of books. Team collections use a “shadow collection” stored on a shared file service to manage and synchronize a collection of books. Team Collections are a Bloom Enterprise feature. 
@@ -137,7 +137,7 @@ Team collections are an experimental feature. Be sure the `Team Collections` box
 ![](./collection-settings.2164bb19-df12-80d6-a9e0-e7dba9a688ac.png)
 
 
-## Advanced Program Settings Tab {#be4f20d8ed584ed2bceb94d29da72ed7}
+## Advanced Program Settings Tab {/* #be4f20d8ed584ed2bceb94d29da72ed7 */}
 
 
 The Advanced Program Settings has a variety of additional features. As of Bloom 6.0 the following advanced program settings are available: 
@@ -159,7 +159,7 @@ The Advanced Program Settings has a variety of additional features. As of Bloom 
 ![](./collection-settings.2164bb19-df12-80e8-bf5b-f120c480be88.png)
 
 
-## Settings Protection {#422fb5b9640a47af9841db4a7b5758c6}
+## Settings Protection {/* #422fb5b9640a47af9841db4a7b5758c6 */}
 
 
 At the bottom section of the Collection Settings window link to the `Settings Protection` dialog box. If you are supporting inexperienced users of Bloom, you may wish to hide the Settings dialog box to prevent them from making inappropriate changes to the collection settings. 

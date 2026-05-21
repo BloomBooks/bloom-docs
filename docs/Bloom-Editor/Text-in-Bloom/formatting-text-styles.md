@@ -21,7 +21,7 @@ This page talks about formatting text styles. For help on formatting text and te
 
 
 
-## Text Box Styles {#feb4fb1700e64099b661c721f9195918}
+## Text Box Styles {/* #feb4fb1700e64099b661c721f9195918 */}
 
 
 All text boxes in Bloom have a **style** that defines the appearance for all of the text in that box. Here are a few example styles:
@@ -45,7 +45,7 @@ All text boxes in Bloom have a **style** that defines the appearance for all of 
 ![](./formatting-text-styles.ec8b4c22-f46c-4e4f-81c3-0eff2bcf0f21.png)
 
 
-## Change the Style for a Text Box {#bdee63934ba74c7884a283f2a07e6315}
+## Change the Style for a Text Box {/* #bdee63934ba74c7884a283f2a07e6315 */}
 
 
 To change the style for a text box:
@@ -67,7 +67,7 @@ To change the style for a text box:
 	![](./formatting-text-styles.28af16ac-937f-4a95-8ea9-a3a07273dd1b.png)
 
 
-### Edit a Style {#1835494c2f8b4a55a73cc35bb2a3be27}
+### Edit a Style {/* #1835494c2f8b4a55a73cc35bb2a3be27 */}
 
 
 It is also possible to edit a style.
@@ -95,7 +95,7 @@ To edit a style:
 3. If you would like to create a new style, see [Create a New Style](/formatting-text-styles#d6874abf777043d2813e5ac1c6b2e831).
 4. Edit the style using the [Characters](/formatting-text-styles#8ccb26628b554d0585cec6ad4374525a), [Paragraph](/formatting-text-styles#961126a170434b8cbf320dd3c07fb580), and [Highlighting](/formatting-text-styles#1ab99823d15246fa9636cae61c07dd3a) tabs.
 
-### The Characters Style Tab {#8ccb26628b554d0585cec6ad4374525a}
+### The Characters Style Tab {/* #8ccb26628b554d0585cec6ad4374525a */}
 
 
 The **Characters** tab gives you formatting options for characters.
@@ -131,7 +131,7 @@ If your language uses a **different script**, you can choose a **different font*
 
 
 
-### The Paragraph Style Tab {#961126a170434b8cbf320dd3c07fb580}
+### The Paragraph Style Tab {/* #961126a170434b8cbf320dd3c07fb580 */}
 
 
 The **Paragraph** tab gives you formatting options for paragraphs. 
@@ -143,7 +143,7 @@ The **Paragraph** tab gives you formatting options for paragraphs.
 2. **Alignment:** Choose whether the text will be aligned to the left, center, or to the right.
 3. **Space Between Paragraphs: C**hoose how much extra white space will be between paragraphs.
 
-### The Highlighting Style Tab {#1ab99823d15246fa9636cae61c07dd3a}
+### The Highlighting Style Tab {/* #1ab99823d15246fa9636cae61c07dd3a */}
 
 
 The **Highlighting** tab lets you choose the color of the highlighted text when **Talking Books** are played.
@@ -152,7 +152,7 @@ The **Highlighting** tab lets you choose the color of the highlighted text when 
 ![](./formatting-text-styles.254b3c38-2881-458f-93ce-5011071be081.png)
 
 
-### Create a New Style {#d6874abf777043d2813e5ac1c6b2e831}
+### Create a New Style {/* #d6874abf777043d2813e5ac1c6b2e831 */}
 
 
 You can also create a new style by clicking the `Create a new style` link. 

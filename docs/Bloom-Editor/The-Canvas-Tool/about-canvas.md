@@ -7,7 +7,7 @@ keywords: [overlays, canvas, comics, speech bubbles, navigation]
 
 
 
-## The Canvas Tool {#6f0339d040694d8a9ff23cc303f05e68}
+## The Canvas Tool {/* #6f0339d040694d8a9ff23cc303f05e68 */}
 
 
 The **Canvas Tool** lets you place speech bubbles, captions, text, images, and Sign Language videos on top of a background image. In addition, you can add navigation buttons that link to specific pages in your book or jump to other books in your book collection.
@@ -49,7 +49,7 @@ The Canvas Tool was introduced in Bloom 6.3. Previously, this was called the Ove
 
 
 
-## Sample Pages {#f02d7e49f75b4e2e851f84e6a9e44243}
+## Sample Pages {/* #f02d7e49f75b4e2e851f84e6a9e44243 */}
 
 
 Here are some sample pages from books containing Canvas elements:
@@ -73,7 +73,7 @@ For more information, please refer to the videos listed on [this page](https://v
 
 
 
-## Current Limitations {#b9ba640909be49ffb5b9243b1c409b24}
+## Current Limitations {/* #b9ba640909be49ffb5b9243b1c409b24 */}
 
 - You cannot put Canvas elements on the front cover of a book. This restriction will be lifted in Bloom 6.4.
 - There are certain limits to layering text and images. See [Notes on “Publish as ePUB”](/ePUB-notes) for details.

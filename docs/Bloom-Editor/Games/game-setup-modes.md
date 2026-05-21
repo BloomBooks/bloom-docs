@@ -17,7 +17,7 @@ When editing a Drag-and-Drop game, there are four (4) unique setup modes:
 ![](./game-setup-modes.28e4bb19-df12-8075-b9cb-ed1d9314fbb9.png)
 
 
-## Start {#28e4bb19df1280948a30c4c4f985fd17}
+## Start {/* #28e4bb19df1280948a30c4c4f985fd17 */}
 
 
 **Start** mode is the place to begin when adding a new Drag-and-Drop game page. This mode allows you to fill in or define the content of the game, whether the game page was made from one of Bloom’s pre-configured Game templates (such as Drag Sound to Word), or you are designing a custom game from scratch using the Custom Game template. 
@@ -32,7 +32,7 @@ In the Start mode:
 ![](./game-setup-modes.28e4bb19-df12-806d-b348-c6532cafe589.png)
 
 
-## Correct {#28e4bb19df12801c95f8f29fe4491433}
+## Correct {/* #28e4bb19df12801c95f8f29fe4491433 */}
 
 
 In **Correct mode**, any tiles which can be dragged are hidden, allowing space for you to define what will happen when the reader answers or plays the game **correctly**.
@@ -47,7 +47,7 @@ Additional tiles can be added to the game canvas using Game Tool (c). These tile
 ![](./game-setup-modes.28e4bb19-df12-8037-8814-f32b16a33173.png)
 
 
-## Wrong {#28e4bb19df128010958ad517426d3630}
+## Wrong {/* #28e4bb19df128010958ad517426d3630 */}
 
 
 In **Wrong** mode, any tiles which can be dragged are hidden, allowing space for you to define what will happen when the reader answers or plays the game **incorrectly**.
@@ -62,7 +62,7 @@ Additional tiles can be added to the game canvas using Game Tool (c). These tile
 ![](./game-setup-modes.28e4bb19-df12-8002-a4df-f3a5c4239426.png)
 
 
-## Play {#28e4bb19df12803d8b7ec1ad2c1a1078}
+## Play {/* #28e4bb19df12803d8b7ec1ad2c1a1078 */}
 
 
 In **Play** mode, the game presents itself as a “live” game which can be tested. You can drag tiles to their target areas, e.g.

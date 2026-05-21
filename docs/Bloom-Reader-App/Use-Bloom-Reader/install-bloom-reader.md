@@ -9,7 +9,7 @@ slug: /install-bloom-reader
 There are a number of ways that you can install Bloom Reader.
 
 
-## From the Google Play Store {#e73a566ee6154407a784cb7fb3fccdc3}
+## From the Google Play Store {/* #e73a566ee6154407a784cb7fb3fccdc3 */}
 
 
 If you have a good internet connection, the best way to get the app is through the [Google Play store](https://play.google.com/store/apps/details?id=org.sil.bloom.reader). This ensures you are getting the latest version of Bloom Reader.
@@ -32,7 +32,7 @@ If you have a good internet connection, the best way to get the app is through t
 	![](./install-bloom-reader.4bfc9ca1-f8a3-444f-b360-535814a1ee68.png)
 
 
-## Install Directly From an APK File {#863c6d7f27794a909d13abe9b03fd7e6}
+## Install Directly From an APK File {/* #863c6d7f27794a909d13abe9b03fd7e6 */}
 
 
 You can also install directly from an APK file:
@@ -41,7 +41,7 @@ You can also install directly from an APK file:
 2. Open/install the APK file on your device.
 3. If the device will not install the APK file, you may need to [Enable Installation of Unknown Apps](/install-bloom-reader#c7989aba90474cd4a8b85c97708fc916).
 
-### Enable Installation of Unknown Apps {#c7989aba90474cd4a8b85c97708fc916}
+### Enable Installation of Unknown Apps {/* #c7989aba90474cd4a8b85c97708fc916 */}
 
 1. You may need to enable `Install unknown apps` before you can open an APK file.
 
@@ -59,7 +59,7 @@ You can also install directly from an APK file:
 
 	2. Tap `Install unknown apps` and enable the appropriate setting.
 
-## Share Bloom Reader Install File With Your Community {#8ab53c9a433f4abab815facafd4f20d4}
+## Share Bloom Reader Install File With Your Community {/* #8ab53c9a433f4abab815facafd4f20d4 */}
 
 
 If you already have Bloom Reader installed on your phone, you can share the **APK installation file** with them. It can be shared by Bluetooth, messaging app, email, or other sharing methods.
@@ -89,7 +89,7 @@ If you already have Bloom Reader installed on your phone, you can share the **AP
 7. Once the file is transferred to your friend’s device, open the APK file on their device.
 8. If the device will not install the APK file, you may need to [Enable Installation of Unknown Apps](/install-bloom-reader#c7989aba90474cd4a8b85c97708fc916).
 
-## Install on Older Android Versions {#71c002fa0e494057a0bd122264d997f5}
+## Install on Older Android Versions {/* #71c002fa0e494057a0bd122264d997f5 */}
 
 
 :::note

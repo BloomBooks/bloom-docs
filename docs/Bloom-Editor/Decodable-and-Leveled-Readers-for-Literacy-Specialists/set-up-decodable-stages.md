@@ -6,7 +6,7 @@ slug: /set-up-decodable-stages
 
 
 
-## Decodable Stages {#b8a7ff8e058543e18632627c9c8ab974}
+## Decodable Stages {/* #b8a7ff8e058543e18632627c9c8ab974 */}
 
 
 A language may have few **decodable stages** (5-10) or many decodable stages (30 or more). 
@@ -18,7 +18,7 @@ Each stage introduces one or more **letters or letter combinations**, and may in
 Generally, the number of stages is determined by how children are taught to read in that language without having acquired literacy skills in another language. However, in a “transfer literacy” program where students already know one language (for example, a language of greater communication), and the goal is to learn the unique features of a local language, then stage 1 or 2 might include all the letters the student has previously acquired for the language of greater communication, and additional stages will add letters new to the student in the local language.
 
 
-## Make a Decodable Reader template {#32e4bb19df12809b9805de00e989ddfe}
+## Make a Decodable Reader template {/* #32e4bb19df12809b9805de00e989ddfe */}
 
 
 In the Collections tab, look for Sources for New Books in the bottom left of the screen.  There you will see **Specialized Templates**:
@@ -38,10 +38,10 @@ You should now see the Decodable Reader Tool. It is on the right side of the Blo
 Click the **Set up Stages** link.
 
 
-## Setup Stages {#32e4bb19df12808ea3c1d6a49afba33a}
+## Setup Stages {/* #32e4bb19df12808ea3c1d6a49afba33a */}
 
 
-### Letters {#32e4bb19df12803f8698ffbb688fe732}
+### Letters {/* #32e4bb19df12803f8698ffbb688fe732 */}
 
 
 The first task is to tell Bloom about the letters, and letter combinations in your alphabet (orthography). You do this in the Letters tab:
@@ -75,7 +75,7 @@ For example, a language with vowel length and tone marking may have the followin
 ![](./set-up-decodable-stages.32e4bb19-df12-8043-9826-d754f25d6c7e.png)
 
 
-### Sample Words {#32e4bb19df12800fbbe1e3147fce1478}
+### Sample Words {/* #32e4bb19df12800fbbe1e3147fce1478 */}
 
 
 The second task is to tell Bloom the words you want it to suggest. You do this in the **Sample Words** tab.
@@ -125,7 +125,7 @@ You should be able to see names of the files in the **Place Text Files in Your S
 At this point, you might be asking yourself, “Do I really need to do all this for every template?” No, you only do it once for all your work in a language. All of this setup is part of the Local Language Collection, so it is usable by any book you make in your collection.
 
 
-### Decodable Stages {#32e4bb19df1280ed886ef9b8c37220c9}
+### Decodable Stages {/* #32e4bb19df1280ed886ef9b8c37220c9 */}
 
 
 The third task is to set up the stages. You do this in the **Decodable Stages** tab.

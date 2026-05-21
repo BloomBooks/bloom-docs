@@ -6,7 +6,7 @@ slug: /working-with-team-collections
 
 
 
-## Checking In & Checking Out Books {#0767f6bd94384cacbb8670f5258dca0e}
+## Checking In & Checking Out Books {/* #0767f6bd94384cacbb8670f5258dca0e */}
 
 
 <div class='notion-row'>
@@ -113,7 +113,7 @@ When Awa is finished editing the book, she can check it back in. First, she type
 The book is now available to the other team members to make further edits.
 
 
-:::caution
+:::warning[caution]
 
 **Slow internet connections can cause status update delays**
 The status panel of a book may take some time to update over slow internet connections. When this happens, it is possible that two people may start to edit the same book at the same time. This will cause an editing conflict.  If an editing conflict occurs, Bloom will determine one team member to be the “winner” and will put the other team member’s edited book into a special _Lost and Found_ folder. (If this happens, see [Retrieving a book from Lost and Found](/team-collections-advanced-topics#3f4663c924424e6b93158710b7d00ea2).) 
@@ -125,7 +125,7 @@ If your team members do have poor internet access, you may wish to schedule the 
 
 
 
-### Making avatars for your team {#9406d3d3e8d54f6fbb2527a291ef17c9}
+### Making avatars for your team {/* #9406d3d3e8d54f6fbb2527a291ef17c9 */}
 
 
 <div class='notion-row'>
@@ -170,7 +170,7 @@ Make sure each user has a correct and unique email. From that, Bloom can generat
 </div>
 
 
-## Manually updating your team collection {#14c82c0008c84aec96da51ff3de9b317}
+## Manually updating your team collection {/* #14c82c0008c84aec96da51ff3de9b317 */}
 
 
 <div class='notion-row'>
@@ -192,7 +192,7 @@ If another team member checks in a book, the Team Collections badge may say **Up
 </div>
 
 
-## Book history {#6970e9c0baf0447782bbcae7d4b94869}
+## Book history {/* #6970e9c0baf0447782bbcae7d4b94869 */}
 
 
 <div class='notion-row'>

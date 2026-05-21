@@ -10,10 +10,10 @@ keywords: [Release Notes]
 We are proud to present Bloom 6.0 to you. We finally tackled a few long-standing needs that required re-modeling how some things work deep inside Bloom and our servers. Everyone will benefit from Bloom books that are now a bit more beautiful and professional-looking. If you ever need to update books on BloomLibrary.org, you will notice much quicker updates. Bloom Enterprise subscribers can finally take ownership of all their books, regardless of which team member uploaded them.
 
 
-## Book Settings {#c29cb0c6a6d44842b1c207b884f34c37}
+## Book Settings {/* #c29cb0c6a6d44842b1c207b884f34c37 */}
 
 
-### Cover Settings {#bcdc092e15674cd4ab897fd5f8a8aad5}
+### Cover Settings {/* #bcdc092e15674cd4ab897fd5f8a8aad5 */}
 
 
 You can now control what information to show on the cover page:
@@ -22,7 +22,7 @@ You can now control what information to show on the cover page:
 ![](./release-notes-6-0.a59a0e55-5613-4a9e-acc4-54276835682b.png)
 
 
-### Content Page Settings: Page Themes {#bd291e96f2d2400d860d1c6636cd8df8}
+### Content Page Settings: Page Themes {/* #bd291e96f2d2400d860d1c6636cd8df8 */}
 
 
 Previously, _very_ advanced Bloom users could customize Bloom pages using CSS stylesheets. They could also publish template books using these to share their work with others. Bloom 6.0 makes this much easier by letting you choose from a small number of _Page Themes._  Page Themes are a bundle of margins, borders, and other page settings that work together to shape the look of a book.
@@ -43,13 +43,13 @@ Very advanced users can still create custom CSS stylesheets if they need to. In 
 
 
 
-### Content Page Settings: Show Page Numbers {#2fa052330ea64f3791781a1919d1e754}
+### Content Page Settings: Show Page Numbers {/* #2fa052330ea64f3791781a1919d1e754 */}
 
 
 You can now control whether page numbers are visible. Note that with some combinations of book layouts and ebook themes, long texts could collide with page numbers.
 
 
-### Content Page Settings: Text Padding {#1044bb19df12809a8369dbee37f0234e}
+### Content Page Settings: Text Padding {/* #1044bb19df12809a8369dbee37f0234e */}
 
 
 We’ve added _text padding_ to better separate items on the page. Items are separated from each other and from the edge of the screen on ebooks. You can see examples of it later in these Release Notes. 
@@ -67,7 +67,7 @@ The default padding setting from the Default Theme is “1em”, which means it 
 
 
 
-:::caution
+:::warning[caution]
 
 If you have a custom page layout where Bloom isn’t getting the padding right, you can use this control to turn padding off by setting it to “0mm”.
 
@@ -76,7 +76,7 @@ If you have a custom page layout where Bloom isn’t getting the padding right, 
 
 
 
-## Margins {#ad8a99c4ae414b74aa742f70491b7e75}
+## Margins {/* #ad8a99c4ae414b74aa742f70491b7e75 */}
 
 
 In previous versions of Bloom, the default margins were rather large, especially on small page sizes. In Bloom 6.0, we’ve reduced [the default margins](/margins) for many page sizes. _Page Themes_ (new in Bloom 6.0) can also change the margin.
@@ -145,13 +145,13 @@ Due to changes in the margins, you might need to modify the split between the im
 
 
 
-### Front and Back Cover Margins {#bb5d8a2d9d934e31b88ba11637c9d67f}
+### Front and Back Cover Margins {/* #bb5d8a2d9d934e31b88ba11637c9d67f */}
 
 
 The smaller default page margins affect the front and back covers as well as the inside pages.  This results in the various cover elements such as titles, pictures, credits, and logos moving slightly and possibly becoming a bit larger.  
 
 
-## Padding {#02bad6edddbd4ab0be35b0f744a68e1b}
+## Padding {/* #02bad6edddbd4ab0be35b0f744a68e1b */}
 
 
 <div class='notion-row'>
@@ -246,7 +246,7 @@ You can control the size of the padding in the Text Padding control:
 ![](./release-notes-6-0.46c1699d-2d2a-4771-ae06-5c88abffb5c3.png)
 
 
-:::caution
+:::warning[caution]
 
 While Bloom tries to be “smart” about applying padding, it’s actually quite fragile. It often fails to apply padding to text boxes that have been added via “Change Layout”. If this happens to you, you have a couple options:
 1. Turn Text Padding off by opening the Book Settings and set “Text Padding” to “0mm”.
@@ -258,10 +258,10 @@ While Bloom tries to be “smart” about applying padding, it’s actually quit
 
 
 
-## Edit Tab {#7989dbabeb354bffb02132c00ae8a4af}
+## Edit Tab {/* #7989dbabeb354bffb02132c00ae8a4af */}
 
 
-### Text Formatting {#fcd9a64087fe49f4836dbc7b28dacb47}
+### Text Formatting {/* #fcd9a64087fe49f4836dbc7b28dacb47 */}
 
 
 In overlays (comics), you can now control how much padding to add on the left and right:
@@ -289,13 +289,13 @@ In overlays (comics), you can now control how much padding to add on the left an
 </div>
 
 
-### Justified Alignment ([Feature Request](https://community.software.sil.org/t/justified-text-alignment/8091)) {#2b21fd203ff546adabfb4f7ed73d3156}
+### Justified Alignment ([Feature Request](https://community.software.sil.org/t/justified-text-alignment/8091)) {/* #2b21fd203ff546adabfb4f7ed73d3156 */}
 
 
 ![](./release-notes-6-0.e8fc58f1-a6df-4a91-aae8-cbba7560e33a.png)
 
 
-### Text Wrapping {#30ac975047114e1593170902683743d3}
+### Text Wrapping {/* #30ac975047114e1593170902683743d3 */}
 
 
 We’ve made Bloom smarter about where to wrap text, leading to a more balanced and appealing typography.
@@ -360,7 +360,7 @@ This smart wrapping would be confusing if it was on while you tried to type in y
 
 
 
-### Picture on the Right {#bf52c033e9d84e17bb470ea5db91771b}
+### Picture on the Right {/* #bf52c033e9d84e17bb470ea5db91771b */}
 
 
 <div class='notion-row'>
@@ -382,10 +382,10 @@ We’ve added a new page layout choice, “Picture on the Right”.
 </div>
 
 
-## Bloom Library {#c80de714dea74eeaacd333db2fa0ee58}
+## Bloom Library {/* #c80de714dea74eeaacd333db2fa0ee58 */}
 
 
-### Improved User Interface for Book Uploaders {#042f7008ce844e5f81386e611f110ff9}
+### Improved User Interface for Book Uploaders {/* #042f7008ce844e5f81386e611f110ff9 */}
 
 
 The person who uploaded a book always had a few extra things they could do to control the book. We’ve now gathered these together in a single cluster of controls:
@@ -394,13 +394,13 @@ The person who uploaded a book always had a few extra things they could do to co
 ![](./release-notes-6-0.306c3331-868f-401f-bda3-03ad10a0ef21.png)
 
 
-### “Download Into Bloom for Editing” Button {#5e996d28e7a94c07928a6f8a1e6f04dd}
+### “Download Into Bloom for Editing” Button {/* #5e996d28e7a94c07928a6f8a1e6f04dd */}
 
 
 Sometimes, you may want to improve a book you or a colleague uploaded but no longer have easy access to the original Bloom files. Now, you can click “Download into Bloom for Editing.” This will open your Bloom application with a new collection containing only this one book. If the book depends on a Bloom Enterprise Subscription, you will not have to re-enter it. If the subscription has expired, it will work anyway.
 
 
-### Editing Permissions on Your Bloom Library Collections (Bookshelves) {#286550b872b54090831f78c3e11c90d4}
+### Editing Permissions on Your Bloom Library Collections (Bookshelves) {/* #286550b872b54090831f78c3e11c90d4 */}
 
 
 Bloom Enterprise subscribers often work in teams, with different people uploading books. Previously, only the person who uploaded a book had any control over it. We can now tell the Bloom Library who each collection’s “editors” are. The following table shows what Collection Editors will be able to do:
@@ -418,13 +418,13 @@ When you re-upload a book, Bloom checks with you to make sure it does what you i
 ![](./release-notes-6-0.6188fcae-b107-4866-a315-1449c6986c8d.png)
 
 
-## BloomPUB Viewer {#9f34e37cfdef4ecab8d4aa38737a0bfc}
+## BloomPUB Viewer {/* #9f34e37cfdef4ecab8d4aa38737a0bfc */}
 
 
 BloomPUB viewer can now open .bloomSource files (used for archiving) and .bloom files (used for Team Collections).  You should not distribute those for viewing, but sometimes it’s helpful to quickly look inside one of them.
 
 
-:::caution
+:::warning[caution]
 
 BloomPUB Viewer versions 1.0.7 and 1.0.8 had a bug that prevented them from updating to new versions. Please install the latest from [bloomlibrary.org/bloompub-viewer](https://bloomlibrary.org/bloompub-viewer).
 
@@ -433,7 +433,7 @@ BloomPUB Viewer versions 1.0.7 and 1.0.8 had a bug that prevented them from upda
 
 
 
-## Other Improvements {#f0c7b7116e3d459295ff6dee92c89f2e}
+## Other Improvements {/* #f0c7b7116e3d459295ff6dee92c89f2e */}
 
 - Book Uploading:
 	- **Incremental uploads**: If you upload a book to update it, only the files that have changed will be uploaded. This allows, for example, large sign language books to be updated without having to send all the videos to [BloomLibrary.org](http://bloomlibrary.org/) again.

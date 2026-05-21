@@ -27,7 +27,7 @@ The ePUB format is widely used, but many ePUB reader applications are of low qua
 
 
 
-## Steps to Create an ePUB {#360a405630b64c9898bd9567ee13a747}
+## Steps to Create an ePUB {/* #360a405630b64c9898bd9567ee13a747 */}
 
 1. **Open the Publish Tab.**
 2. **Select ePUB.**
@@ -44,7 +44,7 @@ The ePUB format is widely used, but many ePUB reader applications are of low qua
 ![](./publish-as-epub.b0a8f4b3-b5e4-405b-a326-c92fdf6fb0b8.png)
 
 
-## Related Topics {#7cfe3037c71c4689af46f343988954a9}
+## Related Topics {/* #7cfe3037c71c4689af46f343988954a9 */}
 
 - Accessibility
 - Bloom Accessibility Checker dialog box
