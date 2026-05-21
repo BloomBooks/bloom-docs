@@ -57,6 +57,8 @@ jobs:
         # This is also suggested by Chromium https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
         run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
         shell: bash
+      - name: Install Chrome for PDF generation
+        run: pnpm exec puppeteer browsers install chrome
       # Serve the built site locally for PDF generation instead of using the live site.
       # This avoids S3 costs and potential timeouts.
       - name: Start local server for PDF generation

@@ -52,6 +52,9 @@ importers:
       prism-react-renderer:
         specifier: 2.4.1
         version: 2.4.1(react@18.3.1)
+      puppeteer:
+        specifier: 22.15.0
+        version: 22.15.0(typescript@5.9.3)
       react:
         specifier: 18.3.1
         version: 18.3.1
@@ -2964,7 +2967,7 @@ packages:
 
   babel-preset-es2015@6.24.1:
     resolution: {integrity: sha512-XfwUqG1Ry6R43m4Wfob+vHbIVBIqTg/TJY4Snku1iIzeH7mUnwHA8Vagmv+ZQbPwhS8HgsdQvy28Py3k5zpoFQ==}
-    deprecated: '🙌  Thanks for using Babel: we recommend using babel-preset-env now: please read https://babeljs.io/env to update!'
+    deprecated: '�  Thanks for using Babel: we recommend using babel-preset-env now: please read https://babeljs.io/env to update!'
 
   babel-preset-stage-0@6.24.1:
     resolution: {integrity: sha512-MJD+xBbpsApbKlzAX0sOBF+VeFaUmv5s8FSOO7SSZpes1QgphCjq/UIGRFWSmQ/0i5bqQjLGCTXGGXqcLQ9JDA==}

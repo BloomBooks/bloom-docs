@@ -35,6 +35,8 @@ jobs:
         # This is also suggested by Chromium https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
         run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
         shell: bash
+      - name: Install Chrome for PDF generation
+        run: pnpm exec puppeteer browsers install chrome
       - name: Generate PDFs (using live site)
         run: pnpm make-pdf:live
       - name: Set S3 Bucket
