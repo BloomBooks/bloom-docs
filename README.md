@@ -27,6 +27,7 @@ pnpm pull
 
 # Download and convert reference docs
 pnpm ref-docs
+# or
 pnpm ref-docs:incremental
 ```
 
