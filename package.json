@@ -36,6 +36,7 @@
     "@docusaurus/plugin-ideal-image": "3.10.1",
     "@docusaurus/preset-classic": "3.10.1",
     "@docusaurus/theme-common": "3.10.1",
+    "@easyops-cn/docusaurus-search-local": "0.55.1",
     "@mdx-js/react": "3.1.1",
     "clsx": "2.1.1",
     "cross-var": "1.1.0",
@@ -68,10 +69,6 @@
   "pnpm": {
     "overrides": {
       "webpack": "5.91.0"
-    },
-    "patchedDependencies": {
-      "@docusaurus/utils@3.10.1": "patches/@docusaurus__utils@3.10.1.patch",
-      "@docusaurus/theme-search-algolia@3.10.1": "patches/@docusaurus__theme-search-algolia@3.10.1.patch"
     }
   },
   "browserslist": {

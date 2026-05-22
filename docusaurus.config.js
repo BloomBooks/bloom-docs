@@ -99,6 +99,17 @@ const config = {
       // },
     },
   },
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        indexBlog: false,
+        indexPages: false,
+        docsRouteBasePath: "/",
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -139,23 +150,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      algolia: {
-        appId: "FI2OI4JBTP",
-        apiKey: "757ac6eee61ab3ec243a43510136269b",
-        indexName: "bloom",
-        // contextualSearch "ensures that search results are relevant to the current language and version".
-        // Disabled: because it gives 0 results. Maybe something isn't set up right on Algolia's side. TODO: see https://docusaurus.io/docs/search#algolia-no-search-results
-        contextualSearch: false,
-        searchParameters: {},
-        // Open our ref-docs.bloomlibrary links in a new tab
-        openExternalLinksInNewTab: true,
-        askAi: {
-          assistantId: "BrDlTKUo3zcu", // this is the gemini 2.5 flash lite on
-          indexName: "bloom-markdown",
-          apiKey: "757ac6eee61ab3ec243a43510136269b",
-          appId: "FI2OI4JBTP",
-        },
       },
     }),
 };
