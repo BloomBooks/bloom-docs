@@ -24,7 +24,7 @@
     "docu-pdf": "docu-pdf",
     "make-pdf": "bash make-pdf.sh http://localhost:3000",
     "make-pdf:live": "bash make-pdf.sh https://docs.bloomlibrary.org",
-    "pull-to-test-docs": "cross-var docu-notion -n $SIL_BLOOM_DOCS_NOTION_TOKEN -r $SIL_BLOOM_DOCS_NOTION_ROOT_PAGE -m \"./testdocs\" --status-tag test --log-level debug && node ./scripts/temporary-docu-notion-docusaurus-v3-shim.cjs ./testdocs",
+    "pull-to-test-docs": "cross-var docu-notion -n $SIL_BLOOM_DOCS_NOTION_TOKEN -r $SIL_BLOOM_DOCS_NOTION_ROOT_PAGE -m \"./testdocs\" --status-tag test --log-level debug",
     "crowdin": "crowdin",
     "//pretranslate": "  used to re-apply translations when files are renamed or reorganized",
     "crowdin:pretranslate": "crowdin pre-translate --method tm --translate-untranslated-only --translate-with-perfect-match-only --verbose",
