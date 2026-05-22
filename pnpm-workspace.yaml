@@ -18,7 +18,7 @@ allowBuilds:
   # core-js-pure postinstall is not required for this docs site and should stay blocked.
   core-js-pure: false
   # puppeteer downloads the browser binary needed for PDF generation.
-  puppeteer@25.0.2: true
+  puppeteer@22.15.0: true
   # sharp installs the native image-processing binary used by Docusaurus image tooling.
   sharp@0.32.6: true
 
