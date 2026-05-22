@@ -18,7 +18,7 @@ There are multiple ways to get books onto the Bloom Reader app. You can get book
 In addition, there are also ways to pre-load books into Bloom Reader. For details on doing this, see [this article](/BR-distribution). 
 
 
-## Get books from Bloom Editor {#1524bb19df1281b49db4e08540d499fe}
+## Get books from Bloom Editor {/* #1524bb19df1281b49db4e08540d499fe */}
 
 
 Bloom Editor gives three options to [Publish to BloomPUB](/publish-to-bloompub):
@@ -33,14 +33,14 @@ Options 2 and 3 from Bloom Editor work in tandem with the corresponding options 
 ![](./get-books-bloom-reader.03510e2a-b190-443f-92ce-4ec505e2b06d.png)
 
 
-### Save BloomPUB (to disk) {#0d88bef8d6ed41e0b1e100e0f59a637a}
+### Save BloomPUB (to disk) {/* #0d88bef8d6ed41e0b1e100e0f59a637a */}
 
 1. In Bloom Editor, follow the instructions to [Save BloomPUB File (to disk)](/publish-to-bloompub#6e7ebbbc73df46bfb94e791442c8aef3).
 2. **Transfer** the saved BloomPUB file to an Android device with Bloom Reader installed.
 	1. **Optional:** Use the [Other Sharing Method](/get-books-bloom-reader#e35d8c2330514305aa5622eebaeb57b4) to share the BloomPUB file.
 3. Use the [Open BloomPUB file](/get-books-bloom-reader#0c2e2d830dcd4b769af3d29c24ac0e3c) option to read the BloomPUB in Bloom Reader.
 
-### Receive books via Wi-Fi {#9fce48475dce400ba9ff71c9870976d7}
+### Receive books via Wi-Fi {/* #9fce48475dce400ba9ff71c9870976d7 */}
 
 1. In **Bloom Editor**, follow the instructions to [Share over Wi-Fi](/publish-to-bloompub#cde8582f3e33455b91d106ab4a0cc716).
 2. On your **Android device**, make sure that the device is connected to the **same Wi-Fi network** as the computer with Bloom Editor.
@@ -63,7 +63,7 @@ Options 2 and 3 from Bloom Editor work in tandem with the corresponding options 
 	![](./get-books-bloom-reader.5db70757-d249-4d6c-a1a1-68b93efa3366.jpg)
 
 
-### Receive books via USB {#06a74e83b8f54577b359ee12885f45eb}
+### Receive books via USB {/* #06a74e83b8f54577b359ee12885f45eb */}
 
 1. In **Bloom Editor**, follow the instructions to [Send over USB Cable](/publish-to-bloompub#ceafe81bd00f47e4be62323b7581e8a9).
 2. On your **Android device**, make sure that:
@@ -71,7 +71,7 @@ Options 2 and 3 from Bloom Editor work in tandem with the corresponding options 
 	2. The device is connected to the computer with a USB cable.
 	3. The device is allowing **MTP file transfer**.
 
-	:::caution
+	:::warning[Caution]
 	
 	**Note:** Some Android phones do not allow file transfer with a USB cable.
 	If you are unable to transfer via USB, check the drivers on your computer, the settings on your phone, or try to transfer the BloomPUB file another way.
@@ -117,7 +117,7 @@ _**“You can now read “Book-Name” in the Bloom Reader!**_
 	![](./get-books-bloom-reader.5e48d674-0703-4093-92e6-e72e45870545.png)
 
 
-## Get books from Bloom Library from within Bloom Reader {#3e3abed99e5042d8a0570f79c42a31e4}
+## Get books from Bloom Library from within Bloom Reader {/* #3e3abed99e5042d8a0570f79c42a31e4 */}
 
 
 You can download use Bloom Reader to download books directly from the Bloom Library.
@@ -155,7 +155,7 @@ You can download use Bloom Reader to download books directly from the Bloom Libr
 	![](./get-books-bloom-reader.8d4c02d1-db1a-4d1f-848f-1910444ed93d.png)
 
 
-## Get books from Bloom Library in a Web Browser {#97e727473fd04b87bc53936b3855c523}
+## Get books from Bloom Library in a Web Browser {/* #97e727473fd04b87bc53936b3855c523 */}
 
 
 Getting books from Bloom Library within the Bloom Reader only provides one simple search filter: the language you are interested in. This works well when there are only a small number of books for the language of your interest.
@@ -203,7 +203,7 @@ If there are very many books for that particular language, then it is probably b
 
 9. If the book still does not open, try the steps to [open a file on your Android device](/get-books-bloom-reader#0c2e2d830dcd4b769af3d29c24ac0e3c).
 
-## Get books from a folder on your Android device {#0c2e2d830dcd4b769af3d29c24ac0e3c}
+## Get books from a folder on your Android device {/* #0c2e2d830dcd4b769af3d29c24ac0e3c */}
 
 
 To import a book that is already on your device’s internal storage or an external SD card:
@@ -223,7 +223,7 @@ To import a book that is already on your device’s internal storage or an exter
 
 5. The book should automatically open in Bloom Reader.
 
-## Get books from other sharing methods (WhatsApp, Dropbox, Gmail, etc.) {#e35d8c2330514305aa5622eebaeb57b4}
+## Get books from other sharing methods (WhatsApp, Dropbox, Gmail, etc.) {/* #e35d8c2330514305aa5622eebaeb57b4 */}
 
 
 If you have a BloomPUB file on computer or Android device, you can share it with others in a variety of ways. These include:

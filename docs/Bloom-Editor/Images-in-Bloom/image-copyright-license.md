@@ -26,7 +26,7 @@ If an image does not have copyright and licensing information, Bloom will show a
 ![](./image-copyright-license.6f560f47-c864-4ecc-9a6f-e643d7f74847.png)
 
 
-## Add Copyright and License Information {#29da870e4af24d8c856a949b7106da43}
+## Add Copyright and License Information {/* #29da870e4af24d8c856a949b7106da43 */}
 
 
 To add copyright and license information to an image, do the following: 
@@ -57,7 +57,7 @@ To add copyright and license information to an image, do the following:
 	![](./image-copyright-license.dcfb3e2e-2728-4c8e-9fe3-1426f3d3ffc1.png)
 
 
-### License Information {#9f9ef49d46324a31bee445f2fdf1081a}
+### License Information {/* #9f9ef49d46324a31bee445f2fdf1081a */}
 
 
 :::note
@@ -80,7 +80,7 @@ There are multiple license options for images:
 3. By **default**, Bloom will **restrict** this image from being modified or copied.
 4. `Other`: You can also set your own license, but this is discouraged because they are difficult to write, interpret, and enforce.
 
-### Apply Copyright and License Information to All Images? {#f60e051f9b7c48f1b368d945c9a16ada}
+### Apply Copyright and License Information to All Images? {/* #f60e051f9b7c48f1b368d945c9a16ada */}
 
 
 After you click `OK`, Bloom will ask you if you want to apply the same copyright and license information to **all** the images in your book:
@@ -91,7 +91,7 @@ After you click `OK`, Bloom will ask you if you want to apply the same copyright
 - Click `Yes` if you want to apply the same copyright and license information to **every** image.
 - Click `No` if some images have **different** copyright and license information.
 
-## Add Image Credits to Your Book’s Title Page {#f21c5a3809954b64b7cd34c7da5d880a}
+## Add Image Credits to Your Book’s Title Page {/* #f21c5a3809954b64b7cd34c7da5d880a */}
 
 
 You can easily add a summary of the copyright and license information for **all** the images in your book to the Title Page.
@@ -104,7 +104,7 @@ You can easily add a summary of the copyright and license information for **all*
 ![](./image-copyright-license.2a8209ae-ad4e-456c-96e6-56ca31a2e106.png)
 
 
-## Copy Metadata to All Images in a Book {#ca042209ceef4ffd9f063f07b344db2d}
+## Copy Metadata to All Images in a Book {/* #ca042209ceef4ffd9f063f07b344db2d */}
 
 
 To **copy** copyright and license information to **all images** in a book, follow these steps:

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Keyboard Shortcuts overview","type":"item","tilePath":"","description":"","url":"User_Interface/Keyboard_Shortcuts/Keyboard_Shortcuts_overview.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

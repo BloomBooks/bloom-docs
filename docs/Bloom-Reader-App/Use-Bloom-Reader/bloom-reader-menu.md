@@ -23,7 +23,7 @@ There are three main sections in the Bloom Reader menu:
 - [Bloom Reader Actions](/bloom-reader-menu#be8da1f335114674a7f5a07cf4a0c654)
 - [About Bloom Reader](/bloom-reader-menu#bd286e201c194e3dbccf39788dc2e6d6)
 
-## Bloom Reader Info {#22fda01340074515a368a6b8d4f646a8}
+## Bloom Reader Info {/* #22fda01340074515a368a6b8d4f646a8 */}
 
 
 ![](./bloom-reader-menu.4835c712-fc1e-4adf-a487-1f17b1a38c16.png)
@@ -31,7 +31,7 @@ There are three main sections in the Bloom Reader menu:
 1. For example: this is version 3.3.0 of Bloom Reader, and was released on 28 Oct 2024.
 2. There is also a link to the [Bloom Library](https://bloomlibrary.org/), where you can browse thousands of free Bloom books.
 
-## Bloom Reader A**ctions** {#be8da1f335114674a7f5a07cf4a0c654}
+## Bloom Reader A**ctions** {/* #be8da1f335114674a7f5a07cf4a0c654 */}
 
 
 ![](./bloom-reader-menu.52f77522-a9df-4177-a473-a8a01fe2e62f.png)
@@ -47,7 +47,7 @@ There are three main sections in the Bloom Reader menu:
 - `Find lost books`: Have Bloom Reader scan the `Bloom` folder on this device to find BloomPUB books that are not visible in the Bloom Reader app.
 	- See [Find Lost Books in Bloom Reader](/find-lost-books-bloom-reader) for more details.
 
-## **About** Section {#bd286e201c194e3dbccf39788dc2e6d6}
+## **About** Section {/* #bd286e201c194e3dbccf39788dc2e6d6 */}
 
 
 ![](./bloom-reader-menu.185384a5-3856-4119-ba6d-5059cdb8c2ad.png)

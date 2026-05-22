@@ -13,7 +13,7 @@ See also: [How to Embed a Single Book from Bloom Library in Your Website](/embed
 Here are the steps and processes to embed a Bloom Library collection.
 
 
-## 1) Do You Have a Collection? {#5bf2aa399c174ef393a7a21c1ce44215}
+## 1) Do You Have a Collection? {/* #5bf2aa399c174ef393a7a21c1ce44215 */}
 
 
 [BloomLibrary.org](https://bloomlibrary.org/) offers custom collections (sometimes called “bookshelves”). These pages can have:
@@ -26,7 +26,7 @@ Here are the steps and processes to embed a Bloom Library collection.
 We offer these collections as part of our [Bloom Enterprise](/about-bloom-subscriptions) paid service. Once you have a [Bloom Enterprise subscription](/subscribe-bloom), you can embed your collection on your own website.
 
 
-## 2) Get Your Embedding URL {#e43af9d1c65f4e9c97c81181ba208dc0}
+## 2) Get Your Embedding URL {/* #e43af9d1c65f4e9c97c81181ba208dc0 */}
 
 
 We offer the ability to embed your book collections on your own website. We still supply the storage space and code; all you have to do is make room on one of your pages to show and read the books.  We offer this as a paid service to help cover our costs for developing and supporting Bloom. Write to us at [librarian@bloomlibrary.org](mailto:librarian@bloomlibrary.org). 
@@ -38,7 +38,7 @@ Once you have been given the go-ahead, we will send you an iframe URL to use. Th
 `https://embed.bloomlibrary.org/best-foo-books?bl-domain=foo.org`
 
 
-## 3) Add an `iframe` to Your Page {#c5e46994811b41a29ec5dc5005e01f73}
+## 3) Add an `iframe` to Your Page {/* #c5e46994811b41a29ec5dc5005e01f73 */}
 
 
 If you have access to the raw HTML of your page, add an iframe element:
@@ -56,7 +56,7 @@ In the src line, replace “THE-URL-YOU-WERE-GIVEN” with the URL you were give
 If your website is based on a CMS like Wordpress or a website builder like Wix, you will do something similar. Check the documentation for your CMS for how to “add an iframe” and follow its instructions.
 
 
-## 4) Optional: Include the Bloom Embedding Script {#7154c02c5cad4a77a6de56b05ba880ff}
+## 4) Optional: Include the Bloom Embedding Script {/* #7154c02c5cad4a77a6de56b05ba880ff */}
 
 
 The above is enough for your site to present your collection. However, as you navigate inside your collection, the URL in your browser’s address bar will never change. So if your site’s visitors try and bookmark or share a link to a book, that link will take them back to the first screen of your collection instead of to the book.
@@ -82,7 +82,7 @@ Note, some website software may not allow you to add arbitrary javascript. If th
 
 
 
-## 5) Get Help {#3ca7a06716da40668cdfe9d3ea4d89bb}
+## 5) Get Help {/* #3ca7a06716da40668cdfe9d3ea4d89bb */}
 
 
 If you need some technical support, please contact us at [issues@bloomlibrary.org](mailto:issues@bloomlibrary.org). In your email, make sure to give us a URL to where you have embedded the site.

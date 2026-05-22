@@ -26,7 +26,7 @@ You have three options:
 - [Option 2: Move your Bloom collections folder out of “My Documents”](/windows-controlled-folder-access#a191f24b4c27424587acfb06f13b60c7)
 - [Option 3: Tell Windows to allow Bloom (not recommended)](/windows-controlled-folder-access#753bae5344764a5eb719cb97c2fbaea6)
 
-## Option 1: Turn off “Controlled Folder Access” (preferred) {#9ac2ed38622f424184876aec2aa376a9}
+## Option 1: Turn off “Controlled Folder Access” (preferred) {/* #9ac2ed38622f424184876aec2aa376a9 */}
 
 1. On your keyboard, press the Windows key:
 
@@ -44,7 +44,7 @@ You have three options:
 4. If “Controlled folder access” is “Off”, then something else is causing the problem, and you can stop reading these instructions.
 5. Now run Bloom again.
 
-## Option 2: Move your Bloom collections folder out of “My Documents” {#a191f24b4c27424587acfb06f13b60c7}
+## Option 2: Move your Bloom collections folder out of “My Documents” {/* #a191f24b4c27424587acfb06f13b60c7 */}
 
 
 If you move your Bloom collections folders somewhere that Windows is not “controlling”, then it will not interfere. 
@@ -59,10 +59,10 @@ If you need to make new collections, you will have to use “[Option 3](/windows
 ![](./windows-controlled-folder-access.4b533f25-d04e-4bbf-a6f9-b9967d214d28.png)
 
 
-## Option 3: Tell Windows to allow Bloom (not recommended) {#753bae5344764a5eb719cb97c2fbaea6}
+## Option 3: Tell Windows to allow Bloom (not recommended) {/* #753bae5344764a5eb719cb97c2fbaea6 */}
 
 
-:::caution
+:::warning[Caution]
 
 This approach is not practical because you will need to do it each time Bloom updates itself. It may not be clear to you that this happened and you may not remember having read this notice. So then you will suddenly get hard-to-understand error messages and be stuck.
 

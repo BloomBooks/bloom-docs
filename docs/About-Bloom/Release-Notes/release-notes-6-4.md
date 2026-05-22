@@ -7,7 +7,7 @@ keywords: [Release Notes]
 
 
 
-## Custom Front Covers {#3594bb19df1280e78d0bebce32b04e46}
+## Custom Front Covers {/* #3594bb19df1280e78d0bebce32b04e46 */}
 
 
 Subscription Tier: Pro and Above
@@ -47,7 +47,7 @@ To help make good-looking covers, the Canvas Tool now lets you set a color for �
 </div>
 
 
-## QR Codes {#3594bb19df12807e8af4c1e00454481b}
+## QR Codes {/* #3594bb19df12807e8af4c1e00454481b */}
 
 
 <div class='notion-row'>
@@ -69,7 +69,7 @@ Bloom now places a QR Code on the “Made with Bloom” badges on the back cover
 </div>
 
 
-## Page Background Color {#3594bb19df1280fba4fbcd1c7fa9c497}
+## Page Background Color {/* #3594bb19df1280fba4fbcd1c7fa9c497 */}
 
 
 You can now set the background color of pages more easily.
@@ -78,7 +78,7 @@ You can now set the background color of pages more easily.
 ![](./release-notes-6-4.35e4bb19-df12-80dc-b927-c52575c37cc0.png)
 
 
-## Color, Eyedropper, and Transparency {#3594bb19df12805eb6eef59dfc2bc168}
+## Color, Eyedropper, and Transparency {/* #3594bb19df12805eb6eef59dfc2bc168 */}
 
 
 We’ve made several improvements to the color picker:
@@ -86,7 +86,7 @@ We’ve made several improvements to the color picker:
 - **Eyedropper tool.** All color pickers now include an eyedropper that lets you sample a color from the page.
 - **Transparency slider.** Color pickers that affect text now have a transparency slider with a percentage indicator. A small amount of transparency can make text easier on the eye when there is a background color.
 
-## Bloom Apps {#3594bb19df128028a5a5f0d695b0d303}
+## Bloom Apps {/* #3594bb19df128028a5a5f0d695b0d303 */}
 
 
 Subscription Tier: Pro and Above
@@ -97,7 +97,7 @@ In Bloom 6.3 we introduced “Bloom Apps”, which use book grids and links betw
 - **Navigation links work on** [**BloomLibrary.org**](http://bloomlibrary.org/)**.** Books that contain navigation links to other books now work correctly when read on [BloomLibrary.org](http://bloomlibrary.org/), not just inside an app or BloomPUB Viewer.
 - **Re-use of GIFs and sounds.** Bloom Apps can grow large quickly, especially when many books share the same game animations and sound effects. Bloom now de-duplicates these assets across the books in an app, dramatically reducing app size.
 
-## (Experimental) App Builder Integration {#3594bb19df12803ebfd1dabd8ac2299e}
+## (Experimental) App Builder Integration {/* #3594bb19df12803ebfd1dabd8ac2299e */}
 
 
 Subscription Tier: Pro and Above
@@ -109,13 +109,13 @@ Once you enable it (Collection Settings / Advanced), the Publish tab now shows a
 ![](./release-notes-6-4.35e4bb19-df12-80e5-947c-fd31d5d2595a.png)
 
 
-## Imported Videos are Re-encoded {#3594bb19df1280d996fec56d419854af}
+## Imported Videos are Re-encoded {/* #3594bb19df1280d996fec56d419854af */}
 
 
 When you import a video into a Bloom book, Bloom now automatically re-encodes it to a reasonable size and bitrate. This solves a common problem in Sign Language books, where high-resolution source videos would otherwise make the book too big to distribute or fit many of them in a single app.
 
 
-## Sign Language Videos are Muted {#3594bb19df12801da32ffaa607748a9b}
+## Sign Language Videos are Muted {/* #3594bb19df12801da32ffaa607748a9b */}
 
 
 <div class='notion-row'>
@@ -137,7 +137,7 @@ If your collection has a sign language specified, Bloom now removes the audio tr
 </div>
 
 
-## Background Colors in PDFs {#35e4bb19df12802d9447cbe656a3b489}
+## Background Colors in PDFs {/* #35e4bb19df12802d9447cbe656a3b489 */}
 
 
 <div class='notion-row'>
@@ -159,7 +159,7 @@ When you publish to PDF, you can now choose whether to include the page backgrou
 </div>
 
 
-## Other Improvements {#3594bb19df1280d2a84dec8c974d9deb}
+## Other Improvements {/* #3594bb19df1280d2a84dec8c974d9deb */}
 
 - The little notification messages that pop up at the bottom of Bloom (we call them “toasts”) have been updated with a modern look.
 - **Better font info for non-current languages.** The Book Settings dialog now presents font information for languages that aren’t in the current collection in a clearer way, so it’s easier to understand which font is being used where.

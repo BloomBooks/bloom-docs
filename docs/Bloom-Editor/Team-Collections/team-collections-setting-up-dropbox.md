@@ -6,7 +6,7 @@ slug: /team-collections-setting-up-dropbox
 
 
 
-:::caution
+:::warning[Caution]
 
 This article is out-of-date and will be updated shortly. Please refer to [Critical Dropbox Settings](/critical-dropbox-settings).
 

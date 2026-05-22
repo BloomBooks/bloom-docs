@@ -17,7 +17,7 @@ Most commonly, these organizations employ the following simple workflow:
 Source book collections should be made visible. See [Show Another Collection](/show-another-collection). 
 
 
-## Make an adaptation or translation of a book {#b0222b901f3c4af4ac57db65f9050812}
+## Make an adaptation or translation of a book {/* #b0222b901f3c4af4ac57db65f9050812 */}
 
 
 To adapt one of your books:

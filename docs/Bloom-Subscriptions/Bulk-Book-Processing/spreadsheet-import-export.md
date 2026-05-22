@@ -17,7 +17,7 @@ To access the latest developments of this experimental feature, it is recommende
 
 
 
-## 1. Introduction {#c2527373b4a9435fb22909f54a228782}
+## 1. Introduction {/* #c2527373b4a9435fb22909f54a228782 */}
 
 
 Exporting your Bloom book to a spreadsheet opens up an alternate workflow possibility for you and your colleagues. One typical workflow is to allow translators on your book-production team to add additional language translations to your books using a spreadsheet rather than the Bloom program. 
@@ -29,7 +29,7 @@ After the additional language translations have been added to the spreadsheet, t
 In this way, only the team supervisor needs to learn Bloom. 
 
 
-## 2. Enabling Spreadsheet Import/Export {#15ec086328a0426484b1b0de3c041805}
+## 2. Enabling Spreadsheet Import/Export {/* #15ec086328a0426484b1b0de3c041805 */}
 
 
 To access this advanced feature, open Bloom Settings, then:
@@ -42,16 +42,16 @@ To access this advanced feature, open Bloom Settings, then:
 ![](./spreadsheet-import-export.eb00c88c-4bb7-41d6-ba7b-ba48c7c07ebc.png)
 
 
-## 3. Exporting a book to a Spreadsheet {#81e60f28cc2c4c44addb3a3153ebada8}
+## 3. Exporting a book to a Spreadsheet {/* #81e60f28cc2c4c44addb3a3153ebada8 */}
 
-1. [Right-click ](/glossary#0d0d7a4e94d9488996a19af18ce23db7)on the book you wish to export, then,
+1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7) on the book you wish to export, then,
 2. Click **More**
 3. Click **Export to Spreadsheet**…
 
 ![](./spreadsheet-import-export.c3682645-80f6-4a72-915a-b6d748b6e682.png)
 
 
-## 4. Importing a Spreadsheet into Bloom {#e9eeb69676084a158f4facc492136401}
+## 4. Importing a Spreadsheet into Bloom {/* #e9eeb69676084a158f4facc492136401 */}
 
 
 After editing the spreadsheet, it can be imported back into Bloom. Typically, the spreadsheet will be imported back into the original book or into a duplicate of the original. In this way, the original structure of each page will be maintained. 
@@ -59,7 +59,7 @@ After editing the spreadsheet, it can be imported back into Bloom. Typically, th
 
 You can also into a spreadsheet into a new blank book. In this case, however, the original page structure will not be maintained. 
 
-1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7)[ ](/glossary#d7c34190bf4344668b2df2b4e2b9338e)on the book you wish to import the spreadsheet into, then,
+1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7) on the book you wish to import the spreadsheet into, then,
 2. Click **More**
 3. Click **Import Content from Spreadsheet**…
 
@@ -72,13 +72,13 @@ A progress dialogue will appear. Note, a backup of your original book will be pl
 The location of the backup is: `C:\Users\YOUR USER NAME\AppData\Local\Temp\bloom pre-import backups`
 
 
-## 5. Understanding the Spreadsheet layout {#24b676320e7c4b04b369a4da79bd54bc}
+## 5. Understanding the Spreadsheet layout {/* #24b676320e7c4b04b369a4da79bd54bc */}
 
 
 The exported spreadsheet is organized into rows and columns. By default, only the main translatable material (the title, and the basic text) from the book is presented, and all other material — such as Copyright and Credits — is _hidden_ from view.
 
 
-:::caution
+:::warning[Caution]
 
 The rows and columns that are hidden from view should generally _not_ be edited directly in the spreadsheet. Instead, it is best to edit these in Bloom itself. 
 
@@ -99,16 +99,16 @@ By default, the following are hidden;
 - Columns B and C
 - Approximately 14 hidden rows at the end of the spreadsheet for various “xmatter” material like Copyright and Credits
 
-## 6. Usage Scenarios {#f9d14c7f7b274baa9cefa1a385e48551}
+## 6. Usage Scenarios {/* #f9d14c7f7b274baa9cefa1a385e48551 */}
 
 
-## 6.1 Simple corrections or editing {#dfd58dbb22804a73bba3764e09f19e39}
+## 6.1 Simple corrections or editing {/* #dfd58dbb22804a73bba3764e09f19e39 */}
 
 
 Some teams prefer spreadsheets, rather than Bloom itself, to do the final editing of their books.
 
 
-:::caution
+:::warning[Caution]
 
 If you have already recorded audio for a Talking Book, be careful editing text (whether in Bloom or in a spreadsheet).
 
@@ -117,7 +117,7 @@ If you have already recorded audio for a Talking Book, be careful editing text (
 
 
 
-### 6.2 Adding another language translation to a book {#6346d7e504044a448aff0a56b1b555db}
+### 6.2 Adding another language translation to a book {/* #6346d7e504044a448aff0a56b1b555db */}
 
 
 Some teams have translators who are comfortable using spreadsheets, but not Bloom. 
@@ -129,7 +129,7 @@ To add a new language to a book, the exported spreadsheet will need a new column
 Alternatively, you can add the new column to an existing spreadsheet. In this case, you will need to unhide row 1 to type in the language code of the language. The language code must be enclosed in square brackets.
 
 
-### 6.3 Fixing an incorrectly tagged language {#ee4ceb62c6834b278ff390bd48bdb7ce}
+### 6.3 Fixing an incorrectly tagged language {/* #ee4ceb62c6834b278ff390bd48bdb7ce */}
 
 
 Sometimes, a user makes a book and only later discovers they have used the wrong language code.
@@ -138,7 +138,7 @@ Sometimes, a user makes a book and only later discovers they have used the wrong
 This can be a fairly technical procedure. In the following steps, we will use a concrete example of changing a book whose contents are _written_ in German `[de]`, but are mistakenly _tagged_ as English `[en]`.
 
 
-:::caution
+:::warning[Caution]
 
 The procedure below will _overwrite_ your existing book. You should back up your original collection as a safeguard before doing this. 
 
@@ -155,7 +155,7 @@ The procedure below will _overwrite_ your existing book. You should back up your
 When publishing your book to Bloom Library, it is an excellent practice to _uncheck_ the box for any unwanted language(s). Doing this will strip out that unwanted language for Bloom Library.
 
 
-### 6.4 Changing a book to Digital Comic Book {#3e1a640f7e894299ba71631636f4972d}
+### 6.4 Changing a book to Digital Comic Book {/* #3e1a640f7e894299ba71631636f4972d */}
 
 
 If your original book was made from the Basic Book template and you want to transform it into a Digital Comic Book, then do the following: 
@@ -166,7 +166,7 @@ If your original book was made from the Basic Book template and you want to tran
 4. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7) on this page’s thumbnail, and choose **Duplicate Page Many Times** so that this blank comic book has the same number of pages as the original book.
 5. Import the spreadsheet into this blank comic book.
 
-:::caution
+:::warning[Caution]
 
 Limitations: this method works if the original book has one image and one text box per page. 
 
@@ -175,7 +175,7 @@ Limitations: this method works if the original book has one image and one text b
 
 
 
-## 7. Current Limitations {#34fbb792bd91484bb5ca087ed397e033}
+## 7. Current Limitations {/* #34fbb792bd91484bb5ca087ed397e033 */}
 
 
 _Updated for Bloom 5.5_

@@ -16,13 +16,13 @@ Bloom’s user interface is powered by the same browser engine as Microsoft Edge
 If this happens to you, here are some things to try:
 
 
-## 1) Restart your computer {#78df2d52ce074ef5950792bee1ed9a92}
+## 1) Restart your computer {/* #78df2d52ce074ef5950792bee1ed9a92 */}
 
 
  We have seen a case where a “zombie” Bloom is running with different WebView2 arguments.
 
 
-## 2) Delete a folder from temp {#9fae8c7bb27344ee8b8f13f9c2d927a3}
+## 2) Delete a folder from temp {/* #9fae8c7bb27344ee8b8f13f9c2d927a3 */}
 
 
 :::tip
@@ -43,7 +43,7 @@ In File Explorer, navigate to you temp director and delete “Bloom WebView2”:
 Delete the contents of that folder. Now run Bloom again.
 
 
-## 3) Repair WebView2 {#99638cbf03324e9580368a5cd90c4e31}
+## 3) Repair WebView2 {/* #99638cbf03324e9580368a5cd90c4e31 */}
 
 
 ![](./wv2trouble.5f610f5c-b737-4862-8a45-053d712c6612.png)
@@ -55,13 +55,13 @@ Click `Modify`, then `Repair`:
 ![](./wv2trouble.5f3214ed-e213-4192-837a-909da6d847e4.png)
 
 
-## 4) Update Edge {#983e2fdbe56c4746b0bd50e887e42999}
+## 4) Update Edge {/* #983e2fdbe56c4746b0bd50e887e42999 */}
 
 
 Try [updating Microsoft Edge](/webview2).
 
 
-## 5) Tell Bloom to use Edge instead {#f275483d6cd94e20a669424e17cc7b61}
+## 5) Tell Bloom to use Edge instead {/* #f275483d6cd94e20a669424e17cc7b61 */}
 
 
 :::tip
@@ -88,7 +88,7 @@ If Edge’s version is too low, update it.
 Now you are ready to tell Bloom to use Edge directly.
 
 
-:::caution
+:::warning[Caution]
 
 The following has only been tested successfully with Windows 11. For other versions, there is a more complicated approach that we can walk you through, if necessary.
 

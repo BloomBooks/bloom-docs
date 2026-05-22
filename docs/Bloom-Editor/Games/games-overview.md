@@ -17,7 +17,7 @@ The following Game Pages types are offered in Bloom 6.2+:
 3. [Drag-and-Drop Games](/games-overview#21d4bb19df1280a795a8d11f61e136e0)
 4. [Widgets](/games-overview#1c04bb19df1280cb8677f74ceb8c8d17)
 
-## Comprehension Quiz {#1c04bb19df12800b84e1cade013ef207}
+## Comprehension Quiz {/* #1c04bb19df12800b84e1cade013ef207 */}
 
 
 Adding **Comprehension Quiz** pages to your books enhances the reading experience of your readership by allowing them to test their reading comprehension of your stories.
@@ -35,7 +35,7 @@ Bloom allows for multiple correct answers, but typically, only one is marked as 
 Bloom’s analytics system can capture whether readers answer the questions correctly or incorrectly. Such information can provide valuable data for an organization or a project’s monitoring and evaluation efforts.
 
 
-## Simple Choice Games {#1c04bb19df128017867ff252959d16c9}
+## Simple Choice Games {/* #1c04bb19df128017867ff252959d16c9 */}
 
 
 **Simple Choice Games** come in two varieties:
@@ -49,7 +49,7 @@ Bloom’s analytics system can capture whether readers answer the questions corr
 	![](./games-overview.bfe77277-9473-4455-92eb-0ada91360b1c.png)
 
 
-## Drag-and-Drop Games {#21d4bb19df1280a795a8d11f61e136e0}
+## Drag-and-Drop Games {/* #21d4bb19df1280a795a8d11f61e136e0 */}
 
 
 Bloom 6.2 introduces a new type of game template: drag-and-drop games. There are six drag-and-drop game templates, and they share a common feature: they require the reader to move specific objects on the page to designated target areas.
@@ -67,7 +67,7 @@ In another game, four recorded words must be matched to four written words:
 ![](./games-overview.21d4bb19-df12-8067-974b-cb104f1346fb.png)
 
 
-## HTML5 Widgets {#1c04bb19df1280cb8677f74ceb8c8d17}
+## HTML5 Widgets {/* #1c04bb19df1280cb8677f74ceb8c8d17 */}
 
 
 **HTML5 widgets** are JavaScript apps that are programmed outside of Bloom and can be embedded in Bloom book pages. These widgets offer numerous options for making books interactive.

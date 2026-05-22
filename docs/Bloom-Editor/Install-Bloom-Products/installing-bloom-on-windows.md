@@ -9,10 +9,10 @@ slug: /installing-bloom-on-windows
 **Bloom Editor** is a program that runs on your computer. Before you can use Bloom, you need to install it on your computer. There are some additional programs that you should install, too, to use the Bloom image gallery.
 
 
-## System Requirements {#2a975ec7819348eab9d4421a624ac4ae}
+## System Requirements {/* #2a975ec7819348eab9d4421a624ac4ae */}
 
 
-### Hardware {#5e94abda80254d1fa5a83a7539d3b365}
+### Hardware {/* #5e94abda80254d1fa5a83a7539d3b365 */}
 
 
 Bloom is designed to run on fairly modest hardware. Your computer should have at least the following to run Bloom:
@@ -22,7 +22,7 @@ Bloom is designed to run on fairly modest hardware. Your computer should have at
 - 2 GB available hard disk space
 - Bloom 6.3 and above require a 64-bit processor.
 
-### Operating System {#3fcf15146bf34b8c82ff2a445247ddce}
+### Operating System {/* #3fcf15146bf34b8c82ff2a445247ddce */}
 
 
 Bloom 6.2 & 6.3
@@ -60,7 +60,7 @@ For Ubuntu Bionic (18.04) and Focal (20.04), Bloom is distributed as apt package
 </details>
 
 
-## Fonts and Keyboards {#14b4c74f84664b658f7168630913c7d7}
+## Fonts and Keyboards {/* #14b4c74f84664b658f7168630913c7d7 */}
 
 
 Bloom assumes that you have a way to type your language on your computer. That will often involve using a certain font. SIL offers a free, high-quality fonts for many scripts on its website at [software.sil.org/fonts](https://software.sil.org/fonts).
@@ -75,7 +75,7 @@ You may also need a special **keyboard layout** to let you type the characters
 If you need help to find a font or keyboard for your language, try looking on SIL’s [Writing Systems Technical Resources](https://writingsystems.info/topics/input/keyboards-and-tools/) site. 
 
 
-## Download Bloom {#cb910b03fa4a483189be6b98d5a1bed8}
+## Download Bloom {/* #cb910b03fa4a483189be6b98d5a1bed8 */}
 
 
 You can download Bloom installation program from the [Bloom Library Downloads page](https://bloomlibrary.org/downloads):
@@ -105,7 +105,7 @@ For more details on how to create a collection, see [Create a New Collection](/c
 
 
 
-## Art of Reading {#7ae355b83c5d4842bf18a125c883c217}
+## Art of Reading {/* #7ae355b83c5d4842bf18a125c883c217 */}
 
 
 The **Art Of Reading Free Edition** is an optional addition to Bloom that gives you easy access to over 10,000 black & white illustrations from around the world. These are open licensed, so you can use them for free.
@@ -114,7 +114,7 @@ The **Art Of Reading Free Edition** is an optional addition to Bloom that give
 To use Art of Reading, see [Install Art of Reading](/install-art-of-reading).
 
 
-## Troubleshooting {#9bb9718916d34c5fa12c8257ede140fb}
+## Troubleshooting {/* #9bb9718916d34c5fa12c8257ede140fb */}
 
 
 If Bloom does not install properly, try these steps:
@@ -122,7 +122,7 @@ If Bloom does not install properly, try these steps:
 1. Temporarily disable your computer's anti-virus software.
 2. Try to install Bloom again. It will probably install correctly this time.
 
-	:::caution
+	:::warning[Caution]
 	
 	Be sure to re-enable the anti-virus software after you have installed Bloom!
 	

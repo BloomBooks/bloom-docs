@@ -16,19 +16,19 @@ This version, Bloom 5.4, is the last version that will work with Linux and Windo
 
 
 
-## Simple Choice Activities {#d1e642d66d564770975702164b06bece}
+## Simple Choice Activities {/* #d1e642d66d564770975702164b06bece */}
 
 
 We’ve added two new activities that you can add to your books. Just enter the correct answer in the first box. When someone reads the book, Bloom will shuffle the answers.
 
 
-### Choose Word from Picture {#a7522644c0b24bc4b4e2d03f20357ddd}
+### Choose Word from Picture {/* #a7522644c0b24bc4b4e2d03f20357ddd */}
 
 
 ![](./release-notes-5-4.fdc48b2c-2745-4df0-b45b-13a847ceca3b.png)
 
 
-### Choose Picture from Word {#1c0627ef95374d84b0d6bff9b0d2b409}
+### Choose Picture from Word {/* #1c0627ef95374d84b0d6bff9b0d2b409 */}
 
 
 ![](./release-notes-5-4.d1eecd1c-f579-4dad-a2de-19c83d19087e.png)
@@ -46,7 +46,7 @@ Enjoy [this 185 page animal alphabet book](https://bloomlibrary.org/new-arrivals
 
 
 
-## Get More Books from Within Bloom Reader {#25150f857d294ed4ab6adb1f72a99969}
+## Get More Books from Within Bloom Reader {/* #25150f857d294ed4ab6adb1f72a99969 */}
 
 
 <div class='notion-row'>
@@ -107,7 +107,7 @@ Once you pick a book, you can either download it into Bloom Reader or just read 
 </div>
 
 
-## Smarter Splitter {#de70537d74ce4ca68ce16095433faf20}
+## Smarter Splitter {/* #de70537d74ce4ca68ce16095433faf20 */}
 
 
 We heard you: getting image and text boxes to _just the right size_ was too hard. We’ve made the splitter smart in a couple of ways:
@@ -148,7 +148,7 @@ We heard you: getting image and text boxes to _just the right size_ was too hard
 4) If you need more precision, hold down the CTRL key to go back to moving by tenths of a percent, ignoring snap points.
 
 
-## Fixed Layout ePUBs {#8ec0aa36a08a4b5aaada1f990b9f0a4e}
+## Fixed Layout ePUBs {/* #8ec0aa36a08a4b5aaada1f990b9f0a4e */}
 
 
 <div class='notion-row'>
@@ -173,7 +173,7 @@ Bloom can now create ePUBs in “Fixed” mode which asks ePUB players to preser
 With this improvement, you can now publish overlay (comic) books as ePUBs.
 
 
-:::caution
+:::warning[Caution]
 
 Note that if you make a Talking Book out of an Overlay (comic) book, ePUB readers will read bubbles in the order you created them. That won’t always be the correct order! We have an idea of how to improve things for Bloom 5.5.
 
@@ -185,13 +185,13 @@ Note that if you make a Talking Book out of an Overlay (comic) book, ePUB reader
 See [here](/ePUB-notes) for more information about the state of Bloom-to-ePUB publishing.
 
 
-## Color Chooser {#790ecf6457f14013a5aceac811989c6c}
+## Color Chooser {/* #790ecf6457f14013a5aceac811989c6c */}
 
 
 We improved the color chooser and made the same chooser available everywhere you can set a color, including text, background colors in the overlay tool, and cover colors.
 
 
-## Text Color in Styles {#ff621bf1d21f4877a38624307b9b515c}
+## Text Color in Styles {/* #ff621bf1d21f4877a38624307b9b515c */}
 
 
 ![](./release-notes-5-4.cc83f057-e188-4fc4-8f2d-634b776416fc.png)
@@ -203,13 +203,13 @@ As before, you can also color individual words and letters:
 ![](./release-notes-5-4.b954a505-8b83-4cce-9824-f1ef34f7e7f4.png)
 
 
-## Modernised Topic Chooser {#160efe2e19c040a6a2b8adcc2211dbf1}
+## Modernised Topic Chooser {/* #160efe2e19c040a6a2b8adcc2211dbf1 */}
 
 
 ![](./release-notes-5-4.d8e6d343-546d-4db8-a5b6-7e682cae9806.png)
 
 
-## “Needs Copyright” Button {#aa5dac85bc6d400783781f410bdef7bc}
+## “Needs Copyright” Button {/* #aa5dac85bc6d400783781f410bdef7bc */}
 
 
 We’ve noticed that sometimes people forget to add a copyright, which later prevents them from publishing the book to BloomLibrary.org. Now Bloom shows this button to prompt you.
@@ -222,7 +222,7 @@ We’ve noticed that sometimes people forget to add a copyright, which later pre
 
 
 
-## Overlay Tool {#8208a44b54ea46caa737a063dd6c74d4}
+## Overlay Tool {/* #8208a44b54ea46caa737a063dd6c74d4 */}
 
 - We’ve added a new Bubble shape, “Rectangular”:
 
@@ -238,7 +238,7 @@ We’ve noticed that sometimes people forget to add a copyright, which later pre
 Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature-matrix) subscription is required to add new Overlay (comic) images to a book.
 
 
-## Other Improvements {#118605b2d74e4b749b18f97353ab6abc}
+## Other Improvements {/* #118605b2d74e4b749b18f97353ab6abc */}
 
 - Previously, there was a slight difference in text size between the Edit Tab and what Bloom would actually publish. You could see this even just in the Collection Tab preview. Where this mattered was that a line might break in a different place. We have fixed this difference in favor of the published versions,  so that if a book is re-published using this versions of Bloom, the layout will be the same as it was previously. But if you look in the Edit tab, changes may be visible from what you would have seen in the Edit tab in previous versions.
 - Bloom’s experimental spreadsheet import/export now retains a book’s metadata.
@@ -266,7 +266,7 @@ Note that a [Bloom Enterprise](https://bloomlibrary.org/page/create/page/feature
 - We introduced a new layout to most of our “Publish” screens. In the next version, we’ll complete this transition by rewriting the PDF/Print and Web Upload screens to fit this new system. In the end, the publish screens will be much more uniform so that if you learn one, others will be more familiar.
 - You can now paste in text formatted in “small caps” from Microsoft Word
 
-## The End of Linux Updates (for now) {#45015bc2ab4e4c30b0a5b756af04a637}
+## The End of Linux Updates (for now) {/* #45015bc2ab4e4c30b0a5b756af04a637 */}
 
 
 Bloom 5.4 is the last version of Bloom for now. Ideally, in several years, we hope (but do not promise) that we will again have the technology and staff required to ship new releases for Linux (and Mac).

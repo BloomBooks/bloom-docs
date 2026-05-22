@@ -19,7 +19,7 @@ Page Themes are available starting in Bloom 6.0
 
 
 
-## Default {#b552e6f9633048a79814e34d6ed09524}
+## Default {/* #b552e6f9633048a79814e34d6ed09524 */}
 
 
 <div class='notion-row'>
@@ -68,7 +68,7 @@ A5 Portrait Page using the Default Page Theme, with page numbering on.
 </div>
 
 
-## Zero Margin Ebook {#bc7e6d0c6d214aef9f489c572a4f5be3}
+## Zero Margin Ebook {/* #bc7e6d0c6d214aef9f489c572a4f5be3 */}
 
 
 <div class='notion-row'>
@@ -126,7 +126,7 @@ Device16x9 portrait page using the “Zero Margin” Page Theme, page numbering 
 </div>
 
 
-## Rounded Border Ebook {#f652b1beb927406495bbecda3430d921}
+## Rounded Border Ebook {/* #f652b1beb927406495bbecda3430d921 */}
 
 
 <div class='notion-row'>
@@ -149,7 +149,7 @@ This theme has a rounded border with a page number in a circle.
 </div>
 
 
-## “Legacy 5.6” {#bb5fbb6e20604d8db26a3645cb9ad73b}
+## “Legacy 5.6” {/* #bb5fbb6e20604d8db26a3645cb9ad73b */}
 
 
 This Page Theme maintains the margins and page numbering from Bloom 5.6 and earlier. You should only use it if you have no other options.

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Glossary of Terms","type":"item","tilePath":"","description":"","url":"Glossary_of_Terms.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

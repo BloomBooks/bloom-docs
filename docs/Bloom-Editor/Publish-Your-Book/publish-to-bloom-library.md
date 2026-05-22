@@ -6,19 +6,19 @@ slug: /publish-to-bloom-library
 
 
 
-## Publish to the Web on Bloom Library {#1e0f14666f3a4162bb084dcb87c4d883}
+## Publish to the Web on Bloom Library {/* #1e0f14666f3a4162bb084dcb87c4d883 */}
 
 
 Bloom was made for sharing! By sharing your work on [BloomLibrary.org](http://bloomlibrary.org/), you can make your content accessible to anyone with an internet connection. Whether you're sharing educational resources, stories, or instructional materials, publishing to the web makes your book available in multiple formats, increasing its impact.
 
 
-## Before You Begin {#c92160876a4c431e8396cda3cca84275}
+## Before You Begin {/* #c92160876a4c431e8396cda3cca84275 */}
 
 - Ensure you have an active internet connection.
 - Ensure that you have an account on [bloomlibrary.org](https://bloomlibrary.org/)
 - Check your Bloom Enterprise Status if you want your book to appear in a specific Bloom Library collection.
 
-## **How To Publish Your Book to Bloom Library** {#1dc76e9180f94dc4a07c1cebcc5759df}
+## **How To Publish Your Book to Bloom Library** {/* #1dc76e9180f94dc4a07c1cebcc5759df */}
 
 1. Click the `Publish` tab.
 2. Select `Web`.
@@ -26,7 +26,7 @@ Bloom was made for sharing! By sharing your work on [BloomLibrary.org](http://bl
 ![](./publish-to-bloom-library.b5d0665f-66f6-4eea-86f0-711d00f7bab1.png)
 
 
-## Set options {#87b48402d11d433bb00d0314a0292cfa}
+## Set options {/* #87b48402d11d433bb00d0314a0292cfa */}
 
 
 Next, you can set some options for the book you will upload. 
@@ -57,7 +57,7 @@ Next, you can set some options for the book you will upload.
 ![](./publish-to-bloom-library.3287a2f4-23c9-4991-9b12-a9e2824c21b2.png)
 
 
-### Upload your book {#5bee772705204fe890ad955cd1d023e4}
+### Upload your book {/* #5bee772705204fe890ad955cd1d023e4 */}
 
 
 Finally, you can upload your book! 
@@ -81,7 +81,7 @@ Finally, you can upload your book!
 ![](./publish-to-bloom-library.7037542e-15bb-432a-9c9e-1b984e9c0348.png)
 
 
-## Updating a book on Bloom Library {#5b078502785c4a3092b3025f3316a69d}
+## Updating a book on Bloom Library {/* #5b078502785c4a3092b3025f3316a69d */}
 
 
 If Bloom Library already has a book with the same ID number, you must specify whether the book you are uploading is an update to the existing book, or a different book. 
@@ -92,7 +92,7 @@ If Bloom Library already has a book with the same ID number, you must specify wh
 	![](./publish-to-bloom-library.fd20cdcd-c1b7-4994-91dd-ccb0f194e428.png)
 
 
-## **Managing Your Published Books on bloomlibrary.org** {#126df12515e2423e85dfdcd007702751}
+## **Managing Your Published Books on bloomlibrary.org** {/* #126df12515e2423e85dfdcd007702751 */}
 
 
  You can manage your book from the [bloomlibrary.org](https://bloomlibrary.org/) site. You can:

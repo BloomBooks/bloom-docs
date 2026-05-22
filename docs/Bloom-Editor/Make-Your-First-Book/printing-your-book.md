@@ -20,7 +20,7 @@ Printing a book is a two-step process in Bloom:
 
 2. Then you print and share your book with others.
 
-## Choose a Page Size and Orientation {#b434d49e12b94563ac526dc97b40fb6d}
+## Choose a Page Size and Orientation {/* #b434d49e12b94563ac526dc97b40fb6d */}
 
 
 To get your book ready to print:
@@ -49,7 +49,7 @@ To get your book ready to print:
 
 
 
-## The Publish Tab {#ba243c4f82814779a43df5ed5840620f}
+## The Publish Tab {/* #ba243c4f82814779a43df5ed5840620f */}
 
 
 Now click on the **Publish tab:**
@@ -95,7 +95,7 @@ To learn more about the **other options**, see [The Publish Tab](/publish-tab).
 </div>
 
 
-## Printing Options {#22eef5a0908e49ad902b4092ba582f83}
+## Printing Options {/* #22eef5a0908e49ad902b4092ba582f83 */}
 
 
 Bloom lets you **print/share** your book in several ways:
@@ -104,7 +104,7 @@ Bloom lets you **print/share** your book in several ways:
 - [Booklet Form](/printing-your-book#413953d2bca94e89b08c2d3bfd7732ff)
 - [Save and Share a PDF File](/printing-your-book#7f0a0560655f46789a976488bd04a379)
 
-## Create a Simple PDF {#abcd05d5bf7a40cb80c9e13feaf3877a}
+## Create a Simple PDF {/* #abcd05d5bf7a40cb80c9e13feaf3877a */}
 
 
 The **Simple** option will create a PDF that looks like the pages of your book. If you print the Simple PDF, each page of your book will be printed on a separate sheet of paper.
@@ -123,13 +123,13 @@ When Bloom has finished making the PDF, it will show you a **preview** of the PD
 ![](./printing-your-book.18d11ad0-4faf-43ad-b9a1-fe6a76aabe79.png)
 
 
-## Make a Booklet {#413953d2bca94e89b08c2d3bfd7732ff}
+## Make a Booklet {/* #413953d2bca94e89b08c2d3bfd7732ff */}
 
 
 If you want to print your book in booklet form, you create a PDF for the **Booklet Cover** and **Booklet Insides** separately. The booklet cover is separate because it is often printed on heavier or colored paper.
 
 
-### Create a PDF of the Booklet Cover {#4f0c1bd07b5842bb884fe86c22e0b0d5}
+### Create a PDF of the Booklet Cover {/* #4f0c1bd07b5842bb884fe86c22e0b0d5 */}
 
 1. Click the `Publish` tab (you may have done this already)
 2. Click the `PDF & Print` button in the **left-hand toolbar**.
@@ -140,7 +140,7 @@ If you want to print your book in booklet form, you create a PDF for the **Bookl
 ![](./printing-your-book.444377f4-cd53-44b0-a4c4-5659432eb5fa.png)
 
 
-### Create a PDF of the Booklet Insides {#90196101e03743f7b1cf3d3f5b52123e}
+### Create a PDF of the Booklet Insides {/* #90196101e03743f7b1cf3d3f5b52123e */}
 
 1. Click the `Publish` tab (you may have done this already).
 2. Click the `PDF & Print` button in the **left-hand toolbar** (you may have done this already also)
@@ -160,7 +160,7 @@ If you want to print your book in booklet form, you create a PDF for the **Bookl
 ![](./printing-your-book.cac92118-0d18-41a7-9936-cd0628a2a1a8.png)
 
 
-## Print {#9ffb5c176a1a4c42a0da205ab84ab915}
+## Print {/* #9ffb5c176a1a4c42a0da205ab84ab915 */}
 
 
 After you click `Print…`, Bloom will display a `Print` dialog box:
@@ -188,10 +188,10 @@ If you are printing a booklet, your book should come out of the printer ready to
 
 
 
-## Save and Share Your Book as a PDF File {#7f0a0560655f46789a976488bd04a379}
+## Save and Share Your Book as a PDF File {/* #7f0a0560655f46789a976488bd04a379 */}
 
 
-### **Save a PDF** {#2ecc690394c94e5cb9ce34ac651a6a62}
+### **Save a PDF** {/* #2ecc690394c94e5cb9ce34ac651a6a62 */}
 
 
 You can save your PDF after you have created it. This is true whether the PDF is for a **Simple** book, **Booklet Cover** or **Booklet Insides**.
@@ -207,7 +207,7 @@ You can save your PDF after you have created it. This is true whether the PDF is
 
 3. Click **Save** to complete the process.
 
-### **Share a PDF** {#3a614bc8728341c0b44572aaf602b6ef}
+### **Share a PDF** {/* #3a614bc8728341c0b44572aaf602b6ef */}
 
 
 If you want to share your PDF with someone:

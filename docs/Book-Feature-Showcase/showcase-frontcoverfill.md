@@ -6,7 +6,7 @@ slug: /showcase-frontcoverfill
 
 
 
-# Front Cover Fill {#3184bb19df1280e78cfdc8f6971dcf52}
+# Front Cover Fill {/* #3184bb19df1280e78cfdc8f6971dcf52 */}
 
 
 A beautiful front cover is an important feature of your book to attract readers. 

@@ -14,7 +14,7 @@ Bloom can be used to create monolingual, bilingual, and trilingual paper books. 
 3. [Trilingual Paper Books](/bilingual-trilingual-books#2944bb19df1280429739ec445583e4de)
 4. [Switchable Language BloomPUBs](/bilingual-trilingual-books#2944bb19df1280d2be72ce0b50d6e03d)
 
-## Monolingual Paper Books {#2944bb19df1280c5aef0e84947eb3830}
+## Monolingual Paper Books {/* #2944bb19df1280c5aef0e84947eb3830 */}
 
 
 Bloom is primarily used to publish simple storybooks. And since most readers only want to read these stories in one particular language, most books are published monolingually. When only one language is shown on a page at a time, that is called a **monolingual** book. 
@@ -40,7 +40,7 @@ For more information on making translations, see:
 - [Adaptation and Translations](/adaptations).
 - [Translate Books into Other Languages](/translate-books-other-languages).
 
-## Bilingual Paper Books {#2944bb19df12807c8dffe571eadcfffa}
+## Bilingual Paper Books {/* #2944bb19df12807c8dffe571eadcfffa */}
 
 
 In contrast, **bilingual** books show two languages on the story pages at the same time. 
@@ -64,7 +64,7 @@ In the second model, the first language is placed above the image in a single te
 Bilingual books are a popular format in bilingual education programs. Many of the books published in the [Angola Project](https://bloomlibrary.org/INADE-PATII-Angola) follow this second model. Check out [this example](https://bloomlibrary.org/INADE-PATII-Angola/INADE-PATII-Angola-Umbundu/book/uKNd5ZtwaZ).
 
 
-## Trilingual Paper Books {#2944bb19df1280429739ec445583e4de}
+## Trilingual Paper Books {/* #2944bb19df1280429739ec445583e4de */}
 
 
 **Trilingual** books display three languages simultaneously. Trilingual books are a popular format for reference books like dictionaries, such as the "[Dai-Chinese-English ﻿Book of Everyday Things](https://bloomlibrary.org/book/mtpBEpRapj)”:
@@ -73,7 +73,7 @@ Bilingual books are a popular format in bilingual education programs. Many of th
 ![](./bilingual-trilingual-books.2944bb19-df12-80c1-9d88-ea0a68e71c4d.png)
 
 
-## Switchable Language BloomPUBs {#2944bb19df1280d2be72ce0b50d6e03d}
+## Switchable Language BloomPUBs {/* #2944bb19df1280d2be72ce0b50d6e03d */}
 
 
 BloomPUBs are Bloom’s native format for digital book publication. BloomPUBs can be viewed online in Bloom Library or offline using Bloom Reader or BloomPUB Viewer for Windows. 
@@ -91,7 +91,7 @@ BloomPUBs can handle all of Bloom’s advanced features such as recorded narrati
 Many books published by Education for Life are designed for digital reading only (not paper). These books are monolingual (they display only one language at a time), yet they contain multiple languages embedded within them. To view these books, check out [EFL](https://bloomlibrary.org/EFL-education-for-life-org). 
 
 
-### Related Topics {#2944bb19df12806e861df66a05d5b3ad}
+### Related Topics {/* #2944bb19df12806e861df66a05d5b3ad */}
 
 - [Format Text Boxes](/formatting-text-boxes)
 - [Book Settings](/book-settings)

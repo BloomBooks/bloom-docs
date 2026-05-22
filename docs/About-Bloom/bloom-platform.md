@@ -6,7 +6,7 @@ slug: /bloom-platform
 
 
 
-# The Bloom Platform {#955ffbdd4f3a467580fc005bcf18b218}
+# The Bloom Platform {/* #955ffbdd4f3a467580fc005bcf18b218 */}
 
 
 [**Bloom Editor**](/bloom-platform#070f565a9a73475790b49a7ccd258ace), [**Bloom Library**](/bloom-platform#9d03d5c0220e48129b86b0958ff59386), [**Bloom Reader**](/bloom-platform#e383b07bf8834fb494a7f7cd4a6268eb)**,** and [**Bloom Enterprise**](/bloom-platform#eea85bb74a564973bd5c70b2e90f1504) comprise the **Bloom Platform**. 
@@ -15,7 +15,7 @@ slug: /bloom-platform
 The Bloom Platform is an integrated approach to book-making which provides a robust and sustainable means for language communities to author, translate, adapt, and publish books for themselves in the language they speak or sign.
 
 
-## Bloom Editor {#070f565a9a73475790b49a7ccd258ace}
+## Bloom Editor {/* #070f565a9a73475790b49a7ccd258ace */}
 
 
 [Bloom Editor](https://bloomlibrary.org/page/create/downloads) is a software program for authoring, translating, and publishing books and sharing those books with your community through Bloom Library. Bloom Editor runs on Windows and Linux.
@@ -33,7 +33,7 @@ But despite its simplicity, in recent years, Bloom Editor has increasingly becom
 To view all of Bloom Editor’s features, see [this page](https://bloomlibrary.org/page/create/page/feature-matrix) on Bloom Library.
 
 
-## Bloom Library {#9d03d5c0220e48129b86b0958ff59386}
+## Bloom Library {/* #9d03d5c0220e48129b86b0958ff59386 */}
 
 
 [Bloom Library](https://bloomlibrary.org/read) is a unique website that has more than **22,000 FREE books** in **1,000+ languages**. Books can be read online or downloaded in various formats for offline reading. The library interacts directly with the Bloom Editor for uploading and downloading books. The library also works with the free Bloom Reader Android app.
@@ -58,7 +58,7 @@ Uploaded books are displayed using a “book card”. The book card shows a thum
 Special book features and the list of languages represented in the book are also indicated on the book card.
 
 
-## Bloom Reader {#e383b07bf8834fb494a7f7cd4a6268eb}
+## Bloom Reader {/* #e383b07bf8834fb494a7f7cd4a6268eb */}
 
 
 [Bloom Reader](/about-bloom-reader) is a free Android app that allows readers with Android devices to enjoy Bloom books offline.
@@ -83,7 +83,7 @@ Special book features and the list of languages represented in the book are also
 </div>
 
 
-### Special Features {#da72cfe19f144bbe8f3c085258735d33}
+### Special Features {/* #da72cfe19f144bbe8f3c085258735d33 */}
 
 
 Books published to Bloom Reader can also include all of Bloom Editor’s special features:
@@ -95,7 +95,7 @@ Books published to Bloom Reader can also include all of Bloom Editor’s special
 - Comic books
 - Audio-image descriptions
 
-### Get Books on Bloom Reader {#c9368a920a83452eb57d4e25e19dc409}
+### Get Books on Bloom Reader {/* #c9368a920a83452eb57d4e25e19dc409 */}
 
 
 To get books onto a device that has Bloom Reader installed, users can either download from Bloom Library, transfer books directly from the Bloom Editor to their devices, or share from one device to another.
@@ -104,7 +104,7 @@ To get books onto a device that has Bloom Reader installed, users can either dow
 Organizations interested in mass distribution of Bloom books to a people group can transfer books onto SD-cards.
 
 
-## Bloom Subscriptions {#eea85bb74a564973bd5c70b2e90f1504}
+## Bloom Subscriptions {/* #eea85bb74a564973bd5c70b2e90f1504 */}
 
 
 <div class='notion-row'>

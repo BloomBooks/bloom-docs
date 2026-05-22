@@ -6,7 +6,7 @@ slug: /BR-distribution
 
 
 
-## Introduction {#49a5d5db510145f698d1c11b6717613c}
+## Introduction {/* #49a5d5db510145f698d1c11b6717613c */}
 
 
 Distributing SD cards that are _pre-loaded_ with BloomPUBs is a fast and convenient way for an organization to grant users access to an _entire library_ of Bloom books. This is a particularly useful distribution method when the intended consumers of these books have limited or no access to the Internet in their home environment. An additional benefit of distributing BloomPUBs pre-loaded on SD cards is that the books are safeguarded from accidental deletion from within the Bloom Reader app. (They can, of course, be deleted through other means.)
@@ -21,7 +21,7 @@ In this article, we will provide step-by-step instructions for both methods.
 2. [Distribute Books via Pre-loaded Phones](/BR-distribution#aff5473a55cc4f2e8922622ce4e44d00)
 3. [Advanced Options](/BR-distribution#ab53b94bfff44b448917d311bde496a0)
 
-## 1. Distribute Bloom Books on SD Cards {#58616141ac10471481495e18570fb619}
+## 1. Distribute Bloom Books on SD Cards {/* #58616141ac10471481495e18570fb619 */}
 
 
 When **Bloom Reader** starts, it automatically looks for an SD card and for certain private folders reserved for the app. If it finds such a folder, it includes the books it finds there in the list of available books to read. If it finds `.`[`bloomshelf`](https://docs.google.com/document/u/0/d/1UUvwxJ32W2X5CRgq-TS-1HmPj7gCKH9Y9bxZKbmpdAI/edit) files, Bloom Reader also organizes the books according to those _shelves_.
@@ -33,13 +33,13 @@ There are three steps:
 2. [**Create the required folder on your SD card**](/BR-distribution#f659de0a085545d8b4da927d7ab5a670)
 3. [**Copy over the BloomPUBs**](/BR-distribution#a54b67b77c0649b78e2df708eab086de)
 
-### 1.1. **Gather your BloomPUBs** {#8bb1ee7ddb8441e4ac73405b55970b2d}
+### 1.1. **Gather your BloomPUBs** {/* #8bb1ee7ddb8441e4ac73405b55970b2d */}
 
 
 Gather all the books you want to distribute. These books will have an extension of either `.bloomd`   or `.bloompub`. You can get BloomPUBs by [downloading them from the Bloom Library](/BR-distribution#dc35440714c648c4b6a86cc9effd975e) or by [publishing them from the Bloom Editor](/BR-distribution#b093d5a5e4bf4898856275c3b81aacc6) (or perhaps a colleague has sent you a BloomPUB directly).
 
 
-### Download BloomPUBs from the Bloom Library {#dc35440714c648c4b6a86cc9effd975e}
+### Download BloomPUBs from the Bloom Library {/* #dc35440714c648c4b6a86cc9effd975e */}
 
 
 From [Bloom Library](https://bloomlibrary.org/read), click on the book you desire and look for the Download section. Then click on the BloomPUB icon; for example:
@@ -48,7 +48,7 @@ From [Bloom Library](https://bloomlibrary.org/read), click on the book you desir
 ![](./BR-distribution.04754ffb-dbe2-4a3f-9908-7c3869ac0f3d.png)
 
 
-### Publish BloomPUBs from the Bloom Editor {#b093d5a5e4bf4898856275c3b81aacc6}
+### Publish BloomPUBs from the Bloom Editor {/* #b093d5a5e4bf4898856275c3b81aacc6 */}
 
 
 Using the Bloom Editor, you can make a BloomPUB file of any book in your collection:
@@ -61,7 +61,7 @@ Using the Bloom Editor, you can make a BloomPUB file of any book in your collect
 ![](./BR-distribution.7655f554-2809-45a0-afb3-9c7ef640e1c2.png)
 
 
-### 1.2. **Create the folder on your SD card** {#f659de0a085545d8b4da927d7ab5a670}
+### 1.2. **Create the folder on your SD card** {/* #f659de0a085545d8b4da927d7ab5a670 */}
 
 
 After gathering all your Bloom books on your computer, you will then use your computer to create the following series of folders on the SD card:
@@ -88,10 +88,10 @@ And so on until you have a series of nested folders as follows:
 `D:\Android\data\org.sil.bloom.reader\files\Books`
 
 
-### 💡 Note that capitalization must be _exactly_ as shown. {#74dd8aa3dfe345e4bddd3392e6a2b8f5}
+### 💡 Note that capitalization must be _exactly_ as shown. {/* #74dd8aa3dfe345e4bddd3392e6a2b8f5 */}
 
 
-### 1.3. **Copy over the BloomPUBs** {#a54b67b77c0649b78e2df708eab086de}
+### 1.3. **Copy over the BloomPUBs** {/* #a54b67b77c0649b78e2df708eab086de */}
 
 
 Copy the BloomPUBs into the folder.
@@ -100,7 +100,7 @@ Copy the BloomPUBs into the folder.
 The SD card is now ready to distribute.
 
 
-### 1.4 **Optional: Folders & Bookshelves** {#7e2134084c4149eca757e3810a62d47f}
+### 1.4 **Optional: Folders & Bookshelves** {/* #7e2134084c4149eca757e3810a62d47f */}
 
 
 Beginning with **Bloom Reader** 3.0, you can organize this folder using subfolders. For example, you could have:
@@ -115,10 +115,10 @@ Beginning with **Bloom Reader** 3.0, you can organize this folder using subfolde
 `Android\data\org.sil.bloom.reader\files\Books\FooGrade2\animals.bloompub`
 
 
-## 2. Distribute Books via Pre-loaded Phones {#aff5473a55cc4f2e8922622ce4e44d00}
+## 2. Distribute Books via Pre-loaded Phones {/* #aff5473a55cc4f2e8922622ce4e44d00 */}
 
 
-### 2.1. Connect the phone to your computer {#75205fc2c349426283f460d0bd98eae2}
+### 2.1. Connect the phone to your computer {/* #75205fc2c349426283f460d0bd98eae2 */}
 
 
 To pre-load your books onto a phone, you will need to connect the phone through a USB cable to your computer. Depending on the device and its version of Android, it may or may not allow immediate access. If immediate access is granted, then the phone will show up in Windows Explorer under “This PC”. 
@@ -139,19 +139,19 @@ Here’s an example:
 ![](./BR-distribution.db1e484d-3a28-4822-9501-a3e0c32845c2.png)
 
 
-### 2.2. **Create a folder called “Bloom”** {#92368b010e454501b8da712f357cfc9c}
+### 2.2. **Create a folder called “Bloom”** {/* #92368b010e454501b8da712f357cfc9c */}
 
 
 Once the phone is successfully connected, using Windows File Explorer, create a new folder called “Bloom” on the root of the Internal storage. 
 
 
-### 2.3. **Copy over the BloomPUBs**  {#ce36cbefc79f4c5ba8e1d8fbf71b8816}
+### 2.3. **Copy over the BloomPUBs**  {/* #ce36cbefc79f4c5ba8e1d8fbf71b8816 */}
 
 
 Drag and drop all the desired books to the newly created Bloom folder.
 
 
-### 2.4. Install Bloom Reader {#f69af6b939a94fb88e74f8fd2523a4a7}
+### 2.4. Install Bloom Reader {/* #f69af6b939a94fb88e74f8fd2523a4a7 */}
 
 
 Install Bloom Reader on the phone, either through the Google Play store or by copying the app to the Download folder and then “side-loading” the Bloom Reader from the phone’s file manager app. 
@@ -174,7 +174,7 @@ Click Settings to modify the permissions for installing unknown apps.
 ![](./BR-distribution.d90936a3-5de7-4b0a-9b28-692dbcd90305.png)
 
 
-### 2.5. Check for Lost Books {#82336487e50e48279aae17f2a4a4842a}
+### 2.5. Check for Lost Books {/* #82336487e50e48279aae17f2a4a4842a */}
 
 
 When Bloom Reader opens and detects the folder “Bloom” in the internal storage, a prompt will appear to allow you to retrieve these books. 
@@ -213,10 +213,10 @@ Bloom Reader will transfer all the BloomPUBs from the Bloom folder into its priv
 The phone is now ready for distribution. 
 
 
-## 3. **Advanced Options** {#ab53b94bfff44b448917d311bde496a0}
+## 3. **Advanced Options** {/* #ab53b94bfff44b448917d311bde496a0 */}
 
 
-:::caution
+:::warning[Caution]
 
 This section described advanced options and is _not_ recommended for most users.
 
@@ -225,7 +225,7 @@ This section described advanced options and is _not_ recommended for most users.
 
 
 
-### **Use Bloom Reader Beta or Alpha** {#469dcba373ca4139bd6d497d8554867b}
+### **Use Bloom Reader Beta or Alpha** {/* #469dcba373ca4139bd6d497d8554867b */}
 
 
 The private books folder is _specific_ to each ‘channel’ of Bloom Reader. Unfortunately, this means that if you want to make an SD card that will work seamlessly with Bloom Reader Beta, the books must be placed in:
@@ -243,7 +243,7 @@ and for Bloom Reader Alpha, in
 If you wish, and you have enough space, you can place the same collection in all these locations on the same SD card, so that it works with multiple “channels” of Bloom Reader.
 
 
-### **Support for Older Bloom Reader Versions** {#95d4c140bcb649bc9b5a88dabf4fdcc8}
+### **Support for Older Bloom Reader Versions** {/* #95d4c140bcb649bc9b5a88dabf4fdcc8 */}
 
 
 **Bloom Reader** will also notice the existence of the older system using a `\BloomExternal` folder at the root of the SD card, if it does not find `\Android\data\org.sil.bloom.reader\files\Books`.

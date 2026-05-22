@@ -10,7 +10,7 @@ keywords: [blind]
 The Image Description Tools lets you add text descriptions of images. You can also add an audio recording of an image description. These image descriptions can help users of your book who have impaired eyesight to enjoy your book. 
 
 
-## Activating the Image Description Tool {#276261e5b9864ca7a19bb356dad0d3cb}
+## Activating the Image Description Tool {/* #276261e5b9864ca7a19bb356dad0d3cb */}
 
 
 In order to access the Image Description Tool, click on the menu icon at the top right of the screen. 
@@ -28,7 +28,7 @@ Then activate the **Image Description Tool** by clicking in the check box.
 ![](./image-description-tool.9f1e2b93-708f-4ac7-a06e-4a470ff835ac.png)
 
 
-## Create Image Descriptions {#06836ffe32e943a485c675e3d3a8d73b}
+## Create Image Descriptions {/* #06836ffe32e943a485c675e3d3a8d73b */}
 
 
 Now that the Image Description Tool is open, a space will be created next to the image for adding a text description. You may now type in the text which describes the image. Repeat this process for each image in the book. 
@@ -61,10 +61,10 @@ If you are using the Overlay Tool to make comic books, Bloom allows you to have 
 
 
 
-## Writing Good Image Descriptions {#2814bb19df128009bb03d419ee2730e2}
+## Writing Good Image Descriptions {/* #2814bb19df128009bb03d419ee2730e2 */}
 
 
-### Keep it short and simple {#2814bb19df1280e99413f5ed5ef1ca49}
+### Keep it short and simple {/* #2814bb19df1280e99413f5ed5ef1ca49 */}
 
 
 In general, it is best to keep image descriptions short and simple. Use only enough words to let the visually impaired reader what the image conveys that the text does not. In this example, the text says that the cat is black and yellow, so the image description does not need to include that, and we can keep it short:
@@ -80,7 +80,7 @@ apples are showing at the top of the bag, etc., but unless those details are imp
 ![](./image-description-tool.2814bb19-df12-8006-ac7a-db4cd0a53350.jpg)
 
 
-### Be descriptive {#2814bb19df1280c695bacc093abb2afb}
+### Be descriptive {/* #2814bb19df1280c695bacc093abb2afb */}
 
 
 As simply as possible, describe what is in the image and any action taking place. Focus on the details that are relevant to the story.
@@ -101,7 +101,7 @@ In this example, it is important to say that there are both boys and girls and t
 If a color is important to the story, include that detail. If the people in the picture are named in the  story, use their names. Include those details that are important to the story.
 
 
-### It isn't always necessary {#2814bb19df1280969043e93ba4f0589d}
+### It isn't always necessary {/* #2814bb19df1280969043e93ba4f0589d */}
 
 
 We should normally describe all images, but there are some circumstances in which that is not necessary. If the image is purely decorative, it does not need to be described. Also, if the description would simply repeat what is in the text, it does not need to be described. 
@@ -125,7 +125,7 @@ If the image does not need to be described, check the box that says, “This ima
 ![](./image-description-tool.2814bb19-df12-8071-9f5a-ff58ef13ed8b.jpg)
 
 
-## Recording Audio of Text and Image Descriptions {#988d166c68974ac681dfeb765bc52d1b}
+## Recording Audio of Text and Image Descriptions {/* #988d166c68974ac681dfeb765bc52d1b */}
 
 
 To make a book accessible, you need to record all of the text as well as all of the image descriptions. 

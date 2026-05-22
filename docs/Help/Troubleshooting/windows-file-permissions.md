@@ -31,7 +31,7 @@ We don’t know what causes that, but this fix has sometimes been helpful:
 ![](./windows-file-permissions.cdc9a396-32d9-4827-8e72-ce583bd74a17.png)
 
 
-## Hidden Folders {#2634bb19df1280aaae56f8ab31097086}
+## Hidden Folders {/* #2634bb19df1280aaae56f8ab31097086 */}
 
 
 Bloom requires all of its files and folders **not to be** **Hidden**.

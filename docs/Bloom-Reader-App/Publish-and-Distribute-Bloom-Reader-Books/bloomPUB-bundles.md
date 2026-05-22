@@ -7,7 +7,7 @@ keywords: [BloomPUB]
 
 
 
-# About BloomPUB Bundles {#a1ec0c39ac42454495332f5063d73100}
+# About BloomPUB Bundles {/* #a1ec0c39ac42454495332f5063d73100 */}
 
 
 A **BloomPUB Bundle** is a collection of BloomPUB files along with a “bookshelf” file all “bundled up” into a single file.
@@ -22,7 +22,7 @@ When a person opens a BloomPUB Bundle on an Android device with Bloom Reader ins
 The normal way to make a BloomPUB bundle is to use the [Make All BloomPUBs](/create-multiple-bloompubs#21e4bb19df12800b906dc247f015b22c) feature in Bloom’s desktop editor.
 
 
-:::caution
+:::warning[Caution]
 
 The Samsung File Manager does not handle `.bloombundle` (or `.bloomPUB`) files. 
 

@@ -67,7 +67,7 @@ In the Team Collection history log, Bloom will report that the book has been ren
 </details>
 
 
-# Troubleshooting Team Collections {#ee0a0ca48de34ecbb448a64e48614bae}
+# Troubleshooting Team Collections {/* #ee0a0ca48de34ecbb448a64e48614bae */}
 
 
 If you have further issues with Team Collections, see [Team Collections - Troubleshooting](/team-collections-problems).

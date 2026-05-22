@@ -6,7 +6,7 @@ slug: /why-crop
 
 
 
-## Getting the right focus {#29d4bb19df12809ca027f2c72f667be5}
+## Getting the right focus {/* #29d4bb19df12809ca027f2c72f667be5 */}
 
 
 **Cropping an image** is all about trimming an image to highlight the part of the image that you wish to focus on in a story or on a game page. 
@@ -42,7 +42,7 @@ Getting the right focus for an image is the goal of image-cropping.
 
 
 
-## Non-destructive Cropping {#29d4bb19df1280329f45f3b3133b874f}
+## Non-destructive Cropping {/* #29d4bb19df1280329f45f3b3133b874f */}
 
 
 Starting Bloom 6.1, the default image-cropping tool in Bloom is **non-destructive**. This means that you can freely experiment with cropping (or trimming) a portion of your image without fear of permanently losing the trimmed portion. You can always restore your image to its original state by choosing “Reset Image”:
@@ -63,10 +63,10 @@ In addition, non-destructive cropping allows for greater flexibility when making
 
 
 
-## Destructive Cropping {#29d4bb19df1280d3bb9efe4bb68357b6}
+## Destructive Cropping {/* #29d4bb19df1280d3bb9efe4bb68357b6 */}
 
 
-:::caution
+:::warning[Caution]
 
 Destructive cropping is not recommended.
 

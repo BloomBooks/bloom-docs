@@ -19,7 +19,7 @@ The easiest way to create a book in Bloom is to translate
 When you open Bloom, Bloom puts the **Sources for New Books** in the lower left-hand corner of the screen. We will learn how to create a book by using the **Basic Book** template.
 
 
-## Step 1: Create a New Book {#8b295154c82d4bea9f34cd45ab930af3}
+## Step 1: Create a New Book {/* #8b295154c82d4bea9f34cd45ab930af3 */}
 
 
 Creating a new book is a two-part process.
@@ -30,7 +30,7 @@ Creating a new book is a two-part process.
 	![](./creating-a-new-book.1d3d93d1-da99-4b9a-b1da-519748275b10.png)
 
 
-### The Edit Tab {#421144f36dd94c6880857ff45ae3f576}
+### The Edit Tab {/* #421144f36dd94c6880857ff45ae3f576 */}
 
 
 When you click `MAKE A BOOK USING THIS SOURCE`, Bloom adds a new book based on the template to your collection and opens it in a new tab, the **`Edit`** tab. (Bloom also adds a **`Publish`** tab.) When you open a new book for editing, Bloom takes you to the Front Cover for that book.
@@ -48,7 +48,7 @@ Let’s look at some of the parts of the Edit tab window and the front cover:
 5. Bloom puts a small note to indicate that this is the title box.
 6. The Basic Book template includes a place for you to put a picture on the cover of your book.
 
-### Add a Book Title {#d91111baa0f14027be1decb76554ef84}
+### Add a Book Title {/* #d91111baa0f14027be1decb76554ef84 */}
 
 
 When you first open a new book to edit, Bloom takes you to the **Front Cover**.
@@ -58,7 +58,7 @@ When you first open a new book to edit, Bloom takes you to the **Front Cover**.
 	![](./creating-a-new-book.0ce7a7b4-222a-4ad0-ab9f-fbf67a345eaf.png)
 
 
-### Add a Cover Picture {#2681cb0e96634b2eac32b50356e538b8}
+### Add a Cover Picture {/* #2681cb0e96634b2eac32b50356e538b8 */}
 
 
 You can also add a picture to the front cover.
@@ -96,7 +96,7 @@ Next, Bloom will show the **Image Toolbox**. The Image Toolbox lets you choose f
 For more details about the Image Toolbox, see [Images in Bloom Index](/images) 
 
 
-## Front Matter Pages {#86e2d91e11ef4fc0b662523c1859d38f}
+## Front Matter Pages {/* #86e2d91e11ef4fc0b662523c1859d38f */}
 
 
 Bloom knows about the basic requirements for any type of book, so it has already created some special pages for you, including a title page and a credits page. 
@@ -111,7 +111,7 @@ You can change how the front matter and back matter pages appear in the “Book 
 
 
 
-### The Title Page {#d5816ffc724a42cd9551d97f32150c0c}
+### The Title Page {/* #d5816ffc724a42cd9551d97f32150c0c */}
 
 
 The **Title Page** should already have the title of your book. When you type the title of your book into the front cover, Bloom automatically copies the title to the title page.
@@ -125,7 +125,7 @@ Whenever we make a book, it is important to acknowledge those who contributed to
 ![](./creating-a-new-book.91b1382e-09c5-4ff8-a50f-053a64a99438.png)
 
 
-### The Credits Page {#41dcdea0eacc4435bd8525afec354c6c}
+### The Credits Page {/* #41dcdea0eacc4435bd8525afec354c6c */}
 
 
 The **Credits Page** lets you add three kinds of information: copyright and license information, additional acknowledgments, and ISBN number. 
@@ -138,7 +138,7 @@ The **Credits Page** lets you add three kinds of information: copyright and lice
 ![](./creating-a-new-book.ca5e690d-3f5c-425a-bbf7-ad1288e4b059.png)
 
 
-### Add Copyright and Licensing information {#e967f6bf24924b7496a3b25e2ead3551}
+### Add Copyright and Licensing information {/* #e967f6bf24924b7496a3b25e2ead3551 */}
 
 
 Each Bloom book has copyright and licensing information built into it. 
@@ -194,7 +194,7 @@ After you click on the **Click to Edit Copyright & License** link, a small **Cop
 </div>
 
 
-## Add a Page to Your Book {#55c6ab551f554fcea7a633c5207fb2ac}
+## Add a Page to Your Book {/* #55c6ab551f554fcea7a633c5207fb2ac */}
 
 
 After you have finished your book’s front matter, you can start adding pages. 
@@ -209,7 +209,7 @@ After you have finished your book’s front matter, you can start adding pages.
 See [Pages in Bloom](/pages) for more directions on how to add and remove pages, change page layouts, and more.
 
 
-## Finish Your Book {#8582862c7b3d424d8ab5c1f79d7e1366}
+## Finish Your Book {/* #8582862c7b3d424d8ab5c1f79d7e1366 */}
 
 
 When you are finished, click the **Collections** tab. Bloom will return to the Collections view. Now you will see the new book that you have just created.

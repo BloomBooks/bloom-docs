@@ -38,7 +38,7 @@ The _Text Box Properties_ dialog box has three separate tabs:
 We’ll look at each one below.
 
 
-## Text Box Language Settings {#6bc31bd14abe4b5ebbae22534bdb24e2}
+## Text Box Language Settings {/* #6bc31bd14abe4b5ebbae22534bdb24e2 */}
 
 
 Every text box in Bloom is labeled as belonging to a certain language. When you are editing a book in Bloom Editor, Bloom indicates the language of each text box with a light grey “language tag” located in the bottom right of each text box.
@@ -50,7 +50,7 @@ Every text box in Bloom is labeled as belonging to a certain language. When you 
 When you are making books in Bloom, it is _very_ important that these language tags accurately correspond to the actual language written within each text box.
 
 
-:::caution
+:::warning[Caution]
 
 **Make sure the text you type into a text box belongs to the language of the text box!** 
 If you are simply printing your book, having inaccurate language tagging will not negatively affect you or anyone else. But if you want to share your book through the [Bloom Library](https://bloomlibrary.org/) 📕, accurate language tagging is crucial so that others will be able to find your book in the correct language category.
@@ -63,7 +63,7 @@ If you are simply printing your book, having inaccurate language tagging will no
 You can change the language (or languages) used for the whole book in the Collection Settings’ [Languages Tab](/collection-settings#666299e09b6c4f36bd368dcbd8a20a10).
 
 
-## The Language tab {#807253a78d6f4355b217f2b20af6bdc5}
+## The Language tab {/* #807253a78d6f4355b217f2b20af6bdc5 */}
 
 
 If you want a text box to **always** be in a specific language, you can do that with the **Language** tab.
@@ -80,7 +80,7 @@ If you want a text box to **always** be in a specific language, you can do that 
 	![](./formatting-text-boxes.43bb99e3-89f3-40e8-b328-171b5008eb1a.png)
 
 
-## The Alignment tab {#39af07a9fdfb450d9052eb7789bd2f74}
+## The Alignment tab {/* #39af07a9fdfb450d9052eb7789bd2f74 */}
 
 
 You can set text to **align vertically** within the text box.
@@ -103,7 +103,7 @@ The “Picture on Left” page layout uses **vertical centering** by default.
 
 
 
-## The Borders & Background tab {#b7b2dd05956540c880ef5e5ffbd9f9d1}
+## The Borders & Background tab {/* #b7b2dd05956540c880ef5e5ffbd9f9d1 */}
 
 
 The **Borders & Background** tab allows you to put a black or grey border around your text box, which will show up on the printed page. Here we see a grey border with rounded corners around the text box.

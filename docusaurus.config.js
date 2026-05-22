@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { themes } = require("prism-react-renderer");
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -12,7 +13,6 @@ const config = {
   url: "https://docs.bloomlibrary.org",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   // Duplicate routes cause the next/prev buttons to loop
   // which causes the pdf creation to loop forever.
   onDuplicateRoutes: "throw",
@@ -21,7 +21,19 @@ const config = {
   projectName: "bloom-docs",
   trailingSlash: true,
 
+  markdown: {
+    mdx1Compat: {
+      comments: false,
+      admonitions: false,
+      headingIds: false,
+    },
+    hooks: {
+      onBrokenMarkdownLinks: "warn"
+    }
+  },
+
   plugins: ["@docusaurus/plugin-ideal-image"],
+
   presets: [
     [
       "classic",
@@ -88,14 +100,10 @@ const config = {
     },
   },
   themes: [
-    // ... Your other themes.
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
-        // ... Your options.
-        // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-        // language: ["en", "fr"],
         indexBlog: false,
         indexPages: false,
         docsRouteBasePath: "/",

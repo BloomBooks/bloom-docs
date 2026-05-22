@@ -13,7 +13,7 @@ The **Game Tool** is automatically opened when you add or navigate to certain ga
 There are two types of game pages: static and dynamic.
 
 
-## Static Game Pages {#28c4bb19df1280d49881f1e346c50abe}
+## Static Game Pages {/* #28c4bb19df1280d49881f1e346c50abe */}
 
 
 **Static** game pages are pre-configured, static game pages containing **no** user-designed elements. For static game pages, such as Quiz or Simple Choice game pages, the Game Tool presents three simple configuration options: Theme, Correct Sound, and Wrong Sound.
@@ -25,7 +25,7 @@ There are two types of game pages: static and dynamic.
 ![](./game-tool.28c4bb19-df12-80a0-a93b-d148419fec8d.png)
 
 
-## Dynamic Game Pages {#28c4bb19df12800eab05cbd536e441bb}
+## Dynamic Game Pages {/* #28c4bb19df12800eab05cbd536e441bb */}
 
 
 For Dynamic Game Pages, users are given access to a toolbox of game elements which they can use to customize any of the pre-configured drag-and-drop game templates, or they can design their own game from scratch. There are four main parts to the Game Tool:

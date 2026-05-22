@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Help menu","type":"item","tilePath":"","description":"","url":"User_Interface/Help_menu/Help_menu.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
