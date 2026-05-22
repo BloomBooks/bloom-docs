@@ -18,7 +18,7 @@ As you enter text into the book, Bloom helps you keep in mind the level for whic
 Setting up the Leveled Reader Tool is not too much different from setting up decodable stages. In fact, it is easier. There are 6 levels already set for you. You can use them as-is or modify them.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 While setting up the Leveled Reader Tool is not too difficult, determining the best criteria for it is usually done by someone with specialized skills in literacy education.
 

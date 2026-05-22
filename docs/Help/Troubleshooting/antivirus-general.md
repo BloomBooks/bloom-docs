@@ -9,7 +9,7 @@ slug: /antivirus-general
 ## Introduction to the problem {/* #cfcdd04f0abd46cf8b021bdcac920ed9 */}
 
 
-:::warning[caution]
+:::warning[Caution]
 
 There is a malware program that shares our name, so make sure that your malware scanner is not actually detecting that. If you open the Windows Task Manager (Ctrl+Shift+Esc) and see any mention of  "Bloom ltd Copyright”, that’s not us, that’s the “adware”.
 

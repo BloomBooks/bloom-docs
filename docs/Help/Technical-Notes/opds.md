@@ -45,7 +45,7 @@ Before requesting an API key, please create an account at [BloomLibrary.org](htt
 To discuss getting a key, please write to admin@bloomlibrary.org.  
 
 
-:::warning[caution]
+:::warning[Caution]
 
 We don’t currently have a way of rate-limiting you, so it is on you not to break us! Please do not use this API in a way that would generate queries every time one of your users opens a page. Instead, please cache the results and update them daily or whatever.
 

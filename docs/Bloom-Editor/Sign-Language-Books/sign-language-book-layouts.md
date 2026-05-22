@@ -52,7 +52,7 @@ Videos can also **include audio**, with or without written text:
 ## Transparent Video {/* #1b48fc0a5a5e4944b0904ce3be0c8f87 */}
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Not yet available.
 

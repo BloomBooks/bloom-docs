@@ -15,7 +15,7 @@ slug: /decodable-and-leveled-readers-for-literacy-specialists
 This documentation is intended for trained **Literacy Specialists** who wish to create [Decodable](/glossary#f89e2ff182c3471a9cbabefaad5fe4f6) and [Leveled](/glossary#32f4bb19df12800e89a9f4f3597c40d9) **Reader Templates**. 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Setting up Reader Templates requires a deep understanding of the language, its orthography, and its grammar.
 

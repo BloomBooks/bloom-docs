@@ -113,7 +113,7 @@ When Awa is finished editing the book, she can check it back in. First, she type
 The book is now available to the other team members to make further edits.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 **Slow internet connections can cause status update delays**
 The status panel of a book may take some time to update over slow internet connections. When this happens, it is possible that two people may start to edit the same book at the same time. This will cause an editing conflict.  If an editing conflict occurs, Bloom will determine one team member to be the “winner” and will put the other team member’s edited book into a special _Lost and Found_ folder. (If this happens, see [Retrieving a book from Lost and Found](/team-collections-advanced-topics#3f4663c924424e6b93158710b7d00ea2).) 

@@ -48,7 +48,7 @@ However, Bloom currently does not provide an interior page template that support
 However, Bloom does provide a means to have a full-bleed image for the front cover. For further detail, see Book Settings. 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 In a future version of Bloom, we plan to provide page templates for edge-to-edge interior pages for non-comic print page sizes.
 

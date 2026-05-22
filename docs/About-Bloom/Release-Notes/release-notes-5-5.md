@@ -227,10 +227,10 @@ Previously, you had to remove the “|” characters yourself. Now, just leave t
 Bloom collections now remember what custom colors you have created. So whether you are setting text for a style, a text selection, an audio highlight, or an overlay text, you are working with the same palette.  Cover colors are a separate palette.
 
 
-## Spreadsheet Import/Export {/* #19de49c323e94e1ab09a9834ea5bd057 */}
+## Spreadsheet Import/Export  {/* #19de49c323e94e1ab09a9834ea5bd057 */}
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This feature is experimental. You can enable it under Collection Settings:Advanced
 
@@ -273,7 +273,7 @@ Creating _**new**_ overlay pages requires a Bloom Enterprise subscription. Trans
 When a text box has more text than can fit, Bloom does several things to draw your attention to the "overflow". However, if you later view the book on the web or in Bloom Reader, we turn on a scrollbar and allow the user to scroll down to see the entire text. This has been true for a while now. With this new version, if you have chosen either of the "Device16x9" layouts, we don't make a big deal out of the overflow. We simply let it overflow and show a scrollbar.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Note that for technical/cost reasons, this scrollbar actually takes up some of the box’s horizontal space, whereas during actual playback of the book, the scrollbar hovers above the text. So you won’t get exactly the same line-breaking.
 

@@ -52,7 +52,7 @@ Here are the steps to select the **Bloom Library Bookshelf**:
 2. Select the **bookshelf** from the `Bloom Library Bookshelf` drop-down.
 3. Click `OK`.
 
-:::warning[caution]
+:::warning[Caution]
 
 Setting up bookshelves is something done in coordination with the Bloom Librarian. 
 

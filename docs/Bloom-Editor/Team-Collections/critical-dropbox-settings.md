@@ -28,7 +28,7 @@ To fix this problem:
 ![](./critical-dropbox-settings.2b64bb19-df12-80da-b62f-c4a49482a511.png)
 
 
-:::warning[caution]
+:::warning[Caution]
 
 After changing these settings, request that all files are made available offline explicitly.
 

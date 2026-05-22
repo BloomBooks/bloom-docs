@@ -7,7 +7,7 @@ keywords: [margins, appearance]
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This page is a work-in-progress for Bloom 6.0.
 

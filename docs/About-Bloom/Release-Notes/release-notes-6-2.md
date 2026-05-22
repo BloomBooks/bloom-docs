@@ -262,7 +262,7 @@ Books created with this template will include a watermark and cannot be printed,
 
 
 
-## Improved Image Pasting {/* #2464bb19df1280d8aa0ac32fb646a973 */}
+## Improved Image Pasting  {/* #2464bb19df1280d8aa0ac32fb646a973 */}
 
 
 We’ve simplified pasting an image onto a page. If you are editing a page in Bloom and have an image on the Windows clipboard, clicking Bloom’s Paste button, or typing CTRL+V will now paste the image onto the empty page. If the page already has an image, a new overlay image will be created (if your Bloom subscription allows it).

@@ -58,7 +58,7 @@ Be aware that you can check out a book for editing _on only a single computer at
 The Team Collection Administrator can use the “Force Unlock” command to make the book editable again. 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 **“Force unlocking” a book is not the same as checking the book in!** 
 When the administrator force-unlocks a book, any changes made by the user who originally checked the book out will not be saved to the shared team version. Instead, that version of the book will be moved to a “Lost and Found” folder. If you want to incorporate those changes into the shared team version later, you must do so by hand.

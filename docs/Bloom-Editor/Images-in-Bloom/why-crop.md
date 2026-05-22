@@ -66,7 +66,7 @@ In addition, non-destructive cropping allows for greater flexibility when making
 ## Destructive Cropping {/* #29d4bb19df1280d3bb9efe4bb68357b6 */}
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Destructive cropping is not recommended.
 

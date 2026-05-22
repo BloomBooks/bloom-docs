@@ -6,7 +6,7 @@ slug: /sign-language-books-technical-considerations
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This document serves as a working document to compile collective wisdom from various organizations that have already developed several Sign Language books for Bloom.
 

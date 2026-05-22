@@ -33,7 +33,7 @@ If you require some background information, please read on.
 Occasionally, Bloom has a problem “reading” the copyright and license from an image file when importing it.  When this happens, Bloom will import the image, but the copyright and license information will not be imported.  
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Note: some images have the copyright and license locked so that they cannot be changed: this topic is not about those images.
 

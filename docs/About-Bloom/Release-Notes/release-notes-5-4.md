@@ -173,7 +173,7 @@ Bloom can now create ePUBs in “Fixed” mode which asks ePUB players to preser
 With this improvement, you can now publish overlay (comic) books as ePUBs.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Note that if you make a Talking Book out of an Overlay (comic) book, ePUB readers will read bubbles in the order you created them. That won’t always be the correct order! We have an idea of how to improve things for Bloom 5.5.
 

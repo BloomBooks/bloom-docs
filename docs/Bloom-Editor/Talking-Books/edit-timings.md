@@ -7,7 +7,7 @@ keywords: [Aeneas, Talking Book Tool]
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 The following is **not** recommended. Future versions of Bloom may remove this option altogether. 
 
@@ -84,7 +84,7 @@ This file can be edited directly, but doing this work in Audacity is often much 
 ## Using Audacity {/* #953d7e13c9ae4a078c35abbdb1f72bd5 */}
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This section assumes you already have a good grasp of using the program Audacity.
 
@@ -97,7 +97,7 @@ This section assumes you already have a good grasp of using the program Audacity
 3. Close Notepad.
 4. Listen to the recording in Audacity and adjust the audio timings by sliding the start and end points of each label to the right or the left as necessary.
 
-	:::warning[caution]
+	:::warning[Caution]
 	
 	Hint: select the _circle_ shown below to move _both_ start and end points at the same time. 
 	

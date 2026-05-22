@@ -6,7 +6,7 @@ slug: /repair-lang-code
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 These notes outline the process for correcting a book that has been uploaded to the Bloom Library with the incorrect language code. 
 
@@ -28,7 +28,7 @@ For example, a book in Palaung, Rumai (code “rbb”), is uploaded to Bloom Lib
 The following procedure will correct the book's language code.
 
 
-## Step 1: Download the Book for direct editing {/* #be5792fd22eb41318b4fff02992db3b7 */}
+## Step 1: Download the Book for direct editing  {/* #be5792fd22eb41318b4fff02992db3b7 */}
 
 
 When you sign in to Bloom Library with an account authorized to directly edit a book, Bloom Library will grant you access to directly edit the book.
@@ -114,7 +114,7 @@ You need to re-tag this empty column to match the original _incorrect_ language 
 ![](./repair-lang-code.923c4157-a816-4a5e-8538-75f4a6ba71d6.png)
 
 
-:::🚧
+:::note[🚧]
 
 Deleting this column will not do the trick!
 
@@ -147,7 +147,7 @@ It’s hard to predict what you’ll find here, but generally speaking, the cred
 Import the spreadsheet back into the same book to update it. 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Note: a backup of the original book will be placed in: 
 `C:\Users\USER NAME\AppData\Local\Temp\bloom pre-import backups`

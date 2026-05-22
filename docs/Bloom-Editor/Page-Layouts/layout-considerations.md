@@ -208,7 +208,7 @@ Of course, this is not an either-or choice, you can also have separate text boxe
 ![](./layout-considerations.12456aec-42c8-4886-8856-158d2cfb67a0.png)
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Note: If your intended readership need to reader your books in ePUB format, be aware that some ePUB readers do not handle Overlays. See [Limitations of ePUB Readers](/ePUB-notes). 
 

@@ -62,7 +62,7 @@ If you need to make new collections, you will have to use “[Option 3](/windows
 ## Option 3: Tell Windows to allow Bloom (not recommended) {/* #753bae5344764a5eb719cb97c2fbaea6 */}
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This approach is not practical because you will need to do it each time Bloom updates itself. It may not be clear to you that this happened and you may not remember having read this notice. So then you will suddenly get hard-to-understand error messages and be stuck.
 

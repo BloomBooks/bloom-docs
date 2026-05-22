@@ -49,19 +49,19 @@ When you’re just making paper or PDF copies of your book, you can use whatever
 ![](./release-notes-5-3.acd2c060-1971-44a9-8082-9adfae7646f8.png)
 
 
-# Team Collection: Single Book History {/* #0aa84130ae4d49d182ff852fdd2b252a */}
+## Team Collection: Single Book History {/* #0aa84130ae4d49d182ff852fdd2b252a */}
 
 
 ![](./release-notes-5-3.dfb68ad4-8d24-4b3d-b3a0-6e9619691468.png)
 
 
-# Startup Time {/* #702f1aa557874efeb40ae7832609bfab */}
+## Startup Time {/* #702f1aa557874efeb40ae7832609bfab */}
 
 
 We made several changes to speed up Bloom’s launch time.
 
 
-# Menus {/* #0ff0ff01396a45a5824e9c5e4d51fc3b */}
+## Menus {/* #0ff0ff01396a45a5824e9c5e4d51fc3b */}
 
 
 In the Collection dropdown menu, we 
@@ -84,7 +84,7 @@ Less-used commands are now under a “More” submenu. In the future, we intend 
 ![](./release-notes-5-3.09d2ce64-416a-4fe4-b198-6726f1dde7d1.png)
 
 
-# [BloomLibrary.org](http://bloomlibrary.org/) {/* #f66219e395024a2f85e67185eaae390d */}
+## [BloomLibrary.org](http://bloomlibrary.org/) {/* #f66219e395024a2f85e67185eaae390d */}
 
 
 Project cards can now have country names:
@@ -105,7 +105,7 @@ And finally, we added city and country tables:
 ![](./release-notes-5-3.2bcb2b38-59f6-47c7-bc20-8c23acc6c538.png)
 
 
-# Bloom Reader {/* #f699b055e6c44d0b818833742c6c366f */}
+## Bloom Reader {/* #f699b055e6c44d0b818833742c6c366f */}
 
 
 We have changed the name and file extension of Bloom’s digital book publishing format from `Bloom Digital / .bloomd` to `BloomPUB / .bloompub`. All readers have accepted both for some time, and now Bloom Editor and [BloomLibrary.org](http://bloomlibrary.org/) both deliver `.bloompub`. The new name is purposely parallel to the better-known `ePUB` format.

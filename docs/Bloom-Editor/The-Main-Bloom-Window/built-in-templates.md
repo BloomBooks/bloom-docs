@@ -62,7 +62,7 @@ When published to Bloom Library, Bloom will also automatically create a Device 1
 ![](./built-in-templates.2934bb19-df12-804e-b202-f97a9f42c0ca.png)
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Note: if a paper-sized book contains any Overlays, the BloomPUB will not be reformatted to Device 16x9, but will retain it’s original shape.
 
@@ -89,7 +89,7 @@ And using Bloom’s Change Layout slider, you can always design your own page:
 The eBook template makes a Device 16x9 landscape book. This format is a very popular format for organizations such as [Education for Life ](https://bloomlibrary.org/EFL-education-for-life-org)whose primary distribution strategy is digital, not print.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Bloom books made from this template are not intended for print.
 

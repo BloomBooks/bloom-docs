@@ -44,7 +44,7 @@ To access this advanced feature, open Bloom Settings, then:
 
 ## 3. Exporting a book to a Spreadsheet {/* #81e60f28cc2c4c44addb3a3153ebada8 */}
 
-1. [Right-click ](/glossary#0d0d7a4e94d9488996a19af18ce23db7)on the book you wish to export, then,
+1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7) on the book you wish to export, then,
 2. Click **More**
 3. Click **Export to Spreadsheet**…
 
@@ -59,7 +59,7 @@ After editing the spreadsheet, it can be imported back into Bloom. Typically, th
 
 You can also into a spreadsheet into a new blank book. In this case, however, the original page structure will not be maintained. 
 
-1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7)[ ](/glossary#d7c34190bf4344668b2df2b4e2b9338e)on the book you wish to import the spreadsheet into, then,
+1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7) on the book you wish to import the spreadsheet into, then,
 2. Click **More**
 3. Click **Import Content from Spreadsheet**…
 
@@ -78,7 +78,7 @@ The location of the backup is: `C:\Users\YOUR USER NAME\AppData\Local\Temp\bloom
 The exported spreadsheet is organized into rows and columns. By default, only the main translatable material (the title, and the basic text) from the book is presented, and all other material — such as Copyright and Credits — is _hidden_ from view.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 The rows and columns that are hidden from view should generally _not_ be edited directly in the spreadsheet. Instead, it is best to edit these in Bloom itself. 
 
@@ -108,7 +108,7 @@ By default, the following are hidden;
 Some teams prefer spreadsheets, rather than Bloom itself, to do the final editing of their books.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 If you have already recorded audio for a Talking Book, be careful editing text (whether in Bloom or in a spreadsheet).
 
@@ -138,7 +138,7 @@ Sometimes, a user makes a book and only later discovers they have used the wrong
 This can be a fairly technical procedure. In the following steps, we will use a concrete example of changing a book whose contents are _written_ in German `[de]`, but are mistakenly _tagged_ as English `[en]`.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 The procedure below will _overwrite_ your existing book. You should back up your original collection as a safeguard before doing this. 
 
@@ -166,7 +166,7 @@ If your original book was made from the Basic Book template and you want to tran
 4. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7) on this page’s thumbnail, and choose **Duplicate Page Many Times** so that this blank comic book has the same number of pages as the original book.
 5. Import the spreadsheet into this blank comic book.
 
-:::warning[caution]
+:::warning[Caution]
 
 Limitations: this method works if the original book has one image and one text box per page. 
 

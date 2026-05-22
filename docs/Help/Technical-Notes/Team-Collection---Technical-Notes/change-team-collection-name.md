@@ -22,7 +22,7 @@ When you [create a Team Collection](/team-collections-getting-started#6035d8998d
 
 1. The Team Collection Administrator “retires” the Team Collections, following the instructions in [Retire a Team Collection](/team-collections-advanced-topics#3a6243f616134809b5b9c06e5748094f)
 
-	:::warning[caution]
+	:::warning[Caution]
 	
 	Note that this requires that all books be checked in.
 	
@@ -42,7 +42,7 @@ When you [create a Team Collection](/team-collections-getting-started#6035d8998d
 	3. The “shadow folder” name — this will usually be the same as your Team Collection name plus  `- TC` (for example: change **`C:\Users\<your username>\Dropbox\OLD_TC_NAME - TC`** to **`NEW_TC_NAME - TC`**).
 	4. The last one is the most difficult: you must change the name of the **`.bloomCollection`** file _in the compressed files inside the shadow folder._ In our example, this would mean opening the **`C:\Users\<your username>\Dropbox\NEW_TC_NAME - TC\Other\Other Collection Files.zip`** file (remember, we have already changed the shadow folder name) and changing the filename of the compressed **`OLD_TC_NAME.bloomCollection`** to **`NEW_TC_NAME.bloomCollection`**.
 
-		:::warning[caution]
+		:::warning[Caution]
 		
 		WARNING: Use a “full featured” zip file editor such as **7-Zip** ([https://www.7-zip.org/](https://www.7-zip.org/)) to change the filename inside the compressed zip file. **It is not recommended to uncompress the zip file.** 
 		

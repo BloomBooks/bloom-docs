@@ -88,7 +88,7 @@ If you are in Edit or Publish mode, first click on the Collections tab,
 Bloom will show you a long list of languages. 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Remember: this will affect ALL the books in the current Collection!
 
@@ -130,7 +130,7 @@ Now you can choose which languages from your Collection's list of languages to i
 1. If you are not already in Edit mode, **click on the Edit tab in the top tool bar to edit your book.**
 2. **Click on** **`One Language`** **in the toolbar.**
 
-	:::✅
+	:::note[✅]
 	
 	If there are already two or three languages selected, the tool bar item will say “Two Languages” or “Three Languages”.
 	
@@ -143,7 +143,7 @@ Now you can choose which languages from your Collection's list of languages to i
 ![](./multilingual-books.119c1060-e852-4f1c-930f-b54fc6d0ec4d.png)
 
 
-:::✅
+:::note[✅]
 
 If a language is already selected and you want to remove it from your book, you can click its item in the list to de-select it. You can even remove “Language 1”, and show only Language 2 or Language 3 in your book! 
 
@@ -160,7 +160,7 @@ Now your book displays two languages.
 
 
 
-:::✅
+:::note[✅]
 
 You can even choose all three languages! 
 

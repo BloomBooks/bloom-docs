@@ -60,7 +60,7 @@ keywords: [Release Notes]
 ![](./release-notes-5-6.07c1ee1a-0149-41d7-9b21-557d13064f66.png)
 
 
-## Team Collections {/* #1ffc2657146a4019ac6a17bc5fefe2c7 */}
+## Team Collections  {/* #1ffc2657146a4019ac6a17bc5fefe2c7 */}
 
 
 <div class='notion-row'>

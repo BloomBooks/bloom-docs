@@ -16,7 +16,7 @@ There’s a 3-minute training video about creating a Bloom collection:
 
 
 
-## What is a Bloom Collection? {/* #90e1bad894004b8ba6f0fd8452b1e6ef */}
+## What is a Bloom Collection?  {/* #90e1bad894004b8ba6f0fd8452b1e6ef */}
 
 
 In Bloom, every book is part of a **Collection**. A collection is a set of books that share certain characteristics. All the books in a collection have the same settings for their languages and book design. You may have a collection of English books, or French books, or books in some other language. 

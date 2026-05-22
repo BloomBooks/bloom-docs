@@ -6,7 +6,7 @@ slug: /glossary
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This page is a work in progress.
 
@@ -72,7 +72,7 @@ A **Decodable Reader** is a special kind of leveled reader. A **Decodable Read
 A **Leveled Reader** is a book written specifically for a student at a certain stage of reading development — for example, beginner, developing, and advanced levels. Several factors determine whether a book is appropriate for a given level.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Creating a set of leveling criteria is usually done by someone with special skills in literacy education. If you do not have a set of specially constructed leveling criteria for your language, you can try the default levels that come with Bloom. 
 

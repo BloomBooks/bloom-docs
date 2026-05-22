@@ -6,7 +6,7 @@ slug: /decodable-and-leveled-readers-for-authors
 
 
 
-# Decodable and Leveled Readers for Authors {/* #3564bb19df12801d855ff58ac5af1c94 */}
+# Decodable and Leveled Readers for Authors  {/* #3564bb19df12801d855ff58ac5af1c94 */}
 
 
 ## Intended audience {/* #33c4bb19df12800ebcbfdbc957fb5655 */}

@@ -122,7 +122,7 @@ If Bloom does not install properly, try these steps:
 1. Temporarily disable your computer's anti-virus software.
 2. Try to install Bloom again. It will probably install correctly this time.
 
-	:::warning[caution]
+	:::warning[Caution]
 	
 	Be sure to re-enable the anti-virus software after you have installed Bloom!
 	

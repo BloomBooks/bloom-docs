@@ -6,7 +6,7 @@ slug: /create-multiple-bloompubs
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This material is for Bloom clients holding a Bloom Enterprise subscription.
 

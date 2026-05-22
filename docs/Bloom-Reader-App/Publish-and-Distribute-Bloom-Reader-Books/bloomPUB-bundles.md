@@ -22,7 +22,7 @@ When a person opens a BloomPUB Bundle on an Android device with Bloom Reader ins
 The normal way to make a BloomPUB bundle is to use the [Make All BloomPUBs](/create-multiple-bloompubs#21e4bb19df12800b906dc247f015b22c) feature in Bloom’s desktop editor.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 The Samsung File Manager does not handle `.bloombundle` (or `.bloomPUB`) files. 
 

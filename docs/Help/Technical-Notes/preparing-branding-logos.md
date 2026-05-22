@@ -33,7 +33,7 @@ Using the logo as received can lead to one of two outcomes:
 
 1. **Poor Impression**: The book may appear unprofessional, which could reflect poorly on Bloom. Those who favor expensive, complex design tools may perceive this as a limitation of Bloom, potentially reinforcing biases against using it.
 
-:::warning[caution]
+:::warning[Caution]
 
 Distorted, unattractive logos can work against our mission of democratizing the production of simple books. 
 
@@ -52,7 +52,7 @@ In an ideal scenario, one would obtain the original artist's files (.EPS, .AI) o
 If the original file includes a font, the text should be converted to outlines to ensure proper rendering across different systems.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 If you have the font(s) used by a logo installed on your computer, and SVG that has not been converted to outlines will still look right. But it will look wrong when the book is viewed on another device.
 

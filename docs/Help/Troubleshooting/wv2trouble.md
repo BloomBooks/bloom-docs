@@ -88,7 +88,7 @@ If Edge’s version is too low, update it.
 Now you are ready to tell Bloom to use Edge directly.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 The following has only been tested successfully with Windows 11. For other versions, there is a more complicated approach that we can walk you through, if necessary.
 

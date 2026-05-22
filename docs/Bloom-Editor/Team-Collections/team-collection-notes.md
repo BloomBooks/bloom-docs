@@ -6,7 +6,7 @@ slug: /team-collection-notes
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 The following are known problems and limitations of this feature.
 

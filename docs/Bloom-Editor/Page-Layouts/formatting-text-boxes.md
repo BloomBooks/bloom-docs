@@ -50,7 +50,7 @@ Every text box in Bloom is labeled as belonging to a certain language. When you 
 When you are making books in Bloom, it is _very_ important that these language tags accurately correspond to the actual language written within each text box.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 **Make sure the text you type into a text box belongs to the language of the text box!** 
 If you are simply printing your book, having inaccurate language tagging will not negatively affect you or anyone else. But if you want to share your book through the [Bloom Library](https://bloomlibrary.org/) 📕, accurate language tagging is crucial so that others will be able to find your book in the correct language category.

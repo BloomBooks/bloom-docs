@@ -123,13 +123,13 @@ Tick the **Team Collections** box ❹.
 ![](./team-collections-getting-started.e9b0c7a4-d685-463b-9b7b-1d1be4600d9b.png)
 
 
-### 2.4 Create the Team Collection {/* #4e59155062ed4f5ebde71045b8ed20c8 */}
+### 2.4 Create the Team Collection  {/* #4e59155062ed4f5ebde71045b8ed20c8 */}
 
 
 After Bloom restarts, return to the Collection Settings. This time, you will see a new tab for **Team Collections**. When you activate it, you will see a warning message:
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This is an **experimental** feature. Please contact us at [experimental@bloomlibrary.org](mailto:experimental@bloomlibrary.org) so that we can talk over your needs and make sure that this feature is ready for you.
 
@@ -159,7 +159,7 @@ The **shadow collection folder** is a special folder of compressed files stored 
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Make sure that the folder you choose as your shadow folder (the “LAN or Dropbox Folder”) is NOT one of the following: 
 - a folder that is already a shadow folder (i.e., DON’T choose a folder that contains a `.JoinBloomTC` file)
@@ -245,7 +245,7 @@ To join a Team Collection, other team members do the following:
 3. Locate the shadow collection folder in the Windows File Explorer and open it.
 4. Locate and double-click the `Join this Team Collection.JoinBloomTC` file **(13)**.
 
-:::warning[caution]
+:::warning[Caution]
 
 It is essential to double-click `Join this Team Collection.JoinBloomTC` **in Windows File Explorer**, not in the Dropbox interface in a web browser. 
 
@@ -315,7 +315,7 @@ After Bloom has copied all the files into a working collection, Bloom will resta
 ![](./team-collections-getting-started.bd72383d-2e14-4eb5-b878-bacfffe2b56e.png)
 
 
-## What Next? {/* #c33b6d8a90f64a82aa6a83911a6d4e10 */}
+## What Next?  {/* #c33b6d8a90f64a82aa6a83911a6d4e10 */}
 
 
 Working with a Team Collection is like working with a regular Bloom Collection, but you need to check books out in order to edit them. When you’re finished making edits, check them in again so that your teammates can work on them. For more details, see [Working with Team Collections](/working-with-team-collections).

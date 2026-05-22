@@ -6,7 +6,7 @@ slug: /change-dropbox-tier
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Changing your Dropbox subscription tier or your Dropbox account can cause havoc for a Bloom Team Collection.
 

@@ -80,7 +80,7 @@ You may be in a setting where other users can connect to a temporary wi-fi netwo
 
 	1. Important Note:
 
-		:::warning[caution]
+		:::warning[Caution]
 		
 		If your computer’s firewall software prevents you from sharing by Wi-Fi, see [Share a BloomPUB Over Wi-Fi (Firewall Permissions)](/bloom-firewall).
 		
@@ -106,7 +106,7 @@ You can connect an Android device to your computer with a USB cable and save you
 
 	1. Important notes:
 
-		:::warning[caution]
+		:::warning[Caution]
 		
 		The Android device must have the [Bloom Reader App](https://bloomlibrary.org/page/resources/bloom-reader) installed.
 		Some Android phones do not allow file transfer with a USB cable. If you are unable to transfer via USB, check the drivers on your computer, the settings on your phone, or try to transfer the BloomPUB file another way.

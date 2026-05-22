@@ -145,7 +145,7 @@ Here’s an example:
 Once the phone is successfully connected, using Windows File Explorer, create a new folder called “Bloom” on the root of the Internal storage. 
 
 
-### 2.3. **Copy over the BloomPUBs** {/* #ce36cbefc79f4c5ba8e1d8fbf71b8816 */}
+### 2.3. **Copy over the BloomPUBs**  {/* #ce36cbefc79f4c5ba8e1d8fbf71b8816 */}
 
 
 Drag and drop all the desired books to the newly created Bloom folder.
@@ -216,7 +216,7 @@ The phone is now ready for distribution.
 ## 3. **Advanced Options** {/* #ab53b94bfff44b448917d311bde496a0 */}
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This section described advanced options and is _not_ recommended for most users.
 

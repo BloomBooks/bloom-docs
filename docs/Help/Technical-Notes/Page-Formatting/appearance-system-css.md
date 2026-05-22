@@ -17,7 +17,7 @@ Please see this page for a more introductory explanation of the Bloom Appearance
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 This is a _very_ technical note, intended only for Publishers with technical staff.
 
@@ -153,7 +153,7 @@ We are trying to standardize on `mm` as the unit for measurements that should no
 As before, it is still possible to write arbitrary CSS rules based on what you find in Bloom HTML. However, we really need to move away from that practice. Instead:
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Before writing CSS rules that use anything other than the official Appearance properties, please consider asking us to add an Appearance property for what you are trying to do. This will lead to a more sustainable Bloom ecosystem.
 
@@ -162,7 +162,7 @@ Before writing CSS rules that use anything other than the official Appearance pr
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Problems with unconstrained “custom CSS”
 For a long time, highly technical Bloom users have been able to go “under the hood” to make tweaks to page layout and styling using the Web’s “Cascading Style Sheets” (CSS) language. This system is useful as a last resort, but it has several problems, including:

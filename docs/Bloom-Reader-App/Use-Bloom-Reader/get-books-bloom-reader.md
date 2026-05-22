@@ -71,7 +71,7 @@ Options 2 and 3 from Bloom Editor work in tandem with the corresponding options 
 	2. The device is connected to the computer with a USB cable.
 	3. The device is allowing **MTP file transfer**.
 
-	:::warning[caution]
+	:::warning[Caution]
 	
 	**Note:** Some Android phones do not allow file transfer with a USB cable.
 	If you are unable to transfer via USB, check the drivers on your computer, the settings on your phone, or try to transfer the BloomPUB file another way.

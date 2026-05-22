@@ -30,7 +30,7 @@ Is there a Talking Book in your language on Bloom Library? Why not check out [Ta
 ## Why Talking Books? {/* #29a4bb19df12809c9d8dc4c2e701ccbd */}
 
 
-:::warning[caution]
+:::warning[Caution]
 
 To be developed.
 

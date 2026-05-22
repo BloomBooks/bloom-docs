@@ -1,6 +1,10 @@
 # Delay adoption of newly published versions by 7 days (10080 minutes).
 minimumReleaseAge: 10080
 
+# Exclude docu-notion from the minimum release age requirement since we control it
+minimumReleaseAgeExclude:
+  - "@sillsdev/docu-notion"
+
 # Reject non-registry transitive dependency sources such as git/file/url deps.
 blockExoticSubdeps: true
 
@@ -14,7 +18,7 @@ allowBuilds:
   # core-js-pure postinstall is not required for this docs site and should stay blocked.
   core-js-pure: false
   # puppeteer downloads the browser binary needed for PDF generation.
-  puppeteer@22.15.0: true
+  puppeteer@25.0.2: true
   # sharp installs the native image-processing binary used by Docusaurus image tooling.
   sharp@0.32.6: true
 

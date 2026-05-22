@@ -19,7 +19,7 @@ Some languages, like Thai, use spaces to mark sentence boundaries. To let Bloomâ
 ![](./sentence-ending-punctuation.2994bb19-df12-8031-b4c8-e03fb5a8b1ff.png)
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Going forward, Bloomâ€™s speech Timings analyzer will now recognize the new sentence-breaking character. 
 

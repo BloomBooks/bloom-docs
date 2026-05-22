@@ -67,7 +67,7 @@ The default padding setting from the Default Theme is “1em”, which means it 
 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 If you have a custom page layout where Bloom isn’t getting the padding right, you can use this control to turn padding off by setting it to “0mm”.
 
@@ -246,7 +246,7 @@ You can control the size of the padding in the Text Padding control:
 ![](./release-notes-6-0.46c1699d-2d2a-4771-ae06-5c88abffb5c3.png)
 
 
-:::warning[caution]
+:::warning[Caution]
 
 While Bloom tries to be “smart” about applying padding, it’s actually quite fragile. It often fails to apply padding to text boxes that have been added via “Change Layout”. If this happens to you, you have a couple options:
 1. Turn Text Padding off by opening the Book Settings and set “Text Padding” to “0mm”.
@@ -424,7 +424,7 @@ When you re-upload a book, Bloom checks with you to make sure it does what you i
 BloomPUB viewer can now open .bloomSource files (used for archiving) and .bloom files (used for Team Collections).  You should not distribute those for viewing, but sometimes it’s helpful to quickly look inside one of them.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 BloomPUB Viewer versions 1.0.7 and 1.0.8 had a bug that prevented them from updating to new versions. Please install the latest from [bloomlibrary.org/bloompub-viewer](https://bloomlibrary.org/bloompub-viewer).
 

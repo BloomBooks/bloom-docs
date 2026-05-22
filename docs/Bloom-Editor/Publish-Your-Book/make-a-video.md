@@ -18,7 +18,7 @@ This is a Bloom subscription feature. For more details, or to subscribe, see [Ab
 Creating an audio or video version of your book can make it more accessible and engaging for a broader audience. Whether you’re adding narration, background music, or sign language, these features help bring your stories to life. This is especially helpful for those who prefer listening or watching over reading, making your book versatile and inclusive.
 
 
-:::warning[caution]
+:::warning[Caution]
 
 Videos created from Bloom books have certain limitations. For more info, see: [Limitations of “Publish as Audio or Video”](/publish-audio-video-notes) 
 

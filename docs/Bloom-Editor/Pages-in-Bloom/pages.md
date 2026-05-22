@@ -268,7 +268,7 @@ Alternately, you can use the page’s context menu:
 Sometimes you may want to choose a different layout for your page. Maybe you chose a layout with text above a picture, but now you want the text to appear below the picture. 
 
 
-:::warning[caution]
+:::warning[Caution]
 
 **Changing the layout of a page can cause content to be lost.** It's best to try this first on a copy of the page you want to change.
 
