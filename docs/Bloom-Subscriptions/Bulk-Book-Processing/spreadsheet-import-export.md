@@ -44,7 +44,7 @@ To access this advanced feature, open Bloom Settings, then:
 
 ## 3. Exporting a book to a Spreadsheet {#81e60f28cc2c4c44addb3a3153ebada8}
 
-1. [Right-click ](/glossary#0d0d7a4e94d9488996a19af18ce23db7)on the book you wish to export, then,
+1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7) on the book you wish to export, then,
 2. Click **More**
 3. Click **Export to Spreadsheet**…
 
@@ -59,7 +59,7 @@ After editing the spreadsheet, it can be imported back into Bloom. Typically, th
 
 You can also into a spreadsheet into a new blank book. In this case, however, the original page structure will not be maintained. 
 
-1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7)[ ](/glossary#d7c34190bf4344668b2df2b4e2b9338e)on the book you wish to import the spreadsheet into, then,
+1. [Right-click](/glossary#0d0d7a4e94d9488996a19af18ce23db7) on the book you wish to import the spreadsheet into, then,
 2. Click **More**
 3. Click **Import Content from Spreadsheet**…
 
