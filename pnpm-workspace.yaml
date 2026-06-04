@@ -1,6 +1,10 @@
 # Delay adoption of newly published versions by 7 days (10080 minutes).
 minimumReleaseAge: 10080
 
+# Exclude docu-notion from the minimum release age requirement since we control it
+minimumReleaseAgeExclude:
+  - "@sillsdev/docu-notion"
+
 # Reject non-registry transitive dependency sources such as git/file/url deps.
 blockExoticSubdeps: true
 

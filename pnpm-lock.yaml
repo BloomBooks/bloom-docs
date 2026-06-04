@@ -64,8 +64,8 @@ importers:
         specifier: 2.4.3
         version: 2.4.3(react-dom@17.0.2(react@17.0.2))(react@17.0.2)
       '@sillsdev/docu-notion':
-        specifier: 0.17.0-alpha.4
-        version: 0.17.0-alpha.4(@types/node@25.6.0)(typescript@4.9.5)
+        specifier: 1.0.0-alpha.2
+        version: 1.0.0-alpha.2(@types/node@25.6.0)(typescript@4.9.5)
       '@tsconfig/docusaurus':
         specifier: 1.0.7
         version: 1.0.7
@@ -1298,8 +1298,8 @@ packages:
   '@sideway/pinpoint@2.0.0':
     resolution: {integrity: sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==}
 
-  '@sillsdev/docu-notion@0.17.0-alpha.4':
-    resolution: {integrity: sha512-MXxabZEv5mj6DF6jZ1cZ5GmbdHSJfq55698zglZ5FkSlflnOAGONhWaQx9Olz9qru7aR66Td3kaVhXQGhuS9aw==}
+  '@sillsdev/docu-notion@1.0.0-alpha.2':
+    resolution: {integrity: sha512-eenWMwLxRbn2GO1QL/RbdyB3ViPN3/BoUngI5YOh5THLS6+QdBf+6mTEFoFvSGoQeJubOcDimecJscA1UFMh3A==}
     hasBin: true
 
   '@sinclair/typebox@0.27.8':
@@ -8982,7 +8982,7 @@ snapshots:
 
   '@sideway/pinpoint@2.0.0': {}
 
-  '@sillsdev/docu-notion@0.17.0-alpha.4(@types/node@25.6.0)(typescript@4.9.5)':
+  '@sillsdev/docu-notion@1.0.0-alpha.2(@types/node@25.6.0)(typescript@4.9.5)':
     dependencies:
       '@notionhq/client': 5.18.0
       chalk: 4.1.2
