@@ -13,7 +13,7 @@ import video4 from "./Sign_Language_Video_With_Audio_SD.mp4";
 There are multiple ways to use sign language videos in Bloom books.
 
 
-## Video Only {#9cde15a15933402eb9a2b4cf13f2d1a1}
+## Video Only {/* #9cde15a15933402eb9a2b4cf13f2d1a1 */}
 
 
 Some pages can have just a video:
@@ -22,7 +22,7 @@ Some pages can have just a video:
 <ReactPlayer controls url={video1} />
 
 
-## Sign Language Talking Books {#e5a8427d4fac4ab7a416614664d88fc2}
+## Sign Language Talking Books {/* #e5a8427d4fac4ab7a416614664d88fc2 */}
 
 
 You can also make **Sign Language Talking Books** that can be enjoyed by both hearing and deaf members of a family.
@@ -40,7 +40,7 @@ Or more complex stories:
 <ReactPlayer controls url={video3} />
 
 
-## Video with Audio {#1e6308c7e45b4c4a9774c8fca0848589}
+## Video with Audio {/* #1e6308c7e45b4c4a9774c8fca0848589 */}
 
 
 Videos can also **include audio**, with or without written text:
@@ -49,10 +49,10 @@ Videos can also **include audio**, with or without written text:
 <ReactPlayer controls url={video4} />
 
 
-## Transparent Video {#1b48fc0a5a5e4944b0904ce3be0c8f87}
+## Transparent Video {/* #1b48fc0a5a5e4944b0904ce3be0c8f87 */}
 
 
-:::caution
+:::warning[Caution]
 
 Not yet available.
 
@@ -61,7 +61,7 @@ Not yet available.
 
 
 
-## Examples from Bloom Library {#6779ea95efb64815b96f940f3f574c35}
+## Examples from Bloom Library {/* #6779ea95efb64815b96f940f3f574c35 */}
 
 
 To see more examples from the Bloom Library, visit the [Sign Language Books](https://bloomlibrary.org/sign-language) page. You can also download these books to translate into your own language!

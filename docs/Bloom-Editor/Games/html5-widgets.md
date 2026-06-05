@@ -13,7 +13,7 @@ Bloom pages can embed little custom HTML5 activities called “widgets”. When 
 Many of these widgets already exist on the web, because they work with Apple's iBooks and other software. You can also make your own using programs like [Active Presenter](https://atomisystems.com/activepresenter/). Most widgets don’t have any custom programming, but if software like Active Presenter is not sufficient for what you need, you can hire a web developer to do something even more advanced.
 
 
-## Format {#7bc52563c94c439f816f6827ffc737f2}
+## Format {/* #7bc52563c94c439f816f6827ffc737f2 */}
 
 
 Bloom can import any of the following widget formats
@@ -21,7 +21,7 @@ Bloom can import any of the following widget formats
 - a zipped set of files ending in ".wdgt". which contains a file named "index.html", or, if the .wdgt file is not zipped, you can import the index.html file.
 - the main .html file from a saved Active Presenter output.
 
-## Add a Widget to Bloom {#cb88f96b162543898f468ed2a9082469}
+## Add a Widget to Bloom {/* #cb88f96b162543898f468ed2a9082469 */}
 
 
 Steps to add a widget:
@@ -49,7 +49,7 @@ Note: A “`wdgt` file is just a zip file containing all the files of the widget
 
 
 
-## Captive Widgets {#9521203ecfde4223b62f3ee3ce2f881f}
+## Captive Widgets {/* #9521203ecfde4223b62f3ee3ce2f881f */}
 
 
 Normally, when Bloom Player shows a widget, it also shows page navigation buttons:
@@ -61,7 +61,7 @@ Normally, when Bloom Player shows a widget, it also shows page navigation button
 If you want to hide these navigation buttons, follow these steps:
 
 
-### 1: Use the Special Page Template {#ea1bb4f65c4e4fef9d403e028de3a079}
+### 1: Use the Special Page Template {/* #ea1bb4f65c4e4fef9d403e028de3a079 */}
 
 
 In Bloom (version 5.1 or later) when you choose `Add Page`, you should see a `Captive Widget Page`:
@@ -73,7 +73,7 @@ In Bloom (version 5.1 or later) when you choose `Add Page`, you should see a `Ca
 Bloom Player will not give the user any way to navigate away from this page except by leaving the book entirely. It will be up to your widget to tell Bloom Player when you want the user to leave this page and go forward or backward in the book.
 
 
-### 2: Send Navigation Messages {#2f6c61a6febd4a128e9225ba30fd2a33}
+### 2: Send Navigation Messages {/* #2f6c61a6febd4a128e9225ba30fd2a33 */}
 
 
 To tell Bloom Player to navigate, you will need to add some **JavaScript** to a **button**:

@@ -15,7 +15,7 @@ Page is a Draft version.
 
 
 
-# Parts of the Publish Tab {#d802c9601c74416c9653c0b30179881d}
+# Parts of the Publish Tab {/* #d802c9601c74416c9653c0b30179881d */}
 
 
 When you open up Publish, you will see this window with 5 different ways to publish your book:

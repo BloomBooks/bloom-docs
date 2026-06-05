@@ -21,7 +21,7 @@ For books which do not require edge-to-edge images, there is little need for ful
 
 
 
-## Paper Comic Book {#30b4bb19df1280e1a0b5e67182d0d0ef}
+## Paper Comic Book {/* #30b4bb19df1280e1a0b5e67182d0d0ef */}
 
 
 In Bloom 6.3, there is only one book template which is designed for full-bleed printing for the entire book (front cover and interior pages). This is the **Paper Comic Book** template. 
@@ -36,7 +36,7 @@ This book template provides an automatic full-bleed front cover, and it provides
 ![](./full-bleed.30b4bb19-df12-8052-9a44-f1ab443e2b4a.png)
 
 
-## Other Paper Sizes with full-bleed {#30b4bb19df1280c5ac22d8b2d766f926}
+## Other Paper Sizes with full-bleed {/* #30b4bb19df1280c5ac22d8b2d766f926 */}
 
 
 Bloom allows for full-bleed printing for a number of other paper sizes, such as A5. 
@@ -48,7 +48,7 @@ However, Bloom currently does not provide an interior page template that support
 However, Bloom does provide a means to have a full-bleed image for the front cover. For further detail, see Book Settings. 
 
 
-:::caution
+:::warning[Caution]
 
 In a future version of Bloom, we plan to provide page templates for edge-to-edge interior pages for non-comic print page sizes.
 

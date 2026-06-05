@@ -24,7 +24,7 @@ Bloom is more than just a software tool; it's a powerful catalyst for change in
 [Specialized Literacy Tools](/why-use-bloom#d6bd0bf437ae47cf9cef52b7e262e8be)
 
 
-## **Empowering Local Communities** {#dd89410298f44cf6861b1d484360c821}
+## **Empowering Local Communities** {/* #dd89410298f44cf6861b1d484360c821 */}
 
 
 ![Photo by Wycliffe Global Alliance CC:BYNCND](./why-use-bloom.2154bb19-df12-80cf-83e7-c475bdbd3b8e.jpg)
@@ -33,7 +33,7 @@ Bloom is more than just a software tool; it's a powerful catalyst for change in
 Bloom empowers communities by providing the means to **create culturally relevant literature**. It bridges the gap between oral traditions and written forms, ensuring that the stories and knowledge of generations are preserved and passed down. Currently being **used in over 200 countries** and territories, Bloom facilitates book production and publishing that are often self-sustaining.
 
 
-## **Offline. Accessible. Inclusive.** {#e508676fa39d405f86ff812d3444f401}
+## **Offline. Accessible. Inclusive.** {/* #e508676fa39d405f86ff812d3444f401 */}
 
 
 ![Photo by Wycliffe Global Alliance CC:BYNCND](./why-use-bloom.2154bb19-df12-8035-98dc-e5b0b48fd702.jpg)
@@ -42,7 +42,7 @@ Bloom empowers communities by providing the means to **create culturally releva
 Optimized for offline use in remote areas, Bloom makes it possible to create and distribute both digital and printed materials without the need for constant internet access. This is crucial for regions where connectivity is limited or unreliable. **Bloom supports over 830 languages, including Sign Languages**. This inclusivity ensures that everyone, including the Deaf community, has access to literature in their own language.
 
 
-## **Specialized Literacy Tools** {#d6bd0bf437ae47cf9cef52b7e262e8be}
+## **Specialized Literacy Tools** {/* #d6bd0bf437ae47cf9cef52b7e262e8be */}
 
 
 ![Photo by SIL LEAD](./why-use-bloom.2154bb19-df12-80f5-9697-f90ea277487e.jpg)

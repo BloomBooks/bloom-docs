@@ -23,5 +23,5 @@ Fortunately, this is an easy problem to solve:
 ![](./rtl-trouble.b46e6550-7213-4ad2-bd33-78ebaad21c3e.png)
 
 
-##  {#6029513e45f546bf857b20961047cb36}
+##  {/* #6029513e45f546bf857b20961047cb36 */}
 

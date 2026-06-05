@@ -18,13 +18,13 @@ This page talks about formatting strings of text. For help on formatting text st
 
 
 
-## Formatting selected text {#d54ed7fc181a4263bcc6de863db82652}
+## Formatting selected text {/* #d54ed7fc181a4263bcc6de863db82652 */}
 
 
 Bloom lets you easily make a character, word, or phrase **bold**, _italic_, <u>underlined</u>, or superscript. You can also set the color of a portion of text. 
 
 
-:::caution
+:::warning[Caution]
 
 **Do not use this feature to format** <u>**all**</u> **the text in a textbox!** If you need to format <u>**all**</u> of the text inside a text box, you should do this by selecting a different text style, or by changing the style characteristics. See [Format Text Styles](/formatting-text-styles).
 
@@ -42,7 +42,7 @@ Bloom lets you easily make a character, word, or phrase **bold**, _italic_, <u>u
 
 3. Click the **button** for the **formatting option** you want.
 
-## The formatting buttons {#13abb4a4972b47f0823d22a9e93ab57d}
+## The formatting buttons {/* #13abb4a4972b47f0823d22a9e93ab57d */}
 
 
 The first three buttons are typical character formatting buttons. These buttons also have keyboard shortcuts.

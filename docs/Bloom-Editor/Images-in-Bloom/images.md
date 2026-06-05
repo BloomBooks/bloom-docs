@@ -6,7 +6,7 @@ slug: /images
 
 
 
-# Images in Bloom {#4b8dea840d41407880906eb42f903973}
+# Images in Bloom {/* #4b8dea840d41407880906eb42f903973 */}
 
 
 ![From “Chameleon Races Rabbit”.        Copyright 2022, Little Zebra Books.](./images.29b4bb19-df12-8054-b413-ff1c84cc709a.png)

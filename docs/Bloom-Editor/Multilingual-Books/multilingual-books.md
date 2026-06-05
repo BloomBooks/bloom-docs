@@ -6,13 +6,13 @@ slug: /multilingual-books
 
 
 
-## Bloom Books can Contain Many Languages {#52142f4b0c1843819209f8ec43b35f54}
+## Bloom Books can Contain Many Languages {/* #52142f4b0c1843819209f8ec43b35f54 */}
 
 
 Bloom makes it easy to print your book in one, two, or even three languages.
 
 
-## Kinds of Multilingual Books {#ed0db1c7ccbb43b3a442829209b39185}
+## Kinds of Multilingual Books {/* #ed0db1c7ccbb43b3a442829209b39185 */}
 
 
 :::note
@@ -24,7 +24,7 @@ Coming soon…
 
 
 
-## How Bloom Stores Text in Different Languages {#3e2d9282dc804409a4b3a54bd3d89181}
+## How Bloom Stores Text in Different Languages {/* #3e2d9282dc804409a4b3a54bd3d89181 */}
 
 
 First, we need to understand how Bloom keeps text in different languages.
@@ -60,7 +60,7 @@ Usually, you edit the text in one language at a time.  Other languages in the b
 The languages that can appear on the page (as opposed to in the pink balloons to the right of the page) are listed in the **Collection settings**. We'll take a look at those next to see how we can make two or even three languages appear on the page.
 
 
-## Set Your Collection Languages {#ebaa4254627348a7b05c6f642f5c0f6c}
+## Set Your Collection Languages {/* #ebaa4254627348a7b05c6f642f5c0f6c */}
 
 
 To change the list of languages you can see in your printed book, you need to leave the Edit tab and go to the Collections tools. 
@@ -88,7 +88,7 @@ If you are in Edit or Publish mode, first click on the Collections tab,
 Bloom will show you a long list of languages. 
 
 
-:::caution
+:::warning[Caution]
 
 Remember: this will affect ALL the books in the current Collection!
 
@@ -100,7 +100,7 @@ Remember: this will affect ALL the books in the current Collection!
 ![](./multilingual-books.91ca2b04-e57a-4253-b209-b809e5cab728.png)
 
 
-### Choose a Collection Language {#a475514cec7d46059c898497f89bbb0b}
+### Choose a Collection Language {/* #a475514cec7d46059c898497f89bbb0b */}
 
 
 When you click on a `Change` or **`Set`** language link, Bloom takes you to the same list of languages that you see when you [create a new collection](/create-a-new-collection#51ae111e027546e7b7151d05d85ccec2).  
@@ -122,7 +122,7 @@ If you make any changes to the languages in the Collection Settings, Bloom will 
 ![](./multilingual-books.e3a3c2bf-be8c-40dc-9ca6-693262f6e865.png)
 
 
-## Choose Your Publishing Languages {#c7dcbf134f37412e8435a7f0eca9cf1f}
+## Choose Your Publishing Languages {/* #c7dcbf134f37412e8435a7f0eca9cf1f */}
 
 
 Now you can choose which languages from your Collection's list of languages to include in your book. 
@@ -130,7 +130,7 @@ Now you can choose which languages from your Collection's list of languages to i
 1. If you are not already in Edit mode, **click on the Edit tab in the top tool bar to edit your book.**
 2. **Click on** **`One Language`** **in the toolbar.**
 
-	:::✅
+	:::note[✅]
 	
 	If there are already two or three languages selected, the tool bar item will say “Two Languages” or “Three Languages”.
 	
@@ -143,7 +143,7 @@ Now you can choose which languages from your Collection's list of languages to i
 ![](./multilingual-books.119c1060-e852-4f1c-930f-b54fc6d0ec4d.png)
 
 
-:::✅
+:::note[✅]
 
 If a language is already selected and you want to remove it from your book, you can click its item in the list to de-select it. You can even remove “Language 1”, and show only Language 2 or Language 3 in your book! 
 
@@ -160,7 +160,7 @@ Now your book displays two languages.
 
 
 
-:::✅
+:::note[✅]
 
 You can even choose all three languages! 
 
@@ -182,7 +182,7 @@ You can even choose all three languages!
 </div>
 
 
-## Make a Book with “Fixed” Languages {#18913e39b4d14c7b9ff60964d4243056}
+## Make a Book with “Fixed” Languages {/* #18913e39b4d14c7b9ff60964d4243056 */}
 
 
 Bloom lets you flexibly choose whether to show one, two, or three languages. The text boxes for each language are stacked on top of each other. 
@@ -206,7 +206,7 @@ Bilingual dictionaries often require a special layout where each text box has a 
 If you need to make a text box that has a fixed language, follow the directions in [Formatting Text Boxes](/formatting-text-boxes#757491e5eef849f7aa33a3e28eaa5912) to set the language of each text box as Language 1, Language 2, or Language 3. (You may also need to follow the directions in [Working with Page Layouts](/working-with-page-layouts) to adjust the layout of your page.) 
 
 
-## More About Bilingual Books {#72c1ddd76a6541f8b9713d8a58ea9077}
+## More About Bilingual Books {/* #72c1ddd76a6541f8b9713d8a58ea9077 */}
 
 
 [Monolingual, Bilingual, or Trilingual Books](/bilingual-trilingual-books) 

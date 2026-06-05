@@ -11,7 +11,7 @@ There are two reasons you may wish to share a Bloom book with a colleague:
 1. [Share for Viewing](/share-books#2694bb19df12808793f5cc4059dd76e1).
 2. [Share for Editing](/share-books#2694bb19df1280829781c2bc578a3e5c).
 
-## Share for Viewing {#2694bb19df12808793f5cc4059dd76e1}
+## Share for Viewing {/* #2694bb19df12808793f5cc4059dd76e1 */}
 
 
 Bloom provides multiple ways to share your book with others for viewing or reading purposes. 
@@ -20,7 +20,7 @@ Bloom provides multiple ways to share your book with others for viewing or readi
 See [Publishing](/publish-tab).
 
 
-## Share for Editing {#2694bb19df1280829781c2bc578a3e5c}
+## Share for Editing {/* #2694bb19df1280829781c2bc578a3e5c */}
 
 
 The primary method for collaborating with colleagues on Bloom books — i.e., sharing in the actual editing of these Bloom books — is by using Bloom’s [Team Collections](/team-collections-intro) feature. This feature requires a [Bloom Subscription](/about-bloom-subscriptions).
@@ -38,7 +38,7 @@ When sharing books outside of a Team Collection, you will need to manage book ow
 
 
 
-## What is a Bloom Book? {#2694bb19df128097aa29ed41ca0e39ce}
+## What is a Bloom Book? {/* #2694bb19df128097aa29ed41ca0e39ce */}
 
 
 A “Bloom book” is actually a collection of **many** files housed under a “book” folder. In fact, some book folders may contain hundreds of individual files. If you wish to share a particular Bloom book with another person for editing, you must copy the entire book folder and all of its contents with that person.

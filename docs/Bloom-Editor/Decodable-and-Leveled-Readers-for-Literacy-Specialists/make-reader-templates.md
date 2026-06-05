@@ -7,7 +7,7 @@ keywords: [decodable, levelled, reader]
 
 
 
-### Making Your Templates {#32e4bb19df12801a9012dc1801987e92}
+### Making Your Templates {/* #32e4bb19df12801a9012dc1801987e92 */}
 
 
 Now that you have set up the system for decodable and leveled readers for this collection, you can do one of two things. If you are working all by yourself, you can just start making books using those levels and stages. The remainder of this document, however, will assume that what you want to do is make a series of book templates that will serve as launching points for authors. You will see how to create each of these templates, and then how to package them up into a Reader Template Bloom Pack that you can give to authors.
@@ -16,7 +16,7 @@ Now that you have set up the system for decodable and leveled readers for this c
 While setting up your levels and stages in the previous section, you will have already made one or more template books. The purpose of those templates was to give you access to the reader tools so you could set things up for this collection. In the following, we are going to give you step by step instructions you can use to make many more of basically empty books, each one tied to a single decodable stage or leveled reader level, and each one with the “normal” style set to have an appropriate font size, line spacing, etc. So what happens to the ones you already made? Feel free to use those as a starting point, for example, for the first level and stage. You are also free to delete them (right click on their icon and choose **Delete Book**). Remember, all the set up you have done belongs to the Bloom Collection, so it will be there for any future reader books you make. It won’t go away just because you delete one or even all of the books in your collection.
 
 
-### Create a template of the appropriate type {#32e4bb19df1280119689ce24ba313868}
+### Create a template of the appropriate type {/* #32e4bb19df1280119689ce24ba313868 */}
 
 
 First you need to decide if you are making a decodable reader or a leveled one. Then, in the **Collections** tab, you would click the appropriate source template.
@@ -113,7 +113,7 @@ So, let’s give the template a title that will make sense to the author. For ex
 	![](./make-reader-templates.33b4bb19-df12-802d-beb6-e2cd4e78a1de.png)
 
 
-## Making a Reader Template Bloom Pack {#32e4bb19df1280adbbb8e443f4ce8e97}
+## Making a Reader Template Bloom Pack {/* #32e4bb19df1280adbbb8e443f4ce8e97 */}
 
 
 You’ve now set up your stages and levels, and you’ve made a template to go with each one. Now you’re ready to give all this good work to a colleague or two who will use it to make lots of books.

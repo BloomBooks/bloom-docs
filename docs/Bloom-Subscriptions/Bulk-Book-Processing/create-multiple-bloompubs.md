@@ -6,7 +6,7 @@ slug: /create-multiple-bloompubs
 
 
 
-:::caution
+:::warning[Caution]
 
 This material is for Bloom clients holding a Bloom Enterprise subscription.
 
@@ -15,7 +15,7 @@ This material is for Bloom clients holding a Bloom Enterprise subscription.
 
 
 
-## Bloom Reader and Bloom Library Bookshelves {#21e4bb19df12802eae35d72665201d8d}
+## Bloom Reader and Bloom Library Bookshelves {/* #21e4bb19df12802eae35d72665201d8d */}
 
 
 Bloom editor also provides a means to bulk publish BloomPUBs and prepare a special “`.bloomshelf`” file to accompany these BloomPUBs for [bulk distribution ](/BR-distribution)on Bloom Reader. The same bookshelf is used for both Bloom Library and Bloom Reader.
@@ -36,7 +36,7 @@ Bloom Reader Bookshelves provide an excellent way to organize many books on a si
 See also [How to distribute Bloom books on SD Cards or Phones](/BR-distribution).
 
 
-## Make All BloomPUBs {#21e4bb19df12800b906dc247f015b22c}
+## Make All BloomPUBs {/* #21e4bb19df12800b906dc247f015b22c */}
 
 
 Here are the **steps to bulk publish all BloomPUBs** in a single operation:
@@ -75,7 +75,7 @@ After the operation is complete, Bloom will open a **File Explorer** window and 
 Share the file(s) to a phone which has Bloom Reader installed. See [Other Sharing Methods](/get-books-bloom-reader#e35d8c2330514305aa5622eebaeb57b4) for suggestions how to share these files.
 
 
-### Make and Distribute Multiple Bookshelves {#21e4bb19df1280828bead114e8e1468b}
+### Make and Distribute Multiple Bookshelves {/* #21e4bb19df1280828bead114e8e1468b */}
 
 
 If you are preparing multiple bookshelves for distribution on an SD card, or prepaid phones:

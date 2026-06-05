@@ -9,7 +9,7 @@ slug: /motion-tool
 The Motion Tool in Bloom allows you to add simple motion to an otherwise still picture in your book. This tool enables you to create a **pan and zoom effect** from one part of the image to another. You can add motion to the first picture on each inside page of your book. This tool is particularly useful for creating engaging and dynamic content that can be viewed using the Bloom Reader app.
 
 
-## Steps to Use the Motion Tool {#9f534c83eafe4eedbbfc8dc8c6faa98b}
+## Steps to Use the Motion Tool {/* #9f534c83eafe4eedbbfc8dc8c6faa98b */}
 
 1. To show the **Motion tool**, open the book you want to work on in the Edit tab.
 2. On the far right of the Bloom window, click on the Menu button.
@@ -49,7 +49,7 @@ The Motion Tool in Bloom allows you to add simple motion to an otherwise still p
 	4. Reposition or resize the rectangles as needed.
 7. **Click another page** until all of them have motion or a cleared **Enable motion on this page** check box.
 
-### Tips for Using the Motion Tool {#b2b2cd9be37b4eb2a89613e268181632}
+### Tips for Using the Motion Tool {/* #b2b2cd9be37b4eb2a89613e268181632 */}
 
 - If you change the page size and orientation or choose a different layout after setting the rectangles, you should preview them again. Reposition or resize them if necessary.
 - You may notice odd results if only some of the sentences on a page have recorded audio or you have cleared and re-recorded the audio for one sentence in a paragraph. If you see odd results, clear and record the audio again. Then, reposition or resize the rectangles.

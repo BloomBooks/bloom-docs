@@ -6,7 +6,7 @@ slug: /totalav
 
 
 
-# Total AV {#67ded4ca342c468ab1fdfc6255e4ca88}
+# Total AV {/* #67ded4ca342c468ab1fdfc6255e4ca88 */}
 
 
 To begin, click on the **gear icon** to go to program settings:

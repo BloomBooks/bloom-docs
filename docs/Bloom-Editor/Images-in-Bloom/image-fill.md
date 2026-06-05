@@ -6,7 +6,7 @@ slug: /image-fill
 
 
 
-## Default Image Fill {#2a14bb19df12801f8b10e92df250ef45}
+## Default Image Fill {/* #2a14bb19df12801f8b10e92df250ef45 */}
 
 
 When you paste an image into an image container, the image will fill the container as much as possible, given the container's constraints.
@@ -24,7 +24,7 @@ For the tall image, notice that there is **white space** on the left and right s
 Generally, it is best to avoid white space around your images. 
 
 
-## Fit Image {#2a14bb19df128095a480e700c134a4f8}
+## Fit Image {/* #2a14bb19df128095a480e700c134a4f8 */}
 
 
 Consider the (A) and (B) versions of this page from a book called “No Pigs Allowed”:
@@ -44,7 +44,7 @@ Both of these observations demonstrate that version **B** is more visually appea
 1. Hover your mouse over the **page divider** between the image and the text box.
 2. Drag the page divider down to increase the size of the image until you see the message “Fit Image”.
 
-## Expand Image to Fill {#2a14bb19df1280469d45e37a4d0a0d84}
+## Expand Image to Fill {/* #2a14bb19df1280469d45e37a4d0a0d84 */}
 
 
 If the amount of text already fills the text box, adjusting the page division will not work because it will cause text overflow. In this situation, you may consider using the “Expand Image to File” option for the image.

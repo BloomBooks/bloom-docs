@@ -7,7 +7,7 @@ keywords: [Release Notes]
 
 
 
-## “Overlay” is now “Canvas” {#29a4bb19df128038ac80c66e228db2aa}
+## “Overlay” is now “Canvas” {/* #29a4bb19df128038ac80c66e228db2aa */}
 
 
 Subscription Tier: Pro and Above
@@ -37,7 +37,7 @@ When Bloom first allowed you to drag things like speech bubbles, the idea was to
 ![](./release-notes-6-3.3024bb19-df12-809e-8b3f-e8ac6e5b822b.png)
 
 
-## Navigation Objects {#29a4bb19df128066a642dfd2bd4c5504}
+## Navigation Objects {/* #29a4bb19df128066a642dfd2bd4c5504 */}
 
 
 Subscription Tier: Pro and Above
@@ -49,7 +49,7 @@ You can now add buttons that jump the reader to a website or different pages in 
 ![](./release-notes-6-3.2bc4bb19-df12-80af-a534-cbbddbca4dd8.png)
 
 
-### Easier Hyperlinks {#2bc4bb19df12803880abe6efb5a485c4}
+### Easier Hyperlinks {/* #2bc4bb19df12803880abe6efb5a485c4 */}
 
 
 Subscription Tier: Pro and Above
@@ -61,7 +61,7 @@ The way to set the target of a simple “inline” hyperlink has changed. Select
 ![](./release-notes-6-3.2bc4bb19-df12-80e6-8870-d9681429d747.png)
 
 
-## Bloom Apps {#2bc4bb19df128043b83be037cfc1e7f0}
+## Bloom Apps {/* #2bc4bb19df128043b83be037cfc1e7f0 */}
 
 
 Subscription Tier: Pro and Above
@@ -89,7 +89,7 @@ Build the parts of your Bloom App in the Bloom Editor app. Test it out in the Pu
 
 
 
-### Book Grids {#29a4bb19df1280a294dfdb03694ddec7}
+### Book Grids {/* #29a4bb19df1280a294dfdb03694ddec7 */}
 
 
 Subscription Tier: Pro and Above
@@ -101,13 +101,13 @@ A 'Book Grid' is a Table of Contents that shows small pictures and titles of boo
 The books in a Book Grid must be part of your current _collection._ A grid can contain all the books in the collection, or a subset.
 
 
-## Page Number Position {#29a4bb19df128042b49bd740100c58a5}
+## Page Number Position {/* #29a4bb19df128042b49bd740100c58a5 */}
 
 
 ![](./release-notes-6-3.29a4bb19-df12-807a-86e2-cdd8f8dc6651.png)
 
 
-## Foundational Work {#2714bb19df12806797e6fca50c9d42ab}
+## Foundational Work {/* #2714bb19df12806797e6fca50c9d42ab */}
 
 
 Have you ever had to pour resources into the parts of your house that you take for granted? Plumbing, wiring, the roof, the foundation… all of these things age over time. They aren’t exciting things to spend your money on, but if you want your house to last, you have to replace bits of it occasionally. It turns out that the same is true of software like Bloom, which is now 14 years old! In this version, **we’ve modernized 23 key underpinnings** in order to keep Bloom healthy and prepared for the future. Four of these changes move us closer to our goal of a **cross-platform Bloom**. 
@@ -116,20 +116,20 @@ Have you ever had to pour resources into the parts of your house that you take f
 Mostly, you should not notice any difference, but here are a few areas where things have changed:
 
 
-### Installer {#2994bb19df12808694cde01e3f1075bb}
+### Installer {/* #2994bb19df12808694cde01e3f1075bb */}
 
 - We switched to a modern installer system.
 - The Bloom installer no longer supports the “all-users” option.
 
-### System Requirements {#2994bb19df1280199e68e3fb1f42196e}
+### System Requirements {/* #2994bb19df1280199e68e3fb1f42196e */}
 
 - Bloom now requires a computer with a 64-bit processor.
 
-### Image Toolbox {#2994bb19df1280b2b561fc2979557fef}
+### Image Toolbox {/* #2994bb19df1280b2b561fc2979557fef */}
 
 - We have removed the scanner and camera buttons from the top of the screen. We recently modernized the underpinnings of Bloom and these old buttons didn’t survive the transition. We think that they were rarely, if ever, used.
 
-## Language Codes {#2994bb19df1280bf9028d77c04d4cd50}
+## Language Codes {/* #2994bb19df1280bf9028d77c04d4cd50 */}
 
 
 Occasionally you may find that there are some questions about the actual language code of a text box or a source bubble suggestion. We now show the code of text boxes in the Format tool (1). If you hover over a source tab, you will now see its language code (2). 
@@ -138,7 +138,7 @@ Occasionally you may find that there are some questions about the actual languag
 ![](./release-notes-6-3.2bc4bb19-df12-8054-a599-c5fafd547c87.png)
 
 
-## Full Bleed {#3024bb19df12805793efca1b18da9b91}
+## Full Bleed {/* #3024bb19df12805793efca1b18da9b91 */}
 
 
 Subscription Tier: Pro and Above
@@ -177,7 +177,7 @@ If you don’t want any credits on the cover, you can free up that space with th
 ![](./release-notes-6-3.3024bb19-df12-808e-803b-e4ca5108c720.png)
 
 
-## Games {#3024bb19df12805998a6dba5e2d588e3}
+## Games {/* #3024bb19df12805998a6dba5e2d588e3 */}
 
 
 Subscription Tier: Pro and Above

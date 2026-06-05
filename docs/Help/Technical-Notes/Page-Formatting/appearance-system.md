@@ -10,7 +10,7 @@ keywords: [CSS]
 Bloom version 6.0 introduces a new page styling system that we’re calling “Appearance”. 
 
 
-## Goals of the Appearance System {#4565736c09c043a9b467728f5355c64f}
+## Goals of the Appearance System {/* #4565736c09c043a9b467728f5355c64f */}
 
 - Enable users to select from a set of pre-designed “Page Themes” that set things like margins, spacing, corner rounding, background colors, and page number handling
 - Make it easy for users to decide what fields to show on the cover (language name, topic, L2, and L3)
@@ -38,7 +38,7 @@ Bloom version 6.0 introduces a new page styling system that we’re calling “A
 	
 
 
-## Bloom 6.0 Appearance Features {#428c762d273f4c9c90b0e5c93ab1ce25}
+## Bloom 6.0 Appearance Features {/* #428c762d273f4c9c90b0e5c93ab1ce25 */}
 
 - A new “Book Settings” Dialog that lets you change some things that previously would have required custom CSS.
 - A set of “themes” that users can apply to their book.
@@ -46,12 +46,12 @@ Bloom version 6.0 introduces a new page styling system that we’re calling “A
 - A new “default” theme with the most commonly requested changes to margins and other spacing.
 - A “legacy 5.6” theme that retains the margins and spacing of previous Bloom versions.
 
-## Expected Future Appearance Features {#b6d5a8cd45b84a37adcf38ff260d03dc}
+## Expected Future Appearance Features {/* #b6d5a8cd45b84a37adcf38ff260d03dc */}
 
 - Add Book Settings defaults to the Collection Settings, so that you can have all the books use the same themes and other settings
 - Individual books will be able to override the Collection Settings
 
-## The migration from the old to the new system {#d997fa04c2bf494db0f705489a994f2e}
+## The migration from the old to the new system {/* #d997fa04c2bf494db0f705489a994f2e */}
 
 
 If a book is “saveable”, Bloom 6.0 will migrate it to the new system. It will do this in a way that will allow the book to keep working in older Blooms, Bloom Readers, and BloomPUB Viewers.
@@ -85,7 +85,7 @@ The migration has these steps:
 	![](./appearance-system.2c87f19f-c117-45f0-b177-57c0f7f0c031.png)
 
 
-## Customization with Bloom 6.0 and later {#1af2b6d8380447a883bbcfcd30f409c4}
+## Customization with Bloom 6.0 and later {/* #1af2b6d8380447a883bbcfcd30f409c4 */}
 
 
 There are now three levels of customization:

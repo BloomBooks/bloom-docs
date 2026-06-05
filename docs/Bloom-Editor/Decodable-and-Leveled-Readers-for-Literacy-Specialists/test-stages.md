@@ -10,7 +10,7 @@ keywords: [decodable, levelled, reader]
 Once you have established your decodable stages, test and experiment to ensure everything is working correctly. 
 
 
-### Experiment with using decodable stages {#6f4f1d5c75da45ca8960e630cc287bdb}
+### Experiment with using decodable stages {/* #6f4f1d5c75da45ca8960e630cc287bdb */}
 
 
 In another document designed for authors, we will go into detail on using decodable templates to create books. We won’t go into detail here. But at this point, you’ll probably want to play around with your new stages in a couple of sample books.

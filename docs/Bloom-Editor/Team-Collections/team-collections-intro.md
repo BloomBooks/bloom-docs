@@ -18,7 +18,7 @@ We recommend Team Collections for any project where more than one person touches
 
 
 
-## How Team Collections Work {#013b2b088f3d4b98a03331c3953ed52f}
+## How Team Collections Work {/* #013b2b088f3d4b98a03331c3953ed52f */}
 
 
 A Bloom Team Collection has two parts. The first part is a normal Bloom collection of working files. This is a folder that contains one or more Bloom books, each in its own folder, as well as special files used by Bloom. 
@@ -131,7 +131,7 @@ Figure 4: Awa’s computer, and Barkari’s computer with a working collection f
 Whenever Awa or Barkari change something in the working collection on their computers, Bloom copies the changes into the shadow collection, and Dropbox copies the changes to the other one’s computer. In this way, they can both work on the collection, even though they are using different computers. 
 
 
-## Checking Books In and Out {#a9f312d9f6f94e5aae10c9abc8ac8069}
+## Checking Books In and Out {/* #a9f312d9f6f94e5aae10c9abc8ac8069 */}
 
 
 In a Team Collection, each book has a **status**. There are three possibilities for a book: 
@@ -155,25 +155,25 @@ Only the person who has a book checked out can make changes to it. Whenever one 
 This checkout system ensures that team members do not develop multiple conflicting versions of a book that must be painfully reconciled later. 
 
 
-## What if I Don’t Have Internet Access All the Time? {#e1f5496e509a49039de3d7113d05fd97}
+## What if I Don’t Have Internet Access All the Time? {/* #e1f5496e509a49039de3d7113d05fd97 */}
 
 
 You do not need continuous internet access to use Bloom team collections. You only need to be connected to the internet when you check books in and out. Your internet service does have to be sufficiently fast and reliable to transfer books to and from Dropbox.
 
 
-### Why Dropbox?  {#2e254141a368476083ba215f25f14ab8}
+### Why Dropbox?  {/* #2e254141a368476083ba215f25f14ab8 */}
 
 
 Team Collections works with Dropbox because we have found that it works more reliably and efficiently for this purpose than other commercial filesharing services do. In particular, Dropbox lets other team collection users know when a teammate has updated a book more reliably than Google Drive does. Even more important, when you change part of a book, Dropbox transmits only the parts of the book that have changed rather than the entire book. This is helpful in places with less than super-fast internet.
 
 
-## System Requirements for Using a Team Collection {#898b75ce07734a0891bf3512030894b4}
+## System Requirements for Using a Team Collection {/* #898b75ce07734a0891bf3512030894b4 */}
 
 - A Bloom Enterprise subscription, **OR** you can affirm that your project is fully funded by a local community
 - Bloom 6.3 or greater.
 - It is imperative that all the team members use the same version of Bloom.
 
-	:::caution
+	:::warning[Caution]
 	
 	Each team member must register his or her copy of Bloom with a unique email address.  
 	
@@ -183,7 +183,7 @@ Team Collections works with Dropbox because we have found that it works more rel
 
 - A paid [Dropbox](https://www.dropbox.com/) account. This must be factored into your budget. Choose a subscription tier that meets your organization’s needs. Note: [Changing Dropbox Tiers can be painful](/change-dropbox-tier).
 
-:::caution
+:::warning[Caution]
 
 We no longer recommend using the free version of Dropbox to manage a Team Collection because you will encounter technical issues if you exceed your allotted quota.
 
@@ -201,7 +201,7 @@ These instructions focus on using Dropbox to synchronize Team Collection files. 
 
 
 
-## For More Information {#941774967d44426fb364b298f1d498ce}
+## For More Information {/* #941774967d44426fb364b298f1d498ce */}
 
 
 [Get Started With Team Collections](/team-collections-getting-started) 

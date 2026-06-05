@@ -6,7 +6,7 @@ slug: /read-book-bloom-reader
 
 
 
-## Read a Book in Bloom Reader {#f0535137300b431c8df943d3d6e3cfd6}
+## Read a Book in Bloom Reader {/* #f0535137300b431c8df943d3d6e3cfd6 */}
 
 
 Reading a book in Bloom Reader is similar to using other reading apps.
@@ -30,7 +30,7 @@ Reading a book in Bloom Reader is similar to using other reading apps.
 	![](./read-book-bloom-reader.4464a2e2-b30f-4437-b046-5767a16ed5cb.png)
 
 
-## Navigate Pages {#277e4bfd5bae4ebca752c885c0f9018e}
+## Navigate Pages {/* #277e4bfd5bae4ebca752c885c0f9018e */}
 
 1. Swipe to the **right** to go to the **next** page:
 
@@ -50,7 +50,7 @@ Note: For **Right-to-Left** languages, the swipe direction is **reversed**.
 
 
 
-### Move Between Pages Quickly {#136955af92434bbea0ded50bf03a6655}
+### Move Between Pages Quickly {/* #136955af92434bbea0ded50bf03a6655 */}
 
 
 You can also change between multiple pages at once:
@@ -68,7 +68,7 @@ You can also change between multiple pages at once:
 	![](./read-book-bloom-reader.a9ab654c-3903-4c3e-9905-5c5a357d522d.png)
 
 
-## Change Book Language {#7a826cbbfc2a4ac19a84c5327fcaad8a}
+## Change Book Language {/* #7a826cbbfc2a4ac19a84c5327fcaad8a */}
 
 
 If a book was written in **multiple languages**, you can **change the language** in Bloom Reader.
@@ -102,7 +102,7 @@ If a book was written in **multiple languages**, you can **change the language**
 	![](./read-book-bloom-reader.8a63a47b-0f18-4a48-ad8f-50d23545e69c.png)
 
 
-## Exit Book {#42677df631914ac592bfc3e5e5a798f2}
+## Exit Book {/* #42677df631914ac592bfc3e5e5a798f2 */}
 
 
 When you are done reading a book, you can exit back to the Bloom Reader home screen.

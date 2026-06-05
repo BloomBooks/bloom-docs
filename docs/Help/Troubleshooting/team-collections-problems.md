@@ -6,7 +6,7 @@ slug: /team-collections-problems
 
 
 
-## Check-in / Check-out problems {#6f6500e490414e749a1e84d79bc6ff23}
+## Check-in / Check-out problems {/* #6f6500e490414e749a1e84d79bc6ff23 */}
 
 <details>
 <summary>Problem: “Cloud File Provider is not running.”</summary>
@@ -58,7 +58,7 @@ Be aware that you can check out a book for editing _on only a single computer at
 The Team Collection Administrator can use the “Force Unlock” command to make the book editable again. 
 
 
-:::caution
+:::warning[Caution]
 
 **“Force unlocking” a book is not the same as checking the book in!** 
 When the administrator force-unlocks a book, any changes made by the user who originally checked the book out will not be saved to the shared team version. Instead, that version of the book will be moved to a “Lost and Found” folder. If you want to incorporate those changes into the shared team version later, you must do so by hand.
@@ -85,7 +85,7 @@ If your long-lost teammate has been very productive and you want to use his vers
 </details>
 
 
-## Bloom Enterprise license problems {#63b5f85ea6c241f9ad21249c25a11143}
+## Bloom Enterprise license problems {/* #63b5f85ea6c241f9ad21249c25a11143 */}
 
 <details>
 <summary>What happens if someone tries to join a Team Collection but does not have a Bloom Enterprise License?</summary>
@@ -112,7 +112,7 @@ Each user will have to rejoin the team collection. (This allows any edits that w
 </details>
 
 
-## Naming conflicts {#b772f1af5c9a4ff097a27c675cf52f5c}
+## Naming conflicts {/* #b772f1af5c9a4ff097a27c675cf52f5c */}
 
 <details>
 <summary>What happens if you join a Team Collection but you already have a local collection with that name?</summary>

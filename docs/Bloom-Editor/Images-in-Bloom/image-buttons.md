@@ -9,7 +9,7 @@ slug: /image-buttons
 When you place your cursor over an image, three buttons appear in the corners of the **image container** (the box on the page that holds the image).
 
 
-## Credits, Copyright & License {#9d6aea0701c143b4b00eb587da0f324e}
+## Credits, Copyright & License {/* #9d6aea0701c143b4b00eb587da0f324e */}
 
 
 In the upper-left is the `Edit Image Credits, Copyright, & License` button. Clicking this button will open the image copyright and license dialog box (see [Image Copyright and License Information](/image-copyright-license)):
@@ -18,7 +18,7 @@ In the upper-left is the `Edit Image Credits, Copyright, & License` button. Clic
 ![](./image-buttons.48920792-074f-4c26-bdd6-1f11c7e8d421.png)
 
 
-## Change an Image {#449f7fd569d64a57947f71a510ff1f31}
+## Change an Image {/* #449f7fd569d64a57947f71a510ff1f31 */}
 
 
 In the upper-right is the `Change Image` button. Clicking this button will open the Image Toolbox (see [Add an Image](/add-image)):
@@ -27,7 +27,7 @@ In the upper-right is the `Change Image` button. Clicking this button will open 
 ![](./image-buttons.38d4e0d7-c394-4a79-8b34-d452aa775b11.png)
 
 
-## Cut and Paste an Image {#58625cb2f6d54fe3a51c956c18a91d2c}
+## Cut and Paste an Image {/* #58625cb2f6d54fe3a51c956c18a91d2c */}
 
 
 The last three buttons are combined in one block in the lower right corner:
@@ -48,7 +48,7 @@ The last three buttons are combined in one block in the lower right corner:
 	![](./image-buttons.c8cb2430-536b-4b9c-995d-e413d39a5229.png)
 
 
-## The Image Information Panel {#75d9722d1f454776b0669b142d26221e}
+## The Image Information Panel {/* #75d9722d1f454776b0669b142d26221e */}
 
 
 After you insert an image into a page, Bloom can show you a panel of information about the picture and the image container it fills.
@@ -84,7 +84,7 @@ Here are the parts of this information panel:
 	
 
 
-## Resize an Image on a Page {#636cb3ce40044815a206c15e5ba30996}
+## Resize an Image on a Page {/* #636cb3ce40044815a206c15e5ba30996 */}
 
 
 Bloom automatically resizes an image to fill the box where you place it. You can change the size of an image by changing the size of the image box that holds it. 

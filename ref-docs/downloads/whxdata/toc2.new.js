@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"FAQ overview","type":"item","tilePath":"","description":"","url":"FAQ/New_Topic.htm"},{"name":"Instructional Videos","type":"item","tilePath":"","description":"","url":"FAQ/Instructional_Videos.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

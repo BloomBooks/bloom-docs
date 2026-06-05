@@ -6,10 +6,10 @@ slug: /analytic-fields
 
 
 
-# Bloom analytics database views field documentation {#daf77128b66841308aada162f50bd994}
+# Bloom analytics database views field documentation {/* #daf77128b66841308aada162f50bd994 */}
 
 
-## Pages Read {#e19791136fe147098323871867fd0538}
+## Pages Read {/* #e19791136fe147098323871867fd0538 */}
 
 
 | **column name**              | **description**                                                  | **notes**                                                                                                                         |
@@ -55,7 +55,7 @@ slug: /analytic-fields
 | location_age_days            | how long ago the fine location information was acquired, in days |                                                                                                                                   |
 
 
-## Comprehension {#05f46bb6721c4d3c88262aebaf418fd5}
+## Comprehension {/* #05f46bb6721c4d3c88262aebaf418fd5 */}
 
 
 | **column name**      | **description**                                                  | **notes**                                                                                                                         |
@@ -90,7 +90,7 @@ slug: /analytic-fields
 | location_age_days    | how long ago the fine location information was acquired, in days |                                                                                                                                   |
 
 
-## Download Book {#9270ad4d6c534663a879f29284169c54}
+## Download Book {/* #9270ad4d6c534663a879f29284169c54 */}
 
 
 | **column name**  | **description**                                       | **notes**                                                                                                     |

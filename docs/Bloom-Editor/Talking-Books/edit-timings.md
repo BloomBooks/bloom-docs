@@ -7,7 +7,7 @@ keywords: [Aeneas, Talking Book Tool]
 
 
 
-:::caution
+:::warning[Caution]
 
 The following is **not** recommended. Future versions of Bloom may remove this option altogether. 
 
@@ -28,7 +28,7 @@ In Bloom 6.2, a new method for splitting audio was introduced: [Record by Whole 
 But even in those rare situations in which Aeneas seems better at making audio alignment guesses, it will still be easier to use Bloom’s interactive Adjust Timings Editor rather than the method proposed below.
 
 
-## Edit Aeneas Timings {#0f1ab59b97584e72bd3d0ebb7c29436d}
+## Edit Aeneas Timings {/* #0f1ab59b97584e72bd3d0ebb7c29436d */}
 
 
 If you are not satisfied with how Aeneas has split up your audio, **and** you are not satisfied with using Bloom’s interactive Adjust Timings Editor, then you may choose to manually edit the “timings file” to make audio highlighting more accurate. 
@@ -40,7 +40,7 @@ The purpose of this article is to outline the steps needed to do this. Since the
 For the steps below, we assume you have text which has already been recorded **By Whole Text Box**, and the recording has been **Split**, and you have determined that there is a problem with the timings.
 
 
-## Edit the Timings File {#80f27d0a313d4e7895e1f3a60a3db0bf}
+## Edit the Timings File {/* #80f27d0a313d4e7895e1f3a60a3db0bf */}
 
 
 With the Adjust Timing Editor open: 
@@ -52,7 +52,7 @@ With the Adjust Timing Editor open:
 ![](./edit-timings.2994bb19-df12-80a1-89a8-f8cc6a9224ad.png)
 
 
-## The timings file {#d3fd21b8b9bf439980bec34665709f8b}
+## The timings file {/* #d3fd21b8b9bf439980bec34665709f8b */}
 
 
 The timings file will open in Notepad. 
@@ -81,10 +81,10 @@ For example:
 This file can be edited directly, but doing this work in Audacity is often much easier.
 
 
-## Using Audacity {#953d7e13c9ae4a078c35abbdb1f72bd5}
+## Using Audacity {/* #953d7e13c9ae4a078c35abbdb1f72bd5 */}
 
 
-:::caution
+:::warning[Caution]
 
 This section assumes you already have a good grasp of using the program Audacity.
 
@@ -97,7 +97,7 @@ This section assumes you already have a good grasp of using the program Audacity
 3. Close Notepad.
 4. Listen to the recording in Audacity and adjust the audio timings by sliding the start and end points of each label to the right or the left as necessary.
 
-	:::caution
+	:::warning[Caution]
 	
 	Hint: select the _circle_ shown below to move _both_ start and end points at the same time. 
 	

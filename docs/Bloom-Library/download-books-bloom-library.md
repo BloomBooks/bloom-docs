@@ -15,7 +15,7 @@ This page is a draft version.
 
 
 
-## Download Books to Use in Bloom Editor {#0baca6f21eec4f2db437f30ddcb273b8}
+## Download Books to Use in Bloom Editor {/* #0baca6f21eec4f2db437f30ddcb273b8 */}
 
 
 There are thousands of books available for you to use from the Bloom Library. You can download these books directly from the [Bloom Library website](https://bloomlibrary.org/).
@@ -115,7 +115,7 @@ You may see multiple windows while the book downloads:
 	1. Click on the book thumbnail.
 	2. Click `MAKE A BOOK USING THIS SOURCE`.
 
-## Download BloomPUB to Read in Bloom Reader {#12eedfff286a469eaf12ad1dbb672962}
+## Download BloomPUB to Read in Bloom Reader {/* #12eedfff286a469eaf12ad1dbb672962 */}
 
 
 There are several ways to download a BloomPUB book from Bloom Library so you can read it in [Bloom Reader](/about-bloom-reader).

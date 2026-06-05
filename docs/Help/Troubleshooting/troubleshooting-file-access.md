@@ -15,7 +15,7 @@ We are investigating this and will put more information here as we learn more.
 Starting with Bloom 5.5, if you get this error, you will be directed to this page for more information.
 
 
-## Likely Cause {#46e0ea3a084b4ddc95879747bd5c0b6b}
+## Likely Cause {/* #46e0ea3a084b4ddc95879747bd5c0b6b */}
 
 
 Our leading theory is that these users have some non-Microsoft anti-virus program installed that is aggressively preventing Bloom from working with its own files, particularly .png files (these files are known to be able to carry viruses).
@@ -29,13 +29,13 @@ For now, if you run into this problem, please help us learn:
 Let us know if that helps so that we can spread the word to other people.
 
 
-## Alternate Causes {#7c378e811d6e4b09aeb268125f35f44f}
+## Alternate Causes {/* #7c378e811d6e4b09aeb268125f35f44f */}
 
 
 If you are _not_ using a non-Microsoft anti-virus program and you are encountering this problem, then there are a number of less-likely, yet possible, causes:
 
 
-### User access settings for Bloom folders {#b97095661c35449cb5309eb6f6d22274}
+### User access settings for Bloom folders {/* #b97095661c35449cb5309eb6f6d22274 */}
 
 
 About once a year, we work with someone whose Windows computer won’t let Bloom access its own files. We don’t know what causes that, but here’s how to fix it:
@@ -54,7 +54,7 @@ About once a year, we work with someone whose Windows computer won’t let Bloom
 ![](./troubleshooting-file-access.bec4636b-121d-46ab-8a04-7a8650744b1d.png)
 
 
-### Interference from a backup program {#e95f6a7b22304626878a8b6375b75004}
+### Interference from a backup program {/* #e95f6a7b22304626878a8b6375b75004 */}
 
 
 If you are using a cloud backup program, such as OneDrive, Dropbox, or Google Drive, then it is possible that there could be a very brief disruption when Bloom is trying to access some particular files. If this happens, the problem should resolve itself almost immediately.
