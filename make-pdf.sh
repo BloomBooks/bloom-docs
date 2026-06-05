@@ -43,12 +43,16 @@ fi
 # removed because of https://github.com/kohheepeace/mr-pdf/issues/60
 # --coverImage="https://docs.bloomlibrary.org/pdf-cover.png" \
 
-pnpm exec docu-pdf "$URL" \
---coverPath "./pdf-cover.htm" \
---pageSize "A4" \
---outputPath "$OUTPUTPATH" \
---tocLevel 1 \
---baseUrlForLinks https://docs.bloomlibrary.org
+# docu-pdf only accepts exclusions as exact URLs, and this repo has enough Reference pages that
+# the comma-separated exclusion argument exceeds the Windows command-line length limit.
+# Run through a local JS wrapper so the exclusion list stays in memory instead of on argv.
+PDF_BASE_URL="$BASE_URL" PDF_LANGUAGE="$LANGUAGE" node ./scripts/run-docu-pdf.js \
+    "$URL" \
+    "$OUTPUTPATH" \
+    "./pdf-cover.htm" \
+    "A4" \
+    "1" \
+    "https://docs.bloomlibrary.org"
 
 # if [ "$1" == "en" ]; then
 #     # Until we start generating language-specific PDFs, we'll just copy the English one to the other locales.
