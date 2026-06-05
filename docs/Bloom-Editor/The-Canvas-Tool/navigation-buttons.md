@@ -34,7 +34,7 @@ To access Navigation Buttons, click beside the word “Navigation” on the Canv
 </div>
 
 
-## Four Button Styles {#36d4bb19df12802ab0aaed29772e0134}
+## Four Button Styles {/* #36d4bb19df12802ab0aaed29772e0134 */}
 
 
 There are four button styles:
@@ -44,7 +44,7 @@ There are four button styles:
 3. Text Only
 4. Book Grid
 
-## Choose Link Target {#36d4bb19df12800bb5f4df201636aa1a}
+## Choose Link Target {/* #36d4bb19df12800bb5f4df201636aa1a */}
 
 
 After you have added a Navigation Button (types 1-3), you need to add your hyperlink. Select the overlay and click on the link icon:
@@ -64,7 +64,7 @@ You will see something like this:
 Or, if you wish to link to an external website, you may paste in the URL directly at the top.
 
 
-## Choose Books {#36d4bb19df1280b9954fcb28d597ddb2}
+## Choose Books {/* #36d4bb19df1280b9954fcb28d597ddb2 */}
 
 
 When you add a Book Grid overlay,  the grid will be empty. Click “Choose Books”:
