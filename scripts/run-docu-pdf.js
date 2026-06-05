@@ -44,7 +44,13 @@ async function main() {
   });
 }
 
-main().catch((error) => {
-  console.error(error.stack || error);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    // docu-pdf's programmatic API leaves Puppeteer browser handles open, so an explicit exit
+    // is required here even after generatePDF() resolves.
+    process.exit(0);
+  })
+  .catch((error) => {
+    console.error(error.stack || error);
+    process.exit(1);
+  });
