@@ -1,6 +1,6 @@
 ---
 title: Bloom’s Built-in Book Templates
-sidebar_position: 3
+sidebar_position: 4
 slug: /built-in-templates
 ---
 

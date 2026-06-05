@@ -48,7 +48,7 @@ This material assumes you already have a good working knowledge of the Bloom pro
 If necessary, you may wish to review the following:
 
 - [How to Install Bloom](/installing-bloom-on-windows)
-- **[Problem Internal Link]**
+- [The Main Bloom Window](/the-main-bloom-window-index)
 - [Make your First Book](/make-your-first-book)
 
 :::note
