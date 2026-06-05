@@ -1,8 +1,5 @@
 name: Publish testing config only
 on:
-  push:
-    branches:
-      - alpha
   workflow_dispatch:
     inputs:
       logLevel:
