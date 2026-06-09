@@ -11,56 +11,17 @@ The **Change Layout** control appears above most [inside pages](../../Concepts/I
 
 [Use](Using_the_Change_Layout_controls.md) these controls to insert boxes for text or pictures and to arrange them on the page. If you [add](Add_a_page.md) a **Custom** page ([example](Custom_page_template_example.md)) or you use the [Template Starter](../../Concepts/Template_Starter.md), you will use these controls.
 
- 
-
-Control
-
-Use
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/ChangeLayoutHiddenLITE.png)
-
-The controls (below) are _hidden_.  
-Click the right end to move the circle to the right. This displays them.
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/ChangeLayoutDisplayedLITE.png)
-
-All of the controls (below) are _shown_.  
-Click the left end to move the circle to the left. This hides them.
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/PicVidTxtWidget.png)
-
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/PictureOnly.png) to insert a box that holds a [picture](../../Concepts/Picture.md) ([![](/ref-docs-assets/images/Tasks/imageplaceholder.png)](../../Concepts/Picture.md)).
-    
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoOnly.png) to insert a box that holds a [video](../../Concepts/Video.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoCamera.png)).
-    
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/TextOnly.png) to insert a box that holds [words](../../Concepts/Text_Box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBox.png)).
-    
--   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/WidgetOnly.png) to insert a box that holds an [HTML Widget](../../Concepts/HTML_Widget.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/WidgeIcon.png)).
-    
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/InsertLefRt.png)
-
-Click to split the box into two boxes. They will be side-by-side.
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/InsertUpDown.png)
-
-Click to split the box into two boxes. They will be one-above-the-other.
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeHorizontally.png)
-
-Click and drag the splitter line to resize boxes by moving the edge left or right.
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeVertical.png)
-
-Click and drag the splitter line to resize boxes by moving the edge up or down.
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)
-
-Click to [open](../../User_Interface/Dialog_boxes/Text_Box_Properties_dialog_box.md) the **Text Box Properties** dialog box.
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/DeleteGrayX.png)
-
-Click to delete the current box.
+| Control | Use |
+| --- | --- |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/ChangeLayoutHiddenLITE.png) | The controls (below) are _hidden_.<br/>Click the right end to move the circle to the right. This displays them. |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/ChangeLayoutDisplayedLITE.png) | All of the controls (below) are _shown_.<br/>Click the left end to move the circle to the left. This hides them. |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/PicVidTxtWidget.png) | • Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/PictureOnly.png) to insert a box that holds a [picture](../../Concepts/Picture.md) ([![](/ref-docs-assets/images/Tasks/imageplaceholder.png)](../../Concepts/Picture.md)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoOnly.png) to insert a box that holds a [video](../../Concepts/Video.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoCamera.png)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/TextOnly.png) to insert a box that holds [words](../../Concepts/Text_Box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBox.png)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/WidgetOnly.png) to insert a box that holds an [HTML Widget](../../Concepts/HTML_Widget.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/WidgeIcon.png)). |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/InsertLefRt.png) | Click to split the box into two boxes. They will be side-by-side. |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/InsertUpDown.png) | Click to split the box into two boxes. They will be one-above-the-other. |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeHorizontally.png) | Click and drag the splitter line to resize boxes by moving the edge left or right. |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeVertical.png) | Click and drag the splitter line to resize boxes by moving the edge up or down. |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png) | Click to [open](../../User_Interface/Dialog_boxes/Text_Box_Properties_dialog_box.md) the **Text Box Properties** dialog box. |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/DeleteGrayX.png) | Click to delete the current box. |
 
 #### Important
 

@@ -17,37 +17,12 @@ You can [use](../../Tasks/Basic_tasks/Choose_settings_protections.md) this dialo
 
 The lock symbol shows your selections.
 
-   
-
-Symbol
-
-Hidden?
-
-Password Required?
-
-![](/ref-docs-assets/images/User_Interface/Dialog_boxes/HiddenLock.png)
-
-Y
-
-Y
-
-![](/ref-docs-assets/images/User_Interface/Dialog_boxes/HiddenNotLocked.png)
-
-Y
-
-N
-
-![](/ref-docs-assets/images/User_Interface/Dialog_boxes/Lockedlock.png)
-
-N
-
-Y
-
-![](/ref-docs-assets/images/User_Interface/Dialog_boxes/Unlockedlock.png)
-
-N
-
-N
+| Symbol | Hidden? | Password Required? |
+| --- | --- | --- |
+| ![](/ref-docs-assets/images/User_Interface/Dialog_boxes/HiddenLock.png) | Y | Y |
+| ![](/ref-docs-assets/images/User_Interface/Dialog_boxes/HiddenNotLocked.png) | Y | N |
+| ![](/ref-docs-assets/images/User_Interface/Dialog_boxes/Lockedlock.png) | N | Y |
+| ![](/ref-docs-assets/images/User_Interface/Dialog_boxes/Unlockedlock.png) | N | N |
 
 #### Tip
 

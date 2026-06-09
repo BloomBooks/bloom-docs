@@ -186,6 +186,61 @@ turndownService.addRule("images", {
   },
 });
 
+// Table support. By the time these rules run, normalizeTables() has
+// restructured every table into thead (th cells) + tbody, with no
+// colspan rows, so they can be emitted as GFM pipe tables.
+turndownService.addRule("removeTableLayout", {
+  filter: ["colgroup", "col", "caption"],
+  replacement: () => "",
+});
+
+// Block content inside a cell (multiple paragraphs, lists) arrives as
+// multi-line markdown; pipe tables are single-line, so collapse the
+// blocks with <br/> and render list items with a bullet character.
+function formatTableCellContent(content: string): string {
+  return content
+    .split("\n")
+    .map((line) => line.trim())
+    .filter((line) => line.length > 0)
+    .map((line) => line.replace(/^-\s+/, "• "))
+    .join("<br/>")
+    .replace(/\|/g, "\\|");
+}
+
+turndownService.addRule("tableCell", {
+  filter: ["th", "td"],
+  replacement: (content, node) => {
+    const element = node as HTMLElement;
+    const prefix = element.previousElementSibling ? " " : "| ";
+    return `${prefix}${formatTableCellContent(content)} |`;
+  },
+});
+
+turndownService.addRule("tableRow", {
+  filter: "tr",
+  replacement: (content, node) => {
+    const element = node as HTMLElement;
+    let output = `\n${content}`;
+
+    if (element.parentElement?.tagName === "THEAD") {
+      const cellCount = getRowCells(element).length;
+      output += `\n|${" --- |".repeat(cellCount)}`;
+    }
+
+    return output;
+  },
+});
+
+turndownService.addRule("tableSection", {
+  filter: ["thead", "tbody", "tfoot"],
+  replacement: (content) => content,
+});
+
+turndownService.addRule("table", {
+  filter: "table",
+  replacement: (content) => `\n\n${content.trim()}\n\n`,
+});
+
 function extractTitle(dom: JSDOM): string {
   const titleElement = dom.window.document.querySelector("title");
   if (titleElement && titleElement.textContent) {
@@ -655,6 +710,218 @@ function normalizeListStructure(root: ParentNode) {
   }
 }
 
+function getDirectRows(table: HTMLElement): HTMLElement[] {
+  return Array.from(table.querySelectorAll("tr")).filter(
+    (row) => row.closest("table") === table
+  ) as HTMLElement[];
+}
+
+function getRowCells(row: HTMLElement): HTMLElement[] {
+  return Array.from(row.children).filter((child): child is HTMLElement =>
+    ["TD", "TH"].includes(child.tagName)
+  );
+}
+
+function getCellColSpan(cell: HTMLElement): number {
+  const colSpan = Number(cell.getAttribute("colspan"));
+  return Number.isFinite(colSpan) && colSpan > 0 ? colSpan : 1;
+}
+
+// RoboHelp wraps single table-cell entries in <ul><li><p>...</p></li></ul>
+// purely for the bullet glyph. Unwrap those so the cell content is plain
+// blocks; genuine multi-item lists are left alone.
+function unwrapPresentationalListsInCell(cell: HTMLElement) {
+  let changed = true;
+
+  while (changed) {
+    changed = false;
+
+    for (const list of Array.from(cell.querySelectorAll("ul, ol"))) {
+      const items = getDirectListItems(list as HTMLElement);
+      if (items.length !== 1) {
+        continue;
+      }
+
+      list.replaceWith(...Array.from(items[0].childNodes));
+      changed = true;
+      break;
+    }
+  }
+}
+
+function isCellBlank(cell: HTMLElement): boolean {
+  return isBlankText(cell.textContent) && !cell.querySelector("img");
+}
+
+// Some RoboHelp tables pad rows with blank cells (often paired with a
+// colspan header cell), which would emit a dangling empty column. Drop any
+// column where no cell with content starts, shrinking colspans that merely
+// stretch across it.
+function removeEmptyTableColumns(rows: HTMLElement[]) {
+  let changed = true;
+
+  while (changed) {
+    changed = false;
+
+    const rowCellInfos = rows.map((row) => {
+      let column = 0;
+      return getRowCells(row).map((cell) => {
+        const start = column;
+        const span = getCellColSpan(cell);
+        column += span;
+        return { cell, start, span };
+      });
+    });
+
+    const tableWidth = Math.max(
+      0,
+      ...rowCellInfos.map((infos) =>
+        infos.reduce((sum, info) => sum + info.span, 0)
+      )
+    );
+
+    if (tableWidth <= 1) {
+      return;
+    }
+
+    for (let column = tableWidth - 1; column >= 0; column--) {
+      const cellsStartingHere = rowCellInfos
+        .flat()
+        .filter((info) => info.start === column);
+
+      if (!cellsStartingHere.every((info) => isCellBlank(info.cell))) {
+        continue;
+      }
+
+      cellsStartingHere.forEach((info) => info.cell.remove());
+      rowCellInfos
+        .flat()
+        .filter((info) => info.start < column && info.start + info.span > column)
+        .forEach((info) =>
+          info.cell.setAttribute("colspan", String(info.span - 1))
+        );
+      changed = true;
+      break;
+    }
+  }
+}
+
+// RoboHelp header rows are usually th cells, but some tables instead mark
+// the header with shaded (bgcolor) td cells.
+function isShadedHeaderRow(cells: HTMLElement[]): boolean {
+  return (
+    cells.length > 0 &&
+    cells.every(
+      (cell) =>
+        cell.hasAttribute("bgcolor") ||
+        /background(?:-color)?\s*:/i.test(cell.getAttribute("style") || "")
+    )
+  );
+}
+
+// Markdown tables need a uniform grid, but RoboHelp tables use full-width
+// colspan rows as section dividers (e.g. "Edit tab:"). Split each table at
+// those rows: the divider content becomes a paragraph between sub-tables,
+// and each sub-table repeats the original header row.
+function normalizeTables(root: ParentNode) {
+  for (const table of Array.from(root.querySelectorAll("table"))) {
+    const doc = table.ownerDocument;
+    const rows = getDirectRows(table as HTMLElement);
+
+    if (rows.length === 0) {
+      table.remove();
+      continue;
+    }
+
+    rows.forEach((row) =>
+      getRowCells(row).forEach(unwrapPresentationalListsInCell)
+    );
+    removeEmptyTableColumns(rows);
+
+    const columnCount = Math.max(
+      ...rows.map((row) =>
+        getRowCells(row).reduce((sum, cell) => sum + getCellColSpan(cell), 0)
+      )
+    );
+
+    const firstRowCells = getRowCells(rows[0]);
+    const hasHeaderRow =
+      firstRowCells.length > 0 &&
+      (firstRowCells.every((cell) => cell.tagName === "TH") ||
+        isShadedHeaderRow(firstRowCells));
+    const headerRow = hasHeaderRow ? rows[0] : null;
+    const bodyRows = hasHeaderRow ? rows.slice(1) : rows;
+
+    const isSectionRow = (row: HTMLElement) => {
+      const cells = getRowCells(row);
+      return (
+        columnCount > 1 &&
+        cells.length === 1 &&
+        getCellColSpan(cells[0]) === columnCount
+      );
+    };
+
+    const replacement = doc.createDocumentFragment();
+    let pendingRows: HTMLElement[] = [];
+
+    const flushSubTable = () => {
+      if (pendingRows.length === 0) {
+        return;
+      }
+
+      const subTable = doc.createElement("table");
+      const thead = doc.createElement("thead");
+      const headTr = doc.createElement("tr");
+
+      if (headerRow) {
+        for (const cell of getRowCells(headerRow)) {
+          const th = doc.createElement("th");
+          th.append(...Array.from(cell.cloneNode(true).childNodes));
+          headTr.appendChild(th);
+        }
+      }
+
+      // GFM drops any row cells beyond the header width, so pad the header
+      // (and expand remaining colspans below) to the full column count.
+      while (headTr.children.length < columnCount) {
+        headTr.appendChild(doc.createElement("th"));
+      }
+
+      thead.appendChild(headTr);
+      subTable.appendChild(thead);
+
+      const tbody = doc.createElement("tbody");
+      pendingRows.forEach((row) => {
+        for (const cell of getRowCells(row)) {
+          const span = getCellColSpan(cell);
+          cell.removeAttribute("colspan");
+          for (let i = 1; i < span; i++) {
+            cell.after(doc.createElement("td"));
+          }
+        }
+        tbody.appendChild(row);
+      });
+      subTable.appendChild(tbody);
+      replacement.appendChild(subTable);
+      pendingRows = [];
+    };
+
+    for (const row of bodyRows) {
+      if (isSectionRow(row)) {
+        flushSubTable();
+        const sectionBlock = doc.createElement("div");
+        sectionBlock.append(...Array.from(getRowCells(row)[0].childNodes));
+        replacement.appendChild(sectionBlock);
+      } else {
+        pendingRows.push(row);
+      }
+    }
+
+    flushSubTable();
+    table.replaceWith(replacement);
+  }
+}
+
 function rewriteInternalLinks(root: ParentNode) {
   for (const link of Array.from(root.querySelectorAll("a[href]"))) {
     const href = link.getAttribute("href");
@@ -1009,6 +1276,7 @@ function cleanHtmlContent(dom: JSDOM): string {
   }
 
   rewriteInternalLinks(content);
+  normalizeTables(content);
   normalizeListStructure(content);
   normalizeInlineFormatting(content);
 

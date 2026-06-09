@@ -10,15 +10,10 @@ slug: /Help/Reference/choose-page-size-and-orientation
 -   In the **Edit** [tab](../../User_Interface/Tabs/Tabs_overview.md), click the button on the [toolbar](../../User_Interface/Toolbar/Edit_tab_toolbar.md) and choose a page size and orientation.
     
 
- 
-
-For some books, no options are offered:
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/OrientationNoOptions.png)
-
-For other books, many options are offered:
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/OrientationPageSize5.4.png)
+|  |  |
+| --- | --- |
+| For some books, no options are offered: | ![](/ref-docs-assets/images/Tasks/Edit_tasks/OrientationNoOptions.png) |
+| For other books, many options are offered: | ![](/ref-docs-assets/images/Tasks/Edit_tasks/OrientationPageSize5.4.png) |
 
 Bloom resizes and rearranges the page and its contents to fit the page size and orientation you chose. Some will not work if you want to [print](../Publish_tasks/Print.md) a folded booklet.
 

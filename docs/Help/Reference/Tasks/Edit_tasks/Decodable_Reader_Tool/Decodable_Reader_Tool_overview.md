@@ -9,57 +9,15 @@ slug: /Help/Reference/decodable-reader-tool-overview
 
 The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/Decodable_Reader_Tool_icon.png) **Decoded Reader Tool** is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
 
-  
-
-Feature
-
-Related Tasks
-
-See Also
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageLeftArrow.png) **Stage** # **of** # ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageRightArrow.png)
-
-[Choose a stage](Choose_a_stage.md)
-
-**Set up Stages**
-
-[Set up Stages](Set_up_Stages.md)
-
-[Set up Decodable Reader dialog box](Set_up_Decodable_Reader_Tool_dialog_box.md)
-
-**Letters in this stage**
-
-[Add letters to a stage](Add_letters_to_a_stage.md)
-
--   [Example - Previous and New Letters grid](Example_Previous_and_New_Letters_grid.md)
-    
-
-**Sample words in this stage**
-
--   [Sort words in current stage](Sort_words_in_the_stage.md)
-    
--   [Make Bloom Suggest words](Make_Bloom_suggest_words.md)
-    
-
--   [About word lists and sample texts](../../../Concepts/About_word_lists_and_sample_texts.md)
-    
--   [Matching words](../../../Concepts/Matching_words.md)
-    
--   [Flagged words in a reader](../../../Concepts/Flagged_words_in_reader.md)
-    
-
-**Allowed words in this stage**
-
--   [Allowed words files](Allowed_Words_Files.md)
-    
-
-**Generate a letter and word list report**
-
-[Generate a letter and word list report](Generate_a_letter_and_word_list_report.md)
-
-![](/ref-docs-assets/images/Tasks/Edit_tasks/Is_Not%20Leveled_slider.png) **Book is not Decodable**
-
-Slide this control (![](/ref-docs-assets/images/Tasks/Edit_tasks/IsLeveled_slider.png)) to turn on the **Decodable Reader Tools**. 
+| Feature | Related Tasks | See Also |
+| --- | --- | --- |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageLeftArrow.png) **Stage** # **of** # ![](/ref-docs-assets/images/Tasks/Edit_tasks/Decodable_Reader_Tool/StageRightArrow.png) | [Choose a stage](Choose_a_stage.md) |  |
+| **Set up Stages** | [Set up Stages](Set_up_Stages.md) | [Set up Decodable Reader dialog box](Set_up_Decodable_Reader_Tool_dialog_box.md) |
+| **Letters in this stage** | [Add letters to a stage](Add_letters_to_a_stage.md)<br/>[Example - Previous and New Letters grid](Example_Previous_and_New_Letters_grid.md) |  |
+| **Sample words in this stage** | • [Sort words in current stage](Sort_words_in_the_stage.md)<br/>• [Make Bloom Suggest words](Make_Bloom_suggest_words.md) | • [About word lists and sample texts](../../../Concepts/About_word_lists_and_sample_texts.md)<br/>• [Matching words](../../../Concepts/Matching_words.md)<br/>• [Flagged words in a reader](../../../Concepts/Flagged_words_in_reader.md) |
+| **Allowed words in this stage** | [Allowed words files](Allowed_Words_Files.md) |  |
+| **Generate a letter and word list report** | [Generate a letter and word list report](Generate_a_letter_and_word_list_report.md) |  |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/Is_Not%20Leveled_slider.png) **Book is not Decodable** | Slide this control (![](/ref-docs-assets/images/Tasks/Edit_tasks/IsLeveled_slider.png)) to turn on the **Decodable Reader Tools**. |  |
 
 -   [Show the Decodable Reader Tool](Show_the_Decodable_Reader_Tool.md).
     

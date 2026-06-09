@@ -11,15 +11,9 @@ You can select (![](/ref-docs-assets/images/SelectedRadioButton.png)) **Creative
 
 #### Examples
 
-   
-
-![](/ref-docs-assets/images/Concepts/CCiconFULL.png)
-
-![](/ref-docs-assets/images/Concepts/CCiconMod.png)
-
-![](/ref-docs-assets/images/Concepts/CCiconShare.png)
-
-![](/ref-docs-assets/images/Concepts/CCiconNO.png)
+|  |  |  |  |
+| --- | --- | --- | --- |
+| ![](/ref-docs-assets/images/Concepts/CCiconFULL.png) | ![](/ref-docs-assets/images/Concepts/CCiconMod.png) | ![](/ref-docs-assets/images/Concepts/CCiconShare.png) | ![](/ref-docs-assets/images/Concepts/CCiconNO.png) |
 
 #### Note
 
