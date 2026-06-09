@@ -43,6 +43,16 @@
      border-top: solid white thin; */
 }
 
+/* Images on pages converted from the RoboHelp reference docs are mostly small
+   inline icons, where the shadow is more distracting than helpful. We can't
+   select by image path (webpack rewrites src to a data: URI or hashed URL),
+   but Docusaurus puts the doc id on <html>, so scope by page instead. Exempt
+   the margin-top too; it exists only to make room for the shadow. */
+html[class*="docs-doc-id-Help/Reference"] .markdown img {
+  box-shadow: none;
+  margin-top: 0;
+}
+
 /* Change from docusaurus default of roman numerals to letters */
 ol ol {
   list-style-type: lower-alpha;
