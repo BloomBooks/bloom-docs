@@ -11,79 +11,23 @@ Paper size information can be important when you [print](../Tasks/Publish_tasks/
 
 #### _International paper size standard_, ISO 216
 
-  
-
-Paper size
-
-Page Dimensions (mm)
-
-Page Dimensions (rounded inches)
-
-**A3**
-
-297 x 420
-
-11.7 x 16.5
-
-**A4**
-
-210 × 297
-
-8.3 × 11.7
-
-**A5**
-
-148 × 210
-
-5.8 × 8.3
-
-**A6**
-
-105 × 148
-
-4.1 × 5.8
+| Paper size | Page Dimensions (mm) | Page Dimensions (rounded inches) |
+| --- | --- | --- |
+| **A3** | 297 x 420 | 11.7 x 16.5 |
+| **A4** | 210 × 297 | 8.3 × 11.7 |
+| **A5** | 148 × 210 | 5.8 × 8.3 |
+| **A6** | 105 × 148 | 4.1 × 5.8 |
 
 #### North American paper sizes:
 
-  
-
-Paper size
-
-Page Dimensions (rounded mm)
-
-Page Dimensions (inches)
-
-**Tabloid**
-
-279 x 432
-
-11 x 17
-
-**Letter**
-
-216 × 279
-
-8.5 × 11
-
-**Half-letter**
-
-140 × 216
-
-5.5 × 8.5
-
-**6 in. x 9 in.**
-
-152 x 229
-
-6.0 x 9.0
-
-**5.25 in. x 8.25 in.**
-
-5.25 in. x 8.25 in.
-
-**5.8 in. x 8.7 in.**
-
-5.8 in. x 8.7 in.
+| Paper size | Page Dimensions (rounded mm) | Page Dimensions (inches) |
+| --- | --- | --- |
+| **Tabloid** | 279 x 432 | 11 x 17 |
+| **Letter** | 216 × 279 | 8.5 × 11 |
+| **Half-letter** | 140 × 216 | 5.5 × 8.5 |
+| **6 in. x 9 in.** | 152 x 229 | 6.0 x 9.0 |
+| **5.25 in. x 8.25 in.** |  | 5.25 in. x 8.25 in. |
+| **5.8 in. x 8.7 in.** |  | 5.8 in. x 8.7 in. |
 
 #### Note
 

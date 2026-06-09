@@ -17,29 +17,13 @@ Recordings can be heard on [ePUB readers](../../../Concepts/Epub_Readers.md) and
 
 If [aeneas](../../../Concepts/aeneas.md) / [eSpeak](../../../Concepts/eSpeak.md) are installed, you can record an entire text box and let Bloom [adjust timings](Adjust_Timings.md) in your recordings by sentence for highlighting. Otherwise, you can only record one sentence at a time.
 
- 
-
-Informative Topics
-
-Task Topics
-
-[Audio recording tips](Recording_tips.md)
-
-[Import Recording](Import_Recording.md)
-
-[Adjust Timings](Adjust_Timings.md)
-
-[Set playback order](Adjust_Timings.md)
-
-[Talking Book Tool - Examples](Talking_Book_Tool_Example.md)
-
-[Show the Talking Book Tool](Show_the_Talking_Book_Tool.md)
-
-[Talking Book Tool - Legend](Talking_Book_Tool_legend.md)
-
-[Using the Talking Book Tool](Using_the_Talking_Book_Tool.md)
-
--   [Advanced controls](Advanced_controls.md)
+| Informative Topics | Task Topics |
+| --- | --- |
+| [Audio recording tips](Recording_tips.md) | [Import Recording](Import_Recording.md) |
+| [Adjust Timings](Adjust_Timings.md) | [Set playback order](Adjust_Timings.md) |
+| [Talking Book Tool - Examples](Talking_Book_Tool_Example.md) | [Show the Talking Book Tool](Show_the_Talking_Book_Tool.md) |
+| [Talking Book Tool - Legend](Talking_Book_Tool_legend.md) | [Using the Talking Book Tool](Using_the_Talking_Book_Tool.md) |
+|  | [Advanced controls](Advanced_controls.md) |
 
 #### Note
 

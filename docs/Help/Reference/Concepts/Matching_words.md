@@ -20,25 +20,11 @@ Matching words are cumulative. The number of matching words for each stage appea
 
 ### Font colors of matching words
 
- 
-
-Color
-
-Meaning
-
-Blue
-
-These are [sight words](Sight_words.md).
-
-**Bold** words are sight words that are _new_ in the current stage.
-
-Red
-
-The words, or letters in them, are _new_ to the current stage.
-
-Black
-
-These words matched in a previous stage.
+| Color | Meaning |
+| --- | --- |
+| Blue | These are [sight words](Sight_words.md).<br/>**Bold** words are sight words that are _new_ in the current stage. |
+| Red | The words, or letters in them, are _new_ to the current stage. |
+| Black | These words matched in a previous stage. |
 
 -   **See Also:** [Make Bloom suggest words for a decodable reader](../Tasks/Edit_tasks/Decodable_Reader_Tool/Make_Bloom_suggest_words.md).
     

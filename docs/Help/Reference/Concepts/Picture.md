@@ -40,46 +40,13 @@ You can [paste](../Tasks/Edit_tasks/Change_picture.md) an image you previously c
 
 Hold your mouse pointer over a placeholder or existing picture to display these buttons (_not_ visible if the **Canvas Tool** is open in the [tool box](Tool_Box.md)):
 
- 
-
-**Button**
-
-**Tool Tip/Controls**
-
-![PICTURE](/ref-docs-assets/images/Concepts/ChoosePictureButton.png)
-
-**Change Image**
-
-![PICTURE](/ref-docs-assets/images/Concepts/CopyrightNOT_OKbutton.png)
-
-**Image is missing information on Credits, Copyright or License**
-
-![PICTURE](/ref-docs-assets/images/Concepts/CopyrightOKbutton.png)
-
-**Edit Image Credits, Copyright, & License**
-
-![PICTURE](/ref-docs-assets/images/Concepts/MoreButtonOptions.png)
-
--   ![PICTURE](/ref-docs-assets/images/ChooseVideoOverlay.png)  **Choose image from your computer**
-    
--   ![PICTURE](/ref-docs-assets/images/PasteImageOverlay.png) **Paste image**
-    
--   ![PICTURE](/ref-docs-assets/images/CopyImageOverlay.png)  **Copy image**
-    
--   ![PICTURE](/ref-docs-assets/images/SetImageInfoOverlay.png) or ![PICTURE](/ref-docs-assets/images/Concepts/SetImageInfoONLY.png) **Set Image Information (image credits, copyright, & license)**
-    
--   ![PICTURE](/ref-docs-assets/images/Concepts/ExpandImage2Fit.png)  **Expand image to fill space**
-    
--   ![PICTURE](/ref-docs-assets/images/Concepts/ResetImage.png)  **Reset image**
-    
--          **Paste Hyperlink** ![PICTURE](/ref-docs-assets/images/EnterpriseStar.png)
-    
--   ![PICTURE](/ref-docs-assets/images/Concepts/DeleteImage.png)    **Delete**
-    
-
-          ![PICTURE](/ref-docs-assets/images/Concepts/CropImage.png)
-
-**Crop**
+| **Button** | **Tool Tip/Controls** |
+| --- | --- |
+| ![PICTURE](/ref-docs-assets/images/Concepts/ChoosePictureButton.png) | **Change Image** |
+| ![PICTURE](/ref-docs-assets/images/Concepts/CopyrightNOT_OKbutton.png) | **Image is missing information on Credits, Copyright or License** |
+| ![PICTURE](/ref-docs-assets/images/Concepts/CopyrightOKbutton.png) | **Edit Image Credits, Copyright, & License** |
+| ![PICTURE](/ref-docs-assets/images/Concepts/MoreButtonOptions.png) | • ![PICTURE](/ref-docs-assets/images/ChooseVideoOverlay.png)  **Choose image from your computer**<br/>• ![PICTURE](/ref-docs-assets/images/PasteImageOverlay.png) **Paste image**<br/>• ![PICTURE](/ref-docs-assets/images/CopyImageOverlay.png)  **Copy image**<br/>• ![PICTURE](/ref-docs-assets/images/SetImageInfoOverlay.png) or ![PICTURE](/ref-docs-assets/images/Concepts/SetImageInfoONLY.png) **Set Image Information (image credits, copyright, & license)**<br/>• ![PICTURE](/ref-docs-assets/images/Concepts/ExpandImage2Fit.png)  **Expand image to fill space**<br/>• ![PICTURE](/ref-docs-assets/images/Concepts/ResetImage.png)  **Reset image**<br/>• **Paste Hyperlink** ![PICTURE](/ref-docs-assets/images/EnterpriseStar.png)<br/>• ![PICTURE](/ref-docs-assets/images/Concepts/DeleteImage.png)    **Delete** |
+| ![PICTURE](/ref-docs-assets/images/Concepts/CropImage.png) | **Crop** |
 
 ### Picture Information
 

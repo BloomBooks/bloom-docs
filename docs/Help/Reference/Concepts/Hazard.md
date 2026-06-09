@@ -11,19 +11,10 @@ In the **Book Metadata** dialog box, there is a group of check boxes associated 
 
 Here are hazards you need to prevent in your book:
 
- 
-
-**Hazard**
-
-**Description**
-
-**Flashing Hazard**
-
-Flashes of more than three times per second can cause seizures (e.g. video and animations).
-
-**Motion Simulation Hazard**
-
-Simulated motion can cause a user to become nauseated.
+| **Hazard** | **Description** |
+| --- | --- |
+| **Flashing Hazard** | Flashes of more than three times per second can cause seizures (e.g. video and animations). |
+| **Motion Simulation Hazard** | Simulated motion can cause a user to become nauseated. |
 
 #### Related Topics
 

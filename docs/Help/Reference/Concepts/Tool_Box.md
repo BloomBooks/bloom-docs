@@ -9,20 +9,9 @@ slug: /Help/Reference/tool-box
 
 In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** tab, the tool box can appear vertically along the right edge of the window. It is called the "tool box" to distinguish it from the horizontal [toolbars](../User_Interface/Toolbar/Toolbars_overview.md) and because it can display a tab for each tool.
 
- 
-
-![](/ref-docs-assets/images/Concepts/Moretab.png)
-
-This sample shows tabs for two tools and the **More...** tab.
-
-A tab changes color when
-
--   your mouse pointer is over it
-    
--   you click it.
-    
-
-A colored symbol (![](/ref-docs-assets/images/EnterpriseStar.png)) indicates a [Bloom Enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature.
+|  |  |
+| --- | --- |
+| ![](/ref-docs-assets/images/Concepts/Moretab.png) | This sample shows tabs for two tools and the **More...** tab.<br/>A tab changes color when<br/>• your mouse pointer is over it<br/>• you click it.<br/>A colored symbol (![](/ref-docs-assets/images/EnterpriseStar.png)) indicates a [Bloom Enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature. |
 
 To make a tool available for use, do these steps:
 

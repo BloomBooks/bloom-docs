@@ -48,6 +48,13 @@ ol ol {
   list-style-type: lower-alpha;
 }
 
+/* Some tables converted from the RoboHelp reference docs are layout tables
+   with no real header row. Markdown tables require a header row, so the
+   converter emits an empty one; hide it. */
+.markdown thead tr:not(:has(th:not(:empty))) {
+  display: none;
+}
+
 /* Add bold to the heading part of the expandable details (e.g. the question of an FAQ) */
 details summary {
   font-weight: var(--ifm-font-weight-bold);
