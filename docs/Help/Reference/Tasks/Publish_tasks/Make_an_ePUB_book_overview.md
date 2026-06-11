@@ -40,7 +40,7 @@ The ![](/ref-docs-assets/images/Tasks/Publish_tasks/EPUB_buttonSmall.png) **ePUB
 
 #### Tip
 
--   [https://docs.bloomlibrary.org/ePUB-notes](https://docs.bloomlibrary.org/ePUB-notes "https://docs.bloomlibrary.org/ePUB-notes") has information about the performance of various ePUB readers.
+-   [https://docs.bloomlibrary.org/ePUB-notes](/ePUB-notes) has information about the performance of various ePUB readers.
     
 -   [Recorded audio](../Edit_tasks/Record_Audio/Talking_Book_Tool_overview.md) of the words in the book or of the [image descriptions](../Edit_tasks/Image_Description_Tool/Image_Description_Tool_overview.md) can be part of the saved file.
     

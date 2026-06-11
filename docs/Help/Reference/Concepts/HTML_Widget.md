@@ -9,7 +9,7 @@ slug: /Help/Reference/html-widget
 
 An _HTML Widget_ is a small computer program that runs in a browser. A widget can be available as an \*.wdgt or an \*.html file.
 
-[https://docs.bloomlibrary.org/html5-widgets/](https://docs.bloomlibrary.org/html5-widgets/ "https://docs.bloomlibrary.org/html5-widgets/") provides more information about widgets.
+[https://docs.bloomlibrary.org/html5-widgets/](/html5-widgets/) provides more information about widgets.
 
 If you are [set up](../User_Interface/Dialog_boxes/Settings_dialog_box.md) with a [Bloom Enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) subscription, here are things you can do:
 

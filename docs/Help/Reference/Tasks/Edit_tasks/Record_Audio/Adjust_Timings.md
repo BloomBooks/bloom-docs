@@ -64,7 +64,7 @@ Bloom will hide the vertical bars when the **Talking Book Tool** is not open or 
 
 #### Note
 
--   [https://docs.bloomlibrary.org/edit-timings/](https://docs.bloomlibrary.org/edit-timings/ "https://docs.bloomlibrary.org/edit-timings/") describes how to use Audacity to make the timing more accurate.
+-   [https://docs.bloomlibrary.org/edit-timings/](/edit-timings/) describes how to use Audacity to make the timing more accurate.
     
 
 You can have or save various iterations of your timing file. In this case, you can click ![pic](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/AdjustTiming_Apply.png) **Apply Timings File** to choose the file you want to use.

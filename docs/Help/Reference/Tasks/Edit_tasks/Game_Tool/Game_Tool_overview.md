@@ -50,7 +50,7 @@ Here are things you can see in the **Game Tool** tab:
 
 -   **Theme** allows you to choose the color theme for the objects and background.
     
-    For more information, see: [https://docs.bloomlibrary.org/custom-game-theme/](https://docs.bloomlibrary.org/custom-game-theme/ "https://docs.bloomlibrary.org/custom-game-theme/")
+    For more information, see: [https://docs.bloomlibrary.org/custom-game-theme/](/custom-game-theme/)
     
 
 -   **Options** has these three buttons:

@@ -32,6 +32,6 @@ If you see this message box, you need to [enter your Subscription Code](../../
 
 [https://bloomlibrary.org/page/resources/page/feature-matrix](https://bloomlibrary.org/page/resources/page/feature-matrix "https://bloomlibrary.org/page/resources/page/feature-matrix")
 
-[https://docs.bloomlibrary.org/about-bloom-subscriptions/](https://docs.bloomlibrary.org/about-bloom-subscriptions/ "https://docs.bloomlibrary.org/about-bloom-subscriptions/")
+[https://docs.bloomlibrary.org/about-bloom-subscriptions/](/about-bloom-subscriptions/)
 
 [https://www.sil.org/](https://www.sil.org/ "https://www.sil.org/")

@@ -16,7 +16,7 @@ In the **Add Page** dialog box, below **Game Pages**, you see interactive pages.
 
 In both cases, you type instructions for the page in the top box. Then, you must enter the correct answer in the _first_ box. Bloom will shuffle the answers.
 
-[https://docs.bloomlibrary.org/release-notes-5-4/](https://docs.bloomlibrary.org/release-notes-5-4/ "https://docs.bloomlibrary.org/release-notes-5-4/") also discusses these pages.
+[https://docs.bloomlibrary.org/release-notes-5-4/](/release-notes-5-4/) also discusses these pages.
 
 #### Note
 

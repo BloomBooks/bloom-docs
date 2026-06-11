@@ -19,4 +19,4 @@ In projects that are creating a set of Bloom books, it is nice to have a consist
 
 #### Related Internet Sites
 
-[Bloom Enterprise Custom Branding](https://docs.bloomlibrary.org/what-branding-can-do/ "https://docs.bloomlibrary.org/what-branding-can-do/")
+[Bloom Enterprise Custom Branding](/what-branding-can-do/)

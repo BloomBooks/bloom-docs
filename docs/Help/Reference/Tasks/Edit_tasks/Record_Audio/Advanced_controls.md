@@ -7,7 +7,7 @@ slug: /Help/Reference/advanced-controls
 
 ## Advanced controls
 
-You might want to review [Adjust Timings](Adjust_Timings.md) and [Fine-tuning Aeneas Timings](https://docs.bloomlibrary.org/edit-timings "https://docs.bloomlibrary.org/edit-timings") on the Internet before you continue. 
+You might want to review [Adjust Timings](Adjust_Timings.md) and [Fine-tuning Aeneas Timings](/edit-timings) on the Internet before you continue. 
 
 1.  In the **Pages** [pane](../../../User_Interface/Tabs/Tabs_overview.md), click a page that has words in a [text box](../../../Concepts/Text_Box.md).
     
@@ -47,4 +47,4 @@ You might want to review [Adjust Timings](Adjust_Timings.md) and [Fine-tuning A
 
 #### Related Internet Sites
 
-[https://docs.bloomlibrary.org/EditTimings/](https://docs.bloomlibrary.org/edit-timings "https://docs.bloomlibrary.org/edit-timings")
+[https://docs.bloomlibrary.org/EditTimings/](/edit-timings)

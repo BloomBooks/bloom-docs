@@ -22,7 +22,7 @@ Then, do these steps:
 
 How to use your widget is beyond the scope of these Bloom Helps.
 
-[https://docs.bloomlibrary.org/html5-widgets/](https://docs.bloomlibrary.org/html5-widgets/ "https://docs.bloomlibrary.org/html5-widgets/") provides more information about widgets.
+[https://docs.bloomlibrary.org/html5-widgets/](/html5-widgets/) provides more information about widgets.
 
 #### Related Topics
 
