@@ -65,15 +65,6 @@
     "node": "24.15.0",
     "pnpm": "10.33.4"
   },
-  "pnpm": {
-    "overrides": {
-      "webpack": "5.91.0"
-    },
-    "patchedDependencies": {
-      "@docusaurus/utils@3.10.1": "patches/@docusaurus__utils@3.10.1.patch",
-      "@docusaurus/theme-search-algolia@3.10.1": "patches/@docusaurus__theme-search-algolia@3.10.1.patch"
-    }
-  },
   "browserslist": {
     "production": [
       ">0.5%",
