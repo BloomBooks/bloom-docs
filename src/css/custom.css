@@ -95,8 +95,12 @@ details summary {
   }
 }
 
-/* DocSearch V4 Styling to match site theme */
-:root {
+/* DocSearch V4 Styling to match site theme.
+   Use :root:root (and :root[data-theme="dark"] below) instead of a plain
+   :root / [data-theme="dark"] so these overrides out-specify @docsearch/css,
+   whose own variables are injected lazily (after custom.css) and, for dark
+   mode, via the higher-specificity html[data-theme=dark] selector. */
+:root:root {
   /* Primary colors - using site's red theme */
   --docsearch-primary-color: #d65649;
   --docsearch-text-color: #1c1e21;
@@ -150,7 +154,7 @@ a[target="_blank"]::after {
   display: inline-block;
 }
 
-[data-theme="dark"] {
+:root[data-theme="dark"] {
   /* Dark theme colors */
   --docsearch-primary-color: #d65649;
   --docsearch-text-color: #f5f6f7;
