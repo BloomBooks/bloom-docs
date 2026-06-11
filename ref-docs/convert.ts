@@ -933,6 +933,47 @@ function rewriteInternalLinks(root: ParentNode) {
   }
 }
 
+// The source docs link to the live site by absolute URL
+// (https://docs.bloomlibrary.org/...). Docusaurus treats any absolute URL as
+// external, even one pointing at our own site: such links skip
+// onBrokenLinks validation and trigger a full page reload instead of
+// client-side navigation. Rewrite them to root-relative paths so they're
+// treated as internal links, matching the convention the Notion-sourced docs
+// already use (e.g. /ePUB-notes). This must stay in sync with `url` in
+// docusaurus.config.js.
+const SITE_URL_PATTERN = /^https?:\/\/docs\.bloomlibrary\.org(?=\/|$)/i;
+
+// Stopgap corrections for links whose target is mis-cased/misspelled in the
+// upstream RoboHelp source. These were harmless while the links were external,
+// but once rewritten to internal links they're validated by onBrokenLinks and
+// would fail the build. Remove entries here once the source is fixed.
+const SITE_LINK_CORRECTIONS = new Map<string, string>([
+  ["/EditTimings/", "/edit-timings/"],
+]);
+
+function rewriteAbsoluteSiteLinks(root: ParentNode) {
+  for (const link of Array.from(root.querySelectorAll("a[href]"))) {
+    const href = link.getAttribute("href");
+    if (!href || !SITE_URL_PATTERN.test(href)) {
+      continue;
+    }
+
+    const relativeHref = href.replace(SITE_URL_PATTERN, "") || "/";
+    link.setAttribute(
+      "href",
+      SITE_LINK_CORRECTIONS.get(relativeHref) ?? relativeHref
+    );
+
+    // These were authored as external links; drop the new-tab target and the
+    // redundant title (RoboHelp duplicates the URL there) so they render as
+    // ordinary internal links.
+    link.removeAttribute("target");
+    if (link.getAttribute("title") === href) {
+      link.removeAttribute("title");
+    }
+  }
+}
+
 function getOverviewFile(entries: fs.Dirent[], dirPath: string): string | null {
   const htmlFiles = entries.filter((entry) => entry.isFile() && isHtmlFileName(entry.name));
   const directoryName = path.basename(dirPath).toLowerCase();
@@ -1276,6 +1317,7 @@ function cleanHtmlContent(dom: JSDOM): string {
   }
 
   rewriteInternalLinks(content);
+  rewriteAbsoluteSiteLinks(content);
   normalizeTables(content);
   normalizeListStructure(content);
   normalizeInlineFormatting(content);

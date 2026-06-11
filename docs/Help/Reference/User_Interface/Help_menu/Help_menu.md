@@ -11,7 +11,7 @@ slug: /Help/Reference/help-menu
 
 -   ![](/ref-docs-assets/images/User_Interface/Help_menu/HelpIcon.png) **Help...** opens this **Bloom Help** file.
     
--   ![](/ref-docs-assets/images/User_Interface/Help_menu/HelpIcon.png) **More Help (Web)** opens [https://docs.bloomlibrary.org/](https://docs.bloomlibrary.org/ "https://docs.bloomlibrary.org/"). 
+-   ![](/ref-docs-assets/images/User_Interface/Help_menu/HelpIcon.png) **More Help (Web)** opens [https://docs.bloomlibrary.org/](/). 
     
 -   ![](/ref-docs-assets/images/User_Interface/Help_menu/VideoIcon.png) **Training Videos** opens a list of [videos](../../FAQ/Instructional_Videos.md).
     
@@ -30,7 +30,7 @@ slug: /Help/Reference/help-menu
     Linux - /tmp/SIL/
     
 
--   ![](/ref-docs-assets/images/User_Interface/Help_menu/NoICON.png) **Release Notes** opens [https://docs.bloomlibrary.org/Release-Notes/](https://docs.bloomlibrary.org/Release-Notes/ "https://docs.bloomlibrary.org/Release-Notes/").
+-   ![](/ref-docs-assets/images/User_Interface/Help_menu/NoICON.png) **Release Notes** opens [https://docs.bloomlibrary.org/Release-Notes/](/Release-Notes/).
     
 -   ![](/ref-docs-assets/images/User_Interface/Help_menu/NoICON.png) **Check For New Version** checks an Internet site for a more recent version of Bloom. If there is one, it starts the installer (Windows® _only_). **See Also:** [Settings](../Dialog_boxes/Settings_dialog_box.md).
     

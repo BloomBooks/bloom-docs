@@ -30,7 +30,7 @@ Con: Any custom pages will not look good.
 
 Con: This mode is _not_ available if your book has pages with [Canvas Tool](../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) elements (e.g. comics).
 
-**See** [https://docs.bloomlibrary.org/ePUB-notes](https://docs.bloomlibrary.org/ePUB-notes "https://docs.bloomlibrary.org/ePUB-notes") to learn more about the performance of these ePUB modes and readers.
+**See** [https://docs.bloomlibrary.org/ePUB-notes](/ePUB-notes) to learn more about the performance of these ePUB modes and readers.
 
 #### Note
 

@@ -17,7 +17,7 @@ This page can hold an [HTML Widget](HTML_Widget.md).
     
 -   You can [reorder](../Tasks/Edit_tasks/Reorder_pages.md) pages in the **Pages** pane.
     
--   [https://docs.bloomlibrary.org/html5-widgets/](https://docs.bloomlibrary.org/html5-widgets/ "https://docs.bloomlibrary.org/html5-widgets/") provides more information about widgets.
+-   [https://docs.bloomlibrary.org/html5-widgets/](/html5-widgets/) provides more information about widgets.
     
 
 #### Related Topics
