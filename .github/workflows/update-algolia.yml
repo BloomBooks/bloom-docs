@@ -18,4 +18,20 @@ jobs:
                   # "If you already have a crawler set up in Algolia, you can skip them. But the IDE says no"
                   algolia-app-id: ${{ secrets.ALGOLIA_APP_ID }}
                   algolia-api-key: ${{ secrets.ALGOLIA_API_KEY }}
-                  site-url: "https://alpha-docs.bloomlibrary.org"
+                  site-url: "https://docs.bloomlibrary.org"
+
+            # The crawler refreshes the search index, but the "Ask AI" Agent Studio
+            # agent caches its generated answers. Invalidate that cache so the agent
+            # answers from the freshly-indexed content rather than stale responses.
+            # See https://www.algolia.com/doc/guides/algolia-ai/agent-studio/how-to/caching#cache-invalidation
+            # The agent id matches askAi.assistantId in docusaurus.config.js.
+            - name: Invalidate Algolia Agent Studio cache
+              env:
+                  ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+                  ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+                  AGENT_ID: "BrDlTKUo3zcu"
+              run: |
+                  curl --fail --silent --show-error -X DELETE \
+                    "https://${ALGOLIA_APP_ID}.algolia.net/agent-studio/1/agents/${AGENT_ID}/cache" \
+                    -H "x-algolia-application-id: ${ALGOLIA_APP_ID}" \
+                    -H "x-algolia-api-key: ${ALGOLIA_API_KEY}"
