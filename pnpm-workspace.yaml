@@ -24,3 +24,7 @@ allowBuilds:
 
 # Save exact versions in package.json instead of adding ^ or ~ prefixes.
 savePrefix: ''
+
+# Apply local patches to specific dependency versions.
+patchedDependencies:
+  "@docusaurus/utils@3.10.1": patches/@docusaurus__utils@3.10.1.patch
