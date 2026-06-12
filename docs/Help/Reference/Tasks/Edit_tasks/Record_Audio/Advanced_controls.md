@@ -47,4 +47,4 @@ You might want to review [Adjust Timings](Adjust_Timings.md) and [Fine-tuning A
 
 #### Related Internet Sites
 
-[https://docs.bloomlibrary.org/EditTimings/](/edit-timings)
+[https://docs.bloomlibrary.org/edit-timings/](/edit-timings/)

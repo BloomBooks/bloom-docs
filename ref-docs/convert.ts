@@ -948,7 +948,7 @@ const SITE_URL_PATTERN = /^https?:\/\/docs\.bloomlibrary\.org(?=\/|$)/i;
 // but once rewritten to internal links they're validated by onBrokenLinks and
 // would fail the build. Remove entries here once the source is fixed.
 const SITE_LINK_CORRECTIONS = new Map<string, string>([
-  ["/EditTimings/", "/edit-timings/"],
+  //["/EditTimings/", "/edit-timings/"], // fixed
 ]);
 
 function rewriteAbsoluteSiteLinks(root: ParentNode) {

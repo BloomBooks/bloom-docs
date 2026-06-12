@@ -57,4 +57,4 @@ slug: /Help/Reference/using-the-talking-book-tool
 
 #### Related Internet Sites
 
-[https://docs.bloomlibrary.org/EditTimings/](/edit-timings/)
+[https://docs.bloomlibrary.org/edit-timings/](/edit-timings/)
