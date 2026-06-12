@@ -17,32 +17,8 @@ Algolia's crawler can reject records when the page HTML becomes too large. Docus
 
 The published `@docusaurus/utils` package only ships the compiled webpack helper in `lib/webpackUtils.js`, so that is the file patched here even though the corresponding upstream Docusaurus source lives in its webpack utils source file.
 
-This native pnpm patch is referenced from the root `package.json` under `pnpm.patchedDependencies`.
+This native pnpm patch is referenced from `pnpm-workspace.yaml` under `patchedDependencies`.
 
 **Maintenance**: This patch will need to be recreated if/when `@docusaurus/utils` is upgraded to a version that doesn't include this fix upstream.
 
-## @docusaurus/theme-search-algolia
-
-**File**: `@docusaurus__theme-search-algolia@3.10.1.patch`
-
-**Purpose**: 
-1. Opens external links in search results in a new browser window/tab when `openExternalLinksInNewTab` is enabled in the site config.
-
-**Changes**:
-
-- Modified the `Hit` component in `SearchBar/index.js` to detect external URLs and render them as anchor tags with `target="_blank"` and `rel="noopener noreferrer"` instead of using the internal `Link` component
-- Added `openExternalLinksInNewTab` configuration option to control this behavior
-
-**Why**: This repo sets `openExternalLinksInNewTab: true` in the Algolia config and expects external search results to open in a new tab.
-
-```javascript
-algolia: {
-  appId: "...",
-  apiKey: "...",
-  indexName: "bloom",
-  openExternalLinksInNewTab: true, // Open external search results in new tab (optional, defaults to false)
-}
-```
-
-**Maintenance**: This patch will need to be recreated if/when `@docusaurus/theme-search-algolia` is upgraded to a version that doesn't include this fix upstream.
 These patches can be regenerated with `pnpm patch` and `pnpm patch-commit`.
