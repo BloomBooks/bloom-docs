@@ -89,6 +89,34 @@ jobs:
             npx tsx ref-docs/convert.ts
           fi
 
+      # Why this step exists:
+      # docu-notion (the "Pull from Notion" step above) treats the ENTIRE ./docs
+      # tree as its own. At startup it scans docs/ for every *.md file, then after
+      # writing the Notion pages it deletes any *.md it didn't just write (see
+      # cleanupOldFiles() in @sillsdev/docu-notion's LayoutStrategy). That's how it
+      # removes pages you unpublished/renamed in Notion -- but it also wipes the
+      # committed reference docs at docs/Help/Reference, which come from ref-docs/
+      # (RoboHelp), not Notion. (docs/Help is a mixed directory: Troubleshooting/,
+      # Technical-Notes/, forum.md, etc. are Notion's; Reference/ is ref-docs'.)
+      #
+      # If we ALSO ran the convert step above, it regenerates Reference right after,
+      # so no harm. But on a Notion-only pull nothing regenerates it, and the commit
+      # step below would record the deletion of ref-docs files. So when we
+      # pull from Notion without re-converting, restore the committed copies.
+      # (Only *.md is at risk: docu-notion's scan ignores .mdx/.json, so the
+      # _category_.json sidebar files and the static/ref-docs-assets images survive.)
+      #
+      # This is a band-aid. The real fix is to 
+      # EITHER:
+      #   - Generate them outside docs/ (say ref-docs/generated-md/) and copy them
+      #     into docs/Help/Reference at build/start time -- mirroring how static-docs/
+      #     is handled by `pnpm copy-static-docs`.
+      #   - OR Improve docu-notion to allow exempting a subdirectory from deletion.
+      # Either removes the need for this step.
+      - name: Restore reference docs deleted by Notion pull
+        if: ${{ inputs.pull_notion && !inputs.convert_ref_docs }}
+        run: git checkout HEAD -- docs/Help/Reference
+
       - name: copy-static-docs
         run: pnpm copy-static-docs
 
