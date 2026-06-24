@@ -1,5 +1,5 @@
 ---
-title: Basic Canvas Overlays 2
+title: Basic Canvas Overlays
 sidebar_position: 1
 slug: /basic-canvas-overlays
 keywords: [canvas, overlay]
