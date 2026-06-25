@@ -1,6 +1,6 @@
 ---
 title: Hyperlinked Table of Contents
-sidebar_position: 1
+sidebar_position: 0
 slug: /showcase-TOC
 ---
 

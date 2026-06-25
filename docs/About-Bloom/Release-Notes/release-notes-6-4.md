@@ -35,6 +35,10 @@ To help make good-looking covers, the Canvas Tool now lets you set a color for â
 
 
 
+For more information, see [Custom Covers](/p/3894bb19df1280afa0a5d69a9901ac99).
+
+
+
 </div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>

@@ -33,7 +33,7 @@ To switch from **Standard Layout** to **Custom Layout**, select from the dropdow
 ## Become Background {/* #3894bb19df1280638fd0f01078e5b838 */}
 
 
-After changing your cover layout from **Standard** to **Custom**, many users will want the front cover image to expand to fill the entire canvas, edge-to-edge, as in seen above. Here’s how this is done:
+After changing the cover layout from **Standard** to **Custom**, many users will want the front cover image to expand to fill the entire canvas, edge-to-edge, as seen above. Here’s how this is done:
 
 
 ![](./custom-covers.3894bb19-df12-80be-8ce0-f71b82dd16f0.png)
