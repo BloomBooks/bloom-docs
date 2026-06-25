@@ -112,7 +112,7 @@ Many Bloom Enterprise projects use their own custom front/back matter packs. Pre
 ### Collection Tab
 
 
-⭐You can now rename a book. Previously, Bloom always used the name of a book’s title. The new name appears under the thumbnail of the book and also the name of the folder on disk (![](https://imgur.com/dcMz5tu.gif)). [Feature Request](https://community.software.sil.org/t/allow-changing-book-filenames/489/14)
+⭐You can now rename a book. Previously, Bloom always used the name of a book’s title. The new name appears under the thumbnail of the book and also the name of the folder on disk ([see animation](https://imgur.com/dcMz5tu)). [Feature Request](https://community.software.sil.org/t/allow-changing-book-filenames/489/14)
 
 
 ### Edit Tab
