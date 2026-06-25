@@ -35,8 +35,7 @@ To help make good-looking covers, the Canvas Tool now lets you set a color for â
 
 
 
-For more information, see [Custom Covers](/p/3894bb19df1280afa0a5d69a9901ac99).
-
+For more information, see [Custom Covers](/custom-covers).
 
 
 </div><div className='notion-spacer'></div>
@@ -45,6 +44,7 @@ For more information, see [Custom Covers](/p/3894bb19df1280afa0a5d69a9901ac99).
 
 
 ![](./release-notes-6-4.35e4bb19-df12-8061-981f-f8a2306993eb.png)
+
 
 
 </div><div className='notion-spacer'></div>
