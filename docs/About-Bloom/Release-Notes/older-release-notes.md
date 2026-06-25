@@ -7,16 +7,16 @@ keywords: [Release Notes]
 
 
 
-# Bloom **5.2**
+## Bloom **5.2**
 
 
-## Decodable Reader
+### Decodable Reader
 
 
 ⭐ When the Decodable Reader tool generates a report, it now includes a list of all the usable words for each level. [Feature Request](https://community.software.sil.org/t/new-category-in-the-letter-and-word-report-in-decodable-tool/5291)
 
 
-## BloomLibrary.org Upload
+### BloomLibrary.org Upload
 
 
 When you upload a book, Bloom checks to see if there is already a book with the same internal ID on the library. If it finds one, it now gives you two choices. You can replace the existing book or upload your book as a new item. The latter option fixes your book’s ID to be unique.
@@ -25,7 +25,7 @@ When you upload a book, Bloom checks to see if there is already a book with the 
 ![](./older-release-notes.8f327d20-c1aa-441b-bedd-d8783607e824.png)
 
 
-## Team Collections (Bloom Enterprise, Experimental)
+### Team Collections (Bloom Enterprise, Experimental)
 
 
 ⭐ When you check in a book, you can now type in a short note saying what you did.
@@ -46,10 +46,10 @@ When you upload a book, Bloom checks to see if there is already a book with the 
 ![](./older-release-notes.06c301af-e6e4-40fe-82d3-0ee6379ac6f4.png)
 
 
-## ⭐ Export / Import Spreadsheet (Bloom Enterprise, Experimental)
+### ⭐ Export / Import Spreadsheet (Bloom Enterprise, Experimental)
 
 
-### Export
+Export
 
 
 You can now export a Bloom book to Excel spreadsheet format in a way that preserves text and images. (Satisfies this [Feature Request](https://community.software.sil.org/t/ability-to-export-source-text/5451))
@@ -61,7 +61,7 @@ You can now export a Bloom book to Excel spreadsheet format in a way that preser
 Note that there are currently several things that Bloom does not export: Talking Book audio, Music, Video, Activities.
 
 
-### Import
+Import
 
 
 You can now import an Excel spreadsheet _onto_ an existing Bloom book. The target book can be a new empty book you just created or an existing book that you want to update. When importing onto an existing book, Bloom can currently not safely protect some things in the existing book, so if your book has any of these things, it will refuse to do the import. These items in a book prevent it from getting an update through a spreadsheet import: Talking Book audio, Activities.
@@ -82,10 +82,10 @@ While not fully supported yet, we also expect that this feature will eventually 
 To enable Spreadsheet Import/Export, tick the box under `Collection Settings / Advanced Program Settings / Spreadsheet Import/Export`.
 
 
-# Collection User Interface
+## Collection User Interface
 
 
-## New Collection UI (Experimental)
+### New Collection UI (Experimental)
 
 
 As the next phase of our multi-year effort to modernize the Bloom code base, we have completely rewritten the left-hand side of the Collection Tab using Web technologies. This has been a _very large_ undertaking, so we’re making it available as an experimental feature for Bloom 5.2 to give us all more time to test it. With this new interface, Team Collections get nice avatar images of their teammates over books they have checked out:
@@ -100,22 +100,22 @@ Books with badges showing who has them checked out
 Other users will notice only minor improvements to book thumbnail buttons. To enable this new mode, tick the box under `Collection Settings / Advanced Program Settings / Try the New Version of the Collection Tab`.
 
 
-## Collection Settings
+### Collection Settings
 
 
 Many Bloom Enterprise projects use their own custom front/back matter packs. Previously in Bloom, everyone could see these in the list of choices. Now, these custom choices are not listed but instead are automatically selected based on the Bloom Enterprise code.
 
 
-# 5.1
+## Bloom 5.1
 
 
-## Collection Tab
+### Collection Tab
 
 
 ⭐You can now rename a book. Previously, Bloom always used the name of a book’s title. The new name appears under the thumbnail of the book and also the name of the folder on disk (![](https://imgur.com/dcMz5tu.gif)). [Feature Request](https://community.software.sil.org/t/allow-changing-book-filenames/489/14)
 
 
-## Edit Tab
+### Edit Tab
 
 
 ⭐You can create **hyperlinks** that point to other pages in the same book. This can be used for creating your own simple Table of Contents. When creating ePUBs, these links will be turned into normal text because the feature does not work in ePUBs. [Feature Request](https://community.software.sil.org/t/hyperlink-to-other-pages/1784)
@@ -148,7 +148,7 @@ We improved how we count words in complex pages (such as arithmetic pages).
 (See an animation of these [new overlay features](https://imgur.com/E83qLj6))
 
 
-## Team Collections (Bloom Enterprise)
+### Team Collections (Bloom Enterprise)
 
 
 Team Collections are a new feature that helps you safely share a collection within your team, across the internet, without full-time internet access. For this release, we’re going to keep this feature behind the “Experimental” checkbox. For now, we are only supporting Dropbox & LAN environments. Please contact us if you are considering using this. We need your help to fully understand how this will be used, and how the experience goes.
@@ -196,7 +196,7 @@ We have removed, from the lower-left corner of images, the button that opened th
 When Bloom has trouble loading an image and you send us an error report, we now will receive the offending image file. That will help us figure out what the problem is.
 
 
-## Publish Tab
+### Publish Tab
 
 
 We added a new tool for making it easy to create a BloomPUB of every book in a collection, with a single command. (Bloom Enterprise)
@@ -211,7 +211,7 @@ You can now also upload an entire collection or even multiple collections to the
 ![](./older-release-notes.bf4574ae-2ee6-49a2-a1b0-d39bca2d610d.png)
 
 
-## Bloom Library
+### Bloom Library
 
 
 We improved counts and stats on Bloom Library. For example, a collection that contains child collections can now display the total count ([example](https://bloomlibrary.org/kyrgyzstan-OkuuKeremet)).
@@ -226,7 +226,7 @@ We added a new page selector for Bloom Player, the engine that powers book readi
 ![](./older-release-notes.f5ab055f-a1f9-44bd-86f9-665369e18145.png)
 
 
-## Other Good Stuff
+### Other Good Stuff
 
 
 **Faster Enterprise Subscription Delivery** When projects get a new Enterprise subscription, there is a delay while we build their branding pack (logos, boilerplate text, etc.). Starting with Bloom 5.1, customers don’t have to wait… their Enterprise code will work immediately. Bloom will show a placeholder message on the back cover that shows the subscription name. When an update to Bloom contains the branding files for the subscription, this message will be automatically replaced with the branding images, the next time the books in the collection are edited.
@@ -238,16 +238,16 @@ We added a new page selector for Bloom Player, the engine that powers book readi
 As with most versions, we did a bunch of behind-the-scenes work towards rewriting making Bloom be more portable to other operating systems. For the most part, you won’t be able to tell the difference.
 
 
-# 5.0
+## Bloom 5.0
 
 
-## Collection Tab
+### Collection Tab
 
 
 We made hovering over a book thumbnail show the folder name of the book. This is helpful to see what’s-what when you have multiple copies of a book.
 
 
-### Bookshelf selector
+Bookshelf selector
 
 
 In collection settings, Bloom Enterprise projects that have bookshelves on Bloom Library can now choose the bookshelf that corresponds to the collection. Then when books are uploaded to BloomLibrary.org, they automatically go to the correct bookshelf. This setting also can now be used to automatically choose a back-cover image to show where the book fits in the overall curriculum and choose a cover color based on the grade (this is used for a large MOE project in Kyrgyzstan).
@@ -256,7 +256,7 @@ In collection settings, Bloom Enterprise projects that have bookshelves on Bloom
 ![](./older-release-notes.2e4a3bb7-bd4f-450e-9c72-f17fa471dfd1.png)
 
 
-## Edit Tab
+### Edit Tab
 
 
 ### Comic Tool —> Overlay Tool
@@ -310,13 +310,13 @@ We added a button to copy all the leveled reader measures of a book to the clipb
 Text on Simple Quiz pages is no longer counted when computing whole-book statistics. Note that this change only applies to newly created Quizzes. Contact us for instructions about applying this change to pre-exiting quiz pages.
 
 
-## Team Collections
+### Team Collections
 
 
 ❗ _NOTE: Team Collections debuted in Bloom 5.0 beta, but did not “graduate” out of beta successfully because of a bug found by a beta tester (yay beta testers!). We did not have time to properly test the fix before it was time to release Bloom 5.0. Therefore, you need to run Bloom 5.1 beta in order to use this feature._
 
 
-## Performance
+### Performance
 
 
 Recently we spent weeks improving Bloom’s ability to deal with large books and long Bloom sessions without running out of memory. As part of that effort, we’ve added a tool for watching what happens to available memory and speed as Bloom does various things. This is mostly for our own use, but it’s also available to you, in case you suspect that Bloom is eating memory or slowing down as you use it.
@@ -328,7 +328,7 @@ Recently we spent weeks improving Bloom’s ability to deal with large books and
 ![](./older-release-notes.0ad19a2a-507c-4099-9064-3f9036af1487.png)
 
 
-## BloomLibrary.org
+### BloomLibrary.org
 
 
 When you download books from BloomLibrary.org that have audio, Bloom will now download the audio as part of the shell book.
@@ -343,10 +343,10 @@ We’ve improved what you see when you look at [template books on BloomLibrary.o
 ![](./older-release-notes.d6f72e28-4e79-451f-a5d3-31f8cf2e4b5c.png)
 
 
-# 4.9
+## Bloom 4.9
 
 
-## Edit Tab
+### Edit Tab
 
 
 Bloom now makes much better use of your computer’s memory. You should be able to work much longer, with much larger books, before encountering any memory limitations.
@@ -376,13 +376,13 @@ In the Comic Tool, you can now click a button to duplicate the current bubble.
 When you hover over an image or image placeholder, Bloom now tells you what resolution image you need. This information can be useful to your illustrator.
 
 
-## Copy Text from Source Bubble
+### Copy Text from Source Bubble
 
 
 We have added a Copy button to the Source Bubble. ([Feature Request](https://community.software.sil.org/t/allow-copying-text-from-speech-bubbles-with-comic-books/3216/9))
 
 
-## Publish Tab
+### Publish Tab
 
 
 Login to BloomLibrary allows you to just click the Google button to use your Google identity (including sil.org accounts, for those of you who have that).
@@ -394,10 +394,10 @@ You can now provide a custom thumbnail for Epub publications. Place a file label
 We can now provide custom “Full Bleed” layouts to Enterprise projects that need edge-to-edge printing at commercial print shops.
 
 
-# 4.8
+## Bloom 4.8
 
 
-## Edit Tab
+### Edit Tab
 
 
 ⭐**Talking Book Text Playback Order**. You can now control the playback order of all the text boxes on a page, including comic book bubbles.
@@ -424,10 +424,10 @@ If you hold down “o”, the menu of special characters that pops up now offers
 You can now embed little interactive activities in digital publications (web, Bloom Reader, RAB App). Many of these widgets already exist (they work with Apple’s IBooks and the Kotobee book software). You may also be able to make your own or commission a programmer. If this approach gains popularity, we’ll have a set of them to share within the Bloom community. To learn about “book widgets”, please see [this blog](https://blog.kotobee.com/book-widgets-everything-you-need-to-know/). To enable this feature, you need to go to Collection Tab/Settings/Advanced Program Settings and tick “Show Experimental Features”. Bloom requires that the widget be a zipped set of files ending in “.wdgt”. The files must include a file named “index.html”. We will be making this a bit easier in Bloom 5.0.
 
 
-# 4.7
+## Bloom 4.7
 
 
-## Edit Tab
+### Edit Tab
 
 
 ⭐Import Audio ([Feature Request](https://community.software.sil.org/t/ability-to-add-pre-recorded-audio-files/958))
@@ -463,7 +463,7 @@ _Known limitation in this release: When the Comic Book tool is visible, you can�
 ⭐For some complex scripts, the size of language text in the Decodable Reader was too small. We added a font-size chooser under `Settings:Book Making:Special Script Settings:Font size when displayed in tools`.
 
 
-## Publish Tab
+### Publish Tab
 
 
 In Publish: Bloom Reader screen, you can now decide which of the languages in a book you want to publish.
@@ -478,7 +478,7 @@ In Publish: ePUB, you can now add a summary/description to the ePUB metadata.
 We added a way to export a single mp3 file for each page of the book. Right click on the left bar, then choose “Export audio files, 1 per page”.
 
 
-## Collection Tab
+### Collection Tab
 
 
 We simplified book thumbnails to just show the image on the cover.
@@ -487,16 +487,16 @@ We simplified book thumbnails to just show the image on the cover.
 We have created a New Problem Report Dialog which is both more convenient for users and should help us get the information we need to be of help.
 
 
-## Other
+### Other
 
 
 ⭐ _Really_ complex scripts. Bloom 4.7 is available in two versions. The new version, “Bloom CS 4.7”, supports those scripts that require the latest _graphite_ font rendering. We are still working out some performance kinks in Bloom CS, so only use it if you need it are are willing to help us find bugs.
 
 
-# 4.6
+## Bloom 4.6
 
 
-## Collection Tab
+### Collection Tab
 
 
 In Settings, we’ve added the option to use Kayah and Shan numeral systems.([Feature Request](https://community.software.sil.org/t/new-page-number-script-in-bloom/2227))
@@ -505,7 +505,7 @@ In Settings, we’ve added the option to use Kayah and Shan numeral systems.([Fe
 When opening a different collection, Bloom now offers you the last 9 collections you opened. ([Feature Request](https://community.software.sil.org/t/display-more-than-3-collections-in-the-open-create-collections-dialogue-box/1836))
 
 
-## Edit Tab
+### Edit Tab
 
 
 ⭐ We added a completely new **WYSIWYG Quiz** page. You can control formatting ([Feature Request](https://community.software.sil.org/t/control-font-size-on-quiz/969)), location in the book ([Feature Request](https://community.software.sil.org/t/bloom-reader-comprehension-quizzes-in-more-than-one-place/1968)), and the content of the heading. You can also record audio for all parts of it ([Feature Request](https://community.software.sil.org/t/the-ability-to-record-quiz-questions-and-answer-using-the-talking-book-tool/891), [Feature Request](https://community.software.sil.org/t/audio-questions-for-quizzes-for-non-readers/1452)).
@@ -553,7 +553,7 @@ You can now record audio for all the parts of a Quiz Page. ([Feature Request](ht
 We improved the smoothness of Talking Book playback by now playing only a single audio file per page. This means that highlighting is now based on timestamps, rather than on starting up individual audio files for each sentence. Talking books created with 4.6 require a Bloom Reader version that is up to date (latest v1.3).
 
 
-## Publish Tab
+### Publish Tab
 
 
 ### Bloom Reader Publish Preview
@@ -577,7 +577,7 @@ We’ve added the ability to limit Bloom shellbook downloads to BloomLibrary.org
 ⭐ New, cleaner ePUB publish screen
 
 
-## User Interface
+### User Interface
 
 
 We added smarts to Bloom’s user interface to use different fonts, as needed, in order to display various non-roman languages. This is not related to what you see in books, just the Bloom interface. Bloom now ships with Google’s “noto” fonts for Arabic, Bengali, Devanagari, Thai, and CJK (Chinese, Japanese, Korean).
@@ -586,19 +586,19 @@ We added smarts to Bloom’s user interface to use different fonts, as needed, i
 This version is the beginning of a multi-version effort to move Bloom’s UI to a more consistent and contemporary visual design language. We have chosen to move towards Google’s [Material Design](https://material.io/design/), which is what users will be familiar with from their phones.
 
 
-# 4.5
+## Bloom 4.5
 
 
 ⭐ We have adjusted the background colors in order to provide a higher contrast for those with poor screens, lighting, or vision ([Feature Request](https://community.software.sil.org/t/better-color-contrast-in-the-bloom-interface/828/7)).
 
 
-## UI Languages
+### UI Languages
 
 
 ⭐ Bloom’s programmers can now specify “fallback languages” for the Bloom user interface. Previously, the fallback was always English. Now, for example, if we have a UI translation in a Mayan language, we would set the fallback to Spanish. That way, if something on screen has not been translated yet, the user will see the Spanish, rather than the English.
 
 
-## Edit Tab
+### Edit Tab
 
 
 ⭐ Bloom has a way of changing the layout of a page to match one of the template pages. Now, in the “Choose Different Layout” dialog you can now tell Bloom to make that change for _all_ similar pages in the book. This makes it easy to, for example, add a place for a sign language video to all pages.
@@ -646,7 +646,7 @@ When publishing digital books, Bloom now removes unused branding images.
 The PDF generator can now handle books with Device 16x9 layouts, and you can upload them to Bloom Library.
 
 
-## 4.4
+### Bloom 4.4
 
 
 For those of you helping us out by running and giving feedback on the Bloom beta channel, **thank you!** You are a vital part of the Bloom team. We are now moving on to building Bloom 4.5, and will release new editions of the 4.4 beta if you find any problems with it.
@@ -688,7 +688,7 @@ Previously, if you had a large paper size (like A3), the booklet buttons would b
 ⭐ When uploading a book to BloomLibrary.org, you can now specify features of the book to help people find it. Current options are “Accessible to the Blind”, “Accessible to the Visually Impaired”, and “Sign Language”.
 
 
-## 4.3
+## Bloom 4.3
 
 
 ### Settings
@@ -724,7 +724,7 @@ _Custom branding packs are part of Bloom Enterprise subscriptions_
 ⭐ It is now possible for a Branding pack to add an image at the top of the Credits page, before the Copyright. This image can contain text, but it won’t be able to adjust to different page sizes.
 
 
-# Experimental Features
+### Experimental Features
 
 
 This release is a stepping stone for a more complete set of features for making books for those with visual and hearing impairments. These features are marked as:
@@ -774,7 +774,7 @@ You can now use Bloom to make Sign Language books. One way to use this is to mak
 At this time, video does not support sound. We know there will be requests for that, but we need to focus on finishing the sign language features.
 
 
-## 4.2
+## Bloom 4.2
 
 - Edit Tab
 	- New “Motion Tool” allows you to specify pan/zoom effects of a page, to make a “Motion Book” in Bloom Reader. Then tick the “Motion Book” button when publishing to the Android Bloom Reader. What you’ll get is a book that is a normal talking book in portrait mode, then goes to sit-back-and-watch mode when you turn the device sideways.
@@ -783,7 +783,7 @@ At this time, video does not support sound. We know there will be requests for t
 - Publish
 	- Fonts are now embedded in Bloom Reader books, if their embedded metadata allows that.
 
-## 4.1
+## Bloom 4.1
 
 - Settings
 	- You can now customize how Language 2 and Language 3 are displayed, just like you previously could for Language 1. [See original feature request](https://community.software.sil.org/t/option-to-use-national-language-for-filenames/211)
@@ -801,7 +801,7 @@ At this time, video does not support sound. We know there will be requests for t
 	- From “Add Page”, you can add a “Bloom Reader Quiz” page (one works with books published with a Bloom Enterprise subscription)
 	- You can add bookshelves and sub-bookshelves (requires Bloom Enterprise subscription)
 
-## 4.0
+## Bloom 4.0
 
 - Publish Tab
 	- Publish Book to [**Bloom Reader**](https://bloomlibrary.org/bloom-reader) Android app, which can get from the Play store or another user who has it installed.
@@ -827,7 +827,7 @@ At this time, video does not support sound. We know there will be requests for t
 	- Changed “Vernacular” to “Local Language”
 	- We removed Settings and Other Collection buttons from the Edit and Publish Tabs. They aren’t really needed there, and we think that having them only available on the Collections Tab promotes an understanding of what it is that they do.
 
-## 3.9
+## Bloom 3.9
 
 - Custom Templates
 	- ⭐ We’ve created a “Template Starter” template that lets you make a book full of template pages that you and others can reuse.
@@ -846,7 +846,7 @@ At this time, video does not support sound. We know there will be requests for t
 - Help
 	- Added/updated some links to point to our new [community forum site](https://community.software.sil.org/c/bloom).
 
-## 3.8
+## Bloom 3.8
 
 - Windows Installation
 	- Bloom now requires a newer .net, .NET 4.6.1. If your computer has received an operating system update in the past year, then you already have this.
@@ -871,7 +871,7 @@ At this time, video does not support sound. We know there will be requests for t
 - Bloom now saves backups of the html file (the file that contains the book’s layout and text). These are saved as “.bak” in the same folder. Should that file become corrupted by something like a power outage, Bloom will restore from the backup.
 - Over a hundred other fixes and tiny improvements.
 
-## 3.7
+## Bloom 3.7
 
 - You can now “unlock” a shell book that you are translating, so that you can do things like:
 	- add pages
@@ -896,7 +896,7 @@ At this time, video does not support sound. We know there will be requests for t
 - Languages that use a non-standard way of marking sentences (e.g. Thai uses a space) can now define that in the Leveled Reader setttings.
 - Over 170 fixes and small improvements.
 
-## 3.6
+## Bloom 3.6
 
 - This version focuses on what we are calling “the toolbox”: a panel on the right side that you can open to do specialized tasks like working on decodable and leveled readers or recording audio for “talking books”.
 - You can now hide or show the toolbox
@@ -909,7 +909,7 @@ At this time, video does not support sound. We know there will be requests for t
 - Administrators of computer labs can now install Bloom for all users of the machine. From a command prompt running as administrator, run the installer with the “–allUsers” flag. “–silent” is also supported. This will put Bloom in the Program Files(x86) directory. Bloom will not attempt to update itself, nor will users be able to cause an update to happen.
 - Many other fixes & tiny improvements.
 
-## 3.5
+## Bloom 3.5
 
 - You can now copy and cut images
 - You can now hover over an image to get its dimensions, dots-per-inch, and color depth
@@ -928,7 +928,7 @@ At this time, video does not support sound. We know there will be requests for t
 - Fixed problem where blank lines would disappear
 - Several other small fixes
 
-## 3.4
+## Bloom 3.4
 
 - If after creating a page you decide that you want a different layout than the one you original chose, you can now select “Choose Different Layout” and select a different one.
 - If you have the latest [Art Of Reading](http://bloomlibrary.org/#/artofreading) installed (version 3.1), then you can now search for pictures in one of: Arabic, Chinese, Bengali, English, French, Hindi, Indonesian, Portuguese, Spanish, Swahili, and Thai.
@@ -936,7 +936,7 @@ At this time, video does not support sound. We know there will be requests for t
 - Fixed Problem where blank lines were removed.
 - Dozens of Fixes.
 
-## 3.3
+## Bloom 3.3
 
 - All basic pages are now “customizable”. That means you can change the relative size of elements on the page, for example making the picture bigger and the text area smaller. You can also click the “Change Layout” button to add new elements to the page.
 - When you select some text, Bloom now shows a small popup with buttons for bold, underline, and italic.
@@ -945,7 +945,7 @@ At this time, video does not support sound. We know there will be requests for t
 - Books now default license to CC-BY (requested by All Children Reading).
 - Books made from Leveled Reader template delivered via Leveled Reader Bloom Pack now have all the formatting locked down, preventing writers from altering the font, size, or spacing of the text (requested by All Children Reading).
 
-## 3.2
+## Bloom 3.2
 
 - Support new Decodable Readers workflow. Instead of defining a set of letters plus sight words for each Decodable Stage, Bloom now allows you to specify one or more text files of “Allowed Words”.
 	- These must be simple, unicode text files. Other formats are not supported: Word, LibreOffice, Excel, etc.
@@ -958,7 +958,7 @@ At this time, video does not support sound. We know there will be requests for t
 - That Book menu now offers a “Copy Book” command.
 - Both “Factory” and “Traditional” Front Matter packs now set the first content page to “1”
 
-## 3.1
+## Bloom 3.1
 
 
 Version 3.1 was a disciplined sustained & effort to improve hundreds of “little things” that could confuse or block people in certain situations from getting books created, translated, or printed. It also represents the first version where the Linux (Trusty and Precise) version is very close to parity with the Windows version.
