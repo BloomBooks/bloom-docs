@@ -163,6 +163,14 @@ When you publish to PDF, you can now choose whether to include the page backgrou
 </div>
 
 
+## Story Weaver compatible ebook size {/* #3904bb19df128007bf7fcd3888f55836 */}
+
+
+Bloom now has two additional e-Book formats which work well with Story Weaver books:
+
+- 2 x 3 Portrait
+- 7 x 5 Landscape
+
 ## Other Improvements {/* #3594bb19df1280d2a84dec8c974d9deb */}
 
 - The little notification messages that pop up at the bottom of Bloom (we call them “toasts”) have been updated with a modern look.
