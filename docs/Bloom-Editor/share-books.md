@@ -41,7 +41,7 @@ When sharing books outside of a Team Collection, you will need to manage book ow
 It is important to understand that a “Bloom book” is actually a collection of **many** files housed under a “book” folder. In fact, some book folders may contain hundreds of individual files. If you wish to share a particular Bloom book with another person for editing, you must share the entire book folder and its contents with them.
 
 
-### Using Windows File Explorer (Bloom 6.3 or older) {/* #39e4bb19df1280008c1cc03e5c0088aa */}
+### Share Using Windows File Explorer (Bloom 6.3 or older) {/* #39e4bb19df1280008c1cc03e5c0088aa */}
 
 
 To access that folder, you must:
@@ -64,7 +64,7 @@ Remember: you and your colleague must keep track of who has the latest copy of t
 
 
 
-## BloomSource File (Bloom 6.4+) {/* #39e4bb19df12804faff9eadb6c0ea2fc */}
+### Share using BloomSource File (Bloom 6.4+) {/* #39e4bb19df12804faff9eadb6c0ea2fc */}
 
 
 Starting with Bloom 6.4, you can share a book by saving it as a .bloomSource file and giving that to your colleague:
