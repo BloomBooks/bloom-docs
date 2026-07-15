@@ -38,10 +38,10 @@ When sharing books outside of a Team Collection, you will need to manage book ow
 
 
 
-## What is a Bloom Book? {/* #2694bb19df128097aa29ed41ca0e39ce */}
+It is important to understand that a “Bloom book” is actually a collection of **many** files housed under a “book” folder. In fact, some book folders may contain hundreds of individual files. If you wish to share a particular Bloom book with another person for editing, you must share the entire book folder and its contents with them.
 
 
-A “Bloom book” is actually a collection of **many** files housed under a “book” folder. In fact, some book folders may contain hundreds of individual files. If you wish to share a particular Bloom book with another person for editing, you must copy the entire book folder and all of its contents with that person.
+### Using Windows File Explorer (Bloom 6.3 or older) {/* #39e4bb19df1280008c1cc03e5c0088aa */}
 
 
 To access that folder, you must:
@@ -63,3 +63,30 @@ Remember: you and your colleague must keep track of who has the latest copy of t
 
 
 
+
+## BloomSource File (Bloom 6.4+) {/* #39e4bb19df12804faff9eadb6c0ea2fc */}
+
+
+Starting with Bloom 6.4, you can share a book by saving it as a .bloomSource file and giving that to your colleague:
+
+
+![](./share-books.39e4bb19-df12-803c-94c3-fc6976a38d21.png)
+
+1. Right-click on the thumbnail of the book you wish to save.
+2. Click More.
+3. Save as Single File (*.bloomSource).
+4. Choose a file location.
+5. Click the Save button.
+
+Give this file to your colleague who can import it into their collection:
+
+
+![](./share-books.39e4bb19-df12-80c5-bb02-d485df5a2cf0.png)
+
+
+ 
+
+1. Click the down-arrow which appears after your collection name.
+2. Click Import .bloomSource File.
+3. Choose a .bloomSource file .
+4. Click Open.
