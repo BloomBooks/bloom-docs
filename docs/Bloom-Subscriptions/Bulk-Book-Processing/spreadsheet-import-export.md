@@ -54,6 +54,15 @@ To access this advanced feature, open Bloom Settings, then:
 ## 4. Importing a Spreadsheet into Bloom {/* #e9eeb69676084a158f4facc492136401 */}
 
 
+:::warning[Caution]
+
+Remember to save your edits in your spreadsheet before importing them back to Bloom.
+
+:::
+
+
+
+
 After editing the spreadsheet, it can be imported back into Bloom. Typically, the spreadsheet will be imported back into the original book or into a duplicate of the original. In this way, the original structure of each page will be maintained. 
 
 
@@ -150,7 +159,8 @@ The procedure below will _overwrite_ your existing book. You should back up your
 2. Export the book to a Spreadsheet.
 3. Find the column with the old (incorrect) language code in row 1 in the spreadsheet. Replace that old language code with the correct one and correct the language name in row 2. (In our example, change `[en]` to `[de]` in row 1 and “English” to “German” in row 2.)
 4. You should see a column labeled with the new language code and name. (This column will show `[blank]` in rows five and beyond.) Change the code and name in this column to the old (incorrect) code and name. (In our example, change `[de]` to `[en]` and “German” to “English”.)
-5. Import the spreadsheet back into the _same_ book.
+5. Save the spreadsheet.
+6. Import the spreadsheet back into the _same_ book.
 
 When publishing your book to Bloom Library, it is an excellent practice to _uncheck_ the box for any unwanted language(s). Doing this will strip out that unwanted language for Bloom Library.
 
