@@ -27,7 +27,7 @@ You can now switch the front cover into a “Custom” mode in which all of the 
 - Add additional text boxes and images.
 
 
-Now you can make the kind of “professional” cover layouts you find in commercial children’s books, where the title and credits are placed artistically over a single full-cover image. This feature also works on the back cover.
+Now you can make the kind of “professional” cover layouts you find in commercial children’s books, where the title and credits are placed artistically over a single full-cover image. This feature also works on the back cover and the inside back cover, so a project can, for example, place an image of a book’s original cover there. ([BL-16648](https://issues.bloomlibrary.org/youtrack/issue/BL-16648))
 
 
 
@@ -58,7 +58,7 @@ For more information, see [Custom Covers](/custom-covers).
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-Bloom now places a QR Code on the “Made with Bloom” badges on the back cover. When scanned or clicked, they take you to the books for the L1 language on BloomLibrary.org. Use the advanced tab of Collection Settings to localize the text shown below the QR code.
+Bloom now places a QR Code on the “Made with Bloom” badges on the back cover. When scanned or clicked, they take you to the books for the L1 language on BloomLibrary.org. Use the advanced tab of Collection Settings to localize the text shown below the QR code. The links are tagged so that our analytics can tell us how often readers scan the QR code versus clicking the badge. ([BL-16050](https://issues.bloomlibrary.org/youtrack/issue/BL-16050))
 
 
 </div><div className='notion-spacer'></div>
@@ -90,6 +90,14 @@ We’ve made several improvements to the color picker:
 - **Eyedropper tool.** All color pickers now include an eyedropper that lets you sample a color from the page.
 - **Transparency slider.** Color pickers that affect text now have a transparency slider with a percentage indicator. A small amount of transparency can make text easier on the eye when there is a background color.
 
+## Book Settings Reorganized
+
+
+We reorganized the Book Settings dialog so that it is easier to find the page theme. ([BL-16127](https://issues.bloomlibrary.org/youtrack/issue/BL-16127)) In addition:
+
+- **Full Bleed.** The option to print “full bleed” (for print shops that trim pages) is now a simple checkbox in Book Settings. ([BL-15829](https://issues.bloomlibrary.org/youtrack/issue/BL-15829))
+- Bloom now does a better job of explaining why a theme or setting is unavailable, with a link to what you need.
+
 ## Bloom Apps {/* #3594bb19df128028a5a5f0d695b0d303 */}
 
 
@@ -111,6 +119,18 @@ Once you enable it (Collection Settings / Advanced), the Publish tab now shows a
 
 
 ![](./release-notes-6-4.35e4bb19-df12-80e5-947c-fd31d5d2595a.png)
+
+
+## More Game Themes
+
+
+Bloom Games now offer more visual themes to choose from. ([BL-16323](https://issues.bloomlibrary.org/youtrack/issue/BL-16323))
+
+
+## Import BloomSource Files
+
+
+Bloom can now import `.bloomsource` files. These are produced by conversion tools that turn existing books (for example, books that exist only as PDFs) into editable Bloom books. ([BL-16502](https://issues.bloomlibrary.org/youtrack/issue/BL-16502))
 
 
 ## Imported Videos are Re-encoded {/* #3594bb19df1280d996fec56d419854af */}
@@ -176,4 +196,13 @@ Bloom now has two additional e-Book formats which work well with Story Weaver bo
 - The little notification messages that pop up at the bottom of Bloom (we call them “toasts”) have been updated with a modern look.
 - **Better font info for non-current languages.** The Book Settings dialog now presents font information for languages that aren’t in the current collection in a clearer way, so it’s easier to understand which font is being used where.
 - **Cleaner Custom Game template.** The “Custom Game” page no longer has a fixed Instructions header, giving you a truly blank slate to design from.
+- **“Become Background” expands the image.** When you make a canvas image become the background, Bloom now also expands it to fill the available space. ([BL-16117](https://issues.bloomlibrary.org/youtrack/issue/BL-16117))
+- **Undo for image commands.** Destructive image commands (like accidentally pasting over an image) can now be undone, so a slip of the mouse no longer loses an image forever. ([BL-16330](https://issues.bloomlibrary.org/youtrack/issue/BL-16330))
+- **Turn off paragraph indent.** If your style indents the first line of each paragraph, a new right-click menu item lets you turn the indent off for a particular paragraph (helpful when text continues from the previous page). ([BL-16649](https://issues.bloomlibrary.org/youtrack/issue/BL-16649))
+- The page thumbnail menu now has icons and easier-to-hit rows. ([BL-16287](https://issues.bloomlibrary.org/youtrack/issue/BL-16287))
+- **Filled text.** In addition to “Outlined”, canvas text now offers a “Filled” option. ([BL-15972](https://issues.bloomlibrary.org/youtrack/issue/BL-15972))
+- **“Picture” is now “Image”.** We now use the word “Image” consistently throughout Bloom. ([BL-14459](https://issues.bloomlibrary.org/youtrack/issue/BL-14459))
+- In Games, the Sign Language icon has been replaced with a general video icon. ([BL-16083](https://issues.bloomlibrary.org/youtrack/issue/BL-16083))
+- Bloom now uses a 64-bit image processing engine, which is more reliable with very large images. ([BL-15749](https://issues.bloomlibrary.org/youtrack/issue/BL-15749))
+- **BloomPUB Viewer** can now show a book’s ID (hold down CTRL), which is helpful when getting help with Team Collections. ([BL-15888](https://issues.bloomlibrary.org/youtrack/issue/BL-15888))
 - We made many changes that move us towards our eventual cross-platform (i.e. mac) goal.
