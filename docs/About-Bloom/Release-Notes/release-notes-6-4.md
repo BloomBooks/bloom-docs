@@ -1,6 +1,6 @@
 ---
-title: Bloom 6.4 Beta Release Notes
-sidebar_position: 1
+title: Bloom 6.4 Release Notes
+sidebar_position: 2
 slug: /release-notes-6-4
 keywords: [Release Notes]
 ---
