@@ -101,13 +101,16 @@ In Bloom 6.3 we introduced “Bloom Apps”, which use book grids and links betw
 - **Navigation links work on** [**BloomLibrary.org**](http://bloomlibrary.org/)**.** Books that contain navigation links to other books now work correctly when read on [BloomLibrary.org](http://bloomlibrary.org/), not just inside an app or BloomPUB Viewer.
 - **Re-use of GIFs and sounds.** Bloom Apps can grow large quickly, especially when many books share the same game animations and sound effects. Bloom now de-duplicates these assets across the books in an app, dramatically reducing app size.
 
-## (Experimental) App Builder Integration {/* #3594bb19df12803ebfd1dabd8ac2299e */}
+## App Builder Integration {/* #3594bb19df12803ebfd1dabd8ac2299e */}
 
 
 Subscription Tier: Pro and Above
 
 
-Once you enable it (Collection Settings / Advanced), the Publish tab now shows a tool for making Reading App Builder apps, right from within Bloom! At this point it can make an APK and put it on your phone. In future versions, we hope to give you a way to get the app all the way to the Play Store. If you would like to see us move forward with this experiment, please get in touch so that we can understand your needs.
+The Publish tab now shows a tool for making Reading App Builder apps, right from within Bloom! At this point it can make an APK and put it on your phone. 
+
+
+In future versions, we hope to give you a way to get the app all the way to the Play Store. If you would like to see us move forward with this experiment, please get in touch so that we can understand your needs.
 
 
 ![](./release-notes-6-4.35e4bb19-df12-80e5-947c-fd31d5d2595a.png)
@@ -163,10 +166,10 @@ When you publish to PDF, you can now choose whether to include the page backgrou
 </div>
 
 
-## Story Weaver compatible ebook size {/* #3904bb19df128007bf7fcd3888f55836 */}
+## Story Weaver compatible eBook size {/* #3904bb19df128007bf7fcd3888f55836 */}
 
 
-Bloom now has two additional e-Book formats which work well with Story Weaver books:
+Bloom now has two additional eBook formats which work well with Story Weaver books:
 
 - 2 x 3 Portrait
 - 7 x 5 Landscape

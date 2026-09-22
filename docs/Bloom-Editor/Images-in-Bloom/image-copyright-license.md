@@ -20,10 +20,10 @@ For more information on copyright and licensing, see [Permission to Publish: Cop
 
 
 
-If an image does not have copyright and licensing information, Bloom will show a red question mark in the image's upper left-hand corner. 
+If an image does not have copyright and licensing information, Bloom will show a question mark in the image's upper left-hand corner (1), and also in the control panel (2). Both of these are buttons.
 
 
-![](./image-copyright-license.6f560f47-c864-4ecc-9a6f-e643d7f74847.png)
+![](./image-copyright-license.3e34bb19-df12-803b-9b66-cb5700a06062.png)
 
 
 ## Add Copyright and License Information {/* #29da870e4af24d8c856a949b7106da43 */}
@@ -31,11 +31,7 @@ If an image does not have copyright and licensing information, Bloom will show a
 
 To add copyright and license information to an image, do the following: 
 
-1. Hover your mouse over the **red question mark ❓**.
-	- Then click on the **green button** that appears. Bloom will show you the `Copyright and License` dialog box.
-
-	![](./image-copyright-license.ffdc515f-a515-4a1d-b6b6-61b4513c6452.png)
-
+1. Hover your mouse over either (1) or (2) and click on the button. Bloom will show you the `Copyright and License` dialog box.
 2. `Illustrator/Photographer`: Type the name of the **illustrator or photographer** (optional).
 
 	:::note
@@ -62,7 +58,7 @@ To add copyright and license information to an image, do the following:
 
 :::note
 
-License information is optional: Bloom adds an **All Rights Reserved** license by default.
+License information is optional: Bloom adds a **CC-BY** license by default.
 
 :::
 
@@ -80,16 +76,35 @@ There are multiple license options for images:
 3. By **default**, Bloom will **restrict** this image from being modified or copied.
 4. `Other`: You can also set your own license, but this is discouraged because they are difficult to write, interpret, and enforce.
 
-### Apply Copyright and License Information to All Images? {/* #f60e051f9b7c48f1b368d945c9a16ada */}
+### [Bloom 6.4 and earlier] Apply Copyright and License Information to All Images? {/* #f60e051f9b7c48f1b368d945c9a16ada */}
 
 
-After you click `OK`, Bloom will ask you if you want to apply the same copyright and license information to **all** the images in your book:
+[Bloom 6.4 and earlier] After you click `OK`, Bloom will ask you if you want to apply the same copyright and license information to **all** the images in your book:
 
 
 ![](./image-copyright-license.ba186003-b334-449b-a1a5-28786b790cf1.png)
 
 - Click `Yes` if you want to apply the same copyright and license information to **every** image.
 - Click `No` if some images have **different** copyright and license information.
+
+### [Bloom 6.5 and later] Add this info to all Images in this book {/* #3e34bb19df128057a3a2d8dfd237bbf5 */}
+
+
+After filling out the Copyright information, Bloom presents a button which allows you to apply the Copyright and License information to all of your images:
+
+
+![](./image-copyright-license.3e34bb19-df12-80f2-9f48-c90e6a04a046.png)
+
+
+### [Bloom 6.5 and later] Shortcuts {/* #3e34bb19df12801b8adcca886835dc60 */}
+
+
+Bloom will present a list of shortcuts to all of the unique Copyright and Licensing specifications used in the book. These shortcuts are a quick way to add Copyright and License information to new images:   
+
+
+![](./image-copyright-license.3e34bb19-df12-80f3-ac85-dc49b2f7fcff.png)
+
+1. Click on the shortcut
 
 ## Add Image Credits to Your Book’s Title Page {/* #f21c5a3809954b64b7cd34c7da5d880a */}
 
@@ -103,18 +118,3 @@ You can easily add a summary of the copyright and license information for **all*
 
 ![](./image-copyright-license.2a8209ae-ad4e-456c-96e6-56ca31a2e106.png)
 
-
-## Copy Metadata to All Images in a Book {/* #ca042209ceef4ffd9f063f07b344db2d */}
-
-
-To **copy** copyright and license information to **all images** in a book, follow these steps:
-
-1. Open the copyright window for the image you want to copy information from.
-2. Check the `Copyright` **and** `License` tabs information is **correct**.
-3. Click `OK`.
-4. Bloom will ask you if you want to apply the same copyright and license information to all the images in your book:
-
-![](./image-copyright-license.9d088933-6f17-43d2-ba38-6b04df90096f.png)
-
-- Click `Yes` if you want to apply the same copyright and license information to **every** image.
-- Click `No` if some images have **different** copyright and license information.
