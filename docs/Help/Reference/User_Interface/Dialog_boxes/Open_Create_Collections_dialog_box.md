@@ -1,7 +1,7 @@
 ---
 title: Open/Create Collections dialog box
 hide_title: true
-sidebar_position: 15
+sidebar_position: 16
 slug: /Help/Reference/open-create-collections-dialog-box
 ---
 
@@ -15,8 +15,6 @@ slug: /Help/Reference/open-create-collections-dialog-box
         
 
 Then, click the down arrow (![](/ref-docs-assets/images/Tasks/Basic_tasks/WhiteDownArrow.png)) that appears next to the collection name and then click **Open or Create Another Collection**.
-
-A [password](Setting_Protection_Password_dialog_box.md) may be required.
 
 You use this dialog box to
 

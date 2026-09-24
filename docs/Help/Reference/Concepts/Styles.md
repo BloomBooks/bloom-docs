@@ -44,11 +44,11 @@ You might need to do this if you see a [red font color](Red_font_color.md) or a 
 
 #### Related Topics
 
+[Collection Settings dialog box](../User_Interface/Dialog_boxes/Settings_dialog_box.md)
+
 [Concepts overview](Concepts_overview.md)
 
 [Format dialog box](../User_Interface/Dialog_boxes/Format_dialog_box.md)
-
-[Settings dialog box](../User_Interface/Dialog_boxes/Settings_dialog_box.md)
 
 [Text box](Text_Box.md)
 

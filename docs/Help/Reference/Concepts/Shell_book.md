@@ -7,7 +7,7 @@ slug: /Help/Reference/shell-book
 
 ## Shell book
 
-A _shell book_ is the basis of another book.  That is, the shell book sets the page layout, locations for text box locations and [pictures](Picture.md), and so on. These are not language-specific.
+A _shell book_ is the basis of another book.  That is, the shell book sets the page layout, locations for text box locations and [images](Image.md), and so on. These are not language-specific.
 
 As mentioned in [Bloom overview](../Overview/Bloom_overview.md), shell books contain words. These words are the [source text](Source_text.md). When a book is made from a shell book, the user can translate that source text into another language.
 

@@ -11,7 +11,7 @@ This Help topic describes the steps you might do to add or edit with elements fr
 
 1.  Click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool%20Icon%20Green.png) **Canvas Tool** tab in the [tool box](../../../Concepts/Tool_Box.md).
     
-2.  In the **Pages** pane, click an [inside page](../../../Concepts/Inside_pages.md) that has an [image](../../../Concepts/Picture.md).
+2.  In the **Pages** pane, click an [inside page](../../../Concepts/Inside_pages.md) that has an [image](../../../Concepts/Image.md).
     
 3.  If a page has a [text footer](../../../Concepts/Paper_Comic_Book_Template.md) over the image, you can type or paste text in that text box.
     

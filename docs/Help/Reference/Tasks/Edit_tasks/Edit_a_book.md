@@ -26,7 +26,7 @@ Do any of these steps when you edit a [book](../../Concepts/Book.md) or [shell b
     
     [Front Cover](../../Concepts/Front_Cover_page.md) pages:
     
-    -   Edit the [book title](../../Concepts/Book_Title.md), [change](Change_picture.md) the picture or [choose](Choose_a_topic.md) a topic.
+    -   Edit the [book title](../../Concepts/Book_Title.md), [change](Change_Image.md) the image or [choose](Choose_a_topic.md) a topic.
         
     -   Type or edit the words in the **Inside Front Cover** page.
         
@@ -52,9 +52,9 @@ Do any of these steps when you edit a [book](../../Concepts/Book.md) or [shell b
                     
                 -   [Change](Using_the_Change_Layout_controls.md) the page layout (if permitted).
                     
-                -   [Change](Change_picture.md) a picture.
+                -   [Change](Change_Image.md) an image.
                     
-                -   [Change](Change_picture_metadata.md) picture metadata.
+                -   [Change](Change_image_metadata.md) image metadata.
                     
                 -   [Remove](Remove_a_page.md) a page.
                     

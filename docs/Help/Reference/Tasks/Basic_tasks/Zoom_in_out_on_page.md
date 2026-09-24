@@ -1,7 +1,7 @@
 ---
 title: Zoom in/out on page
 hide_title: true
-sidebar_position: 28
+sidebar_position: 27
 slug: /Help/Reference/zoom-in-out-on-page
 ---
 

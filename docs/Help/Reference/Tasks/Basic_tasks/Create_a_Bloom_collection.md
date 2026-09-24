@@ -1,7 +1,7 @@
 ---
 title: Create a Bloom collection
 hide_title: true
-sidebar_position: 7
+sidebar_position: 6
 slug: /Help/Reference/create-a-bloom-collection
 ---
 
@@ -56,7 +56,7 @@ In the **Create New Bloom Collection** dialog box, choose the main language for 
 
 Once you have created a collection for each of the dialects, use the **Other Collection** button to [open](Open_a_collection.md) a collection. You can translate or make books in each collection. Internally, all of your books will use the same language code, but when you are editing in Bloom it will show the name of the dialect.
 
--   Later, you can make many changes in the **Settings** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md).
+-   Later, you can make many changes in the **Collection Settings** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md).
     
 -   When you choose a language, Bloom chooses the primary country of the language as a default. It will not display "alternative names."
     

@@ -1,13 +1,13 @@
 ---
 title: Enter project information
 hide_title: true
-sidebar_position: 12
+sidebar_position: 11
 slug: /Help/Reference/enter-project-information
 ---
 
 ## Enter project information
 
-1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md).
+1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Collection Settings** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md).
     
 2.  Click the **Project Information** tab.
     

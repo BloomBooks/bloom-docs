@@ -9,7 +9,7 @@ slug: /Help/Reference/impairment-visualizer-overview
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/ImpairmentVisualizerBlueIcon.png) **Impairment Visualizer** is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
 
-Your [images](../../../Concepts/Picture.md) may need to be [accessible](../../Publish_tasks/Accessibility.md) to readers who have visual impairments. This tool simulates how your images would appear to a reader who has cataracts and color blindness.
+Your [images](../../../Concepts/Image.md) may need to be [accessible](../../Publish_tasks/Accessibility.md) to readers who have visual impairments. This tool simulates how your images would appear to a reader who has cataracts and color blindness.
 
 -   _Cataracts_ are an opacity or clouding of the lens which reduces its transparency.
     

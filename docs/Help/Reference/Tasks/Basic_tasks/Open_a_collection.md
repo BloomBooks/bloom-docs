@@ -1,7 +1,7 @@
 ---
 title: Open a collection
 hide_title: true
-sidebar_position: 21
+sidebar_position: 20
 slug: /Help/Reference/open-a-collection
 ---
 
@@ -13,10 +13,8 @@ To open a [collection](../../Concepts/Collection.md) that is on your computer, d
     
 2.  Click ![](/ref-docs-assets/images/User_Interface/Toolbar/OpenButtonColor.png) **Other Collection** on the [toolbar](../../User_Interface/Toolbar/Collections_toolbar.md).
     
-
-Enter the [password](../../User_Interface/Dialog_boxes/Setting_Protection_Password_dialog_box.md), if you are prompted.
-
-The ![](/ref-docs-assets/images/BloomIcon_red.gif) **Open/Create Collections** dialog box opens.
+    The ![](/ref-docs-assets/images/BloomIcon_red.gif) **Open/Create Collections** dialog box opens.
+    
 
 3.  If you see the collection you want, click ![](/ref-docs-assets/images/Tasks/bloomlibaryicon.png) `<name>`.
     

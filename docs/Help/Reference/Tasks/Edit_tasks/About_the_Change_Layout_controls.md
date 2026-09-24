@@ -9,13 +9,13 @@ slug: /Help/Reference/about-the-change-layout-controls
 
 The **Change Layout** control appears above most [inside pages](../../Concepts/Inside_pages.md).
 
-[Use](Using_the_Change_Layout_controls.md) these controls to insert boxes for text or pictures and to arrange them on the page. If you [add](Add_a_page.md) a **Custom** page ([example](Custom_page_template_example.md)) or you use the [Template Starter](../../Concepts/Template_Starter.md), you will use these controls.
+[Use](Using_the_Change_Layout_controls.md) these controls to insert boxes for text or images and to arrange them on the page. If you [add](Add_a_page.md) a **Custom** page ([example](Custom_page_template_example.md)) or you use the [Template Starter](../../Concepts/Template_Starter.md), you will use these controls.
 
 | Control | Use |
 | --- | --- |
 | ![](/ref-docs-assets/images/Tasks/Edit_tasks/ChangeLayoutHiddenLITE.png) | The controls (below) are _hidden_.<br/>Click the right end to move the circle to the right. This displays them. |
 | ![](/ref-docs-assets/images/Tasks/Edit_tasks/ChangeLayoutDisplayedLITE.png) | All of the controls (below) are _shown_.<br/>Click the left end to move the circle to the left. This hides them. |
-| ![](/ref-docs-assets/images/Tasks/Edit_tasks/PicVidTxtWidget.png) | • Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/PictureOnly.png) to insert a box that holds a [picture](../../Concepts/Picture.md) ([![](/ref-docs-assets/images/Tasks/imageplaceholder.png)](../../Concepts/Picture.md)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoOnly.png) to insert a box that holds a [video](../../Concepts/Video.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoCamera.png)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/TextOnly.png) to insert a box that holds [words](../../Concepts/Text_Box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBox.png)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/WidgetOnly.png) to insert a box that holds an [HTML Widget](../../Concepts/HTML_Widget.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/WidgeIcon.png)). |
+| ![](/ref-docs-assets/images/Tasks/Edit_tasks/PicVidTxtWidget.png) | • Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/PictureOnly.png) to insert a box that holds an [image](../../Concepts/Image.md) ([![](/ref-docs-assets/images/Tasks/imageplaceholder.png)](../../Concepts/Image.md)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/CanvasOnly.png)  to add a new area that can hold items from the [Canvas tool](Canvas_Tool/Using_the_Canvas_Tool.md).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoOnly.png) to insert a box that holds a [video](../../Concepts/Video.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoCamera.png)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/TextOnly.png) to insert a box that holds [words](../../Concepts/Text_Box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBox.png)).<br/>• Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/WidgetOnly.png) to insert a box that holds an [HTML Widget](../../Concepts/HTML_Widget.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/WidgeIcon.png)). |
 | ![](/ref-docs-assets/images/Tasks/Edit_tasks/InsertLefRt.png) | Click to split the box into two boxes. They will be side-by-side. |
 | ![](/ref-docs-assets/images/Tasks/Edit_tasks/InsertUpDown.png) | Click to split the box into two boxes. They will be one-above-the-other. |
 | ![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeHorizontally.png) | Click and drag the splitter line to resize boxes by moving the edge left or right. |
@@ -49,7 +49,7 @@ square.
     
     -   The dashed lines (![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeHorizontally.png) and ![](/ref-docs-assets/images/Tasks/Edit_tasks/ResizeVertical.png)) remain available for use.
         
-    -   You can type words, work with [formatting](../Basic_tasks/Formatting_text/Formatting_Text_overview.md) ([styles](../../Concepts/Styles.md) or [direct](../Basic_tasks/Formatting_text/Apply_direct_formatting.md)) and [change pictures](Change_picture.md).
+    -   You can type words, work with [formatting](../Basic_tasks/Formatting_text/Formatting_Text_overview.md) ([styles](../../Concepts/Styles.md) or [direct](../Basic_tasks/Formatting_text/Apply_direct_formatting.md)) and [change images](Change_Image.md).
         
 -   Wall calendars do _not_ use these controls.
     

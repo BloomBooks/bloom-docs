@@ -1,7 +1,7 @@
 ---
 title: Paper Comic Book Template
 hide_title: true
-sidebar_position: 49
+sidebar_position: 51
 slug: /Help/Reference/paper-comic-book-template
 ---
 
@@ -17,7 +17,7 @@ You put the words for the page in speech bubbles, text blocks or captions. You c
 
 -   Images are sized to fill the page vertically, so your image can appear to have the sides cropped.
     
--   The front cover page has a black background. As a result, you will not see pictures or lettering that are also black, such as images from the [Art of Reading](../User_Interface/Dialog_boxes/Image_Toolbox.md).
+-   The front cover page has a black background. As a result, you will not see images or lettering that are also black, such as images from the [Art of Reading](../User_Interface/Dialog_boxes/Image_Toolbox.md).
     
 -   [Canvas Tool](../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) elements are not supported in [ePUB](EPUB.md).
     

@@ -1,7 +1,7 @@
 ---
 title: Get shell books from others
 hide_title: true
-sidebar_position: 17
+sidebar_position: 16
 slug: /Help/Reference/get-shell-books-from-others
 ---
 

@@ -7,7 +7,7 @@ slug: /Help/Reference/collections-tab-tasks-overview
 
 ## Collections tab tasks overview
 
-When the **Collections** [tab](../../User_Interface/Tabs/Collections_tab_commands.md) is displayed, you can see these links below **Books From BloomLibrary.org**:
+When the **Collections** [tab](../../User_Interface/Tabs/Tabs_overview.md) is displayed, you can see these links below **Books From BloomLibrary.org**:
 
 -   **GET MORE SOURCE BOOKS AT BLOOMLIBRARY.ORG**
     

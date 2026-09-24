@@ -9,7 +9,7 @@ slug: /Help/Reference/image-description-tool-overview
 
 The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Image_Description_Tool/ImageDescriptionTool_Blue.png) **Image Description Tool** is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
 
-When this tool is [shown](Show_the_Image_Description_Tool.md), a text box appears next to each [image](../../../Concepts/Picture.md) on pages that have one ([example](Image_Description_Tool_example.md)). There is a text box for each language shown on the [toolbar](../../../User_Interface/Toolbar/Edit_tab_toolbar.md).
+When this tool is [shown](Show_the_Image_Description_Tool.md), a text box appears next to each [image](../../../Concepts/Image.md) on pages that have one ([example](Image_Description_Tool_example.md)). There is a text box for each language shown on the [toolbar](../../../User_Interface/Toolbar/Edit_tab_toolbar.md).
 
 This tool provides links to information on the internet, such as [poet.diagramcenter.org](https://poet.diagramcenter.org/ "https://poet.diagramcenter.org/"). These links allow you to learn how to write effective image descriptions and reminders you can use to check your descriptions.
 

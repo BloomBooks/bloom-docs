@@ -13,7 +13,7 @@ For [ePUB](../../Concepts/EPUB.md) books, there are accessibility standards to 
 
 Bloom provides [tools](../../Concepts/Tool_Box.md) and controls so you can make and identify accessible books.
 
--   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Image_Description_Tool/ImageDescriptionTool_Blue.png) **Image Description Tool** - You can write a [description](../Edit_tasks/Image_Description_Tool/Image_Description_Tool_overview.md) of each [image](../../Concepts/Picture.md).
+-   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Image_Description_Tool/ImageDescriptionTool_Blue.png) **Image Description Tool** - You can write a [description](../Edit_tasks/Image_Description_Tool/Image_Description_Tool_overview.md) of each [image](../../Concepts/Image.md).
     
 -   ![](/ref-docs-assets/images/Tasks/Edit_tasks/Record_Audio/TalkingBookToolIcon.png) **Talking Book Tool** - You can make an [audio recording](../Edit_tasks/Record_Audio/Talking_Book_Tool_overview.md) of the words on each page, including the image descriptions.
     

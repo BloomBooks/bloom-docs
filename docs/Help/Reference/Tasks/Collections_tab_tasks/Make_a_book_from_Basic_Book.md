@@ -31,9 +31,9 @@ Here, the steps are for the **Basic Book** template, but the steps for _[other](
         
     -   Type the title in the text box using language 2.
         
-    -   [Choose](../Edit_tasks/Change_picture.md) a picture.
+    -   [Choose](../Edit_tasks/Change_Image.md) an image.
         
-    -   Type the name of the author/illustrator or any other information in the text box below the picture.
+    -   Type the name of the author/illustrator or any other information in the text box below the image.
         
     -   [Choose](../Edit_tasks/Choose_a_topic.md) a topic.
         
@@ -65,7 +65,7 @@ Here, the steps are for the **Basic Book** template, but the steps for _[other](
         
     -   Type words in the text boxes that are displayed on the page.
         
-    -   If the page can hold a picture, [add a picture](../Edit_tasks/Change_picture.md).
+    -   If the page can hold an image, [add](../Edit_tasks/Change_Image.md) one.
         
     -   Repeat this step for each page.
         

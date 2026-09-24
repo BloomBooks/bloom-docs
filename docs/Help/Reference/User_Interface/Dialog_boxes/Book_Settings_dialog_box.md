@@ -1,13 +1,18 @@
 ---
 title: Book Settings dialog box
 hide_title: true
+sidebar_label: "Book and Page Settings dialog box"
 sidebar_position: 6
 slug: /Help/Reference/book-settings-dialog-box
 ---
 
-## Book Settings dialog box
+## Book and Page Settings dialog box
 
-To open the **Book Settings** dialog box, click **Book Settings** (![](/ref-docs-assets/images/User_Interface/Toolbar/BookSettings.png)) in the **Edit** tab [toolbar](../Toolbar/Edit_tab_toolbar.md). The dialog box has four areas.
+To open the **Book Settings** dialog box, click **Book Settings** (![](/ref-docs-assets/images/User_Interface/Toolbar/BookSettings.png)) in the **Edit** tab [toolbar](../Toolbar/Edit_tab_toolbar.md). The dialog box has six areas.
+
+### Theme & Layout
+
+_Page Themes_ are a bundle of margins, borders, and other page settings. For more information, see: [Page Themes Catalog](/page-themes-catalog/) on the Internet. Some themes you can choose allow you to choose locations for page numbers, and other advanced layout options. You might want to [get more help](../../Overview/Get_More_Help.md).
 
 ### Cover
 
@@ -19,21 +24,19 @@ Here are options you can select (![](/ref-docs-assets/images/SelectedCheckboxBL
     
 -   **Show Topic**: Select if you want to the [topic](../../Tasks/Edit_tasks/Choose_a_topic.md) to appear on the front cover.
     
--   **Show Credits**: Clear this check box if you want to hide the credits and allow the front cover picture to fill that space.
+-   **Show Credits**: Clear this check box if you want to hide the credits and allow the front cover image to fill that space.
     
 -   **Background Color**: Click the color control and then use the [dialog box](Background_Color_dialog_box.md) to choose the desired color.
     
 
-### Content Pages
+### Languages
 
--   Click the down arrow (![](/ref-docs-assets/images/Tasks/Publish_tasks/Downarrow.png)) and then click the page theme you want to use [inside pages](../../Concepts/Inside_pages.md) with contents.
-    
--   **Show Page Numbers**: Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) to see page numbers or clear (![](/ref-docs-assets/images/UncheckedBoxGray.png)) to hide page numbers.
-    
 -   Select (![](/ref-docs-assets/images/SelectedCheckboxBLUE.png)) the languages you want to show in normal [text boxes](../../Concepts/Text_Box.md). Clear (![](/ref-docs-assets/images/UncheckedBoxGray.png)) any other languages.
     
--   **Advanced Layout**: Click the down arrow and then click the best option for spacing around text boxes.
-    
+
+### Print Publishing
+
+This option requires a high [subscription](../../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) tier. You might want to [get more help](../../Overview/Get_More_Help.md).
 
 ### BloomPUB
 
@@ -41,9 +44,9 @@ For books you will [publish](../../Tasks/Publish_tasks/Share_your_BloomPUB_file.
 
 Bloom resizes images to the maximum size you set with these goals in mind:
 
--   Pictures should be easy to view over a poor internet connection.
+-   Images should be easy to view over a poor internet connection.
     
--   Pictures should use less space on phones.
+-   Images should use less space on phones.
     
 -   There should be no noticeable loss of quality.
     

@@ -14,7 +14,7 @@ Here are some controls that you might see on the game page you [added](../Add_a_
 When you click an item on a game page, a toolbar appears with a set of options, such as  
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ToolbarExample_GameText%20.png)  or  ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ToolbarExampleGame%20.png) or ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/ToolbarExampleGameVideo%20.png).
 
-The more button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Overlay_Tool/Overlay%20More%20button.png)) opens a list with these and also more options that you can use. These are described below.
+The more button (![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/Canvas%20More%20button.png)) opens a list with these and also more options that you can use. These are described below.
 
 ### ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/WORDobject.png) and ![](/ref-docs-assets/images/Tasks/Edit_tasks/Game_Tool/InstructionsOrOtherLabel_game.png) 
 

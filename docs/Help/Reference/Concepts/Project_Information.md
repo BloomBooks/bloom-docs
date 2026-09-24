@@ -7,7 +7,7 @@ slug: /Help/Reference/project-information
 
 ## Project Information
 
-The **Project Information** tab is in the **Settings** dialog box.
+The **Project Information** tab is in the **Collection Settings** dialog box.
 
 Project information can include any of these data:
 

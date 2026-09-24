@@ -29,9 +29,9 @@ slug: /Help/Reference/make-a-book-from-arithmetic
         
     -   Type the title in the text box using [language 2](../../User_Interface/Dialog_boxes/Languages_tab.md).
         
-    -   [Choose](../Edit_tasks/Change_picture.md) a picture.
+    -   [Choose](../Edit_tasks/Change_Image.md) an image.
         
-    -   Type the name of the author/illustrator or any other information in the text box below the picture.
+    -   Type the name of the author/illustrator or any other information in the text box below the image.
         
     -   Click the **Topic** box and [choose](../Edit_tasks/Choose_a_topic.md) a topic.
         
@@ -61,7 +61,7 @@ slug: /Help/Reference/make-a-book-from-arithmetic
         
     -   Type a title for the page in the text box or text boxes at the top of the page.
         
-    -   [Add](../Edit_tasks/Change_picture.md) one or more pictures.
+    -   [Add](../Edit_tasks/Change_Image.md) one or more images.
         
     -   Type numbers and [mathematical operators](../../Concepts/Arithmetic.md) in the text boxes that are displayed on the page.
         

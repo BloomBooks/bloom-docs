@@ -38,7 +38,7 @@ Some of the features of text boxes:
 
 -   You add speech bubbles and more [using](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) the **Canvas Tool**.
     
--   The **Image Description Tool** uses text boxes that can be hidden and stored metadata about pictures. Until it is changed, it inherits the default font and font size independent of the Normal style.
+-   The **Image Description Tool** uses text boxes that can be hidden and stored metadata about images. Until it is changed, it inherits the default font and font size independent of the Normal style.
     
 
 #### Related Topics

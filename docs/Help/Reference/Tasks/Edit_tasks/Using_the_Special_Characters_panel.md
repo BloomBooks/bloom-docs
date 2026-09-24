@@ -12,7 +12,7 @@ slug: /Help/Reference/using-the-special-characters-panel
 
 Sometimes you need to type a special character in a [text box](../../Concepts/Text_Box.md), or in the [tabs](Decodable_Reader_Tool/Set_up_Decodable_Reader_Tool_dialog_box.md) that are in the **Set up Decodable Reader Tool** dialog box. An example could be an IPA character. The Special Character panel allows you to see characters and choose the one you want to insert.
 
-You can press and hold lower-case letters or upper-case letters, the spacebar on your keyboard, or any of these:
+You can press and hold lower-case letters or upper-case letters, the space bar on your keyboard, or any of these:
 
 -   $ ! ? % . - + \\ / ' " < > = 
     

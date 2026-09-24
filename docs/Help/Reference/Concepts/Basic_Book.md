@@ -13,9 +13,9 @@ It has these pages: [Front Cover](Front_Cover_page.md), [Credits Page](Credits_P
 
 You can [add a page](../Tasks/Edit_tasks/Add_a_page.md) (an [inside page](Inside_pages.md)) to the book.
 
--   You can choose a page that puts a [picture](Picture.md) in the desired location on the page.
+-   You can choose a page that puts an [image](Image.md) in the desired location on the page.
     
--   You can choose a page that is only for words or only for a picture.
+-   You can choose a page that is only for words or only for an image.
     
 -   You can [customize](../Tasks/Edit_tasks/Using_the_Change_Layout_controls.md) any of the pages, or you can use the [Custom](../Tasks/Edit_tasks/About_the_Change_Layout_controls.md) page template to design your own page ([example](../Tasks/Edit_tasks/Custom_page_template_example.md)).
     

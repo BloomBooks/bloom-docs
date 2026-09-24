@@ -15,7 +15,7 @@ You put the words for the page in speech bubbles, text blocks or captions. You c
 
 #### Note
 
--   Be aware that the front cover page has a black background. As a result, you will not see pictures or lettering that are also black, such as images from the [Art of Reading](../User_Interface/Dialog_boxes/Image_Toolbox.md).
+-   Be aware that the front cover page has a black background. As a result, you will not see images or lettering that are also black, such as images from the [Art of Reading](../User_Interface/Dialog_boxes/Image_Toolbox.md).
     
 -   Comic books made with this template have a different page order that other books.
     

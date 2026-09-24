@@ -12,7 +12,7 @@ slug: /Help/Reference/create-an-empty-conversion-file
 
 If your language is written in Latin script and is written in a way that is closer to one of Bloom's TTSs languages, do these steps to tell Bloom to use _that_ TTS language instead of Esperanto:
 
-1.  If you do not know your language code, [open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** dialog box, **Languages** tab. Language codes appear there in parenthesis after the language name.
+1.  If you do not know your language code, [open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Collection Settings** dialog box, **Languages** tab. Language codes appear there in parenthesis after the language name.
     
 2.  Use a text editor, such as Notepad, to create an empty file.
     

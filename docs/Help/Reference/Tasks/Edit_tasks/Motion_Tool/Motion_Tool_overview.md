@@ -9,7 +9,7 @@ slug: /Help/Reference/motion-tool-overview
 
 The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PanZoomIcon.png) **Motion Tool** is one of the tools in the [tool box](../../../Concepts/Tool_Box.md).
 
-More specifically, this tool allows you to set a basic motion to an otherwise still [picture](../../../Concepts/Picture.md). The motion is a _pan-and-zoom_ from rectangle 1 to rectangle 2. You see these rectangles when you [use](Using_the_Motion_Tool.md) the **Motion Tool**. You can add motion to the _first_ picture on each [inside page](../../../Concepts/Inside_pages.md).
+More specifically, this tool allows you to set a basic motion to an otherwise still [image](../../../Concepts/Image.md). The motion is a _pan-and-zoom_ from rectangle 1 to rectangle 2. You see these rectangles when you [use](Using_the_Motion_Tool.md) the **Motion Tool**. You can add motion to the _first_ image on each [inside page](../../../Concepts/Inside_pages.md).
 
 #### Task Topics
 

@@ -17,8 +17,10 @@ To discuss how the Bloom Enterprise Service can help with your project, please c
 
 -   An **Enterprise Required** message box will appear in the **Publish** tab if you have one or more books that use **Canvas Tool** elements. It will _not_ appear if you are translating a [shell book](../../../Concepts/Shell_book.md) with **Canvas Tool** elements.
     
+    If you see this message box, you need to [enter your Subscription Code](../../Basic_tasks/Enter_Subscription_Code.md) in the **Settings** dialog box. Otherwise, [use](../Canvas_Tool/Using_the_Canvas_Tool.md) the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool%20Icon%20Green.png) **Canvas Tool** to delete (![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/DeleteBubble.png)) those elements from the book. You might need to [get more help](../../../Overview/Get_More_Help.md).
+    
 
-If you see this message box, you need to [enter your Subscription Code](../../Basic_tasks/Enter_Subscription_Code.md) in the **Settings** dialog box. Otherwise, [use](../Canvas_Tool/Using_the_Canvas_Tool.md) the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Overlay_Tool/Overlay%20Tool%20Icon.png) **Canvas Tool** to delete (![](/ref-docs-assets/images/Tasks/Edit_tasks/Overlay_Tool/DeleteBubble.png)) those elements from the book. You might need to [get more help](../../../Overview/Get_More_Help.md).
+-   On the [Front Cover page](../../../Concepts/Front_Cover_page.md), **Custom** ![](/ref-docs-assets/images/EnterpriseStar.png) is an enterprise feature that enables the **Canvas** [tool](../Canvas_Tool/Using_the_Canvas_Tool.md) so you can customize the front cover page.
 
 #### Related Topics
 

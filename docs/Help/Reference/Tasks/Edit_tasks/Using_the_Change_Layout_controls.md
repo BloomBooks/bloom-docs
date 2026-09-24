@@ -11,7 +11,7 @@ slug: /Help/Reference/using-the-change-layout-controls
 
 1.  To insert the first box, do one of these steps:
     
-    -   To insert a box for a picture, click ![](/ref-docs-assets/images/Tasks/Edit_tasks/PictureOnly.png).
+    -   To insert a box for an image, click ![](/ref-docs-assets/images/Tasks/Edit_tasks/PictureOnly.png).
         
     -   To insert a box for words, click ![](/ref-docs-assets/images/Tasks/Edit_tasks/TextOnly.png).
         
@@ -20,7 +20,9 @@ slug: /Help/Reference/using-the-change-layout-controls
     
     -   If the box is in the wrong location, click ![](/ref-docs-assets/images/Tasks/Edit_tasks/DeleteGrayX.png) to delete it.
         
-    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/PictureOnly.png) to make the new box to hold a [picture](../../Concepts/Picture.md).
+    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/PictureOnly.png) to make the new box to hold an [image](../../Concepts/Image.md).
+        
+    -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/CanvasOnly.png)  to add a new area that can hold items from the [Canvas tool](Canvas_Tool/Using_the_Canvas_Tool.md).
         
     -   Click ![](/ref-docs-assets/images/Tasks/Edit_tasks/VideoOnly.png) to make a new box to hold a [video](../../Concepts/Video.md).
         
@@ -37,7 +39,7 @@ slug: /Help/Reference/using-the-change-layout-controls
 6.  When the boxes you want are in the desired positions, [hide the controls](About_the_Change_Layout_controls.md).
     
 
-Then you can type words, [change formatting](../Basic_tasks/Formatting_text/Formatting_Text_overview.md) and [change pictures](Change_picture.md) and so on.
+Then you can type words, [change formatting](../Basic_tasks/Formatting_text/Formatting_Text_overview.md) and [change images](Change_Image.md) and so on.
 
 #### Tip
 
@@ -69,6 +71,6 @@ square.
 
 [Edit tab tasks overview](Edit_tasks_overview.md)
 
-[Resize a picture](Resize_a_picture.md)
+[Resize an image](Resize_an_image.md)
 
 [Using the Text Box Properties dialog box](Using_the_Language_tab.md)

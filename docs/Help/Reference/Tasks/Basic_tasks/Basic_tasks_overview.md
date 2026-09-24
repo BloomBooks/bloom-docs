@@ -17,8 +17,6 @@ Here are [tasks](../Tasks_overview.md) that are usually not limited to a particu
     
 -   [Change User Interface (UI) language](Change_User_Interface_language.md)
     
--   [Choose settings protections](Choose_settings_protections.md)
-    
 -   [Copy a collection to another computer](Copy_a_collection_to_another_computer.md)
     
 -   [Create a Bloom collection](Create_a_Bloom_collection.md)

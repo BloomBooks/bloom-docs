@@ -9,7 +9,7 @@ slug: /Help/Reference/using-the-impairment-visualizer
 
 Do these steps to have Bloom [simulate](Impairment_Visualizer_overview.md) visual impairments:
 
-1.  In the **Pages** pane, click a page that has an [image](../../../Concepts/Picture.md).
+1.  In the **Pages** pane, click a page that has an [image](../../../Concepts/Image.md).
     
 2.  Click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/ImpairmentVisualizerBlueIcon.png) **Impairment Visualizer** tab in the [tool box](../../../Concepts/Tool_Box.md).
     
@@ -20,7 +20,7 @@ Do these steps to have Bloom [simulate](Impairment_Visualizer_overview.md) visua
 
 **Color Blindness**. Then, select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/SelectedRadioButton.png)) a type of color blindness.
 
--   If the image becomes too difficult to see, [choose](../Change_picture.md) a different image. Otherwise, edit the image in an editing tool to change the colors, contrast levels, line densities and so on.
+-   If the image becomes too difficult to see, [choose](../Change_Image.md) a different image. Otherwise, edit the image in an editing tool to change the colors, contrast levels, line densities and so on.
     
 -   Select (![](/ref-docs-assets/images/Tasks/Edit_tasks/Impairment_Visualizer/SelectedRadioButton.png)) a different type of color blindness and examine the image again.
     

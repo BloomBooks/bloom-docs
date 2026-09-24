@@ -7,10 +7,6 @@ slug: /Help/Reference/keyboard-shortcuts-overview
 
 ## Keyboard Shortcuts overview
 
-| Keys | Behavior |
-| --- | --- |
-| **Ctrl**+Shift | Display items hidden by [settings protection](../../Tasks/Basic_tasks/Choose_settings_protections.md) |
-
 ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** tab (some match Bloom [toolbar](../Toolbar/Edit_tab_toolbar.md) controls):
 
 | Keys | Behavior |

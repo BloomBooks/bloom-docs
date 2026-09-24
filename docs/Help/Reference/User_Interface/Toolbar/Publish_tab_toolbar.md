@@ -19,8 +19,6 @@ slug: /Help/Reference/publish-tab-toolbar
 -   ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonPublish.png) - Click to open the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (**Get Help**) [menu](../Help_menu/Help_menu.md).
     
 
-Be aware that buttons may be [hidden or locked](../../Tasks/Basic_tasks/Choose_settings_protections.md).
-
 #### Related Topics
 
 [Publish tab commands](../Tabs/Publish_tab_commands.md)

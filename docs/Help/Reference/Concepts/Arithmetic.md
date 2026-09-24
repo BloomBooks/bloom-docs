@@ -21,7 +21,7 @@ You use this template to make mathematics workbooks that have equations for user
     Each equation has an equal sign (**\=**) next to the box where the user will write the solution. You cannot type in the solution box.
     
 
--   Two [picture placeholders](Picture.md) are associated with each equation.
+-   Two [image placeholders](Image.md) are associated with each equation.
     
 
 #### Important

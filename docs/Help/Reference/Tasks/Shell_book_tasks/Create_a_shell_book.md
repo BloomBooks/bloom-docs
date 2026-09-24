@@ -36,7 +36,7 @@ Do the steps below to make a shell book that other people can use to [make](../
     
 -   [configured](../Basic_tasks/Formatting_text/Configure_a_style.md)  all the intended [styles](../../Concepts/Styles.md)
     
--   chosen all the [pictures](../../Concepts/Picture.md) that you want to appear in the published book.
+-   chosen all the [images](../../Concepts/Image.md) that you want to appear in the published book.
     
 
 5.  Make the shell book available to other people in any of these ways:

@@ -10,7 +10,7 @@ slug: /Help/Reference/book-metadata-dialog-box
 -   To [use](../../Tasks/Publish_tasks/Use_the_Book_Metadata_dialog_box.md) this dialog box, [select](../../Tasks/Publish_tasks/Digital_publishing_options.md) (![](/ref-docs-assets/images/SelectedRadioButton.png)) ![](/ref-docs-assets/images/Tasks/Publish_tasks/EPUB_buttonSmall.png) **ePUB** (**Publish** [tab](../Tabs/Publish_tab_commands.md)) and then click **Book Metadata**. You can press the **Tab** key to move to the next field.
     
 
-_Some_ fields display metadata that Bloom supplies. These include the [front cover](../../Concepts/Front_Cover_page.md) picture, [book title](../../Concepts/Book_Title.md), number of pages and book license, such as [Creative Commons](../../Concepts/About_Creative_Commons.md).
+_Some_ fields display metadata that Bloom supplies. These include the [front cover](../../Concepts/Front_Cover_page.md) image, [book title](../../Concepts/Book_Title.md), number of pages and book license, such as [Creative Commons](../../Concepts/About_Creative_Commons.md).
 
 _Other_ fields hold metadata that you enter (type or paste) or choose manually:
 

@@ -7,7 +7,7 @@ slug: /Help/Reference/background-color-dialog-box
 
 ## Background Color dialog box
 
-Use this dialog box to [choose](../../Tasks/Edit_tasks/Canvas_Tool/Choose_text_or_background_colors.md) a background color for a [Canvas Tool](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) element or to choose a background color for cover pages in the **Book Settings** [dialog box](Book_Settings_dialog_box.md).
+Use this dialog box to [choose](../../Tasks/Edit_tasks/Canvas_Tool/Choose_text_or_background_colors.md) a background color for a [Canvas Tool](../../Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool_overview.md) element or to choose a background color for cover pages in the **Book and Page Settings** [dialog box](Book_Settings_dialog_box.md).
 
 -   ![](/ref-docs-assets/images/User_Interface/Dialog_boxes/ColorSlider.png) Click and drag the color slider control until you see a range of desired colors in the large box above the slider control.
     
@@ -16,7 +16,7 @@ Then, click a place in the top part of the dialog box that shows the specific co
 
 You can click and drag the mouse pointer to see the colors change in the small boxes.
 
--   ![colors](/ref-docs-assets/images/Tasks/Edit_tasks/Overlay_Tool/TransparencySlider.png) For background colors, click and drag the transparency slider control until you see the desired opacity.
+-   ![colors](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/TransparencySlider.png) For background colors, click and drag the transparency slider control until you see the desired opacity.
     
 -   Type or paste a hex color code ([https://htmlcolorcodes.com/](https://htmlcolorcodes.com/ "https://htmlcolorcodes.com/")) in the box.
     

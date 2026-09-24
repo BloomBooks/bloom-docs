@@ -33,11 +33,6 @@ This [toolbar](Toolbars_overview.md) appears in the ![](/ref-docs-assets/images/
 -   ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButton.png) - Click to open the ![](/ref-docs-assets/images/User_Interface/Toolbar/HelpButtonBW.png) (**Get Help**) [menu](../Help_menu/Help_menu.md).
     
 
-#### Important
-
--   Some buttons may be [hidden or locked](../../Tasks/Basic_tasks/Choose_settings_protections.md).
-    
-
 #### Related Topics
 
 [Collection tab commands](../Tabs/Collections_tab_commands.md)

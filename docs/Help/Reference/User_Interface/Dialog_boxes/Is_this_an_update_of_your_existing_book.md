@@ -1,7 +1,7 @@
 ---
 title: Is this an update of your existing book
 hide_title: true
-sidebar_position: 13
+sidebar_position: 14
 slug: /Help/Reference/is-this-an-update-of-your-existing-book
 ---
 

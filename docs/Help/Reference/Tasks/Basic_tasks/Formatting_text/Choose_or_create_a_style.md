@@ -29,7 +29,7 @@ The new style is the current (selected) style so you can [configure it](Configur
 #### Important
 
 -   _Not_ all the styles used in the current book appear in the **Style** box drop-down list.  
-    For example, some styles are only used on cover pages, but not inside pages. Also, some styles like **BigWords** are used in **Picture & Word** pages, but not other inside pages.
+    For example, some styles are only used on cover pages, but not inside pages. Also, some styles like **BigWords** are used in **Image & Word** pages, but not other inside pages.
     
 
 -   [Style](../../../Concepts/Styles.md) names you add can only have alphabetical characters and numbers. You cannot use spaces, hyphens, and so on.

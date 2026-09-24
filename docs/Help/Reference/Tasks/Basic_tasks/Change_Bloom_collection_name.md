@@ -10,7 +10,7 @@ slug: /Help/Reference/change-bloom-collection-name
 
 The name of the Bloom collection is part of the set of [project information](../../Concepts/Project_Information.md). These steps change the name of the ![](/ref-docs-assets/images/Tasks/Basic_tasks/FileNameIcon.png) `<name>`.**bloomCollection** file _and_ the [folder](../../User_Interface/Tabs/Collections_tab_commands.md) that stores it.
 
-1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** dialog box.
+1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Collection Settings** dialog box.
     
 2.  Click the **Project Information** tab.
     

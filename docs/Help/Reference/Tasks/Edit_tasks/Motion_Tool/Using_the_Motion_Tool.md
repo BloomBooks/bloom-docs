@@ -15,11 +15,11 @@ If you have already [recorded audio](../Record_Audio/Talking_Book_Tool_overview.
     
 3.  In the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/PanZoomIcon.png) **Motion Tool** tab, do one of these steps:
     
-    -   Clear (![](/ref-docs-assets/images/UncheckedBox.PNG)) the **Enable Motion on this page** check box if you do _not_ want to add motion the picture on the current page. Then, click another inside page and then do the steps below.
+    -   Clear (![](/ref-docs-assets/images/UncheckedBox.PNG)) the **Enable Motion on this page** check box if you do _not_ want to add motion the image on the current page. Then, click another inside page and then do the steps below.
         
-    -   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) the **Enable Motion on this page** check box if you want to add [motion](Motion_Tool_overview.md) the picture on the current page. Then, do the steps below.
+    -   Select (![](/ref-docs-assets/images/CheckedBox.PNG)) the **Enable Motion on this page** check box if you want to add [motion](Motion_Tool_overview.md) the image on the current page. Then, do the steps below.
         
-4.  Click the picture the shows the rectangles.
+4.  Click the image that shows the rectangles.
     
 
 Rectangle ![](/ref-docs-assets/images/Tasks/Edit_tasks/Motion_Tool/Rectangle1.png) indicates the area in focus when the motion _begins_.

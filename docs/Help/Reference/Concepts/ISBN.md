@@ -1,7 +1,7 @@
 ---
 title: ISBN
 hide_title: true
-sidebar_position: 39
+sidebar_position: 41
 slug: /Help/Reference/isbn
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Level
 hide_title: true
-sidebar_position: 41
+sidebar_position: 43
 slug: /Help/Reference/level
 ---
 

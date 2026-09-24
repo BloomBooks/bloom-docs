@@ -67,7 +67,7 @@ Some of the pages are discussed in [Concepts](../../Concepts/Concepts_overview.m
 -   _Main_ pane:
     
 
-Here is where you select pictures, and edit or translate words.
+Here is where you select images, and edit or translate words.
 
 It has [commands](Edit_tab_commands.md) you can use.
 

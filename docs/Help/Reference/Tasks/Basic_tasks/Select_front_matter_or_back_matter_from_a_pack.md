@@ -1,13 +1,13 @@
 ---
 title: Using the Book Making tab
 hide_title: true
-sidebar_position: 27
+sidebar_position: 26
 slug: /Help/Reference/select-front-matter-or-back-matter-from-a-pack
 ---
 
 ## Using the Book Making tab
 
-1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** dialog box.
+1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Collection Settings** dialog box.
     
 2.  Click the **Book Making** tab.
     

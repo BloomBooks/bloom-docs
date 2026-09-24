@@ -25,7 +25,7 @@ slug: /Help/Reference/make-a-book-from-big-book
         
     -   Type the title in the next text box using [language 2](../../User_Interface/Dialog_boxes/Languages_tab.md).
         
-    -   [Choose](../Edit_tasks/Change_picture.md) a picture.
+    -   [Choose](../Edit_tasks/Change_Image.md) an image.
         
     -   Type information about the author/illustrator or anything else.
         
@@ -62,7 +62,7 @@ slug: /Help/Reference/make-a-book-from-big-book
      
      -   Type words in the text boxes that are displayed on the page.
          
-     -   If the page can hold a picture, [choose the picture](../Edit_tasks/Change_picture.md).
+     -   If the page can hold an image, [choose](../Edit_tasks/Change_Image.md) one.
          
      -   Repeat this step for each page.
          

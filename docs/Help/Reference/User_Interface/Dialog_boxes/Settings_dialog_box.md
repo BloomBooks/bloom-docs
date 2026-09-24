@@ -1,13 +1,13 @@
 ---
-title: Settings dialog box
+title: Collection Settings dialog box
 hide_title: true
-sidebar_position: 17
+sidebar_position: 7
 slug: /Help/Reference/settings-dialog-box
 ---
 
-## Settings dialog box
+## Collection Settings dialog box
 
--   To open this dialog box, click ![](/ref-docs-assets/images/User_Interface/Toolbar/SettingsButton.png) **Settings** on the [toolbar](../Toolbar/Collections_toolbar.md). A [password](Setting_Protection_Password_dialog_box.md) may be required.
+-   To open this dialog box, click ![](/ref-docs-assets/images/User_Interface/Toolbar/SettingsButton.png) **Settings** on the [toolbar](../Toolbar/Collections_toolbar.md).
     
 
 This dialog box has tabs and a hyperlink:
@@ -20,10 +20,6 @@ This dialog box has tabs and a hyperlink:
 | **Bloom Subscription** | [Enter your Subscription Code](../../Tasks/Basic_tasks/Enter_Subscription_Code.md) |
 | **Team Collection** | [Create](../../Tasks/Basic_tasks/Team_Collections/Create_a_Team_Collection.md) and learn about [Team Collections](../../Concepts/Team_Collection.md) |
 | **Advanced Program Settings** | **Automatically Update Bloom**<br/>Select (![](/ref-docs-assets/images/CheckedBox.PNG)) to enable automatic updated to Bloom.<br/>(Windows® _only_; Internet access is required.)<br/>**Experimental Features**<br/>![](/ref-docs-assets/images/User_Interface/EnterpriseStar.png) **Team Collections** select (![](/ref-docs-assets/images/CheckedBox.PNG)) if you want have a [team collection](../../Concepts/Team_Collection.md). |
-
-| Hyperlink | Task |
-| --- | --- |
-| **Settings Protection** | [Choose settings protections](../../Tasks/Basic_tasks/Choose_settings_protections.md)<br/>The lock symbols you see are described [here](Settings_Protection_dialog_box.md). |
 
 #### Related Topics
 

@@ -16,7 +16,7 @@ The **Big Book** template has these pages:
 -   You [add](../Tasks/Edit_tasks/Add_a_page.md) the [inside pages](Inside_pages.md).
     
 
-In the **Add Page** dialog box, you can choose one that holds only a [picture](Picture.md), one that only holds words, or a [custom page](../Tasks/Edit_tasks/About_the_Change_Layout_controls.md). The **Change Layout** [control](../Tasks/Edit_tasks/About_the_Change_Layout_controls.md) can be available in these pages.
+In the **Add Page** dialog box, you can choose one that holds only an [image](Image.md), one that only holds words, or a [custom page](../Tasks/Edit_tasks/About_the_Change_Layout_controls.md). The **Change Layout** [control](../Tasks/Edit_tasks/About_the_Change_Layout_controls.md) can be available in these pages.
 
 ### Printing a Big Book
 

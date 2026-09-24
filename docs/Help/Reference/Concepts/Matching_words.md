@@ -1,7 +1,7 @@
 ---
 title: Matching words
 hide_title: true
-sidebar_position: 44
+sidebar_position: 46
 slug: /Help/Reference/matching-words
 ---
 

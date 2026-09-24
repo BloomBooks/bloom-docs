@@ -34,8 +34,6 @@ Here are some possible roles and tasks. You might work in a group with fewer or 
     
 -   [Set up](../Tasks/Edit_tasks/Leveled_Reader_Tool/Leveled_Reader_Tool_overview.md) Leveled Reader
     
--   [Protect](../Tasks/Basic_tasks/Choose_settings_protections.md) the settings.
-    
 -   [Change the UI language](../Tasks/Basic_tasks/Change_User_Interface_language.md).
     
 -   Get [ISBN](ISBN.md) numbers for books, if they are necessary.

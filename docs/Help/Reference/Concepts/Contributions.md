@@ -23,7 +23,7 @@ The [Title Page](Title_Page.md) has a [text box](Text_Box.md) for contributions.
 -   Click **Paste Image Credits** to paste image credit information into the text box.
     
 
-This [information](../Tasks/Edit_tasks/Change_picture_metadata.md) was [set up](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md) in the **Copyright and License** [dialog box](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md).
+This [information](../Tasks/Edit_tasks/Change_image_metadata.md) was [set up](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md) in the **Copyright and License** [dialog box](../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md).
 
 If you need to update it, select and delete the information that was previously pasted and then click **Paste Image Credits** again.
 
@@ -40,8 +40,8 @@ If you select the [CC0 Public Domain](https://creativecommons.org/publicdomain/z
 
 [Edit a book](../Tasks/Edit_tasks/Edit_a_book.md)
 
-[Metadata in Bloom](Metadata_in_Bloom.md)
+[Image](Image.md)
 
-[Picture/Image](Picture.md)
+[Metadata in Bloom](Metadata_in_Bloom.md)
 
 [Tasks overview](../Tasks/Tasks_overview.md)

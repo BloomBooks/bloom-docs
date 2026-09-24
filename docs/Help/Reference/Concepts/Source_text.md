@@ -31,7 +31,7 @@ A _Source text_ is the words for a [book](Book.md). These words are provided in 
 
 #### Important
 
--   If the source text is available in _more_ than two languages, a number appears next to the tabs. The picture below shows an example that has 3 languages. There are two tabs with the language name, and one more that shows that there is another language. You could see a larger number.
+-   If the source text is available in _more_ than two languages, a number appears next to the tabs. The example below shows an example that has 3 languages. There are two tabs with the language name, and one more that shows that there is another language. You could see a larger number.
     
     -   Click the number to see the other language or languages. Then, click the language you want to see in a tab.
         

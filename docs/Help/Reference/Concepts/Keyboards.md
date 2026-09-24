@@ -1,7 +1,7 @@
 ---
 title: Keyboards
 hide_title: true
-sidebar_position: 40
+sidebar_position: 42
 slug: /Help/Reference/keyboards
 ---
 
@@ -15,7 +15,7 @@ In some cases, the [Special Character panel](../Tasks/Edit_tasks/Using_the_Speci
 
 -   Typically, users need a keyboard for only the local language.
     
--   If you will make shell books, you might need a separate keyboard for one or more of the languages of wider communication selected in the [Settings dialog box](../User_Interface/Dialog_boxes/Settings_dialog_box.md). _Manually_ change the keyboard to match that language of each text box.
+-   If you will make shell books, you might need a separate keyboard for one or more of the languages of wider communication selected in the **Collection Settings** [dialog box](../User_Interface/Dialog_boxes/Settings_dialog_box.md). _Manually_ change the keyboard to match that language of each text box.
     
 
 -   Installing and setting up keyboards is _beyond the scope_ of these Bloom Helps.  

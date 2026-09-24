@@ -13,13 +13,12 @@ Here are tasks that require knowledge that some users will not have:
     
 -   [Editing stylesheets overview](Editing_stylesheets_overview.md)
     
-
--   [Editing Stylesheets](Editing_stylesheets.md) - This topic gives basic tasks about how to find and edit your stylesheets.
-    
--   [Font features](Font_features.md) - This topic has sample rules for font features settings.
-    
--   [Image-only or Text-only PDFs](Image-only_or_Text-only_PDFs.md) - This topic has example rules you can use to generate pdf files that only contain pictures (images) or only the words (texts).
-    
+    -   [Editing Stylesheets](Editing_stylesheets.md) - This topic gives basic tasks about how to find and edit your stylesheets.
+        
+    -   [Font features](Font_features.md) - This topic has sample rules for font features settings.
+        
+    -   [Image-only or Text-only PDFs](Image-only_or_Text-only_PDFs.md) - This topic has example rules you can use to generate pdf files that only contain images or only the words (texts).
+        
 -   [Install Bloom with no Internet access](Install_Bloom_with_no_Internet_access.md)
     
 -   [Text-to-Speech overview](Text_to_Speech_overview.md)

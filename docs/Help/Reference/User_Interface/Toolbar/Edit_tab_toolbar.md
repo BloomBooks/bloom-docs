@@ -50,8 +50,6 @@ Click ![](/ref-docs-assets/images/User_Interface/Toolbar/ZOOM_Edit_Reduce.png) t
 
 #### Tip
 
--   Some buttons may be [hidden or locked](../../Tasks/Basic_tasks/Choose_settings_protections.md).
-    
 -   The [tool box](../../Concepts/Tool_Box.md) can appear vertically on the right side of the **Edit** tab.
     
 -   The [Languages tab](../Dialog_boxes/Languages_tab.md) is in the **Settings** [dialog box](../Dialog_boxes/Settings_dialog_box.md).

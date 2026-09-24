@@ -2,7 +2,7 @@
 title: Delete or rename a collection
 hide_title: true
 sidebar_label: "Delete or rename a Bloom collection"
-sidebar_position: 10
+sidebar_position: 9
 slug: /Help/Reference/delete-or-rename-a-collection
 ---
 

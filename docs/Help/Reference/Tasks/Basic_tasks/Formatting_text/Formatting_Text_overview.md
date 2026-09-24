@@ -38,12 +38,12 @@ Here are formatting tasks you can do:
 
 #### Related Topics
 
+[Collection Setting dialog box](../../../User_Interface/Dialog_boxes/Settings_dialog_box.md)
+
 [Edit tab tasks overview](../../Edit_tasks/Edit_tasks_overview.md)
 
 [Format dialog box](../../../User_Interface/Dialog_boxes/Format_dialog_box.md)
 
 [Invisible characters](../../../Concepts/Invisible_characters.md)
-
-[Setting dialog box](../../../User_Interface/Dialog_boxes/Settings_dialog_box.md)
 
 [Style](../../../Concepts/Styles.md)

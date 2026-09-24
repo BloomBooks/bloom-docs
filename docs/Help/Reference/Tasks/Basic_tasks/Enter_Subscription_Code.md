@@ -1,7 +1,7 @@
 ---
 title: Enter your Subscription Code
 hide_title: true
-sidebar_position: 14
+sidebar_position: 13
 slug: /Help/Reference/enter-subscription-code
 ---
 
@@ -9,7 +9,7 @@ slug: /Help/Reference/enter-subscription-code
 
 You might want to become familiar with the [Bloom Feature Matrix](https://bloomlibrary.org/page/resources/feature-matrix "https://bloomlibrary.org/page/resources/feature-matrix"). 
 
-1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md).
+1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the ****Collection Settings**** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md).
     
 2.  Click the **Bloom Subscription** tab.
     

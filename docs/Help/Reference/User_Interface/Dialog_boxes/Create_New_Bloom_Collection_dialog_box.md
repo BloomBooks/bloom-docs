@@ -2,7 +2,7 @@
 title: Create New Bloom Collection dialog box
 hide_title: true
 sidebar_label: "Create New Collection dialog box"
-sidebar_position: 9
+sidebar_position: 10
 slug: /Help/Reference/create-new-bloom-collection-dialog-box
 ---
 

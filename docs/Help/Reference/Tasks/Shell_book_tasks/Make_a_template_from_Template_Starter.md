@@ -32,7 +32,7 @@ The specific content that you include in your template can vary a great deal, so
         
     -   [Choose](../Edit_tasks/Choose_page_size_and_orientation.md) a page size and orientation.
         
-6.  On the **Image For Thumbnail: TemplateStarter Front/Back Matter** page, [choose](../Edit_tasks/Change_picture.md) a picture.
+6.  On the **Image For Thumbnail: TemplateStarter Front/Back Matter** page, [choose](../Edit_tasks/Change_Image.md) an image.
     
 7.  On the **About** page, do these steps:
     
@@ -55,7 +55,7 @@ The specific content that you include in your template can vary a great deal, so
     
 -   Type words in the [text boxes](../../Concepts/Text_Box.md) that you want to include in all books made from this template.
     
--   [Insert a picture](../Edit_tasks/Change_picture.md) that you want to include in all books made from this template.
+-   [Insert an image](../Edit_tasks/Change_Image.md) that you want to include in all books made from this template.
     
 -   Repeat this step for each page.
     

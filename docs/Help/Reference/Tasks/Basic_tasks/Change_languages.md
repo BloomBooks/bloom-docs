@@ -7,7 +7,7 @@ slug: /Help/Reference/change-languages
 
 ## Change or Set languages
 
-1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** dialog box.
+1.  [Open](../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Collection Settings** dialog box.
     
 2.  Click the **Languages** tab.
     

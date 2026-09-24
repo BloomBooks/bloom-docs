@@ -51,7 +51,7 @@ To do this, [create a transliteration rules file](Create_a_transliteration_rules
 
 [Advanced tasks overview](Advanced_tasks_overview.md)
 
-[Setting dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md)
+[Collection Setting dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md)
 
 #### Related Internet Sites
 

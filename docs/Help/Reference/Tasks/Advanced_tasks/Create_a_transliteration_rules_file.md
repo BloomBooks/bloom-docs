@@ -14,7 +14,7 @@ Do these steps if you need to provide transliteration rules for Bloom:
 
 1.  If you first tried an [empty conversion file](Create_an_empty_conversion_file.md), delete that file from the collection [folder](../../User_Interface/Tabs/Collections_tab_commands.md).
     
-2.  If you do not know your language code, open the **Settings** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md), **Languages** tab. Language codes appear there in parenthesis after the language name.
+2.  If you do not know your language code, open the **Collection Settings** [dialog box](../../User_Interface/Dialog_boxes/Settings_dialog_box.md), **Languages** tab. Language codes appear there in parenthesis after the language name.
     
 3.  Use and editor, such as Notepad, to create a simple tab-separated values (TSV) file with two columns:
     

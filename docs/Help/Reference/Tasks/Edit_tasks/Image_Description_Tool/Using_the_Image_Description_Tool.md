@@ -9,7 +9,7 @@ slug: /Help/Reference/using-the-image-description-tool
 
 Do the steps below to add or edit a description of an image:
 
-1.  In the **Pages** pane, click an [inside](../../../Concepts/Inside_pages.md) page that has an [image](../../../Concepts/Picture.md).
+1.  In the **Pages** pane, click an [inside](../../../Concepts/Inside_pages.md) page that has an [image](../../../Concepts/Image.md).
     
 2.  Click the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Image_Description_Tool/ImageDescriptionTool_Blue.png) **Image Description Tool** tab in the [tool box](../../../Concepts/Tool_Box.md).
     

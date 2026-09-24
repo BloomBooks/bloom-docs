@@ -1,7 +1,7 @@
 ---
 title: Licenses - Examples
 hide_title: true
-sidebar_position: 43
+sidebar_position: 45
 slug: /Help/Reference/licenses-examples
 ---
 

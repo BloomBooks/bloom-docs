@@ -11,17 +11,17 @@ In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab
 
 | Edit tab tasks |  |
 | --- | --- |
-| [Add a page](Add_a_page.md) | [Crop a picture](Crop_a_picture.md) |
+| [Add a page](Add_a_page.md) | [Crop an image](Crop_a_image.md) |
 | [Apply direct formatting](../Basic_tasks/Formatting_text/Apply_direct_formatting.md) | [Duplicate a page](Duplicate_a_page.md) |
 | [Change Layout controls, using](Using_the_Change_Layout_controls.md) | [Edit a book](Edit_a_book.md) |
-| [Change picture](Change_picture.md) | [Edit a Big Book](Edit_a_Big_Book.md) |
-| [Change picture metadata](Change_picture_metadata.md) | [Edit a wall calendar](Edit_a_calendar.md) |
+| [Change image](Change_Image.md) | [Edit a Big Book](Edit_a_Big_Book.md) |
+| [Change image metadata](Change_image_metadata.md) | [Edit a wall calendar](Edit_a_calendar.md) |
 | [Choose HTML Widget](Choose_an_HTML_Widget.md) |  |
 | [Choose Different Layout](Choose_Different_Layout.md) | Edit Copyright & License:<br/>• [Images](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box-Images.md)<br/>• [Text](../../User_Interface/Dialog_boxes/Copyright_License_dialog_box_Text.md) |
 | [Choose page size & orientation](Choose_page_size_and_orientation.md) | [Remove a page](Remove_a_page.md) |
 | [Choose topic](Choose_a_topic.md) | [Reorder pages](Reorder_pages.md) |
-| [Copy and paste a page](Copy_and_paste_a_page.md) | [Resize a picture](Resize_a_picture.md) |
-| [Copy and paste an internal link](Copy_and_paste_internal_link.md) | [Special Character panel, using](Using_the_Special_Characters_panel.md) |
+| [Copy and paste a page](Copy_and_paste_a_page.md) | [Resize an image](Resize_an_image.md) |
+| • [Copy and paste an internal link<br/>](Copy_and_paste_internal_link.md)<br/>• [Copy and paste an external link](Copy_and_paste_external_link.md) | [Special Character panel, using](Using_the_Special_Characters_panel.md) |
 
 | "Tool Box" tasks overviews |  |
 | --- | --- |
@@ -35,7 +35,7 @@ In the ![](/ref-docs-assets/images/User_Interface/Tabs/EditTab.png)**Edit** [tab
 
 -   If the book is in a [Team Collection](../../Concepts/Team_Collection.md), only one person at a time can work in that book. See [Team Collection overview](../Basic_tasks/Team_Collections/Team_Collections_overview.md) for more information.
     
--   Some of the editable content appears in the **Book Metadata** dialog box. For example, the [front cover](../../Concepts/Front_Cover_page.md) picture, [book title](../../Concepts/Book_Title.md) and [license](../../Concepts/Licenses_examples.md).
+-   Some of the editable content appears in the **Book Metadata** dialog box. For example, the [front cover](../../Concepts/Front_Cover_page.md) image, [book title](../../Concepts/Book_Title.md) and [license](../../Concepts/Licenses_examples.md).
     
 -   **See Also:** [About Book Features](../Publish_tasks/Features.md)
     

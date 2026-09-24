@@ -1,7 +1,7 @@
 ---
 title: Duplicate a book
 hide_title: true
-sidebar_position: 11
+sidebar_position: 10
 slug: /Help/Reference/duplicate-a-book
 ---
 

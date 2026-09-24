@@ -1,7 +1,7 @@
 ---
 title: Leveled Readers
 hide_title: true
-sidebar_position: 42
+sidebar_position: 44
 slug: /Help/Reference/leveled-readers
 ---
 

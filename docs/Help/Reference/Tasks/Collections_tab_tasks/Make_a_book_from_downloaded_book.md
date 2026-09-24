@@ -7,7 +7,7 @@ slug: /Help/Reference/make-a-book-from-downloaded-book
 
 ## Make a book from a downloaded book
 
-You can [get a book from BloomLibrary.org](../Basic_tasks/Get_a_book_from_BloomLibrary.md). Then, you can use it to make a translated book for your collection. It is expected that you will use the pictures and pages as set in the source book. You may not need to do _all_ the steps in this task.
+You can [get a book from BloomLibrary.org](../Basic_tasks/Get_a_book_from_BloomLibrary.md). Then, you can use it to make a translated book for your collection. It is expected that you will use the images and pages as set in the source book. You may not need to do _all_ the steps in this task.
 
 1.  Click the ![](/ref-docs-assets/images/User_Interface/Tabs/Collections.png) **Collections** [tab](../../User_Interface/Tabs/Tabs_overview.md).
     
@@ -66,7 +66,7 @@ You can [get a book from BloomLibrary.org](../Basic_tasks/Get_a_book_from_BloomL
 
 -   [Formatting Text overview](../Basic_tasks/Formatting_text/Formatting_Text_overview.md) help you work with styles and formatting.
     
--   It is expected that you will use the pictures that are in the book that you downloaded.
+-   It is expected that you will use the images that are in the book that you downloaded.
     
 
 #### Related Topics

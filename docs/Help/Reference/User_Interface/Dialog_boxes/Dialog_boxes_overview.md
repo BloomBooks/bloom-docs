@@ -17,33 +17,10 @@ These dialog boxes can appear in Bloom:
     
 -   [Book Metadata](Book_Metadata_dialog_box.md)
     
--   [Book Settings](Book_Settings_dialog_box.md)
+-   [Book and Page Settings](Book_Settings_dialog_box.md)
     
--   [Copyright and License - Images](Copyright_License_dialog_box-Images.md)
-    
--   [Copyright and License - Text](Copyright_License_dialog_box_Text.md)
-    
--   [Create New Bloom Collection](Create_New_Bloom_Collection_dialog_box.md)
-    
--   [Export to Spreadsheet](Export_to_Spreadsheet_dialog_box.md)
-    
--   [Format](Format_dialog_box.md)
-    
--   [Image Toolbox](Image_Toolbox.md) ([picture](../../Tasks/Edit_tasks/Change_picture.md))
-    
--   [Is this an update of your existing book?](Is_this_an_update_of_your_existing_book.md)
-    
--   [Make Reader Template Bloom Pack](../../Tasks/Basic_tasks/Make_Reader_Template_BloomPack.md)
-    
--   [Open/Create Collections](Open_Create_Collections_dialog_box.md)
-    
--   [Report A Problem](Report_A_Problem_dialog_box.md)
-    
--   [Set up Decodable Reader Tool](../../Tasks/Edit_tasks/Decodable_Reader_Tool/Set_up_Decodable_Reader_Tool_dialog_box.md)
-    
--   [Set up Leveled Reader Tool](../../Tasks/Edit_tasks/Leveled_Reader_Tool/Set_up_Leveled_Reader_Tool_dialog_box.md)
-    
--   [Settings](Settings_dialog_box.md)
+
+-   [Collection Settings](Settings_dialog_box.md)
     
     -   [Advanced Program Settings _tab_](Settings_dialog_box.md)
         
@@ -61,10 +38,33 @@ These dialog boxes can appear in Bloom:
         
     -   [Bloom Subscription _tab_](../../Tasks/Basic_tasks/Enter_Subscription_Code.md)
         
-    -   [Settings Protection](Settings_Protection_dialog_box.md)
-        
-        -   [Settings Protection Password](Setting_Protection_Password_dialog_box.md)
-            
+
+-   [Copyright and License - Images](Copyright_License_dialog_box-Images.md)
+    
+-   [Copyright and License - Text](Copyright_License_dialog_box_Text.md)
+    
+-   [Create New Bloom Collection](Create_New_Bloom_Collection_dialog_box.md)
+    
+-   [Export to Spreadsheet](Export_to_Spreadsheet_dialog_box.md)
+    
+-   [Format](Format_dialog_box.md)
+    
+-   [Image Toolbox](Image_Toolbox.md)
+    
+-   [Is this an update of your existing book?](Is_this_an_update_of_your_existing_book.md)
+    
+-   [Make Reader Template Bloom Pack](../../Tasks/Basic_tasks/Make_Reader_Template_BloomPack.md)
+    
+-   [Open/Create Collections](Open_Create_Collections_dialog_box.md)
+    
+-   [Report A Problem](Report_A_Problem_dialog_box.md)
+    
+-   [Set up Decodable Reader Tool](../../Tasks/Edit_tasks/Decodable_Reader_Tool/Set_up_Decodable_Reader_Tool_dialog_box.md)
+    
+-   [Set up Leveled Reader Tool](../../Tasks/Edit_tasks/Leveled_Reader_Tool/Set_up_Leveled_Reader_Tool_dialog_box.md)
+    
+-   [Script and Variant dialog box](Script_and_Variant_dialog_box.md)
+    
 -   [Setup](Setup_dialog_box.md) ([wall calendar](../../Tasks/Collections_tab_tasks/Make_a_wall_calendar.md))
     
 -   [Text Box Properties](Text_Box_Properties_dialog_box.md)

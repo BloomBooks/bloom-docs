@@ -42,7 +42,7 @@ Some pages are _not_ shown if they are used with [experimental features](../../U
     
 -   Keyboard shortcut: Ctrl+N adds a new page without displaying the **Add Page** dialog box.
     
-    If you already used the **Add Page** dialog box to choose a page, Bloom will remember that page and add it again. Otherwise, Bloom adds a **Basic Text & Picture** page.
+    If you already used the **Add Page** dialog box to choose a page, Bloom will remember that page and add it again. Otherwise, Bloom adds a **Basic Text & Image** page.
     
 
 -   Some users may want to use the [Translation Instructions](../../Concepts/Translation_Instructions.md) page.
@@ -50,7 +50,7 @@ Some pages are _not_ shown if they are used with [experimental features](../../U
 -   **See Also**:
     
 
-[Quiz Page](../../Concepts/QuizPage.md), [Choose Picture or Word pages](../../Concepts/Choose_Picture_or_Word_pages.md) or [Widget Page](../../Concepts/Widget_Page.md)
+[Quiz Page](../../Concepts/QuizPage.md), [Choose Image or Word pages](../../Concepts/Choose_Image_or_Word_pages.md) or [Widget Page](../../Concepts/Widget_Page.md)
 
 [Copy and Paste a page](Copy_and_paste_a_page.md), [Duplicate Page](Duplicate_a_page.md) or [Template Starter](../../Concepts/Template_Starter.md).
 

@@ -1,7 +1,7 @@
 ---
 title: Copy a collection to another computer
 hide_title: true
-sidebar_position: 6
+sidebar_position: 5
 slug: /Help/Reference/copy-a-collection-to-another-computer
 ---
 

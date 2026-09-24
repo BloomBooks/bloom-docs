@@ -7,7 +7,7 @@ slug: /Help/Reference/custom-page-template-example
 
 ## Custom page template - example
 
-If you choose the **Custom** page template when you [add a page](Add_a_page.md), you can insert boxes in various different ways. This example shows the same custom page layout. The [Change Layout controls](About_the_Change_Layout_controls.md) are shown in the picture on the left. They are hidden in the picture on the right.
+If you choose the **Custom** page template when you [add a page](Add_a_page.md), you can insert boxes in various different ways. This example shows the same custom page layout. The [Change Layout controls](About_the_Change_Layout_controls.md) are shown on the left. They are hidden on the right.
 
 ![](/ref-docs-assets/images/Tasks/Edit_tasks/ExamplePage.png)
 

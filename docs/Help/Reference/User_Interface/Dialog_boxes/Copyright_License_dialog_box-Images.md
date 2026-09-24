@@ -1,13 +1,13 @@
 ---
 title: Copyright & License dialog box - Images
 hide_title: true
-sidebar_position: 7
+sidebar_position: 8
 slug: /Help/Reference/copyright-license-dialog-box-images
 ---
 
 ## Copyright and License dialog box - Images
 
-Use this dialog box when you work with [picture metadata](../../Tasks/Edit_tasks/Change_picture_metadata.md).
+Use this dialog box when you work with [image metadata](../../Tasks/Edit_tasks/Change_image_metadata.md).
 
 1.  Click the **COPYRIGHT** tab and then do these steps:
     

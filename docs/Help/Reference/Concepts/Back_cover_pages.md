@@ -20,7 +20,7 @@ These **Back Cover** pages can contain:
 
 -   You can [format](../User_Interface/Dialog_boxes/Format_dialog_box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) the text boxes on this page.
     
--   You cannot put pictures on these pages.
+-   You cannot put images on these pages.
     
 
 #### Related Topics

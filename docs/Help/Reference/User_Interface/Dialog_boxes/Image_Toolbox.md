@@ -2,36 +2,36 @@
 title: ImageToolbox
 hide_title: true
 sidebar_label: "Image Toolbox"
-sidebar_position: 12
+sidebar_position: 13
 slug: /Help/Reference/image-toolbox
 ---
 
 ## Image Toolbox
 
-When you [change a picture](../../Tasks/Edit_tasks/Change_picture.md) ([image](../../Concepts/Picture.md)), you can use the **Image Toolbox**.
+When you [change an image](../../Tasks/Edit_tasks/Change_Image.md),you can use the **Image Toolbox**.
 
-### Get Picture ![](/ref-docs-assets/images/Tasks/getpicture.png)
+### Get Picture ![](/ref-docs-assets/images/Tasks/getpicture.png)
 
 -   Click the source: ![](/ref-docs-assets/images/Tasks/artofreading.png) **Art of Reading**, ![](/ref-docs-assets/images/Tasks/scanner.png) **Scanner**, ![](/ref-docs-assets/images/Tasks/camera.png) **Camera** or ![](/ref-docs-assets/images/Tasks/File.png) **File**.
     
     1.  For **Art of Reading**, do either of these steps:
         
     
-    -   If _[Art Of Reading](https://bloomlibrary.org/artofreading "https://bloomlibrary.org/artofreading")_ version 3.1 (or later) is installed and you have the appropriate keyboard, you can type a word in the **Search the Art of Reading Gallery** box in other languages. Click the down-arrow (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/DownArrow.png)) that is next to the search box, and then click the desired language. Type the word that describes the picture you want to find.
+    -   If _[Art Of Reading](https://bloomlibrary.org/artofreading "https://bloomlibrary.org/artofreading")_ version 3.1 (or later) is installed and you have the appropriate keyboard, you can type a word in the **Search the Art of Reading Gallery** box in other languages. Click the down-arrow (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/DownArrow.png)) that is next to the search box, and then click the desired language. Type the word that describes the image you want to find.
         
-    -   For older versions of _Art of Reading_, in the search box, type an English word that describes the picture you want to find.
+    -   For older versions of _Art of Reading_, in the search box, type an English word that describes the image you want to find.
         
     
     2.  Click the search button (![](/ref-docs-assets/images/User_Interface/Dialog_boxes/SearchButton.png)).
         
-    3.  Click the picture you want to use. Click **OK**.
+    3.  Click the image you want to use. Click **OK**.
         
--   For **Scanner**, **Camera** or **File**, do the necessary steps to find the picture.
+-   For **Scanner**, **Camera** or **File**, do the necessary steps to find the image.
     
 
 ### Crop ![](/ref-docs-assets/images/User_Interface/Dialog_boxes/Crop.png)
 
--   [Crop a picture](../../Tasks/Edit_tasks/Crop_a_picture.md).
+-   [Crop an image](../../Tasks/Edit_tasks/Crop_a_image.md).
     
 
 ### Metadata
@@ -43,7 +43,7 @@ When you [change a picture](../../Tasks/Edit_tasks/Change_picture.md) ([image](.
 
 Other links may appear. Some open Internet sites if you have an Internet connection.
 
-**See Also:** [Change picture metadata](../../Tasks/Edit_tasks/Change_picture_metadata.md).
+**See Also:** [Change image metadata](../../Tasks/Edit_tasks/Change_image_metadata.md).
 
 #### Tip
 
@@ -60,9 +60,9 @@ If the program is unable to modify the file (CD, directory or drive for which yo
 
 [Edit tab tasks overview](../../Tasks/Edit_tasks/Edit_tasks_overview.md)
 
-[Picture format](../../Concepts/Picture_format.md)
+[Image format](../../Concepts/Image_format.md)
 
-[Resize a picture](../../Tasks/Edit_tasks/Resize_a_picture.md)
+[Resize an image](../../Tasks/Edit_tasks/Resize_an_image.md)
 
 [Metadata](../../Concepts/Metadata_in_Bloom.md)
 

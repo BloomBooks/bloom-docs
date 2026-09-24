@@ -25,7 +25,7 @@ Do any of these steps:
     
 3.  In the **Game Tool** tab, click the item you want to add to the game page and drag it to the place on the page where you want it to appear.
     
-4.  Click ![](/ref-docs-assets/images/Concepts/ChoosePictureButton.png) to add a background [image](../Change_picture.md) if desired.
+4.  Click ![](/ref-docs-assets/images/Concepts/ChoosePictureButton.png) to add a background [image](../Change_Image.md) if desired.
     
 5.  Do any of the options described in [Set up games overview](Set_up_games_overview.md), including the theme and other options.
     

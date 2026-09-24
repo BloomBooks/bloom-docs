@@ -7,7 +7,7 @@ slug: /Help/Reference/create-a-team-collection
 
 ## Create a Team Collection
 
-The steps in this topic assume that you will use Dropbox for your [Team Collection](../../../Concepts/Team_Collection.md). Dropbox is recommended. Google Drive does _not_ currently work with Bloom. The **Team Collection** [tab](../../../User_Interface/Dialog_boxes/Settings_dialog_box.md) in the **Settings** dialog box has links to additional documentation ([online](https://docs.google.com/document/d/1DOhy7hnmG37NzcQN8oP6NkXW_X3WU7YH4ez_P1hV1mo/edit#heading=h.m6a6ps8wdxru "https://docs.google.com/document/d/1DOhy7hnmG37NzcQN8oP6NkXW_X3WU7YH4ez_P1hV1mo/edit#heading=h.m6a6ps8wdxru")). It is possible to use a LAN (Local Area Network) folder instead of Dropbox.
+The steps in this topic assume that you will use Dropbox for your [Team Collection](../../../Concepts/Team_Collection.md). Dropbox is recommended. Google Drive does _not_ currently work with Bloom. The **Team Collection** [tab](../../../User_Interface/Dialog_boxes/Settings_dialog_box.md) in the **Collection Settings** dialog box has links to additional documentation ([online](https://docs.google.com/document/d/1DOhy7hnmG37NzcQN8oP6NkXW_X3WU7YH4ez_P1hV1mo/edit#heading=h.m6a6ps8wdxru "https://docs.google.com/document/d/1DOhy7hnmG37NzcQN8oP6NkXW_X3WU7YH4ez_P1hV1mo/edit#heading=h.m6a6ps8wdxru")). It is possible to use a LAN (Local Area Network) folder instead of Dropbox.
 
 #### Prerequisites
 
@@ -27,7 +27,7 @@ Any other team members can only [join](Join_a_Team_Collection.md) it.
     
 2.  Open the Bloom collection that is for your team.
     
-3.  [Open](../../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Settings** dialog box. Do these steps:
+3.  [Open](../../../User_Interface/Dialog_boxes/Settings_dialog_box.md) the **Collection Settings** dialog box. Do these steps:
     
     -   Click the **Advanced Program Settings** tab and select (![](/ref-docs-assets/images/SelectedCheckBox.png)) **Team Collection**.
         

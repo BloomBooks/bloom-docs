@@ -23,7 +23,7 @@ You may want to produce PDF files that contain only the images or only the words
 -   To make a PDF that has only words, paste this into the file:
     
 
-/\* The media section below will keep any pictures from appearing in the pdf of this
+/\* The media section below will keep any images from appearing in the pdf of this
 
 book. \*/
 
@@ -41,7 +41,7 @@ border: transparent;
 
 `}`
 
--   To make a PDF that has only pictures, paste this into the file:
+-   To make a PDF that has only images, paste this into the file:
     
 
 /\* The media section below will keep any text from appearing in the pdf of this
@@ -97,7 +97,7 @@ visibility: hidden;
 -   To make a PDF that has only words, paste this into the file:
     
 
-/\* The media section below will keep any pictures from appearing  
+/\* The media section below will keep any images from appearing  
 in the pdf of any book in this collection. \*/  
 @media print `{`
 
@@ -113,7 +113,7 @@ border: transparent;
 
 `}`
 
--   To make a PDF that has only pictures, paste this into the file:
+-   To make a PDF that has only images, paste this into the file:
     
 
 /\* The media section below will keep any text from appearing  

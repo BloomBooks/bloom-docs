@@ -14,13 +14,15 @@ The **Front Cover** contains:
 -   [Book title](Book_Title.md) - it can appear in the top two [languages](../User_Interface/Dialog_boxes/Languages_tab.md).
     
 
--   [Picture](Picture.md) - it appears on the front cover.
+-   [Image](Image.md) - it appears on the front cover.
     
 -   A text box so you can show the author/illustrator and so on. The [Title Page](Title_Page.md) has a text box for [contributions](Contributions.md).
     
 -   [Languages](../User_Interface/Dialog_boxes/Languages_tab.md) used in the book. If the book contains a video, then also the name of the sign language.
     
 -   [Topic](../Tasks/Edit_tasks/Choose_a_topic.md) of the book.
+    
+-   **Custom** ![](/ref-docs-assets/images/EnterpriseStar.png) is a Bloom [enterprise](../Tasks/Edit_tasks/Enterprise/EnterpriseRequired.md) feature that enables the **Canvas** [tool](../Tasks/Edit_tasks/Canvas_Tool/Using_the_Canvas_Tool.md) so you can customize the front cover page.
     
 
 The **Inside Front Cover** can contain:
@@ -32,7 +34,7 @@ You can also use the [back cover pages](Back_cover_pages.md).
 
 #### Note
 
--   The book title and picture appear in the **Book Metadata** dialog box. The book title is metadata when you [Publish to Web](../Tasks/Publish_tasks/Publish%20to%20Web.md).
+-   The book title and image appear in the **Book Metadata** dialog box. The book title is metadata when you [Publish to Web](../Tasks/Publish_tasks/Publish%20to%20Web.md).
     
 -   You can [format](../User_Interface/Dialog_boxes/Format_dialog_box.md) (![](/ref-docs-assets/images/Tasks/Edit_tasks/TextBoxPropertiesStar.png)) the text boxes on these pages.
     

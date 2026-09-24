@@ -2,13 +2,13 @@
 title: Intellectual_Property
 hide_title: true
 sidebar_label: "Intellectual Property"
-sidebar_position: 37
+sidebar_position: 39
 slug: /Help/Reference/intellectual-property
 ---
 
 ## Intellectual Property (Copyright) Info
 
-Content created or collected in the tasks of language development and translation is considered Intellectual Property (IP). IP includes: word data, fonts, [pictures](Picture.md), music and sound recordings, artistic and photographic works, stories, dramatic presentations, and more. All these expressions are protected from misuse by international IP laws. When any publication is created and made available to the public, the distributor must obtain permission(s), acknowledge the owner(s) and abide by all [restrictions](Licenses_examples.md) placed upon the content being shared or published. The goal is to preserve the benefits of works created by staff for the use of others.
+Content created or collected in the tasks of language development and translation is considered Intellectual Property (IP). IP includes: word data, fonts, [images](Image.md), music and sound recordings, artistic and photographic works, stories, dramatic presentations, and more. All these expressions are protected from misuse by international IP laws. When any publication is created and made available to the public, the distributor must obtain permission(s), acknowledge the owner(s) and abide by all [restrictions](Licenses_examples.md) placed upon the content being shared or published. The goal is to preserve the benefits of works created by staff for the use of others.
 
 #### Important concepts:
 

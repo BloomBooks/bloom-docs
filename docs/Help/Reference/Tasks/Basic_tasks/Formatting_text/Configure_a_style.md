@@ -85,7 +85,7 @@ Except for a green check mark (![](/ref-docs-assets/images/Tasks/Basic_tasks/For
 
 These symbols also appear in the **Book Making** [tab](../Select_front_matter_or_back_matter_from_a_pack.md).
 
-All the fonts you use are listed in the **Book Settings** [dialog box](../../../User_Interface/Dialog_boxes/Book_Settings_dialog_box.md). 
+All the fonts you use are listed in the **Book and Page Settings** [dialog box](../../../User_Interface/Dialog_boxes/Book_Settings_dialog_box.md). 
 
 -   The **Background color** and **Text color** dialog boxes are similar to the ones described in this Help topic: [Choose text or background colors](../../Edit_tasks/Canvas_Tool/Choose_text_or_background_colors.md).
     

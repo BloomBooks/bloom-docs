@@ -40,7 +40,7 @@ Most calendars only allow **A5 Landscape**.
 
 -   Click the text box near the top of the **Front Cover** page. Then, type a title in the local language.
     
--   [Choose the picture](../Edit_tasks/Change_picture.md) that you want on the cover page.
+-   [Choose the image](../Edit_tasks/Change_Image.md) that you want on the cover page.
     
 -   [Choose a topic](../Edit_tasks/Choose_a_topic.md).
     
@@ -67,11 +67,11 @@ Most calendars only allow **A5 Landscape**.
         
     -   Type the [ISBN](../../Concepts/ISBN.md), if your organization used them.
         
-9.  In the **Pages** pane, click a picture page (![](/ref-docs-assets/images/Tasks/imagepage.png)).
+9.  In the **Pages** pane, click an image page (![](/ref-docs-assets/images/Tasks/imagepage.png)).
     
-    -   [Choose a picture](../Edit_tasks/Change_picture.md).
+    -   [Choose an image](../Edit_tasks/Change_Image.md).
         
-    -   Type words in the [text box](../../Concepts/Text_Box.md) or boxes that are below the picture.
+    -   Type words in the [text box](../../Concepts/Text_Box.md) or boxes that are below the image.
         
 10.  In the **Pages** pane, click a calendar page (![](/ref-docs-assets/images/Tasks/calendarpage.png)).
      

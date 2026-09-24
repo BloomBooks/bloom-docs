@@ -9,11 +9,11 @@ slug: /Help/Reference/canvas-tool-overview
 
 The ![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/Canvas_Tool%20Icon%20Green.png) **Canvas Tool** is one of the tools in the [tool box](../../../Concepts/Tool_Box.md). It is a [Bloom Enterprise](../Enterprise/EnterpriseRequired.md) feature.
 
-On [inside pages](../../../Concepts/Inside_pages.md), it allows you to add layers of pictures, videos or text. These may be or may not be on top of existing content, such as a background picture.
+On [inside pages](../../../Concepts/Inside_pages.md), it allows you to add layers of images, videos or text. These may be or may not be on top of existing content, such as a background image.
 
 You can drag and drop any of these elements from the tool to the page:
 
--    ![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/Image%20place%20holder%20Canvas.png)A _picture placeholder_ holds a picture. Each one has buttons you can use to choose or paste a picture.
+-    ![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/Image%20place%20holder%20Canvas.png)An _image placeholder_ holds an image. Each one has buttons you can use to choose or paste an image.
     
 -    ![](/ref-docs-assets/images/Tasks/Edit_tasks/Canvas_Tool/Video_Canvas.png)A _video placeholder_ holds a video, which you record or import with the ![](/ref-docs-assets/images/Tasks/Edit_tasks/Sign_Language_Tool/VideoPlaceHolderSMALLblue.png) **Sign Language Tool**.
     
@@ -46,6 +46,8 @@ You can add a _child bubble_ that shares the outside border of another bubble, b
 
 #### Important
 
+-   On the [Front Cover page](../../../Concepts/Front_Cover_page.md), **Custom** ![](/ref-docs-assets/images/EnterpriseStar.png) is a Bloom enterprise feature that enables the **Canvas** [tool](Using_the_Canvas_Tool.md) so you can customize the front cover page.
+    
 -   Canvas elements are not supported in [ePUB](../../../Concepts/EPUB.md).
     
 -   [Source Texts](../../../Concepts/Source_text.md) can appear next to bubbles, text blocks or caption boxes.
@@ -57,7 +59,7 @@ You can add a _child bubble_ that shares the outside border of another bubble, b
 
 -   You cannot add bubbles, text blocks or caption to the image on the front cover. Instead, they need to be part of the image.
     
--   When the **Canvas Tool** is open in the tool box, you cannot see the picture [buttons](../../../Concepts/Picture.md).
+-   When the **Canvas Tool** is open in the tool box, you cannot see the image [buttons](../../../Concepts/Image.md).
     
 -   _Lettering_ is the term used for adding bubbles and text. Here is one internet site that can help you learn how to make them look professional: [https://blambot.com/pages/lettering-tips](https://blambot.com/pages/lettering-tips "https://blambot.com/pages/lettering-tips").
     

@@ -39,7 +39,7 @@ You can do either of these steps to update your computer:
 
 -   Click it to check out the book so you can work in it. The book is not checked out by someone else already.
 
--   ![](/ref-docs-assets/images/Concepts/CheckedOUT.png) - **This book is checked out to you** or **This book is checked out to** _name_. Corresponding initials are shown as your _avatar_. Or, if your email is connected to [gravatar](https://en.gravatar.com/ "https://en.gravatar.com/"), it can show a picture instead.
+-   ![](/ref-docs-assets/images/Concepts/CheckedOUT.png) - **This book is checked out to you** or **This book is checked out to** _name_. Corresponding initials are shown as your _avatar_. Or, if your email is connected to [gravatar](https://en.gravatar.com/ "https://en.gravatar.com/"), it can show an image instead.
     
     -   ![](/ref-docs-assets/images/Concepts/CheckOut2ME.png) - Checked out to you. So no one else can edit the book until you check it in.
         

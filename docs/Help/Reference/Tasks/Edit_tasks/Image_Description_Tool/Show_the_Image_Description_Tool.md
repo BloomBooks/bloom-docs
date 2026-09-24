@@ -7,7 +7,7 @@ slug: /Help/Reference/show-the-image-description-tool
 
 ## Show the Image Description Tool
 
--   If the [image](../../../Concepts/Picture.md) you want to describe is in view, click ![](/ref-docs-assets/images/Concepts/ImdDicToolButton.png) (**Image Description Tool**) which is in the lower left corner.
+-   If the [image](../../../Concepts/Image.md) you want to describe is in view, click ![](/ref-docs-assets/images/Concepts/ImdDicToolButton.png) (**Image Description Tool**) which is in the lower left corner.
     
 
 Otherwise, you can do these steps:

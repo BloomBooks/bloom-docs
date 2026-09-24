@@ -17,7 +17,7 @@ To open this dialog box, click the **Add Page** button (![PIC](/ref-docs-assets/
 -   When you click a page layout, the _right_ side shows a brief description of that page layout.
     
 
-For example, you might see **Picture in Middle** or **Just Text**. You can customize any of the page layouts.
+For example, you might see **Image in Middle** or **Just Text**. You can customize any of the page layouts.
 
 The **Custom** page layout allows you to design your own page layout from scratch. **See**: [Using the Change Layout controls](../../Tasks/Edit_tasks/Using_the_Change_Layout_controls.md).
 

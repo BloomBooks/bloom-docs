@@ -81,7 +81,7 @@ _Frequently Asked Questions_ (FAQ) include these:
     
     -   [Add background music?](../Tasks/Edit_tasks/Music_Tool/Music_Tool_overview.md)
         
-    -   [Add motion to still (inanimate) pictures?](../Tasks/Edit_tasks/Motion_Tool/Motion_Tool_overview.md)
+    -   [Add motion to still (inanimate) images?](../Tasks/Edit_tasks/Motion_Tool/Motion_Tool_overview.md)
         
     -   [Find (show) the Decodable Reader Tool?](../Tasks/Edit_tasks/Decodable_Reader_Tool/Show_the_Decodable_Reader_Tool.md)
         

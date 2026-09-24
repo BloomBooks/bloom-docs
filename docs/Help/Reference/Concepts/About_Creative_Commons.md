@@ -36,7 +36,7 @@ You can select (![](/ref-docs-assets/images/SelectedRadioButton.png)) **Creative
 
 [Book Metadata dialog box](../User_Interface/Dialog_boxes/Book_Metadata_dialog_box.md)
 
-[Change picture metadata](../Tasks/Edit_tasks/Change_picture_metadata.md)
+[Change image metadata](../Tasks/Edit_tasks/Change_image_metadata.md)
 
 [Concepts overview](Concepts_overview.md)
 

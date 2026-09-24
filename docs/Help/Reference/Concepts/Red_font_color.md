@@ -34,4 +34,4 @@ Here is an example:
 
 [Concepts overview](Concepts_overview.md)
 
-[Resize a picture](../Tasks/Edit_tasks/Resize_a_picture.md)
+[Resize an image](../Tasks/Edit_tasks/Resize_an_image.md)

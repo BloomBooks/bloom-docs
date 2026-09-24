@@ -28,9 +28,9 @@ Click it and then click **View on BloomLibrary.org** to open the collection the
         
         -   **Do Checks of All Books**: It checks all the books in the collection. A pop-up window shows any problem identified. If you see problems, run **Do Updates of All Books**. If there are still problems, [get more help](../../Overview/Get_More_Help.md).
             
-        -   **Do Updates of All Books**: It updates all of the books to use the most-recent front/back matter. It compresses all of the pictures and updates the picture metadata.
+        -   **Do Updates of All Books**: It updates all of the books to use the most-recent front/back matter. It compresses all of the images and updates the image metadata.
             
-        -   **Rescue Missing Images**: It opens the **Browse For Folder** dialog box. Use it find pictures to replace any that are missing.
+        -   **Rescue Missing Images**: It opens the **Browse For Folder** dialog box. Use it find images to replace any that are missing.
             
 
 ### Thumbnail for a book, template or sample shell
@@ -62,9 +62,9 @@ This is a [Bloom Enterprise](../../Tasks/Edit_tasks/Enterprise/EnterpriseRequire
         
     -   **Save as Bloom Pack (.BloomPack)**: It makes a [Bloom pack](../../Concepts/Bloom_Pack.md).
         
-    -   **Update Thumbnail**: It updates the picture in the book's icon.
+    -   **Update Thumbnail**: It updates the image in the book's icon.
         
-    -   **Update Book**: It updates the front matter and back matter. It also compresses the pictures and updates their metadata.
+    -   **Update Book**: It updates the front matter and back matter. It also compresses the images and updates their metadata.
         
 
 Below **Books From BloomLibrary.org**:
