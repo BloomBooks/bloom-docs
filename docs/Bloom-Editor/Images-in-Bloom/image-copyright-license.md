@@ -1,6 +1,6 @@
 ---
 title: Image Copyright and License Information
-sidebar_position: 7
+sidebar_position: 11
 slug: /image-copyright-license
 ---
 
@@ -96,7 +96,7 @@ After filling out the Copyright information, Bloom presents a button which allow
 ![](./image-copyright-license.3e34bb19-df12-80f2-9f48-c90e6a04a046.png)
 
 
-### [Bloom 6.5 and later] Shortcuts {/* #3e34bb19df12801b8adcca886835dc60 */}
+### [Bloom 6.5 and later] Copyright and License Shortcuts {/* #3e34bb19df12801b8adcca886835dc60 */}
 
 
 Bloom will present a list of shortcuts to all of the unique Copyright and Licensing specifications used in the book. These shortcuts are a quick way to add Copyright and License information to new images:   
@@ -104,7 +104,8 @@ Bloom will present a list of shortcuts to all of the unique Copyright and Licens
 
 ![](./image-copyright-license.3e34bb19-df12-80f3-ac85-dc49b2f7fcff.png)
 
-1. Click on the shortcut
+1. Click on the shortcut you wish to apply.
+2. Click OK.
 
 ## Add Image Credits to Your Book’s Title Page {/* #f21c5a3809954b64b7cd34c7da5d880a */}
 

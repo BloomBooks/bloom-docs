@@ -1,6 +1,6 @@
 ---
 title: Motion Tool- Add Motion to your Images
-sidebar_position: 8
+sidebar_position: 12
 slug: /motion-tool
 ---
 

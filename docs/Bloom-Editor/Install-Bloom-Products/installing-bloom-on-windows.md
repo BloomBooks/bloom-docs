@@ -18,8 +18,8 @@ slug: /installing-bloom-on-windows
 Bloom is designed to run on fairly modest hardware. Your computer should have at least the following to run Bloom:
 
 - 1.5 Ghz processor
-- 4 GB memory (RAM)
-- 2 GB available hard disk space
+- 16 GB memory (RAM)
+- 10 GB available hard disk space
 - Bloom 6.3 and above require a 64-bit processor.
 
 ### Operating System {/* #3fcf15146bf34b8c82ff2a445247ddce */}
