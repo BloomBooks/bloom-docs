@@ -140,7 +140,7 @@ Team collections are an experimental feature. Be sure the `Team Collections` box
 ## Advanced Program Settings Tab {/* #be4f20d8ed584ed2bceb94d29da72ed7 */}
 
 
-The Advanced Program Settings has a variety of additional features. As of Bloom 6.0 the following advanced program settings are available: 
+The Advanced Program Settings has a variety of additional features. As of Bloom 6.4 the following advanced program settings are available: 
 
 - `Automatically Update Bloom`: check this have Bloom automatically download and install software updates.
 
@@ -152,20 +152,9 @@ The Advanced Program Settings has a variety of additional features. As of Bloom 
 	
 	
 
-- `Show Experimental Book Sources`: Some sources are marked as experimental: these are available to you, but they are known to have problems. Unchecking this box will hide them.
-- `Team Collections`: This box must be checked for a collection to be made into a team collection. Team Collections are a [Bloom Enterprise feature](/advanced-bloom-features#55c8baa318884dcf874c76f7e0dd9859).
-- `Spreadsheet Import/Export`:  This [Bloom Enterprise feature](/advanced-bloom-features#04fd63f5a0fa443bb635115674b580a2) allows text and images from a Bloom book to be exported to a spreadsheet, and re-imported into a Bloom book. This can be useful for making translations or for troubleshooting language encodings. For more details see [Spreadsheet Import and Export](/spreadsheet-import-export).
+- `QR Codes`: See [release notes](/release-notes-6-4#3594bb19df12807e8af4c1e00454481b).
+- `Team Collections`: This box must be checked for a collection to be made into a [Team Collection](/team-collections-intro). Team Collections are a [Bloom Enterprise feature](/advanced-bloom-features#55c8baa318884dcf874c76f7e0dd9859).
+- `App Builder`:  This [Bloom Enterprise feature](/advanced-bloom-features#04fd63f5a0fa443bb635115674b580a2) allows the creation of [Reading App Builder](https://software.sil.org/readingappbuilder/) apps, right from within Bloom! It adds a new option to the Publish tab.
 
-![](./collection-settings.2164bb19-df12-80e8-bf5b-f120c480be88.png)
-
-
-## Settings Protection {/* #422fb5b9640a47af9841db4a7b5758c6 */}
-
-
-At the bottom section of the Collection Settings window link to the `Settings Protection` dialog box. If you are supporting inexperienced users of Bloom, you may wish to hide the Settings dialog box to prevent them from making inappropriate changes to the collection settings. 
-
-- `Hide the button that opens settings`: Checking this box hides the button in the Collections toolbar that shows the Settings button. Hold down the `Ctrl` and `Shift` keys at the same time to show the button.
-- `Require the factory password to get into settings`: If this box is checked, you must enter the factory-set `b7loom` password to access the Settings dialog box.
-
-![](./collection-settings.0d26e334-4e84-4869-bbdd-c0b7120f4dbf.png)
+![](./collection-settings.3ec4bb19-df12-80d9-972a-d74b9710b539.png)
 

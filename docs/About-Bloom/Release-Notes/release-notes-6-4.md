@@ -107,7 +107,7 @@ In Bloom 6.3 we introduced “Bloom Apps”, which use book grids and links betw
 Subscription Tier: Pro and Above
 
 
-Once you enable it (Collection Settings / Advanced), the Publish tab now shows a tool for making Reading App Builder apps, right from within Bloom! At this point it can make an APK and put it on your phone. 
+Once you enable it (Collection Settings / Advanced), the Publish tab now shows a tool for making [Reading App Builder](https://software.sil.org/readingappbuilder/) apps, right from within Bloom! At this point it can make an APK and put it on your phone. 
 
 
 In future versions, we hope to give you a way to get the app all the way to the Play Store. If you would like to see us move forward with this experiment, please get in touch so that we can understand your needs.
