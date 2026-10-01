@@ -101,13 +101,13 @@ In Bloom 6.3 we introduced “Bloom Apps”, which use book grids and links betw
 - **Navigation links work on** [**BloomLibrary.org**](http://bloomlibrary.org/)**.** Books that contain navigation links to other books now work correctly when read on [BloomLibrary.org](http://bloomlibrary.org/), not just inside an app or BloomPUB Viewer.
 - **Re-use of GIFs and sounds.** Bloom Apps can grow large quickly, especially when many books share the same game animations and sound effects. Bloom now de-duplicates these assets across the books in an app, dramatically reducing app size.
 
-## App Builder Integration {/* #3594bb19df12803ebfd1dabd8ac2299e */}
+## **(Experimental)** App Builder Integration {/* #3594bb19df12803ebfd1dabd8ac2299e */}
 
 
 Subscription Tier: Pro and Above
 
 
-The Publish tab now shows a tool for making Reading App Builder apps, right from within Bloom! At this point it can make an APK and put it on your phone. 
+Once you enable it (Collection Settings / Advanced), the Publish tab now shows a tool for making Reading App Builder apps, right from within Bloom! At this point it can make an APK and put it on your phone. 
 
 
 In future versions, we hope to give you a way to get the app all the way to the Play Store. If you would like to see us move forward with this experiment, please get in touch so that we can understand your needs.
