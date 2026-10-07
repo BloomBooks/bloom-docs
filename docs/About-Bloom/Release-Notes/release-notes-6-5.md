@@ -13,7 +13,37 @@ keywords: [Release Notes]
 Subscription Tiers: Pro, Community, and Enterprise
 
 
-You can right-click on any image and choose “Edit with AI...”. This opens the new Bloom AI Image Editor, where you can upgrade or localize the images in your book, or create new ones. Bloom takes care of the book side of things: edited images keep their credits (copyright, creator, and license), and are processed on the way in just like any other imported image. Bloom provides the very latest image generators from Google and Open AI, but we can’t pay them for you. To use this tool, you’ll need to purchase credits (US $5 minimum).
+Bloom now lets you use AI to work with images.  You can upgrade or localize the images in your book, or create new ones. 
+
+
+![](./release-notes-6-5.3f24bb19-df12-8019-b608-d4dafaa8efdc.png)
+
+
+We currently offer 15 tools, starting with the simple “Improve Quality”:
+
+
+![](./release-notes-6-5.3f24bb19-df12-8003-b84a-e5d061e47929.png)
+
+
+With the Change Text tool, you can finally translate even fancy text on covers:
+
+
+![](./release-notes-6-5.3f24bb19-df12-804d-a8be-f1d1981d855e.png)
+
+
+When creating new images or editing old ones, Bloom offers a number of styles to choose from:
+
+
+![](./release-notes-6-5.3f24bb19-df12-8003-ac96-ce5e204dd34d.png)
+
+
+You can also provide “reference images” which can be photos or drawings from the local community. The image generate will use these to help make the people and things in your images look familiar.
+
+
+![](./release-notes-6-5.3f24bb19-df12-80e2-bc9f-f81c4cb98401.png)
+
+
+Edited images keep their credits (copyright, creator, and license). Bloom provides the very latest image generators from Google and Open AI, and they are very cheap at less than US $0.01 for new image, about US $0.06 for editing an image. However, we can’t pay this for you, so you’ll need to purchase credits through “Open Router”, our AI provider. There is a US $5 minimum.
 
 
 ## New Image Chooser {/* #36edf3a414c1446f9f2220d920cdc2e4 */}
