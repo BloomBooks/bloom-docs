@@ -40,7 +40,7 @@ When creating new images or editing old ones, Bloom offers a number of styles to
 You can also provide “reference images” which can be photos or drawings from the local community. The image generate will use these to help make the people and things in your images look familiar.
 
 
-![](./release-notes-6-5.3f24bb19-df12-80e2-bc9f-f81c4cb98401.png)
+![](./release-notes-6-5.3f24bb19-df12-8008-846a-da29ad3833ec.png)
 
 
 Edited images keep their credits (copyright, creator, and license). Bloom provides the very latest image generators from Google and Open AI, and they are very cheap at less than US $0.01 for new image, about US $0.06 for editing an image. However, we can’t pay this for you, so you’ll need to purchase credits through “Open Router”, our AI provider. There is a US $5 minimum.
