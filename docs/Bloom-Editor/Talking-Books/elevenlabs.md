@@ -7,9 +7,6 @@ keywords: [text to speech, TTS, AI voice, synthetic voice, narration]
 
 
 
-![](./elevenlabs.3f34bb19-df12-8175-a1c7-e39f04b90e0a.png)
-
-
 A talking book reads its text out loud while it shows the words. Usually a person records the audio in Bloom. Today, AI (artificial intelligence) tools can also read text out loud in a voice that sounds like a person. You can make the audio with one of these tools and then bring it into Bloom.
 
 
@@ -26,7 +23,7 @@ An AI voice can help when:
 - You have many books to make into talking books, and recording them all would take too long.
 - You often change the text. With an AI voice, you can make new audio in a few minutes.
 - You want to try out a talking book before a person records it.
-- You want a different kind of voice, such as a child's voice, or a different voice for each person in a story. ElevenLabs has many voices to choose from.
+- You want a **different kind of voice**, such as a child's voice, or a different voice for each person in a story.  ElevenLabs has many voices to choose from.
 
 ## When a Person Is Better {/* #3f34bb19df1281ea9a82f6083116a34a */}
 
@@ -37,12 +34,18 @@ A person is still the better choice when:
 - Children will learn how to say words from the book. A mistake in the audio teaches them the mistake.
 - The community wants to hear its own people in its books.
 
-## Check That ElevenLabs Supports Your Language {/* #3f34bb19df12815e86aae189cb1b37a9 */}
+## Using ElevenLabs to “voice” your text {/* #3f34bb19df128003acb6d2e127d19d77 */}
+
+
+![](./elevenlabs.3f34bb19-df12-8175-a1c7-e39f04b90e0a.png)
+
+
+### Check That ElevenLabs Supports Your Language {/* #3f34bb19df12815e86aae189cb1b37a9 */}
 
 
 ElevenLabs supports many of the world's large languages. Most Bloom books are in languages that ElevenLabs does not support yet. Before you start, check whether your language is on the list:
 
-- [ElevenLabs supported languages](https://elevenlabs.io/docs/overview/models#supported-languages)
+- [ElevenLabs supported languages](https://elevenlabs.io/docs/overview/models#supported-languages) (90+ languages as of October 2026)
 
 :::warning[Caution]
 
@@ -56,7 +59,7 @@ If your language is not on the list, ElevenLabs will not read your text correctl
 Even when your language is on the list, ask a speaker of the language to listen to the audio. Computer voices can say some words wrong.
 
 
-## Make the Audio in ElevenLabs {/* #3f34bb19df128124a293e7a44486990a */}
+### Make the Audio in ElevenLabs {/* #3f34bb19df128124a293e7a44486990a */}
 
 1. Go to [elevenlabs.io](https://elevenlabs.io/) and make an account.
 2. Open the text to speech page.
@@ -75,7 +78,7 @@ Read the ElevenLabs terms for your plan before you share or sell a book that use
 
 
 
-## Bring the Audio into Bloom {/* #3f34bb19df128141895dcd62168a2c85 */}
+### Bring the Audio into Bloom {/* #3f34bb19df128141895dcd62168a2c85 */}
 
 
 Bloom brings in a recording for a whole text box at a time.
